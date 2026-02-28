@@ -1,0 +1,1856 @@
+1
+00:00:00,080 --> 00:00:03,120
+Thanks to Hover for sponsoring this
+
+2
+00:00:01,600 --> 00:00:03,198
+video and supporting my channel. I talk
+
+3
+00:00:03,200 --> 00:00:06,720
+a lot about productivity apps in this
+
+4
+00:00:04,799 --> 00:00:08,160
+channel, but for the most part, the apps
+
+5
+00:00:06,719 --> 00:00:11,119
+that I cover tend to be the more
+
+6
+00:00:08,160 --> 00:00:12,719
+well-known ones, Notion, To-Doist. So,
+
+7
+00:00:11,119 --> 00:00:13,998
+today I want to flip the script a little
+
+8
+00:00:12,718 --> 00:00:16,079
+bit. Today, I'm going to be joined by my
+
+9
+00:00:14,000 --> 00:00:17,839
+friend Ali Abd Doll, who is a doctor, a
+
+10
+00:00:16,079 --> 00:00:19,518
+YouTuber, and a productivity expert in
+
+11
+00:00:17,839 --> 00:00:21,198
+his own right to talk about some of the
+
+12
+00:00:19,519 --> 00:00:23,118
+lesserk known productivity apps that
+
+13
+00:00:21,199 --> 00:00:25,519
+both of us use on a daily basis to
+
+14
+00:00:23,118 --> 00:00:27,518
+improve our respective workflows. Here
+
+15
+00:00:25,518 --> 00:00:29,758
+are six productivity apps that you
+
+16
+00:00:27,518 --> 00:00:30,639
+probably haven't heard of before. What's
+
+17
+00:00:29,760 --> 00:00:32,480
+up, Ollie?
+
+18
+00:00:30,640 --> 00:00:33,280
+Hey, man. I'm doing very well, thank
+
+19
+00:00:32,479 --> 00:00:35,679
+you. How are you?
+
+20
+00:00:33,280 --> 00:00:37,999
+Good. Doing well as well. So, what I
+
+21
+00:00:35,679 --> 00:00:40,877
+wanted to do today is give people a
+
+22
+00:00:38,000 --> 00:00:43,280
+glimpse into some of the more maybe
+
+23
+00:00:40,878 --> 00:00:44,798
+obscure productivity apps that we use,
+
+24
+00:00:43,280 --> 00:00:46,399
+maybe like little utilities, things that
+
+25
+00:00:44,799 --> 00:00:49,199
+just help us get things done a little
+
+26
+00:00:46,399 --> 00:00:51,360
+bit better, go that extra 10%. So, I
+
+27
+00:00:49,200 --> 00:00:52,398
+brought three and you brought three as
+
+28
+00:00:51,359 --> 00:00:53,839
+well, right?
+
+29
+00:00:52,399 --> 00:00:55,198
+Absolutely. The first one I want to
+
+30
+00:00:53,840 --> 00:00:57,199
+mention isn't really an app. It's
+
+31
+00:00:55,198 --> 00:01:00,159
+something that's built into every uh
+
+32
+00:00:57,198 --> 00:01:01,999
+Apple device. So, iOS, iPad OS, Mac OS.
+
+33
+00:01:00,159 --> 00:01:04,158
+Uh, and it's something that a lot of
+
+34
+00:01:02,000 --> 00:01:06,320
+people don't know about, and that is
+
+35
+00:01:04,159 --> 00:01:08,559
+keyboard replacement. So, if you go on
+
+36
+00:01:06,319 --> 00:01:09,839
+your system preferences on your Mac and
+
+37
+00:01:08,560 --> 00:01:10,320
+you hit keyboard
+
+38
+00:01:09,840 --> 00:01:12,960
+Mhm.
+
+39
+00:01:10,319 --> 00:01:15,519
+Uh, then under this text thing, what you
+
+40
+00:01:12,959 --> 00:01:17,758
+can actually do is create these like
+
+41
+00:01:15,519 --> 00:01:20,318
+little keyboard replacementy thingies
+
+42
+00:01:17,759 --> 00:01:22,079
+for whatever you want. So, often I'll
+
+43
+00:01:20,319 --> 00:01:23,999
+I'll get a question from people being
+
+44
+00:01:22,079 --> 00:01:27,359
+like, "Hey, how do you study for exams?"
+
+45
+00:01:24,000 --> 00:01:29,360
+And if I type in exclamation mark AR
+
+46
+00:01:27,359 --> 00:01:32,399
+across any of my devices, so iPhone,
+
+47
+00:01:29,359 --> 00:01:33,918
+iPad, Mac, it will replace it with how
+
+48
+00:01:32,400 --> 00:01:35,920
+to study for exams, evidence-based
+
+49
+00:01:33,920 --> 00:01:38,400
+revision tips, and a link to my YouTube
+
+50
+00:01:35,920 --> 00:01:40,559
+video. If I type in exclamation desk
+
+51
+00:01:38,400 --> 00:01:42,959
+setup across any device, it will say my
+
+52
+00:01:40,560 --> 00:01:45,199
+productivity desk setup 2019 or 2020 and
+
+53
+00:01:42,959 --> 00:01:47,199
+and a link to the video. Basically, any
+
+54
+00:01:45,200 --> 00:01:49,119
+important thing that I find myself
+
+55
+00:01:47,200 --> 00:01:50,478
+typing out more than once, I will turn
+
+56
+00:01:49,118 --> 00:01:51,919
+into one of these keyboard replacement
+
+57
+00:01:50,478 --> 00:01:53,118
+thingies and it will just be synced
+
+58
+00:01:51,920 --> 00:01:54,319
+across all my devices. And I think
+
+59
+00:01:53,118 --> 00:01:55,758
+that's completely magical and I think
+
+60
+00:01:54,319 --> 00:01:58,718
+more people should do this. In fact, if
+
+61
+00:01:55,759 --> 00:01:59,759
+I show you my iPhone screen. So on my on
+
+62
+00:01:58,718 --> 00:02:02,958
+my iPhone, I'm going to go into
+
+63
+00:01:59,759 --> 00:02:06,799
+settings. Uh, and it's got text
+
+64
+00:02:02,959 --> 00:02:08,798
+replacement and you'll see it's got all
+
+65
+00:02:06,799 --> 00:02:11,119
+of the same ones and it's synced across
+
+66
+00:02:08,800 --> 00:02:12,159
+my Mac and across my iPhone. So, okay.
+
+67
+00:02:11,120 --> 00:02:13,999
+So, the first app that I'm going to
+
+68
+00:02:12,159 --> 00:02:15,998
+share is not actually a a Windows
+
+69
+00:02:14,000 --> 00:02:18,238
+specific app. It's a Chrome extension.
+
+70
+00:02:16,000 --> 00:02:20,238
+Uh, so I don't know about you, but I am
+
+71
+00:02:18,239 --> 00:02:22,159
+absolutely terrible with tabs. I'll just
+
+72
+00:02:20,239 --> 00:02:24,399
+have like a million tabs open.
+
+73
+00:02:22,159 --> 00:02:26,798
+And then I go like to shut my computer
+
+74
+00:02:24,400 --> 00:02:29,199
+down at the end of the night, but I want
+
+75
+00:02:26,800 --> 00:02:30,719
+a lot of these tabs. Like I want to know
+
+76
+00:02:29,199 --> 00:02:33,439
+what they were at least. So there's a
+
+77
+00:02:30,719 --> 00:02:35,278
+little extension called tab copy. And
+
+78
+00:02:33,439 --> 00:02:38,399
+you can just click this little button
+
+79
+00:02:35,280 --> 00:02:40,560
+here and copy the URLs to all of your
+
+80
+00:02:38,400 --> 00:02:42,080
+open tabs. And you can choose to have
+
+81
+00:02:40,560 --> 00:02:43,999
+like expanded where it'll have the the
+
+82
+00:02:42,080 --> 00:02:46,160
+title and the metad description. Compact
+
+83
+00:02:44,000 --> 00:02:48,160
+is just the title or just the link. So
+
+84
+00:02:46,159 --> 00:02:50,958
+I'll copy all the tabs. And then I can
+
+85
+00:02:48,159 --> 00:02:53,199
+just open up Notion and I can go to my
+
+86
+00:02:50,959 --> 00:02:54,318
+little dashboard or my note-taking
+
+87
+00:02:53,199 --> 00:02:56,399
+system. I'm just going to put them in my
+
+88
+00:02:54,318 --> 00:02:59,359
+little daily tasks scratchpad here. But
+
+89
+00:02:56,400 --> 00:03:00,400
+just boom, every URL that I had open is
+
+90
+00:02:59,360 --> 00:03:03,040
+now here. Wow.
+
+91
+00:03:00,400 --> 00:03:05,279
+So I can finally close down my browser
+
+92
+00:03:03,039 --> 00:03:07,199
+at the end of the night but not lose
+
+93
+00:03:05,280 --> 00:03:08,559
+anything cuz I know it's it's been
+
+94
+00:03:07,199 --> 00:03:11,279
+tracked here in notion.
+
+95
+00:03:08,560 --> 00:03:13,439
+Have you ever needed to use this to
+
+96
+00:03:11,280 --> 00:03:14,480
+resurface old tabs or is it more like a
+
+97
+00:03:13,439 --> 00:03:15,679
+security blanket?
+
+98
+00:03:14,479 --> 00:03:17,918
+Absolutely. I use it all the time.
+
+99
+00:03:15,680 --> 00:03:20,239
+Actually, I'll show you for the the
+
+100
+00:03:17,919 --> 00:03:22,558
+course that I'm building. These are all
+
+101
+00:03:20,239 --> 00:03:25,439
+of the links that I have saved from my
+
+102
+00:03:22,560 --> 00:03:27,840
+browser just for like plugins for
+
+103
+00:03:25,439 --> 00:03:30,719
+shopping carts or Cloudflare
+
+104
+00:03:27,840 --> 00:03:33,120
+optimizations or all kinds of stuff.
+
+105
+00:03:30,719 --> 00:03:34,558
+Like, this is a project that's ongoing,
+
+106
+00:03:33,120 --> 00:03:37,120
+so I'll work on it a little bit every
+
+107
+00:03:34,560 --> 00:03:39,279
+day, but I don't want to lose this stuff
+
+108
+00:03:37,120 --> 00:03:40,959
+before I'm done using it. As long as I
+
+109
+00:03:39,280 --> 00:03:42,799
+have the URLs, I'm good to go.
+
+110
+00:03:40,959 --> 00:03:44,238
+All right. Next, we have an amazing Mac
+
+111
+00:03:42,799 --> 00:03:45,519
+app. And this is one of the most
+
+112
+00:03:44,239 --> 00:03:47,040
+powerful things about a Mac which is
+
+113
+00:03:45,519 --> 00:03:48,399
+unfortunately not quite built into the
+
+114
+00:03:47,039 --> 00:03:50,317
+operating system. And this is an app
+
+115
+00:03:48,400 --> 00:03:51,839
+called Alfred. Uh and the cool thing
+
+116
+00:03:50,318 --> 00:03:55,439
+thing about Alfred is you press command
+
+117
+00:03:51,840 --> 00:03:57,519
+and space and then it brings up this box
+
+118
+00:03:55,439 --> 00:03:59,358
+that essentially lets you type anything.
+
+119
+00:03:57,519 --> 00:04:00,958
+The Windows equivalent it is it's sort
+
+120
+00:03:59,360 --> 00:04:02,319
+of like hitting the Windows logo key.
+
+121
+00:04:00,959 --> 00:04:03,919
+And on Mac it's sort of like using
+
+122
+00:04:02,318 --> 00:04:05,758
+Spotlight search, but Alfred is just a
+
+123
+00:04:03,919 --> 00:04:07,758
+lot a lot more powerful than the default
+
+124
+00:04:05,759 --> 00:04:08,957
+built-in options. So there's there's
+
+125
+00:04:07,759 --> 00:04:10,878
+lots of things you can do with Alfred,
+
+126
+00:04:08,959 --> 00:04:12,560
+but uh the simple ones is you can use it
+
+127
+00:04:10,878 --> 00:04:14,398
+to open any kind of app. So let's say I
+
+128
+00:04:12,560 --> 00:04:17,840
+want to open Chrome. I would hit command
+
+129
+00:04:14,400 --> 00:04:20,959
+spacebar and I would just type in Cro
+
+130
+00:04:17,839 --> 00:04:22,319
+and I'd hit enter and Chrome will open.
+
+131
+00:04:20,959 --> 00:04:23,919
+My whole philosophy around this and I'm
+
+132
+00:04:22,319 --> 00:04:26,878
+I'm sure you feel the same way is that
+
+133
+00:04:23,918 --> 00:04:28,559
+when it comes to productivity like it's
+
+134
+00:04:26,879 --> 00:04:30,399
+you know on on a macro level it's
+
+135
+00:04:28,560 --> 00:04:31,680
+important to do the right things and
+
+136
+00:04:30,399 --> 00:04:33,599
+then do those things right. But then on
+
+137
+00:04:31,680 --> 00:04:36,080
+a very micro level if you can just shave
+
+138
+00:04:33,600 --> 00:04:37,1000
+off milliseconds off any any interaction
+
+139
+00:04:36,079 --> 00:04:39,198
+that you have with a computer that is
+
+140
+00:04:38,000 --> 00:04:41,758
+really going to add up over the long
+
+141
+00:04:39,199 --> 00:04:43,519
+term. And so normally if I want to open
+
+142
+00:04:41,759 --> 00:04:45,120
+Chrome, it would take me at least 2
+
+143
+00:04:43,519 --> 00:04:47,039
+seconds to go all the way across my
+
+144
+00:04:45,120 --> 00:04:48,959
+ultrawide monitor and click on it.
+
+145
+00:04:47,040 --> 00:04:51,120
+Whereas with Alfred,
+
+146
+00:04:48,959 --> 00:04:51,599
+it's sort of done in less than half a
+
+147
+00:04:51,120 --> 00:04:52,638
+second.
+
+148
+00:04:51,600 --> 00:04:53,918
+And there's there's like a lot more you
+
+149
+00:04:52,639 --> 00:04:55,039
+can do with Alfred, right? Like it's not
+
+150
+00:04:53,918 --> 00:04:56,638
+just launching apps. You could like
+
+151
+00:04:55,040 --> 00:04:58,319
+actually do a Google search or open a
+
+152
+00:04:56,639 --> 00:05:00,159
+website pretty instantly, right?
+
+153
+00:04:58,319 --> 00:05:01,839
+Yeah. And that's what I that's what I
+
+154
+00:05:00,160 --> 00:05:03,120
+like about it compared to just usual Max
+
+155
+00:05:01,839 --> 00:05:04,399
+Spotlight. Max Spotlight lets you open
+
+156
+00:05:03,120 --> 00:05:05,680
+apps. It's reasonable. But let's say I
+
+157
+00:05:04,399 --> 00:05:08,399
+want to search something on Google.
+
+158
+00:05:05,680 --> 00:05:09,680
+Mhm. I can just type in whatever I want
+
+159
+00:05:08,399 --> 00:05:11,278
+and hit enter and it will just
+
+160
+00:05:09,680 --> 00:05:12,720
+automatically realize that I'm trying to
+
+161
+00:05:11,279 --> 00:05:15,519
+search Google. If I want to search
+
+162
+00:05:12,720 --> 00:05:18,399
+Amazon, I type in AMA tab and then I can
+
+163
+00:05:15,519 --> 00:05:21,038
+search Amazon for whatever. So, it's
+
+164
+00:05:18,399 --> 00:05:22,238
+kind of like my home base for anything I
+
+165
+00:05:21,038 --> 00:05:24,477
+want to do in the computer. If I want to
+
+166
+00:05:22,240 --> 00:05:26,478
+open a file, I press spacebar and then I
+
+167
+00:05:24,478 --> 00:05:28,478
+can open any kind of file. So, if I know
+
+168
+00:05:26,478 --> 00:05:30,878
+what like a title for a video is called,
+
+169
+00:05:28,478 --> 00:05:33,197
+I can just type it in and then it'll I
+
+170
+00:05:30,879 --> 00:05:35,359
+can open it in downloads or I can open
+
+171
+00:05:33,199 --> 00:05:36,719
+the file directly or whatever. The other
+
+172
+00:05:35,360 --> 00:05:39,279
+the the other really cool thing is that
+
+173
+00:05:36,720 --> 00:05:41,359
+it's got these custom workflows that you
+
+174
+00:05:39,279 --> 00:05:42,879
+can put into Alfred.
+
+175
+00:05:41,360 --> 00:05:44,560
+So the one that I use
+
+176
+00:05:42,879 --> 00:05:45,918
+Yeah. So the one I use is an integration
+
+177
+00:05:44,560 --> 00:05:47,439
+with Fantastical. Okay.
+
+178
+00:05:45,918 --> 00:05:49,999
+So Fantastical Calal is my calendar app
+
+179
+00:05:47,439 --> 00:05:55,679
+and you can just type in Cal. So meeting
+
+180
+00:05:50,000 --> 00:05:58,000
+tomorrow at 2:00 p.m. in Oxford. Uh and
+
+181
+00:05:55,680 --> 00:06:00,319
+it will natural language processing that
+
+182
+00:05:58,000 --> 00:06:02,080
+and automatically say see it's it's
+
+183
+00:06:00,319 --> 00:06:03,359
+added the location, it's added meeting,
+
+184
+00:06:02,079 --> 00:06:05,838
+it's added the time.
+
+185
+00:06:03,360 --> 00:06:08,239
+That's awesome. And so this makes it
+
+186
+00:06:05,839 --> 00:06:09,999
+super easy to input calendar events uh
+
+187
+00:06:08,240 --> 00:06:11,038
+as soon as like you know I find out
+
+188
+00:06:10,000 --> 00:06:12,399
+about them. The other really cool thing
+
+189
+00:06:11,038 --> 00:06:13,758
+about Alfred is the the clipboard
+
+190
+00:06:12,399 --> 00:06:15,758
+saving. I don't know if you use this.
+
+191
+00:06:13,759 --> 00:06:16,239
+Yes, I use the crap out of the clipboard
+
+192
+00:06:15,759 --> 00:06:17,279
+saver.
+
+193
+00:06:16,240 --> 00:06:18,478
+Yeah, it's so helpful because like how
+
+194
+00:06:17,279 --> 00:06:19,758
+many times have you sort of copied
+
+195
+00:06:18,478 --> 00:06:21,119
+something and then overwritten it by
+
+196
+00:06:19,759 --> 00:06:22,638
+copying something else, but this gives
+
+197
+00:06:21,120 --> 00:06:23,280
+you unlimited basically keyboard
+
+198
+00:06:22,639 --> 00:06:23,600
+history.
+
+199
+00:06:23,279 --> 00:06:24,799
+Yeah.
+
+200
+00:06:23,600 --> 00:06:26,240
+Um it's quite handy.
+
+201
+00:06:24,800 --> 00:06:28,239
+So the app that I want to talk about is
+
+202
+00:06:26,240 --> 00:06:29,918
+actually one that is not exclusive to
+
+203
+00:06:28,240 --> 00:06:31,599
+Windows. It is on both Mac OS and
+
+204
+00:06:29,918 --> 00:06:33,599
+Windows. So anybody using it or anybody
+
+205
+00:06:31,600 --> 00:06:36,800
+on any OS can use it. Uh, it's called
+
+206
+00:06:33,600 --> 00:06:39,199
+Loom. So, I take a lot of screenshots
+
+207
+00:06:36,800 --> 00:06:41,199
+and a lot of screencasts to essentially
+
+208
+00:06:39,199 --> 00:06:43,840
+document what I'm doing, but Loom lets
+
+209
+00:06:41,199 --> 00:06:46,319
+you quickly record your screen and then
+
+210
+00:06:43,839 --> 00:06:49,037
+instantly gives you a link you can copy
+
+211
+00:06:46,319 --> 00:06:50,960
+and paste to share with somebody. Um, so
+
+212
+00:06:49,038 --> 00:06:53,599
+I use the crap out of this because it
+
+213
+00:06:50,959 --> 00:06:56,318
+has a notion integration. So, we have a
+
+214
+00:06:53,600 --> 00:06:58,239
+knowledge base in our notion workspace
+
+215
+00:06:56,319 --> 00:06:59,919
+and anytime I want to document a process
+
+216
+00:06:58,240 --> 00:07:01,918
+really quickly for somebody on my team,
+
+217
+00:06:59,918 --> 00:07:05,118
+I can create a page for it and then I
+
+218
+00:07:01,918 --> 00:07:07,519
+will just do whatever I need to do uh in
+
+219
+00:07:05,120 --> 00:07:09,039
+a Loom recording and once I'm done, it
+
+220
+00:07:07,519 --> 00:07:11,519
+immediately copies your to my clipboard
+
+221
+00:07:09,038 --> 00:07:13,198
+and I can paste it right here into a
+
+222
+00:07:11,519 --> 00:07:14,478
+notion page. Damn, that's really
+
+223
+00:07:13,199 --> 00:07:15,919
+helpful. I should do this a lot more for
+
+224
+00:07:14,478 --> 00:07:17,119
+team documentation because I I don't
+
+225
+00:07:15,918 --> 00:07:18,398
+document anything right now and I know
+
+226
+00:07:17,120 --> 00:07:20,160
+it's really bad and every time I do
+
+227
+00:07:18,399 --> 00:07:21,597
+something I think, oh, I wish I'd
+
+228
+00:07:20,160 --> 00:07:23,360
+recorded a loom right now. But
+
+229
+00:07:21,598 --> 00:07:24,879
+yeah, yeah, it's pretty helpful.
+
+230
+00:07:23,360 --> 00:07:26,638
+All right, so the final app I want to
+
+231
+00:07:24,879 --> 00:07:28,478
+talk about is a podcast app which is
+
+232
+00:07:26,639 --> 00:07:30,400
+unfortunately available for iOS only.
+
+233
+00:07:28,478 --> 00:07:33,037
+Uh, sorry Android heathens out there.
+
+234
+00:07:30,399 --> 00:07:35,198
+Uh, and that is called Air. Uh, AI RR.
+
+235
+00:07:33,038 --> 00:07:38,318
+Now, Air is amazing because Air is a
+
+236
+00:07:35,199 --> 00:07:41,519
+podcast app that lets you save the best
+
+237
+00:07:38,319 --> 00:07:43,759
+moments from podcasts and they call them
+
+238
+00:07:41,519 --> 00:07:45,358
+air quotes. So, the idea is that let's
+
+239
+00:07:43,759 --> 00:07:47,360
+say you're listening to an episode of
+
+240
+00:07:45,360 --> 00:07:48,799
+the Knowledge Project where Derek Civers
+
+241
+00:07:47,360 --> 00:07:50,799
+uh is being interviewed. cuz obviously
+
+242
+00:07:48,800 --> 00:07:52,400
+I'm listening to this at 2x speed and
+
+243
+00:07:50,800 --> 00:07:54,559
+anytime I come across something where I
+
+244
+00:07:52,399 --> 00:07:55,918
+think, "Oh, this is a really interesting
+
+245
+00:07:54,560 --> 00:07:58,638
+uh sort of insight or an interesting
+
+246
+00:07:55,918 --> 00:08:00,799
+viewpoint. I can hit the air quote
+
+247
+00:07:58,639 --> 00:08:03,440
+button and it will save the last 30
+
+248
+00:08:00,800 --> 00:08:04,800
+seconds of what I just heard." And for
+
+249
+00:08:03,439 --> 00:08:06,159
+most of these kind of big podcasts,
+
+250
+00:08:04,800 --> 00:08:08,400
+they've got transcripts available for
+
+251
+00:08:06,160 --> 00:08:10,560
+them. So, it will automatically
+
+252
+00:08:08,399 --> 00:08:12,719
+transcribe and and figure out what Derek
+
+253
+00:08:10,560 --> 00:08:14,240
+was saying. And therefore, I've got a
+
+254
+00:08:12,720 --> 00:08:15,759
+written record of the bits from the
+
+255
+00:08:14,240 --> 00:08:18,079
+podcast that I want to save. And so,
+
+256
+00:08:15,759 --> 00:08:20,879
+right now, I can title it. So Derek uh
+
+257
+00:08:18,079 --> 00:08:23,197
+thoughts on happiness or whatever it was
+
+258
+00:08:20,879 --> 00:08:26,478
+that he's talking about. I hit done and
+
+259
+00:08:23,199 --> 00:08:27,1000
+now whenever I want I can look at my air
+
+260
+00:08:26,478 --> 00:08:29,438
+quotes and I can see this library of
+
+261
+00:08:28,000 --> 00:08:31,279
+quotes that I've saved from various
+
+262
+00:08:29,439 --> 00:08:32,878
+different podcasts. So you can see I'm a
+
+263
+00:08:31,279 --> 00:08:34,398
+big fan of the Tim Ferrris show and I've
+
+264
+00:08:32,879 --> 00:08:36,798
+got tons and tons of quotes saved from
+
+265
+00:08:34,399 --> 00:08:39,278
+Naval Rabbit, another one from Esther
+
+266
+00:08:36,799 --> 00:08:41,037
+Prell, loads from Seth Goden, loads from
+
+267
+00:08:39,278 --> 00:08:43,359
+Derek Civers. The other really cool
+
+268
+00:08:41,038 --> 00:08:44,719
+thing about this is that this actually
+
+269
+00:08:43,360 --> 00:08:47,360
+integrates with another app called
+
+270
+00:08:44,720 --> 00:08:49,359
+Readwise. Um, which is what I use to
+
+271
+00:08:47,360 --> 00:08:50,880
+help resurface my highlights from Kindle
+
+272
+00:08:49,360 --> 00:08:51,839
+and from Insta Paper and from Twitter.
+
+273
+00:08:50,879 --> 00:08:53,999
+But the really cool thing is that
+
+274
+00:08:51,839 --> 00:08:56,398
+Readwise has an integration with Notion
+
+275
+00:08:54,000 --> 00:08:58,958
+where anytime I make any Kindle
+
+276
+00:08:56,399 --> 00:09:00,639
+highlights, so I've got 116 of those, it
+
+277
+00:08:58,958 --> 00:09:02,639
+will automatically import into this
+
+278
+00:09:00,639 --> 00:09:04,239
+really nice libraries thing in Notion
+
+279
+00:09:02,639 --> 00:09:05,918
+where I can see all my books.
+
+280
+00:09:04,240 --> 00:09:07,599
+So all of your highlights, they they go
+
+281
+00:09:05,919 --> 00:09:09,278
+into the correct book row.
+
+282
+00:09:07,600 --> 00:09:11,359
+Abs. Absolutely. So let's see. Let's
+
+283
+00:09:09,278 --> 00:09:13,359
+perennial celebrate by Ryan Holiday. And
+
+284
+00:09:11,360 --> 00:09:15,360
+here are highlights that I made like a
+
+285
+00:09:13,360 --> 00:09:15,920
+few days ago while I was reading the
+
+286
+00:09:15,360 --> 00:09:18,399
+book.
+
+287
+00:09:15,919 --> 00:09:20,239
+It's really awesome. And more relevant
+
+288
+00:09:18,399 --> 00:09:21,919
+to us, it also works for podcasts. So
+
+289
+00:09:20,240 --> 00:09:24,560
+here is this episode of the Tim F Show
+
+290
+00:09:21,919 --> 00:09:26,319
+with Seth Goden. And these are all of
+
+291
+00:09:24,559 --> 00:09:28,159
+the times where I pressed the air quote
+
+292
+00:09:26,320 --> 00:09:29,759
+button while listening to this episode.
+
+293
+00:09:28,159 --> 00:09:31,359
+And now if I want to revisit this stuff,
+
+294
+00:09:29,759 --> 00:09:32,799
+whether I'm making a video or an email
+
+295
+00:09:31,360 --> 00:09:34,639
+newsletter or even just to revisit stuff
+
+296
+00:09:32,799 --> 00:09:37,039
+that I found meaningful in the past,
+
+297
+00:09:34,639 --> 00:09:39,278
+I can read the transcript and it will
+
+298
+00:09:37,039 --> 00:09:41,518
+give me a timestamp which will take me
+
+299
+00:09:39,278 --> 00:09:43,359
+to the air quote where I can listen.
+
+300
+00:09:41,519 --> 00:09:45,360
+Okay, so for my last one, we're going to
+
+301
+00:09:43,360 --> 00:09:46,399
+go a little bit back to a concept you
+
+302
+00:09:45,360 --> 00:09:47,1000
+had talked about at the beginning of
+
+303
+00:09:46,399 --> 00:09:50,080
+this video, which was the whole text
+
+304
+00:09:48,000 --> 00:09:51,680
+snippet replacement. On Windows, there
+
+305
+00:09:50,080 --> 00:09:54,398
+are many apps that can do this, but the
+
+306
+00:09:51,679 --> 00:09:56,799
+one that I use is called Auto Hotkey.
+
+307
+00:09:54,399 --> 00:09:59,919
+And essentially, you can write out
+
+308
+00:09:56,799 --> 00:10:01,598
+scripts that will let you define
+
+309
+00:09:59,919 --> 00:10:03,678
+keyboard shortcuts to do almost
+
+310
+00:10:01,600 --> 00:10:05,359
+anything. And I honestly have only just
+
+311
+00:10:03,679 --> 00:10:07,679
+barely scratched the surface. So, I've
+
+312
+00:10:05,360 --> 00:10:09,199
+got a demo script here, and all of these
+
+313
+00:10:07,679 --> 00:10:11,598
+are little scripts that will do specific
+
+314
+00:10:09,200 --> 00:10:13,600
+things. So, these are some of my
+
+315
+00:10:11,600 --> 00:10:16,079
+keyboard snippets here. I've uh
+
+316
+00:10:13,600 --> 00:10:18,159
+anonymized some of the addresses. But if
+
+317
+00:10:16,078 --> 00:10:19,919
+I'm filling out a form or if I'm maybe
+
+318
+00:10:18,159 --> 00:10:22,958
+talking to somebody in Slack, I can just
+
+319
+00:10:19,919 --> 00:10:25,119
+put like h a r hit space and it will
+
+320
+00:10:22,958 --> 00:10:26,799
+automatically expand to have that
+
+321
+00:10:25,120 --> 00:10:28,160
+address in there. Or if I'm going
+
+322
+00:10:26,799 --> 00:10:30,638
+through and like one of these is
+
+323
+00:10:28,159 --> 00:10:32,239
+affiliate commissions. Um I have to type
+
+324
+00:10:30,639 --> 00:10:34,478
+this a million times every time I'm
+
+325
+00:10:32,240 --> 00:10:36,640
+doing my bookkeeping in zero. So I can
+
+326
+00:10:34,480 --> 00:10:39,199
+just put AC1 space affiliate
+
+327
+00:10:36,639 --> 00:10:41,759
+commissions. And that is probably the
+
+328
+00:10:39,200 --> 00:10:42,958
+simplest thing you can do. Uh this one's
+
+329
+00:10:41,759 --> 00:10:45,439
+fun. So these is these are some
+
+330
+00:10:42,958 --> 00:10:48,158
+clipboard replacement scripts. So like I
+
+331
+00:10:45,440 --> 00:10:50,720
+said earlier with notion, if I want to
+
+332
+00:10:48,159 --> 00:10:52,639
+share a link to a notion page, if I
+
+333
+00:10:50,720 --> 00:10:54,398
+click this and I copy the link and I
+
+334
+00:10:52,639 --> 00:10:56,799
+want to share it in Slack, by default
+
+335
+00:10:54,399 --> 00:10:59,040
+it's going to be this HTTPS version. If
+
+336
+00:10:56,799 --> 00:11:01,039
+I click that, it opens in my browser
+
+337
+00:10:59,039 --> 00:11:04,398
+where I don't want it. I could edit this
+
+338
+00:11:01,039 --> 00:11:06,878
+to have the notion slash thing, but it's
+
+339
+00:11:04,399 --> 00:11:09,679
+on my clipboard. So if I just hit Ctrl
+
+340
+00:11:06,879 --> 00:11:12,798
+AltV which is the keyboard shortcut I
+
+341
+00:11:09,679 --> 00:11:15,198
+have defined here with uh these symbols.
+
+342
+00:11:12,799 --> 00:11:17,598
+So this means control this means alt and
+
+343
+00:11:15,200 --> 00:11:20,320
+then v then it's automatically that
+
+344
+00:11:17,600 --> 00:11:22,640
+notion version link and it will open up
+
+345
+00:11:20,320 --> 00:11:25,360
+in my desktop app. And then the last
+
+346
+00:11:22,639 --> 00:11:28,957
+thing that I've done here is I want a
+
+347
+00:11:25,360 --> 00:11:31,278
+way to very quickly open folders that I
+
+348
+00:11:28,958 --> 00:11:33,517
+use all the time. So this is like my uh
+
+349
+00:11:31,278 --> 00:11:35,678
+main YouTube folder. This is the Google
+
+350
+00:11:33,519 --> 00:11:38,640
+Drive folder with all of the thumbnails
+
+351
+00:11:35,679 --> 00:11:40,078
+so I can access it if I'm traveling. And
+
+352
+00:11:38,639 --> 00:11:42,159
+these are just opening instantly when
+
+353
+00:11:40,078 --> 00:11:44,238
+I'm hitting a hotkey. So what I've done
+
+354
+00:11:42,159 --> 00:11:46,958
+is defined a series of keyboard
+
+355
+00:11:44,240 --> 00:11:49,440
+shortcuts. So this is controlalttshift4
+
+356
+00:11:46,958 --> 00:11:51,679
+that opens a specific file path. But I
+
+357
+00:11:49,440 --> 00:11:53,440
+don't want to hit controlalttshift 4 cuz
+
+358
+00:11:51,679 --> 00:11:55,999
+it's a really weird awkward hand
+
+359
+00:11:53,440 --> 00:11:57,518
+position. So I've got a Corsair K95
+
+360
+00:11:56,000 --> 00:12:00,000
+keyboard and that comes with this
+
+361
+00:11:57,519 --> 00:12:02,480
+Corsair software and I have multiple
+
+362
+00:12:00,000 --> 00:12:06,559
+profiles on here. So this one is called
+
+363
+00:12:02,480 --> 00:12:08,800
+every day and I've got actions defined.
+
+364
+00:12:06,559 --> 00:12:10,879
+So these are just macros of me hitting
+
+365
+00:12:08,799 --> 00:12:14,558
+this short code or this key. So control
+
+366
+00:12:10,879 --> 00:12:16,957
+shift alt7 for example uh is recorded
+
+367
+00:12:14,559 --> 00:12:18,958
+here and then it's just bound to one of
+
+368
+00:12:16,958 --> 00:12:20,478
+these G keys on the side. Well thanks
+
+369
+00:12:18,958 --> 00:12:22,078
+for joining me Ollie. Uh if people want
+
+370
+00:12:20,480 --> 00:12:23,839
+to find you, where should they go?
+
+371
+00:12:22,078 --> 00:12:25,038
+Thank you very much for having me. Um my
+
+372
+00:12:23,839 --> 00:12:26,719
+YouTube channel will be linked in the
+
+373
+00:12:25,039 --> 00:12:28,478
+video description, I'm sure. Uh and
+
+374
+00:12:26,720 --> 00:12:29,999
+yeah, you can check out my stuff there.
+
+375
+00:12:28,480 --> 00:12:31,1000
+Thanks for having me. It's a it's a real
+
+376
+00:12:30,000 --> 00:12:33,278
+honor. Absolutely. Now, before we wrap
+
+377
+00:12:32,000 --> 00:12:34,799
+this video up, I want to clue you in on
+
+378
+00:12:33,278 --> 00:12:36,718
+a couple more resources that you might
+
+379
+00:12:34,799 --> 00:12:39,119
+not know about if you tend to watch Ali
+
+380
+00:12:36,720 --> 00:12:41,680
+and myself here on YouTube exclusively,
+
+381
+00:12:39,120 --> 00:12:43,600
+which are our respective websites. Both
+
+382
+00:12:41,679 --> 00:12:45,598
+Ali and I have personal websites where
+
+383
+00:12:43,600 --> 00:12:47,1000
+we create content and also let the world
+
+384
+00:12:45,600 --> 00:12:50,239
+know about ourselves. And I don't know
+
+385
+00:12:48,000 --> 00:12:53,120
+about Ali, but personally, I view my
+
+386
+00:12:50,240 --> 00:12:54,799
+personal website as my online home base.
+
+387
+00:12:53,120 --> 00:12:57,039
+My biggest audience exists here on
+
+388
+00:12:54,799 --> 00:12:58,799
+YouTube. Yes, but at any time YouTube
+
+389
+00:12:57,039 --> 00:12:59,918
+could go away or it could change in a
+
+390
+00:12:58,799 --> 00:13:01,598
+way that I don't like or that's
+
+391
+00:12:59,919 --> 00:13:03,358
+disadvantageous to me. And with my
+
+392
+00:13:01,600 --> 00:13:05,278
+personal website, that's not really a
+
+393
+00:13:03,360 --> 00:13:08,320
+threat because it's a platform that I
+
+394
+00:13:05,278 --> 00:13:10,077
+control 100%. I can do whatever I want
+
+395
+00:13:08,320 --> 00:13:12,320
+with it. And I can make it the sort of
+
+396
+00:13:10,078 --> 00:13:13,837
+home base for all my online operations.
+
+397
+00:13:12,320 --> 00:13:15,199
+And for that reason, and for other
+
+398
+00:13:13,839 --> 00:13:17,040
+reasons as well, I think it's a great
+
+399
+00:13:15,200 --> 00:13:19,039
+idea to start thinking about building a
+
+400
+00:13:17,039 --> 00:13:20,878
+personal website for yourself if you
+
+401
+00:13:19,039 --> 00:13:22,398
+haven't done so already. And of course,
+
+402
+00:13:20,879 --> 00:13:24,398
+the first step to getting started along
+
+403
+00:13:22,399 --> 00:13:25,600
+this path is to get yourself a domain
+
+404
+00:13:24,399 --> 00:13:27,200
+name such as mine, which is
+
+405
+00:13:25,600 --> 00:13:28,800
+thomasjfrank.com.
+
+406
+00:13:27,200 --> 00:13:30,720
+I was born a little bit too late to snag
+
+407
+00:13:28,799 --> 00:13:32,558
+thomasfrank.com, but I was at least able
+
+408
+00:13:30,720 --> 00:13:34,159
+to get the one with my middle initial.
+
+409
+00:13:32,559 --> 00:13:35,837
+But that's the thing about domain names.
+
+410
+00:13:34,159 --> 00:13:38,078
+Once somebody grabs it, if they don't
+
+411
+00:13:35,839 --> 00:13:39,519
+let it expire, that's kind of taken and
+
+412
+00:13:38,078 --> 00:13:41,598
+you can't get it. Which is why you want
+
+413
+00:13:39,519 --> 00:13:43,039
+to get your domain name as quickly as
+
+414
+00:13:41,600 --> 00:13:44,800
+possible. Even if you're not ready to
+
+415
+00:13:43,039 --> 00:13:47,039
+start building that website, get that
+
+416
+00:13:44,799 --> 00:13:49,199
+domain name locked down and go over to
+
+417
+00:13:47,039 --> 00:13:50,559
+Hover to do it. Hover is the best place
+
+418
+00:13:49,200 --> 00:13:52,160
+on the internet to get your hands on a
+
+419
+00:13:50,559 --> 00:13:54,879
+domain name. Not least of which because
+
+420
+00:13:52,159 --> 00:13:56,718
+they have an extremely streamlined and
+
+421
+00:13:54,879 --> 00:13:58,479
+hassle-free checkout process where you
+
+422
+00:13:56,720 --> 00:14:00,639
+can actually buy a domain in less than
+
+423
+00:13:58,480 --> 00:14:03,359
+30 seconds. I have timed myself on this
+
+424
+00:14:00,639 --> 00:14:05,760
+before when I bought thomas.lol and I've
+
+425
+00:14:03,360 --> 00:14:07,040
+also bought thomas.blog and all sorts of
+
+426
+00:14:05,759 --> 00:14:09,278
+other interesting ones. And that's
+
+427
+00:14:07,039 --> 00:14:11,999
+because hover also has over 400 domain
+
+428
+00:14:09,278 --> 00:14:13,598
+extensions. You got your classic.com.me
+
+429
+00:14:12,000 --> 00:14:16,879
+which are great for a personal website
+
+430
+00:14:13,600 --> 00:14:19,040
+but you've also gotlol.limmo.blog.
+
+431
+00:14:16,879 --> 00:14:20,398
+There's tons to choose from. And of
+
+432
+00:14:19,039 --> 00:14:21,599
+course, once you have your domain on
+
+433
+00:14:20,399 --> 00:14:23,760
+Hover, you got a ton of different
+
+434
+00:14:21,600 --> 00:14:25,439
+options for how to use it. You can build
+
+435
+00:14:23,759 --> 00:14:27,919
+a professional email address like Thomas
+
+436
+00:14:25,440 --> 00:14:29,518
+at collegefogeeek.com or use their
+
+437
+00:14:27,919 --> 00:14:31,758
+connect feature to hook it up to website
+
+438
+00:14:29,519 --> 00:14:33,439
+builders or even online store builders.
+
+439
+00:14:31,759 --> 00:14:35,198
+So, to lock down that domain name that
+
+440
+00:14:33,440 --> 00:14:37,279
+you want so no one else can take it and
+
+441
+00:14:35,198 --> 00:14:39,919
+to save 10% off your first purchase, go
+
+442
+00:14:37,278 --> 00:14:41,359
+over to hover.com/thomasfrank
+
+443
+00:14:39,919 --> 00:14:42,798
+and sign up. Big thanks as always to
+
+444
+00:14:41,360 --> 00:14:44,638
+Hover for sponsoring this video. And
+
+445
+00:14:42,799 --> 00:14:45,919
+thank you as well for watching it.
+
+446
+00:14:44,639 --> 00:14:47,279
+Hopefully, you found something in this
+
+447
+00:14:45,919 --> 00:14:48,718
+video that can be a useful resource for
+
+448
+00:14:47,278 --> 00:14:50,077
+you in the future. And if you did enjoy
+
+449
+00:14:48,720 --> 00:14:51,760
+it, hit that like button to show the
+
+450
+00:14:50,078 --> 00:14:53,439
+YouTube algorithm what's up and get
+
+451
+00:14:51,759 --> 00:14:55,278
+subscribed if you haven't done so
+
+452
+00:14:53,440 --> 00:14:57,198
+already. Beyond that, my new channel,
+
+453
+00:14:55,278 --> 00:14:59,359
+Thomas Frank Explains, has plenty of
+
+454
+00:14:57,198 --> 00:15:00,799
+Notion tutorials going live all the time
+
+455
+00:14:59,360 --> 00:15:02,239
+on that. So, check that out if you're
+
+456
+00:15:00,799 --> 00:15:04,319
+interested in learning how to use Notion
+
+457
+00:15:02,240 --> 00:15:05,518
+more effectively. Otherwise, I'll have a
+
+458
+00:15:04,320 --> 00:15:07,199
+couple of other videos here on the
+
+459
+00:15:05,519 --> 00:15:09,120
+screen right here and right here that
+
+460
+00:15:07,198 --> 00:15:10,957
+you can click on or smash your face into
+
+461
+00:15:09,120 --> 00:15:12,879
+your phone screen for extra style points
+
+462
+00:15:10,958 --> 00:15:14,397
+to watch. Beyond that, maybe consider
+
+463
+00:15:12,879 --> 00:15:17,278
+following me on Instagram and Twitter at
+
+464
+00:15:14,399 --> 00:15:17,278
+Tom Frankley.
+

@@ -1,0 +1,1584 @@
+1
+00:00:00,000 --> 00:00:04,859
+hey what's going on guys so as you can
+
+2
+00:00:02,040 --> 00:00:04,738
+see the set is finally rebuilt and along
+
+3
+00:00:04,859 --> 00:00:08,460
+with it to my new studio slash office is
+
+4
+00:00:06,778 --> 00:00:09,568
+coming together quite nicely over the
+
+5
+00:00:08,460 --> 00:00:11,098
+past couple of days I've been able to
+
+6
+00:00:09,570 --> 00:00:13,049
+check off many different items in my
+
+7
+00:00:11,099 --> 00:00:15,480
+little studio rebuilding project in my
+
+8
+00:00:13,048 --> 00:00:17,549
+to do list and speaking up to-do lists
+
+9
+00:00:15,480 --> 00:00:19,890
+well we got to talk about those because
+
+10
+00:00:17,550 --> 00:00:22,080
+I get a lot of questions about which a
+
+11
+00:00:19,890 --> 00:00:24,359
+poor tool out there is the best one for
+
+12
+00:00:22,079 --> 00:00:25,648
+managing your tasks so in today's video
+
+13
+00:00:24,359 --> 00:00:27,660
+I want to try to answer that question
+
+14
+00:00:25,649 --> 00:00:29,788
+and to do so I'm gonna be sharing my top
+
+15
+00:00:27,660 --> 00:00:31,380
+three to-do list applications that I
+
+16
+00:00:29,789 --> 00:00:33,329
+think are gonna be the best options for
+
+17
+00:00:31,379 --> 00:00:35,638
+most people and I'm also gonna throw in
+
+18
+00:00:33,329 --> 00:00:36,959
+one kind of oddball recommendation that
+
+19
+00:00:35,640 --> 00:00:39,209
+doesn't really fit in with the other
+
+20
+00:00:36,960 --> 00:00:41,429
+three but might be useful for certain
+
+21
+00:00:39,210 --> 00:00:42,988
+viewers so let's get into it all right
+
+22
+00:00:41,429 --> 00:00:44,098
+so the number one app of my list which
+
+23
+00:00:42,988 --> 00:00:45,209
+you've probably seen if you've ever
+
+24
+00:00:44,100 --> 00:00:46,979
+looked at the resources page in my
+
+25
+00:00:45,210 --> 00:00:49,259
+website or asked me about it on Twitter
+
+26
+00:00:46,979 --> 00:00:50,699
+is todoist now back when I was in
+
+27
+00:00:49,259 --> 00:00:52,557
+college I used to use a task management
+
+28
+00:00:50,700 --> 00:00:55,078
+app called wonder list and I absolutely
+
+29
+00:00:52,558 --> 00:00:56,639
+loved it but a few years ago Microsoft
+
+30
+00:00:55,079 --> 00:00:57,840
+actually bought it and they made the
+
+31
+00:00:56,640 --> 00:01:00,419
+announcement that I was eventually going
+
+32
+00:00:57,840 --> 00:01:02,910
+to be going away and as a result I moved
+
+33
+00:01:00,420 --> 00:01:04,948
+over to todoist and just to kind of
+
+34
+00:01:02,909 --> 00:01:07,468
+spoil this video a little bit for you I
+
+35
+00:01:04,948 --> 00:01:09,867
+think that to duyst is probably the best
+
+36
+00:01:07,469 --> 00:01:11,999
+to-do app out there in terms of features
+
+37
+00:01:09,868 --> 00:01:13,589
+and capabilities and the number one
+
+38
+00:01:12,000 --> 00:01:15,779
+feature that offers something that I
+
+39
+00:01:13,590 --> 00:01:18,240
+find invaluable in my workflow is
+
+40
+00:01:15,780 --> 00:01:20,039
+natural language processing which means
+
+41
+00:01:18,239 --> 00:01:22,169
+that you can add tasks along with all
+
+42
+00:01:20,040 --> 00:01:24,479
+the details needed for those tasks such
+
+43
+00:01:22,170 --> 00:01:25,049
+as tags and due dates and assignees and
+
+44
+00:01:24,478 --> 00:01:27,628
+things like that
+
+45
+00:01:25,049 --> 00:01:30,299
+just by typing what you want in the main
+
+46
+00:01:27,629 --> 00:01:31,888
+task bar or by saying it I'm also a big
+
+47
+00:01:30,299 --> 00:01:33,270
+fan of the quick add feature when I'm
+
+48
+00:01:31,890 --> 00:01:35,039
+using the app on my desktop or in the
+
+49
+00:01:33,269 --> 00:01:36,148
+browser I can just hit the letter Q or I
+
+50
+00:01:35,040 --> 00:01:38,339
+can just hit the plus button on my
+
+51
+00:01:36,150 --> 00:01:40,169
+iPhone and I can easily enter a task in
+
+52
+00:01:38,340 --> 00:01:42,450
+seconds and that reduces a lot of
+
+53
+00:01:40,170 --> 00:01:43,979
+friction in my system additionally I'm a
+
+54
+00:01:42,450 --> 00:01:45,898
+big fan of its integration with voice
+
+55
+00:01:43,978 --> 00:01:47,489
+assistance it's got Siri integration and
+
+56
+00:01:45,899 --> 00:01:49,290
+it's also got Amazon echo integration
+
+57
+00:01:47,489 --> 00:01:51,628
+and don't worry I'm not going to say the
+
+58
+00:01:49,290 --> 00:01:53,669
+a-word in this video but if I want to I
+
+59
+00:01:51,629 --> 00:01:55,559
+can easily tell my echo to add a task
+
+60
+00:01:53,670 --> 00:01:57,479
+and it gets automatically added to my
+
+61
+00:01:55,560 --> 00:01:58,859
+inbox and I love that since I have
+
+62
+00:01:57,478 --> 00:02:00,507
+several of them in my house
+
+63
+00:01:58,859 --> 00:02:02,519
+that being said not everything is
+
+64
+00:02:00,509 --> 00:02:04,110
+perfect with the duyst I do think of the
+
+65
+00:02:02,519 --> 00:02:05,639
+way it handles subtasks is a little
+
+66
+00:02:04,109 --> 00:02:07,349
+dated I'm not a big fan of how you just
+
+67
+00:02:05,640 --> 00:02:09,539
+indent things in your main tasks list
+
+68
+00:02:07,349 --> 00:02:11,759
+instead of having a real subtasks view
+
+69
+00:02:09,538 --> 00:02:13,308
+and additionally the Windows app doesn't
+
+70
+00:02:11,759 --> 00:02:15,379
+work quite like the dust
+
+71
+00:02:13,310 --> 00:02:16,1000
+app the Mac app or even the mobile apps
+
+72
+00:02:15,379 --> 00:02:18,919
+it's got kind of a different UI and it
+
+73
+00:02:17,000 --> 00:02:20,990
+doesn't work quite as well additionally
+
+74
+00:02:18,919 --> 00:02:22,879
+to do us is not the cheapest app in the
+
+75
+00:02:20,990 --> 00:02:24,019
+personal productivity space especially
+
+76
+00:02:22,879 --> 00:02:26,119
+since they just raise their prices to
+
+77
+00:02:24,020 --> 00:02:28,039
+four dollars a month so that might be a
+
+78
+00:02:26,120 --> 00:02:29,329
+bit of a turn-off though it is worth
+
+79
+00:02:28,039 --> 00:02:30,889
+mentioning that there is a student
+
+80
+00:02:29,330 --> 00:02:32,720
+discount though they did make the
+
+81
+00:02:30,889 --> 00:02:34,248
+baffling decision to require people to
+
+82
+00:02:32,719 --> 00:02:37,188
+sign up for a business account before
+
+83
+00:02:34,250 --> 00:02:38,958
+asking for it but even still it reduces
+
+84
+00:02:37,189 --> 00:02:40,159
+the price down to about a buck fifty per
+
+85
+00:02:38,959 --> 00:02:42,680
+month so if you are a college student
+
+86
+00:02:40,159 --> 00:02:44,479
+that is an option for you however if you
+
+87
+00:02:42,680 --> 00:02:45,530
+are a price conscious person or you're
+
+88
+00:02:44,479 --> 00:02:47,298
+just somebody who doesn't want to pay a
+
+89
+00:02:45,530 --> 00:02:48,920
+monthly subscription fee for your to do
+
+90
+00:02:47,300 --> 00:02:50,540
+list app then there's something else
+
+91
+00:02:48,919 --> 00:02:53,149
+that you're gonna want to look at and
+
+92
+00:02:50,539 --> 00:02:54,378
+that is Microsoft to do so let me level
+
+93
+00:02:53,150 --> 00:02:56,238
+with you here if you're somebody who
+
+94
+00:02:54,379 --> 00:02:57,919
+just does not want to pay for to do list
+
+95
+00:02:56,239 --> 00:02:59,840
+application and you have simple needs
+
+96
+00:02:57,919 --> 00:03:01,818
+then I think Microsoft Sidhu is the
+
+97
+00:02:59,840 --> 00:03:03,440
+absolute best option on the market right
+
+98
+00:03:01,818 --> 00:03:05,088
+now a couple of years ago I would not
+
+99
+00:03:03,439 --> 00:03:06,619
+have made this recommendation as when it
+
+100
+00:03:05,090 --> 00:03:07,969
+came out as the replacement for
+
+101
+00:03:06,620 --> 00:03:09,769
+wunderlist there are a lot of missing
+
+102
+00:03:07,969 --> 00:03:11,419
+features but over the past couple of
+
+103
+00:03:09,769 --> 00:03:12,919
+years Microsoft's team has added a lot
+
+104
+00:03:11,419 --> 00:03:14,448
+of needed features to the app and
+
+105
+00:03:12,919 --> 00:03:16,159
+honestly it's pretty darn good
+
+106
+00:03:14,449 --> 00:03:18,228
+especially for having absolutely no
+
+107
+00:03:16,159 --> 00:03:19,819
+premium tier whatsoever you've got the
+
+108
+00:03:18,229 --> 00:03:21,919
+ability to make multiple projects you
+
+109
+00:03:19,819 --> 00:03:23,509
+can color code those projects subtasks
+
+110
+00:03:21,919 --> 00:03:26,359
+actually work like they're supposed to
+
+111
+00:03:23,509 --> 00:03:28,818
+and unlike to do it's free plan you can
+
+112
+00:03:26,360 --> 00:03:30,619
+add comments and file attachments to
+
+113
+00:03:28,819 --> 00:03:32,178
+your tasks in Microsoft to do without
+
+114
+00:03:30,620 --> 00:03:33,530
+paying anything this is actually the
+
+115
+00:03:32,180 --> 00:03:35,299
+main reason why I recommend Microsoft to
+
+116
+00:03:33,530 --> 00:03:36,409
+do over to do is to free plan if you
+
+117
+00:03:35,299 --> 00:03:37,609
+just don't want to pay
+
+118
+00:03:36,409 --> 00:03:39,828
+I do think to do is this more powerful
+
+119
+00:03:37,610 --> 00:03:40,1000
+overall but I think a lot of people are
+
+120
+00:03:39,829 --> 00:03:43,280
+gonna want the ability to add
+
+121
+00:03:41,000 --> 00:03:44,839
+descriptions and comments to their tasks
+
+122
+00:03:43,280 --> 00:03:46,518
+like say if you want to set up a p.o box
+
+123
+00:03:44,840 --> 00:03:48,679
+need to put the address at the post
+
+124
+00:03:46,519 --> 00:03:51,019
+office box in the task you have to pay
+
+125
+00:03:48,680 --> 00:03:52,910
+for that to duyst now granted Microsoft
+
+126
+00:03:51,019 --> 00:03:54,530
+to do does not have natural language
+
+127
+00:03:52,909 --> 00:03:56,418
+features so you do have to set your due
+
+128
+00:03:54,530 --> 00:03:58,760
+dates and stuff like that manually but
+
+129
+00:03:56,419 --> 00:04:00,198
+if you want something simple I think it
+
+130
+00:03:58,759 --> 00:04:01,638
+really works and it also has some pretty
+
+131
+00:04:00,199 --> 00:04:04,159
+cool features that you're not gonna find
+
+132
+00:04:01,639 --> 00:04:06,797
+in other apps such as the my day feature
+
+133
+00:04:04,159 --> 00:04:08,748
+which doesn't pull tasks based on due
+
+134
+00:04:06,799 --> 00:04:10,999
+dates but instead lets you manually add
+
+135
+00:04:08,750 --> 00:04:12,560
+tasks from your lists now of course
+
+136
+00:04:11,000 --> 00:04:14,509
+there are some things with Microsoft to
+
+137
+00:04:12,560 --> 00:04:16,609
+do that I don't like for instance there
+
+138
+00:04:14,509 --> 00:04:18,738
+isn't a dedicated mac app right now so
+
+139
+00:04:16,608 --> 00:04:20,808
+just like to do it on the windows side
+
+140
+00:04:18,738 --> 00:04:21,287
+I've got to use Microsoft to do in the
+
+141
+00:04:20,810 --> 00:04:22,879
+browser
+
+142
+00:04:21,288 --> 00:04:24,828
+additionally like I said earlier it is
+
+143
+00:04:22,879 --> 00:04:26,249
+not quite as powerful as other apps like
+
+144
+00:04:24,829 --> 00:04:27,779
+to duyst you don't have the net
+
+145
+00:04:26,250 --> 00:04:29,730
+our language features you don't have
+
+146
+00:04:27,779 --> 00:04:31,798
+tags and filters and smart lists and
+
+147
+00:04:29,730 --> 00:04:32,910
+things like that but again if you don't
+
+148
+00:04:31,800 --> 00:04:34,800
+want to pay and you want something
+
+149
+00:04:32,910 --> 00:04:36,630
+simple I think it is a very compelling
+
+150
+00:04:34,800 --> 00:04:38,550
+option that brings us to my third
+
+151
+00:04:36,629 --> 00:04:40,499
+recommendation on this list just now
+
+152
+00:04:38,550 --> 00:04:42,449
+called ticktick and if you've ever used
+
+153
+00:04:40,500 --> 00:04:45,269
+tik tik before you probably know that it
+
+154
+00:04:42,449 --> 00:04:46,618
+is your really similar to todoist just
+
+155
+00:04:45,269 --> 00:04:48,179
+like to do us it's got those natural
+
+156
+00:04:46,620 --> 00:04:50,100
+language features which allow you to get
+
+157
+00:04:48,180 --> 00:04:51,510
+tasks into your system very quickly and
+
+158
+00:04:50,100 --> 00:04:52,590
+have it just parse all the information
+
+159
+00:04:51,509 --> 00:04:54,388
+you want instead of having to set it
+
+160
+00:04:52,589 --> 00:04:55,738
+yourself it's got tags you can add your
+
+161
+00:04:54,389 --> 00:04:57,839
+tasks and it's got something called
+
+162
+00:04:55,740 --> 00:04:59,700
+smart lists which function basically the
+
+163
+00:04:57,839 --> 00:05:01,379
+exact same way that filters do in
+
+164
+00:04:59,699 --> 00:05:02,939
+todoist but there are some features in
+
+165
+00:05:01,379 --> 00:05:04,559
+ticktick that you're not going to find
+
+166
+00:05:02,939 --> 00:05:06,148
+in todoist for example there is a
+
+167
+00:05:04,560 --> 00:05:07,979
+built-in calendar view so if you want to
+
+168
+00:05:06,149 --> 00:05:09,718
+look your tasks on a by week or by month
+
+169
+00:05:07,980 --> 00:05:11,069
+basis you can actually do that
+
+170
+00:05:09,720 --> 00:05:12,840
+there are start times you can add to
+
+171
+00:05:11,069 --> 00:05:14,368
+your tasks which I don't personally use
+
+172
+00:05:12,839 --> 00:05:16,678
+but some people find to be very useful
+
+173
+00:05:14,370 --> 00:05:18,719
+there is a built-in Pomodoro timer which
+
+174
+00:05:16,680 --> 00:05:19,860
+can actually be tied to your tasks so if
+
+175
+00:05:18,720 --> 00:05:21,450
+you want to do Pomodoro's throughout the
+
+176
+00:05:19,860 --> 00:05:22,860
+day and actually bind them to the tasks
+
+177
+00:05:21,449 --> 00:05:26,038
+you have in your system you can do that
+
+178
+00:05:22,860 --> 00:05:27,869
+and subtasks actually work the way that
+
+179
+00:05:26,040 --> 00:05:29,580
+they should you click into a task and
+
+180
+00:05:27,870 --> 00:05:30,840
+you can see your subtasks along with all
+
+181
+00:05:29,579 --> 00:05:32,519
+the related information like file
+
+182
+00:05:30,839 --> 00:05:33,899
+attachments and comments beyond that
+
+183
+00:05:32,519 --> 00:05:35,789
+there are even more features in tick
+
+184
+00:05:33,899 --> 00:05:38,189
+ticks such as desktop widgets which I
+
+185
+00:05:35,790 --> 00:05:39,660
+kind of irrationally love not sure why I
+
+186
+00:05:38,189 --> 00:05:41,369
+like them so much but it's kind of cool
+
+187
+00:05:39,660 --> 00:05:43,320
+to have like a semi-transparent box on
+
+188
+00:05:41,370 --> 00:05:44,399
+my desktop with all my tasks and on the
+
+189
+00:05:43,319 --> 00:05:46,168
+mobile side there's a feature called
+
+190
+00:05:44,399 --> 00:05:47,639
+plan my day which helps to intelligently
+
+191
+00:05:46,168 --> 00:05:49,708
+plan out what you want to get done on a
+
+192
+00:05:47,639 --> 00:05:51,538
+given day given all these features and
+
+193
+00:05:49,709 --> 00:05:55,319
+the fact that tick tick is cheaper than
+
+194
+00:05:51,540 --> 00:05:57,660
+todoist at $28 a year versus their $36 a
+
+195
+00:05:55,319 --> 00:05:59,849
+year it might seem like tick tick is the
+
+196
+00:05:57,660 --> 00:06:02,160
+better option and for some people it
+
+197
+00:05:59,850 --> 00:06:03,899
+might be but there are a few caveats for
+
+198
+00:06:02,160 --> 00:06:05,490
+one tick tick does have those natural
+
+199
+00:06:03,899 --> 00:06:07,678
+language features but they're not as
+
+200
+00:06:05,490 --> 00:06:10,079
+strong as the ones found in todoist
+
+201
+00:06:07,680 --> 00:06:11,459
+for example I can't use T om for
+
+202
+00:06:10,079 --> 00:06:13,019
+tomorrow I actually have to type out the
+
+203
+00:06:11,459 --> 00:06:15,179
+entire thing and when I'm using a really
+
+204
+00:06:13,019 --> 00:06:17,698
+complex request like having a task with
+
+205
+00:06:15,180 --> 00:06:19,918
+a specific first due date along with a
+
+206
+00:06:17,699 --> 00:06:21,868
+recurring option it can't really parse
+
+207
+00:06:19,918 --> 00:06:23,579
+it to do is handle it like a champ but I
+
+208
+00:06:21,870 --> 00:06:25,050
+have to go in and manually set that kind
+
+209
+00:06:23,579 --> 00:06:27,239
+of thing up in ticktick additionally
+
+210
+00:06:25,050 --> 00:06:28,829
+there is no two way google calendar sync
+
+211
+00:06:27,240 --> 00:06:30,659
+and tick ticks so while you do have that
+
+212
+00:06:28,829 --> 00:06:32,188
+built in calendar view if you want to
+
+213
+00:06:30,660 --> 00:06:33,930
+actually look at it on your Google
+
+214
+00:06:32,189 --> 00:06:35,038
+Calendar you can't quite do that as well
+
+215
+00:06:33,930 --> 00:06:37,110
+as you can on todoist
+
+216
+00:06:35,038 --> 00:06:38,759
+and perhaps most importantly of all
+
+217
+00:06:37,110 --> 00:06:41,400
+their free plan is there
+
+218
+00:06:38,759 --> 00:06:43,318
+you can only have nine lists that brings
+
+219
+00:06:41,399 --> 00:06:45,209
+us to my oddball recommendation which
+
+220
+00:06:43,319 --> 00:06:46,859
+really isn't that odd it just kind of
+
+221
+00:06:45,209 --> 00:06:49,079
+exists outside of the realm of these
+
+222
+00:06:46,860 --> 00:06:51,090
+simple to-do list style apps that most
+
+223
+00:06:49,079 --> 00:06:52,708
+you guys are probably familiar with so
+
+224
+00:06:51,089 --> 00:06:54,718
+my final recommendation for this video
+
+225
+00:06:52,709 --> 00:06:56,128
+is something called click up which is an
+
+226
+00:06:54,720 --> 00:06:58,619
+app that you would probably categorize
+
+227
+00:06:56,129 --> 00:07:00,478
+as project management software instead
+
+228
+00:06:58,620 --> 00:07:02,340
+of a simple to-do list app project
+
+229
+00:07:00,480 --> 00:07:03,450
+management apps which don't really
+
+230
+00:07:02,339 --> 00:07:05,339
+include the tools we've already talked
+
+231
+00:07:03,449 --> 00:07:07,618
+about but do include tools like asana
+
+232
+00:07:05,339 --> 00:07:09,089
+and JIRA and click up are a little
+
+233
+00:07:07,620 --> 00:07:10,769
+better suited for managing really
+
+234
+00:07:09,089 --> 00:07:13,348
+complex projects with lots of moving
+
+235
+00:07:10,769 --> 00:07:15,809
+parts different tasks statuses and for
+
+236
+00:07:13,350 --> 00:07:17,580
+managing teams now for a long time I was
+
+237
+00:07:15,810 --> 00:07:19,500
+a big asana user mainly because my
+
+238
+00:07:17,579 --> 00:07:22,138
+friend Matt got me on it and it was
+
+239
+00:07:19,500 --> 00:07:24,150
+pretty useful but after testing click up
+
+240
+00:07:22,139 --> 00:07:25,768
+I think it is probably the most useful
+
+241
+00:07:24,149 --> 00:07:27,658
+and most full-featured project
+
+242
+00:07:25,769 --> 00:07:29,489
+management app that I've ever tried and
+
+243
+00:07:27,660 --> 00:07:30,780
+it might also work for personal
+
+244
+00:07:29,490 --> 00:07:32,849
+productivity hiccup gives you eight
+
+245
+00:07:30,779 --> 00:07:34,469
+hundred ways to look at your tasks
+
+246
+00:07:32,850 --> 00:07:36,059
+you've got a normal list view you've got
+
+247
+00:07:34,470 --> 00:07:38,190
+a board view which is kind of Trello or
+
+248
+00:07:36,060 --> 00:07:40,109
+Kanban style you've got a calendar view
+
+249
+00:07:38,189 --> 00:07:41,729
+or you can go full project manager and
+
+250
+00:07:40,110 --> 00:07:43,409
+even look at Gantt charts when it comes
+
+251
+00:07:41,730 --> 00:07:45,569
+to creating tasks you basically have all
+
+252
+00:07:43,410 --> 00:07:47,549
+the options there's a full-fledged
+
+253
+00:07:45,569 --> 00:07:50,038
+hybrid markdown editor for descriptions
+
+254
+00:07:47,550 --> 00:07:51,449
+that rivals notions or slights there's
+
+255
+00:07:50,040 --> 00:07:53,100
+the ability to add subtasks and
+
+256
+00:07:51,449 --> 00:07:54,779
+checklists and you can generate these
+
+257
+00:07:53,100 --> 00:07:56,580
+checklists from templates in fact you
+
+258
+00:07:54,779 --> 00:07:58,109
+can generate entire tasks from templates
+
+259
+00:07:56,579 --> 00:07:59,909
+and of course you get your due dates for
+
+260
+00:07:58,110 --> 00:08:01,440
+current due dates with more options and
+
+261
+00:07:59,910 --> 00:08:02,820
+you can shake a stick at there's task
+
+262
+00:08:01,439 --> 00:08:05,309
+Watchers and you can even assign
+
+263
+00:08:02,819 --> 00:08:07,019
+multiple people to one task and then
+
+264
+00:08:05,310 --> 00:08:09,659
+there are the tools there's the ability
+
+265
+00:08:07,019 --> 00:08:10,798
+to minimize tasks to a task tray which
+
+266
+00:08:09,660 --> 00:08:12,240
+kind of gives you the ability to make a
+
+267
+00:08:10,800 --> 00:08:14,429
+little daily list of tasks you're gonna
+
+268
+00:08:12,240 --> 00:08:16,139
+work on there's a notepad feature built
+
+269
+00:08:14,430 --> 00:08:17,999
+into the app for making just scratch
+
+270
+00:08:16,139 --> 00:08:19,379
+notes and possibly my favorite
+
+271
+00:08:18,000 --> 00:08:20,790
+additional tool is their Chrome
+
+272
+00:08:19,379 --> 00:08:23,129
+extension because it lets you take a
+
+273
+00:08:20,790 --> 00:08:24,990
+screenshot of a web page and append it
+
+274
+00:08:23,129 --> 00:08:26,698
+to an existing task or make a new task
+
+275
+00:08:24,990 --> 00:08:28,139
+out of it and when Martin and I were
+
+276
+00:08:26,699 --> 00:08:29,489
+working on fixing some bugs on the
+
+277
+00:08:28,139 --> 00:08:31,379
+college info geek website this was
+
+278
+00:08:29,490 --> 00:08:32,309
+actually really really useful so if you
+
+279
+00:08:31,379 --> 00:08:34,319
+were the kind of person who wants
+
+280
+00:08:32,309 --> 00:08:36,029
+incredibly fine-grained control over
+
+281
+00:08:34,320 --> 00:08:38,070
+every aspect of your life or you want to
+
+282
+00:08:36,029 --> 00:08:39,868
+take heavy advantage of templating and
+
+283
+00:08:38,070 --> 00:08:41,010
+team features then click up might be
+
+284
+00:08:39,870 --> 00:08:42,749
+something to look at
+
+285
+00:08:41,009 --> 00:08:44,339
+that being said after testing click up
+
+286
+00:08:42,750 --> 00:08:45,990
+extensively for a couple of weeks with
+
+287
+00:08:44,340 --> 00:08:48,210
+my team I ended up making the decision
+
+288
+00:08:45,990 --> 00:08:49,559
+to move us all back to duyst and the
+
+289
+00:08:48,210 --> 00:08:51,390
+main reason for doing that is that click
+
+290
+00:08:49,559 --> 00:08:52,179
+up just gives us too many options and we
+
+291
+00:08:51,389 --> 00:08:54,369
+found that there was
+
+292
+00:08:52,179 --> 00:08:55,748
+friction involve and adding new tasks to
+
+293
+00:08:54,370 --> 00:08:56,439
+the system and figuring out where they
+
+294
+00:08:55,750 --> 00:08:57,939
+should go
+
+295
+00:08:56,440 --> 00:08:59,259
+whereas in todoist we can use those
+
+296
+00:08:57,940 --> 00:09:00,1000
+natural language features to get
+
+297
+00:08:59,259 --> 00:09:02,949
+something into the system really quickly
+
+298
+00:09:01,000 --> 00:09:04,419
+however during that testing period I was
+
+299
+00:09:02,950 --> 00:09:05,860
+really impressed with all the different
+
+300
+00:09:04,419 --> 00:09:07,539
+features they're offering and I do think
+
+301
+00:09:05,860 --> 00:09:09,999
+that it offers a lot more flexibility
+
+302
+00:09:07,539 --> 00:09:12,249
+and capabilities than similar apps like
+
+303
+00:09:10,000 --> 00:09:13,450
+asana so for a certain kind of person
+
+304
+00:09:12,250 --> 00:09:15,310
+it's going to be a pretty compelling
+
+305
+00:09:13,450 --> 00:09:17,469
+option so that brings us to the final
+
+306
+00:09:15,309 --> 00:09:19,898
+question which is which of these apps is
+
+307
+00:09:17,470 --> 00:09:21,580
+the best one and it's kind of hard to
+
+308
+00:09:19,899 --> 00:09:22,930
+answer that question objectively since
+
+309
+00:09:21,580 --> 00:09:24,010
+everyone has different needs so I'm
+
+310
+00:09:22,929 --> 00:09:26,049
+going to give you a couple of different
+
+311
+00:09:24,009 --> 00:09:27,249
+recommendations first and foremost if
+
+312
+00:09:26,049 --> 00:09:29,258
+you don't want to pay for your task
+
+313
+00:09:27,250 --> 00:09:31,149
+management software then Microsoft to do
+
+314
+00:09:29,259 --> 00:09:32,828
+is really compelling if you really want
+
+315
+00:09:31,149 --> 00:09:34,930
+the natural language features then maybe
+
+316
+00:09:32,830 --> 00:09:36,370
+to do as free planets for you otherwise
+
+317
+00:09:34,929 --> 00:09:37,869
+if you want something simple you want
+
+318
+00:09:36,370 --> 00:09:39,640
+something that works and has some pretty
+
+319
+00:09:37,870 --> 00:09:41,648
+cool features all of its own then
+
+320
+00:09:39,639 --> 00:09:43,119
+Microsoft to do is pretty cool if you
+
+321
+00:09:41,649 --> 00:09:45,010
+are willing to pay a few bucks a month
+
+322
+00:09:43,120 --> 00:09:47,499
+for a subscription though for my money
+
+323
+00:09:45,009 --> 00:09:49,058
+at least todoist is the best general
+
+324
+00:09:47,500 --> 00:09:49,778
+task management app out there for most
+
+325
+00:09:49,059 --> 00:09:51,549
+people
+
+326
+00:09:49,778 --> 00:09:52,928
+now ticktick is really compelling it's
+
+327
+00:09:51,549 --> 00:09:54,609
+quite similar and it does have a few
+
+328
+00:09:52,929 --> 00:09:57,518
+additional features like that Pomodoro
+
+329
+00:09:54,610 --> 00:09:59,289
+timer but at least for me the superior
+
+330
+00:09:57,519 --> 00:10:01,148
+natural language processing which allows
+
+331
+00:09:59,289 --> 00:10:03,128
+me to get tasks into my system more
+
+332
+00:10:01,149 --> 00:10:05,439
+accurately and more quickly gives
+
+333
+00:10:03,129 --> 00:10:06,698
+todoist at the edge now regardless of
+
+334
+00:10:05,440 --> 00:10:08,109
+which task management at the end up
+
+335
+00:10:06,700 --> 00:10:09,849
+going with one of the tasks that you
+
+336
+00:10:08,110 --> 00:10:11,709
+should put on it and do as soon as you
+
+337
+00:10:09,850 --> 00:10:13,930
+possibly can is getting yourself a
+
+338
+00:10:11,708 --> 00:10:15,099
+domain name it's no secret that more and
+
+339
+00:10:13,929 --> 00:10:16,957
+more companies are relying on the
+
+340
+00:10:15,100 --> 00:10:18,370
+internet to find their job candidates so
+
+341
+00:10:16,958 --> 00:10:20,228
+if you want to position yourself as the
+
+342
+00:10:18,370 --> 00:10:21,338
+best possible person for that job you're
+
+343
+00:10:20,230 --> 00:10:23,109
+looking forward then you should be
+
+344
+00:10:21,339 --> 00:10:25,299
+looking to establish a strong personal
+
+345
+00:10:23,110 --> 00:10:27,129
+brand online and a really important part
+
+346
+00:10:25,299 --> 00:10:28,359
+of that process is building yourself a
+
+347
+00:10:27,129 --> 00:10:30,519
+website where you can communicate your
+
+348
+00:10:28,360 --> 00:10:32,259
+skills show off your portfolio and make
+
+349
+00:10:30,519 --> 00:10:33,878
+it really easy for people to contact you
+
+350
+00:10:32,259 --> 00:10:35,707
+and of course the first step to doing
+
+351
+00:10:33,879 --> 00:10:37,119
+that is securing a domain name for
+
+352
+00:10:35,708 --> 00:10:38,739
+yourself something that you can link to
+
+353
+00:10:37,120 --> 00:10:40,450
+from your online profiles and even put
+
+354
+00:10:38,740 --> 00:10:42,220
+on your resume and business cards and
+
+355
+00:10:40,450 --> 00:10:44,320
+the best place on the internet to get
+
+356
+00:10:42,220 --> 00:10:45,700
+that domain name is hover unlike some
+
+357
+00:10:44,320 --> 00:10:47,290
+other places however makes the process
+
+358
+00:10:45,700 --> 00:10:48,999
+of getting a domain name is super easy
+
+359
+00:10:47,289 --> 00:10:50,498
+in fact I just bought one this morning
+
+360
+00:10:49,000 --> 00:10:52,480
+and the process took less than 30
+
+361
+00:10:50,500 --> 00:10:54,009
+seconds there are no annoying upsells
+
+362
+00:10:52,480 --> 00:10:55,778
+nothing to get your way just a
+
+363
+00:10:54,009 --> 00:10:57,759
+frictionless and streamlined at checkout
+
+364
+00:10:55,778 --> 00:10:59,559
+process plus with over 400 different
+
+365
+00:10:57,759 --> 00:11:01,837
+domain extensions to choose from like
+
+366
+00:10:59,559 --> 00:11:04,958
+the classic coms and dot meas just some
+
+367
+00:11:01,839 --> 00:11:05,620
+more interesting ones like lol and ninja
+
+368
+00:11:04,958 --> 00:11:07,478
+you've got
+
+369
+00:11:05,620 --> 00:11:08,919
+a lot of choices and once you've got
+
+370
+00:11:07,480 --> 00:11:10,689
+that domain name you can easily set up a
+
+371
+00:11:08,919 --> 00:11:12,488
+professional email address for it or use
+
+372
+00:11:10,690 --> 00:11:13,870
+their connect feature to automatically
+
+373
+00:11:12,490 --> 00:11:16,180
+hook it up to different website builders
+
+374
+00:11:13,870 --> 00:11:18,100
+like Squarespace and Shopify so head
+
+375
+00:11:16,179 --> 00:11:19,719
+over to hover.com slash Thomas Frank to
+
+376
+00:11:18,100 --> 00:11:21,790
+get your domain name before somebody
+
+377
+00:11:19,720 --> 00:11:22,869
+else does and if you use that link which
+
+378
+00:11:21,789 --> 00:11:24,938
+you'll find in the description down
+
+379
+00:11:22,870 --> 00:11:25,930
+below you're also gonna get 10% off your
+
+380
+00:11:24,940 --> 00:11:27,520
+first purchase
+
+381
+00:11:25,929 --> 00:11:29,049
+big thanks to hover for sponsoring this
+
+382
+00:11:27,519 --> 00:11:31,179
+video of being a big supporter of my
+
+383
+00:11:29,049 --> 00:11:32,528
+channel and as always thank you guys so
+
+384
+00:11:31,179 --> 00:11:34,119
+much for watching if you enjoyed this
+
+385
+00:11:32,528 --> 00:11:35,889
+video hit that like button you can also
+
+386
+00:11:34,120 --> 00:11:37,510
+subscribe right there to get new videos
+
+387
+00:11:35,889 --> 00:11:38,978
+every single week when they come out or
+
+388
+00:11:37,509 --> 00:11:40,749
+click right there to get a copy of my
+
+389
+00:11:38,980 --> 00:11:42,399
+book on how to earn better grades for
+
+390
+00:11:40,750 --> 00:11:43,629
+free if for some reason you don't want
+
+391
+00:11:42,399 --> 00:11:45,309
+to click on either of those boxes you
+
+392
+00:11:43,629 --> 00:11:47,109
+can go follow me on instagram @ Tom
+
+393
+00:11:45,309 --> 00:11:49,299
+frankly or click right over here to see
+
+394
+00:11:47,110 --> 00:11:50,800
+one more video on this channel thanks
+
+395
+00:11:49,299 --> 00:11:53,069
+for watching and I'll see you in next
+
+396
+00:11:50,799 --> 00:11:53,069
+one
+

@@ -1,0 +1,896 @@
+1
+00:00:00,030 --> 00:00:02,849
+be honest with me here when you study
+
+2
+00:00:01,530 --> 00:00:03,209
+your get work done how good are you at
+
+3
+00:00:02,879 --> 00:00:03,811
+focusing on that work and by that I mean
+
+4
+00:00:04,740 --> 00:00:08,429
+how susceptible are you to distractions
+
+5
+00:00:06,690 --> 00:00:10,290
+that pop up or the temptation to
+
+6
+00:00:08,429 --> 00:00:11,820
+multitask this is a really important
+
+7
+00:00:10,289 --> 00:00:12,628
+question to ask yourself because a lack
+
+8
+00:00:11,820 --> 00:00:14,190
+of focus
+
+9
+00:00:12,630 --> 00:00:16,440
+a lack of the ability to concentrate is
+
+10
+00:00:14,189 --> 00:00:18,059
+one of the best ways to waste a lot of
+
+11
+00:00:16,440 --> 00:00:19,289
+the time you dedicate to studying that's
+
+12
+00:00:18,059 --> 00:00:20,999
+because when you get pulled away from
+
+13
+00:00:19,289 --> 00:00:22,769
+your main task into a distraction or
+
+14
+00:00:21,000 --> 00:00:24,480
+some other task you're not just wasting
+
+15
+00:00:22,768 --> 00:00:26,129
+the time that it takes to get that
+
+16
+00:00:24,480 --> 00:00:27,989
+distraction done with there's also
+
+17
+00:00:26,129 --> 00:00:30,209
+something called a cognitive switching
+
+18
+00:00:27,989 --> 00:00:32,307
+penalty and as Josh Kaufman points out
+
+19
+00:00:30,210 --> 00:00:34,320
+in his book the personal MBA which I
+
+20
+00:00:32,308 --> 00:00:36,268
+highly recommend by the way in order to
+
+21
+00:00:34,320 --> 00:00:37,590
+take action your brain has to load the
+
+22
+00:00:36,270 --> 00:00:39,390
+context of what you're doing into
+
+23
+00:00:37,590 --> 00:00:40,799
+working memory if you constantly switch
+
+24
+00:00:39,390 --> 00:00:42,148
+the focus of your attention you're
+
+25
+00:00:40,799 --> 00:00:43,589
+forcing your brain to spend time and
+
+26
+00:00:42,149 --> 00:00:45,960
+effort thrashing loading and reloading
+
+27
+00:00:43,590 --> 00:00:47,129
+contexts over and over again that's why
+
+28
+00:00:45,960 --> 00:00:49,379
+it's possible to spend an entire day
+
+29
+00:00:47,128 --> 00:00:51,328
+multitasking getting nothing done and
+
+30
+00:00:49,378 --> 00:00:53,068
+feel exhausted at the end you've burned
+
+31
+00:00:51,329 --> 00:00:54,989
+all of your energy context switching
+
+32
+00:00:53,070 --> 00:00:56,610
+instead of making progress this is why
+
+33
+00:00:54,988 --> 00:00:58,468
+it's so important to build the ability
+
+34
+00:00:56,609 --> 00:00:59,939
+to focus if you can do that you're going
+
+35
+00:00:58,469 --> 00:01:01,469
+to eliminate a lot of these potential
+
+36
+00:00:59,939 --> 00:01:03,058
+cognitive switching penalties you could
+
+37
+00:01:01,469 --> 00:01:04,199
+have incurred from your day and that
+
+38
+00:01:03,058 --> 00:01:06,118
+means you're gonna be able to pack your
+
+39
+00:01:04,198 --> 00:01:08,069
+work into a more concentrated shorter
+
+40
+00:01:06,118 --> 00:01:09,538
+amount of time and get more done so in
+
+41
+00:01:08,069 --> 00:01:10,888
+this video I want to give you five quick
+
+42
+00:01:09,540 --> 00:01:12,810
+ways that you can start building the
+
+43
+00:01:10,890 --> 00:01:14,669
+ability to focus and concentrate on the
+
+44
+00:01:12,810 --> 00:01:16,560
+task at hand and the first one is called
+
+45
+00:01:14,670 --> 00:01:18,390
+pre commitment pre committing to a task
+
+46
+00:01:16,560 --> 00:01:19,979
+is simply building some sort of device
+
+47
+00:01:18,390 --> 00:01:21,659
+that binds you to finishing it before
+
+48
+00:01:19,978 --> 00:01:23,007
+you actually get started and to do this
+
+49
+00:01:21,659 --> 00:01:25,079
+you can use what are called commitment
+
+50
+00:01:23,009 --> 00:01:26,729
+devices it's why I use beeminder to
+
+51
+00:01:25,079 --> 00:01:28,288
+ensure that I create two things every
+
+52
+00:01:26,728 --> 00:01:29,849
+week on my website if you have some way
+
+53
+00:01:28,290 --> 00:01:31,140
+of making sure there's a consequence for
+
+54
+00:01:29,849 --> 00:01:33,058
+not getting your work done you're gonna
+
+55
+00:01:31,140 --> 00:01:34,769
+be more motivated to stay focused on
+
+56
+00:01:33,060 --> 00:01:36,298
+that work this can be as simple as
+
+57
+00:01:34,769 --> 00:01:38,099
+writing down that you're going to get X
+
+58
+00:01:36,299 --> 00:01:39,689
+done in 30 minutes and if you don't
+
+59
+00:01:38,099 --> 00:01:40,228
+finish within 30 minutes you know that
+
+60
+00:01:39,688 --> 00:01:41,728
+you've failed
+
+61
+00:01:40,228 --> 00:01:43,319
+you've externalized that goal by writing
+
+62
+00:01:41,728 --> 00:01:44,819
+it down and now that you failed it
+
+63
+00:01:43,319 --> 00:01:46,617
+you're gonna feel bad you can even do
+
+64
+00:01:44,819 --> 00:01:48,327
+something crazy like hiring a lady off
+
+65
+00:01:46,618 --> 00:01:50,187
+Craigslist to slap you in the face like
+
+66
+00:01:48,328 --> 00:01:51,598
+Minnie Safety did or you could stay
+
+67
+00:01:50,188 --> 00:01:53,547
+within the realm of sanity that's cool
+
+68
+00:01:51,599 --> 00:01:55,078
+too you can also pre commit to one task
+
+69
+00:01:53,549 --> 00:01:56,850
+by eliminating your ability to do
+
+70
+00:01:55,078 --> 00:01:58,708
+anything else during that time this is
+
+71
+00:01:56,849 --> 00:02:00,268
+often called the burnt ships technique
+
+72
+00:01:58,709 --> 00:02:02,338
+and it's in reference to an inaccurate
+
+73
+00:02:00,269 --> 00:02:04,108
+but still compelling story about Hernan
+
+74
+00:02:02,340 --> 00:02:06,118
+Cortes telling his men to burn their
+
+75
+00:02:04,109 --> 00:02:07,438
+ships before they attack the Aztecs the
+
+76
+00:02:06,118 --> 00:02:09,029
+motivation for doing this would have
+
+77
+00:02:07,438 --> 00:02:10,139
+been to keep his men focused on the task
+
+78
+00:02:09,030 --> 00:02:11,940
+because they had no
+
+79
+00:02:10,139 --> 00:02:13,168
+option they couldn't go back now you
+
+80
+00:02:11,939 --> 00:02:14,669
+probably don't have an actual boat to
+
+81
+00:02:13,169 --> 00:02:15,659
+burn of your own and even if you did it
+
+82
+00:02:14,669 --> 00:02:17,068
+probably wouldn't help you get your
+
+83
+00:02:15,659 --> 00:02:18,839
+homework done but you can take
+
+84
+00:02:17,068 --> 00:02:20,548
+inspiration from this idea by removing
+
+85
+00:02:18,840 --> 00:02:22,170
+the ability to do other things while
+
+86
+00:02:20,550 --> 00:02:23,1000
+you're focused on a task and one way you
+
+87
+00:02:22,169 --> 00:02:25,859
+can do this is by blocking distracting
+
+88
+00:02:24,000 --> 00:02:28,049
+websites on your computer using an
+
+89
+00:02:25,860 --> 00:02:29,400
+extension like stay focused or a program
+
+90
+00:02:28,050 --> 00:02:30,869
+like focal filter you could even
+
+91
+00:02:29,400 --> 00:02:31,650
+entirely disconnect the internet if you
+
+92
+00:02:30,870 --> 00:02:33,450
+didn't need it
+
+93
+00:02:31,650 --> 00:02:35,219
+tip number two is to have a distraction
+
+94
+00:02:33,449 --> 00:02:36,808
+sheet next to you while you work now
+
+95
+00:02:35,219 --> 00:02:38,339
+talked about this before as in addition
+
+96
+00:02:36,810 --> 00:02:39,540
+to the Pomodoro Technique but whether or
+
+97
+00:02:38,340 --> 00:02:40,799
+not you're pre committing using that
+
+98
+00:02:39,539 --> 00:02:42,179
+technique or just studying in a
+
+99
+00:02:40,800 --> 00:02:43,949
+different way having a piece of paper
+
+100
+00:02:42,180 --> 00:02:45,989
+next to you where you write down what's
+
+101
+00:02:43,949 --> 00:02:47,879
+distracting you helps you get back into
+
+102
+00:02:45,989 --> 00:02:50,009
+your work because you know you've made a
+
+103
+00:02:47,879 --> 00:02:51,508
+reminder of that distraction you can get
+
+104
+00:02:50,009 --> 00:02:53,069
+back to it later if it's important but
+
+105
+00:02:51,509 --> 00:02:54,569
+you're externalizing it you're pulling
+
+106
+00:02:53,069 --> 00:02:56,339
+it out of your brain and you're allowing
+
+107
+00:02:54,569 --> 00:02:58,289
+your brain to get back to the task at
+
+108
+00:02:56,340 --> 00:03:00,300
+hand tip number three is to try out an
+
+109
+00:02:58,289 --> 00:03:02,729
+app called forest which is available for
+
+110
+00:03:00,300 --> 00:03:04,079
+both iPhones and Android devices forest
+
+111
+00:03:02,729 --> 00:03:05,909
+is an app that tries to help make your
+
+112
+00:03:04,080 --> 00:03:07,169
+smartphone less of a distraction and it
+
+113
+00:03:05,909 --> 00:03:08,938
+does this by letting you plant a seed
+
+114
+00:03:07,169 --> 00:03:11,279
+and then if you don't touch your phone
+
+115
+00:03:08,939 --> 00:03:13,198
+for 30 minutes it grows into a tree you
+
+116
+00:03:11,280 --> 00:03:15,179
+do touch your phone it kills the tree
+
+117
+00:03:13,199 --> 00:03:16,408
+and you failed that session now I can
+
+118
+00:03:15,180 --> 00:03:17,400
+see it already people in the comments
+
+119
+00:03:16,409 --> 00:03:18,659
+saying that you could just turn off the
+
+120
+00:03:17,400 --> 00:03:20,909
+phone or leave it in a different room
+
+121
+00:03:18,659 --> 00:03:23,248
+and that does work but the thing that
+
+122
+00:03:20,909 --> 00:03:25,827
+forest does is it provides an instant
+
+123
+00:03:23,250 --> 00:03:27,839
+reward the minute you finish a 30-minute
+
+124
+00:03:25,829 --> 00:03:29,519
+session getting immediate tangible and
+
+125
+00:03:27,840 --> 00:03:31,679
+quantifiable results for something is a
+
+126
+00:03:29,519 --> 00:03:32,789
+great way to build a good habits and if
+
+127
+00:03:31,680 --> 00:03:34,439
+you're just turning off your phone and
+
+128
+00:03:32,789 --> 00:03:36,119
+putting it in the other room you may not
+
+129
+00:03:34,439 --> 00:03:37,919
+see those immediate tangible benefits
+
+130
+00:03:36,120 --> 00:03:39,390
+but if you get a nice cool tree on your
+
+131
+00:03:37,919 --> 00:03:41,039
+phone if you don't touch it for 30
+
+132
+00:03:39,389 --> 00:03:42,478
+minutes then that's a nice thing you can
+
+133
+00:03:41,039 --> 00:03:43,858
+look at so if turning your phone off
+
+134
+00:03:42,479 --> 00:03:45,749
+works for you that's cool but if it
+
+135
+00:03:43,860 --> 00:03:48,180
+doesn't try the app Oh tip number four
+
+136
+00:03:45,750 --> 00:03:49,440
+is to meditate once a day and I've been
+
+137
+00:03:48,180 --> 00:03:50,910
+doing this for a few months now and
+
+138
+00:03:49,439 --> 00:03:52,768
+honestly I just do it for three minutes
+
+139
+00:03:50,909 --> 00:03:54,478
+in the morning and I try to focus on my
+
+140
+00:03:52,769 --> 00:03:56,189
+breath now the idea behind this is that
+
+141
+00:03:54,479 --> 00:03:57,028
+your attention is like any other muscle
+
+142
+00:03:56,189 --> 00:03:58,919
+in your body
+
+143
+00:03:57,030 --> 00:04:01,230
+as you train it it gets stronger and
+
+144
+00:03:58,919 --> 00:04:02,758
+your ability to focus increases I found
+
+145
+00:04:01,229 --> 00:04:04,619
+that just trying to focus on my breath
+
+146
+00:04:02,759 --> 00:04:06,689
+for three minutes a day has increased my
+
+147
+00:04:04,620 --> 00:04:08,430
+ability to stay focused on other tasks
+
+148
+00:04:06,689 --> 00:04:09,778
+like reading or writing now an important
+
+149
+00:04:08,430 --> 00:04:11,729
+thing to note with meditation is that
+
+150
+00:04:09,780 --> 00:04:13,559
+your attention will wander and that's
+
+151
+00:04:11,729 --> 00:04:14,669
+okay the act of noticing that your
+
+152
+00:04:13,560 --> 00:04:16,200
+attention is wandered and they you've
+
+153
+00:04:14,669 --> 00:04:17,698
+started daydreaming and then bringing
+
+154
+00:04:16,199 --> 00:04:20,129
+that attention back to your initial
+
+155
+00:04:17,699 --> 00:04:21,809
+point of focus is what helps build that
+
+156
+00:04:20,129 --> 00:04:23,039
+attention muscle my fifth and final tip
+
+157
+00:04:21,810 --> 00:04:24,750
+is to eliminate potential
+
+158
+00:04:23,040 --> 00:04:25,830
+distractions while you're studying now
+
+159
+00:04:24,750 --> 00:04:27,480
+when I talked about pre committing
+
+160
+00:04:25,829 --> 00:04:28,769
+earlier I talked about the burnt ships
+
+161
+00:04:27,480 --> 00:04:30,509
+technique and that's focused on
+
+162
+00:04:28,769 --> 00:04:32,219
+eliminating your ability to distract
+
+163
+00:04:30,509 --> 00:04:34,109
+yourself but there are also a lot of
+
+164
+00:04:32,220 --> 00:04:36,540
+distractions that can happen to you
+
+165
+00:04:34,110 --> 00:04:38,190
+environmental distractions people coming
+
+166
+00:04:36,540 --> 00:04:39,510
+in and asking you to do things and if
+
+167
+00:04:38,189 --> 00:04:41,338
+you can eliminate the potential for
+
+168
+00:04:39,509 --> 00:04:43,288
+these to happen you're going to have an
+
+169
+00:04:41,339 --> 00:04:44,908
+easier time focusing so pay attention to
+
+170
+00:04:43,290 --> 00:04:46,530
+any potential source of distractions
+
+171
+00:04:44,910 --> 00:04:48,059
+before you study this could be something
+
+172
+00:04:46,529 --> 00:04:49,558
+that can pop a notification up like your
+
+173
+00:04:48,060 --> 00:04:51,419
+phone or something on your computer or
+
+174
+00:04:49,560 --> 00:04:52,740
+just being in a specific location where
+
+175
+00:04:51,420 --> 00:04:53,879
+your friends are likely to find you I
+
+176
+00:04:52,740 --> 00:04:55,499
+actually have a whole section on
+
+177
+00:04:53,879 --> 00:04:57,388
+eliminating distractions in my book on
+
+178
+00:04:55,500 --> 00:04:58,470
+earning better grades which is free so
+
+179
+00:04:57,389 --> 00:04:59,879
+if you want to get some more tips in
+
+180
+00:04:58,470 --> 00:05:01,440
+this area then you can click the card
+
+181
+00:04:59,879 --> 00:05:02,908
+there or the link in the description and
+
+182
+00:05:01,439 --> 00:05:04,198
+grab the book so those are my five tips
+
+183
+00:05:02,910 --> 00:05:06,030
+this week for helping you build
+
+184
+00:05:04,199 --> 00:05:07,889
+concentration in your ability to focus
+
+185
+00:05:06,029 --> 00:05:09,538
+hopefully you found this helpful and I
+
+186
+00:05:07,889 --> 00:05:11,788
+want to leave you with a quote from the
+
+187
+00:05:09,540 --> 00:05:14,280
+Roman poet Horace who said rule your
+
+188
+00:05:11,790 --> 00:05:15,990
+mind or it will rule you now if your
+
+189
+00:05:14,279 --> 00:05:17,549
+internal ability to rule your mind and
+
+190
+00:05:15,990 --> 00:05:19,139
+stay focused right now isn't as strong
+
+191
+00:05:17,550 --> 00:05:20,1000
+as you'd like it to be that's okay
+
+192
+00:05:19,139 --> 00:05:22,708
+work on building it but also take
+
+193
+00:05:21,000 --> 00:05:25,139
+advantage of the external systems and
+
+194
+00:05:22,709 --> 00:05:26,338
+tools we have to help you out that could
+
+195
+00:05:25,139 --> 00:05:28,348
+be using apps and extensions like
+
+196
+00:05:26,339 --> 00:05:29,879
+forests and stay focused hiring some
+
+197
+00:05:28,350 --> 00:05:31,800
+lady off Craigslist to slap you in the
+
+198
+00:05:29,879 --> 00:05:33,419
+face or just asking a friend to keep
+
+199
+00:05:31,800 --> 00:05:34,290
+tabs on you while you're studying anyway
+
+200
+00:05:33,420 --> 00:05:36,089
+I hope you found this video useful
+
+201
+00:05:34,290 --> 00:05:38,240
+thanks for watching and I will see you
+
+202
+00:05:36,089 --> 00:05:40,589
+next week
+
+203
+00:05:38,240 --> 00:05:42,210
+hey guys thanks so much for watching my
+
+204
+00:05:40,589 --> 00:05:43,589
+video on how to build more focus and
+
+205
+00:05:42,209 --> 00:05:45,358
+concentration if you want to get new
+
+206
+00:05:43,589 --> 00:05:47,098
+videos every single week on being a more
+
+207
+00:05:45,360 --> 00:05:48,449
+effective student than the best possible
+
+208
+00:05:47,100 --> 00:05:49,740
+decision you can make right now is to
+
+209
+00:05:48,449 --> 00:05:50,578
+click that big red subscribe button
+
+210
+00:05:49,740 --> 00:05:51,960
+right there
+
+211
+00:05:50,579 --> 00:05:53,699
+I also wrote a book on how to get better
+
+212
+00:05:51,959 --> 00:05:55,019
+grades if you want to get a free copy of
+
+213
+00:05:53,699 --> 00:05:56,339
+that click the picture and I will send
+
+214
+00:05:55,019 --> 00:05:57,809
+you one if you want to get links to
+
+215
+00:05:56,339 --> 00:05:59,249
+anything I mentioned in this video then
+
+216
+00:05:57,810 --> 00:06:01,260
+go to the companion blog post by
+
+217
+00:05:59,250 --> 00:06:02,549
+clicking the orange logo right there if
+
+218
+00:06:01,259 --> 00:06:03,899
+you missed last week's video is a clip
+
+219
+00:06:02,550 --> 00:06:05,219
+of it playing right there so definitely
+
+220
+00:06:03,899 --> 00:06:07,048
+check it out and if you want to suggest
+
+221
+00:06:05,220 --> 00:06:08,729
+topics for new videos or just connect
+
+222
+00:06:07,050 --> 00:06:11,020
+with me I'm Tom frankly on Twitter or
+
+223
+00:06:08,730 --> 00:06:14,829
+you can leave a comment thanks
+
+224
+00:06:11,019 --> 00:06:14,829
+[Music]
+

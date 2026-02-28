@@ -1,0 +1,5148 @@
+1
+00:00:00,040 --> 00:00:03,080
+in this video I'm going to show you how
+
+2
+00:00:01,159 --> 00:00:03,638
+I learned to code from scratch in just
+
+3
+00:00:03,120 --> 00:00:04,000
+one year I'm going to show you the exact
+
+4
+00:00:04,799 --> 00:00:08,558
+path learning resources tools and most
+
+5
+00:00:07,120 --> 00:00:10,879
+importantly the learning hacks that I
+
+6
+00:00:08,558 --> 00:00:12,239
+used to go from a complete beginner to a
+
+7
+00:00:10,880 --> 00:00:14,120
+self- toop programmer building and
+
+8
+00:00:12,240 --> 00:00:16,079
+shipping complex apps and workflows that
+
+9
+00:00:14,119 --> 00:00:17,357
+are now used by thousands of people so
+
+10
+00:00:16,079 --> 00:00:19,079
+you can do the same thing if you want to
+
+11
+00:00:17,359 --> 00:00:20,560
+or maybe even get a job as a programmer
+
+12
+00:00:19,079 --> 00:00:22,277
+if that's a goal you have we're also
+
+13
+00:00:20,559 --> 00:00:24,398
+going to talk about two secret weapons
+
+14
+00:00:22,278 --> 00:00:26,278
+that I use both to learn faster and to
+
+15
+00:00:24,399 --> 00:00:28,517
+build and ship things much more quickly
+
+16
+00:00:26,278 --> 00:00:30,158
+as well and one of those has even become
+
+17
+00:00:28,518 --> 00:00:31,678
+a surprisingly good source of side
+
+18
+00:00:30,160 --> 00:00:32,800
+income for me I think represents a
+
+19
+00:00:31,678 --> 00:00:34,479
+pretty interesting side hustle
+
+20
+00:00:32,799 --> 00:00:36,398
+opportunity even for people who are not
+
+21
+00:00:34,479 --> 00:00:38,039
+expert level coders but I'll talk about
+
+22
+00:00:36,399 --> 00:00:39,359
+that later on in the video first here's
+
+23
+00:00:38,039 --> 00:00:40,958
+an outline of everything we're going to
+
+24
+00:00:39,359 --> 00:00:42,557
+cover here I'm going to try to make this
+
+25
+00:00:40,960 --> 00:00:43,1000
+as comprehensive as possible so it's a
+
+26
+00:00:42,558 --> 00:00:45,238
+jumping off point that you can use if
+
+27
+00:00:44,000 --> 00:00:46,640
+you want to learn how to code and we're
+
+28
+00:00:45,238 --> 00:00:48,557
+going to talk about how I picked my
+
+29
+00:00:46,640 --> 00:00:50,439
+language how I got started the exact
+
+30
+00:00:48,558 --> 00:00:52,159
+learning resources that I used all of
+
+31
+00:00:50,439 --> 00:00:53,119
+which are completely free by the way
+
+32
+00:00:52,159 --> 00:00:54,718
+we're going to talk about those two
+
+33
+00:00:53,119 --> 00:00:56,319
+secret weapons I mentioned a few
+
+34
+00:00:54,719 --> 00:00:57,759
+learning hacks I use to learn even
+
+35
+00:00:56,320 --> 00:00:59,399
+faster and some of my favorite
+
+36
+00:00:57,759 --> 00:01:00,557
+programming tools feel free to skip
+
+37
+00:00:59,399 --> 00:01:01,1000
+around this video all you like I have
+
+38
+00:01:00,558 --> 00:01:03,598
+time stamps in the description down
+
+39
+00:01:02,000 --> 00:01:05,319
+below we're going to start off with a
+
+40
+00:01:03,600 --> 00:01:07,280
+bit of a discussion on how I got started
+
+41
+00:01:05,319 --> 00:01:08,839
+and how I chose my programming language
+
+42
+00:01:07,280 --> 00:01:10,039
+because one of the most common questions
+
+43
+00:01:08,840 --> 00:01:12,639
+people have when they want to learn how
+
+44
+00:01:10,040 --> 00:01:14,559
+to code is what language should I start
+
+45
+00:01:12,640 --> 00:01:16,559
+with so personally I started with
+
+46
+00:01:14,560 --> 00:01:18,680
+JavaScript and I focused specifically on
+
+47
+00:01:16,560 --> 00:01:20,159
+what's called back-end programming and
+
+48
+00:01:18,680 --> 00:01:21,360
+backend programming has to do with
+
+49
+00:01:20,159 --> 00:01:23,400
+everything that happens sort of under
+
+50
+00:01:21,359 --> 00:01:25,477
+the hood or behind the scenes whereas
+
+51
+00:01:23,400 --> 00:01:27,759
+front-end programming has to do with the
+
+52
+00:01:25,478 --> 00:01:29,519
+actual interfaces and controls that you
+
+53
+00:01:27,759 --> 00:01:31,759
+actually interact with on websites and
+
+54
+00:01:29,519 --> 00:01:33,757
+apps so think of backend coding kind of
+
+55
+00:01:31,759 --> 00:01:35,279
+like designing or building a car engine
+
+56
+00:01:33,759 --> 00:01:37,320
+whereas front-end coding would be like
+
+57
+00:01:35,280 --> 00:01:39,280
+designing the car body itself but also
+
+58
+00:01:37,319 --> 00:01:41,238
+the controls like the steering wheel or
+
+59
+00:01:39,280 --> 00:01:42,759
+the ejector seat button so for example
+
+60
+00:01:41,239 --> 00:01:45,559
+my favorite project that I've built so
+
+61
+00:01:42,759 --> 00:01:47,560
+far also vastly the most complex project
+
+62
+00:01:45,560 --> 00:01:49,359
+I've built so far is called notion voice
+
+63
+00:01:47,560 --> 00:01:51,399
+notes and it's a few thousand lines of
+
+64
+00:01:49,359 --> 00:01:53,077
+code that essentially take an audio file
+
+65
+00:01:51,399 --> 00:01:55,520
+like a lecture recording or a voice note
+
+66
+00:01:53,078 --> 00:01:57,919
+or a podcast transcribes it to text
+
+67
+00:01:55,519 --> 00:01:59,118
+summarizes that text with AI into lists
+
+68
+00:01:57,920 --> 00:02:00,960
+like the main points and the action
+
+69
+00:01:59,118 --> 00:02:03,078
+items and then creates a brand new page
+
+70
+00:02:00,959 --> 00:02:04,878
+in my notion note taking system with all
+
+71
+00:02:03,078 --> 00:02:07,238
+of that detail so I can basically take
+
+72
+00:02:04,879 --> 00:02:09,398
+notes with my voice and to interact with
+
+73
+00:02:07,239 --> 00:02:11,158
+that system all I have to do is upload
+
+74
+00:02:09,399 --> 00:02:13,080
+an audio file to Google Drive and then
+
+75
+00:02:11,159 --> 00:02:15,359
+everything happens automatically in the
+
+76
+00:02:13,080 --> 00:02:17,560
+background that's what I mean by backend
+
+77
+00:02:15,360 --> 00:02:19,720
+coding and I'm telling the story because
+
+78
+00:02:17,560 --> 00:02:21,040
+that workflow taking notes of my voice
+
+79
+00:02:19,719 --> 00:02:23,158
+is actually one of the primary
+
+80
+00:02:21,039 --> 00:02:25,079
+Inspirations I had to learn how to code
+
+81
+00:02:23,159 --> 00:02:27,038
+in the first place I have wanted to be
+
+82
+00:02:25,080 --> 00:02:28,959
+able to take notes with my voice for
+
+83
+00:02:27,039 --> 00:02:30,478
+years I go for a lot of long walks and
+
+84
+00:02:28,959 --> 00:02:31,959
+I've always wished I could just record a
+
+85
+00:02:30,479 --> 00:02:33,479
+voice note and then get like a perfect
+
+86
+00:02:31,959 --> 00:02:35,599
+transcription later on that I could read
+
+87
+00:02:33,479 --> 00:02:37,919
+through skim add highlights to all that
+
+88
+00:02:35,598 --> 00:02:39,639
+good stuff and then literally in the
+
+89
+00:02:37,919 --> 00:02:41,358
+airport on the way to my honeymoon after
+
+90
+00:02:39,639 --> 00:02:43,679
+getting married last year I came across
+
+91
+00:02:41,360 --> 00:02:45,239
+a blog post in line for coffee uh by
+
+92
+00:02:43,680 --> 00:02:47,159
+somebody who was using JavaScript and a
+
+93
+00:02:45,239 --> 00:02:49,080
+few other free tools to transcribe
+
+94
+00:02:47,158 --> 00:02:50,439
+podcast episodes to text and as I was
+
+95
+00:02:49,080 --> 00:02:52,080
+scrolling through that blog post I
+
+96
+00:02:50,439 --> 00:02:54,079
+couldn't understand any of the code in
+
+97
+00:02:52,080 --> 00:02:55,519
+it at the time but I was confident that
+
+98
+00:02:54,080 --> 00:02:57,680
+if I could come to learn enough
+
+99
+00:02:55,519 --> 00:02:59,159
+JavaScript to understand that code I
+
+100
+00:02:57,680 --> 00:03:00,640
+would be able to modify it and I would
+
+101
+00:02:59,158 --> 00:03:03,877
+be able to build my voice note taking
+
+102
+00:03:00,639 --> 00:03:05,558
+workflow so the choice for me was clear
+
+103
+00:03:03,878 --> 00:03:07,079
+I needed to learn JavaScript there was
+
+104
+00:03:05,560 --> 00:03:09,798
+another reason as well I wanted to send
+
+105
+00:03:07,080 --> 00:03:12,360
+my notes to notion and the notion API is
+
+106
+00:03:09,799 --> 00:03:14,239
+primarily used with JavaScript that made
+
+107
+00:03:12,360 --> 00:03:15,759
+the choice clear for me and if you're
+
+108
+00:03:14,239 --> 00:03:17,360
+watching this if you're confused about
+
+109
+00:03:15,759 --> 00:03:18,759
+what language you should start with note
+
+110
+00:03:17,360 --> 00:03:20,840
+that I'm not telling you you should
+
+111
+00:03:18,759 --> 00:03:22,318
+start with JavaScript but I am telling
+
+112
+00:03:20,840 --> 00:03:24,119
+you you should start with the same kind
+
+113
+00:03:22,318 --> 00:03:25,958
+of inspiration you should pick a
+
+114
+00:03:24,120 --> 00:03:28,519
+language that will let you build
+
+115
+00:03:25,959 --> 00:03:31,040
+something that is interesting to you
+
+116
+00:03:28,519 --> 00:03:33,200
+personally because at the end of the day
+
+117
+00:03:31,039 --> 00:03:34,478
+programming languages are just tools so
+
+118
+00:03:33,199 --> 00:03:36,719
+if you're just saying I want to learn
+
+119
+00:03:34,479 --> 00:03:38,278
+how to code it's kind of like saying I
+
+120
+00:03:36,719 --> 00:03:40,038
+want to learn how to use a hammer and
+
+121
+00:03:38,280 --> 00:03:41,438
+yeah I can get a loose piece of 2x4 and
+
+122
+00:03:40,039 --> 00:03:42,958
+have some Nails sticking out of it I can
+
+123
+00:03:41,438 --> 00:03:44,559
+teach you how to swing a hammer but
+
+124
+00:03:42,959 --> 00:03:46,159
+you're going to have a lot more success
+
+125
+00:03:44,560 --> 00:03:47,839
+if you start with something that you
+
+126
+00:03:46,158 --> 00:03:49,479
+actually want to build like I want to
+
+127
+00:03:47,840 --> 00:03:50,959
+build a house or I want to build a
+
+128
+00:03:49,479 --> 00:03:52,518
+computer because once you have the
+
+129
+00:03:50,959 --> 00:03:54,640
+project in mind you're going to know
+
+130
+00:03:52,519 --> 00:03:56,360
+what tools you actually need for it so
+
+131
+00:03:54,639 --> 00:03:57,719
+once you understand the project you're
+
+132
+00:03:56,360 --> 00:03:59,319
+going to understand what tool you should
+
+133
+00:03:57,719 --> 00:04:00,957
+pick but you're also going to learn a
+
+134
+00:03:59,318 --> 00:04:03,518
+lot faster for a couple of different
+
+135
+00:04:00,959 --> 00:04:04,1000
+reasons first having a goal in mind
+
+136
+00:04:03,519 --> 00:04:06,840
+having something that you're interested
+
+137
+00:04:05,000 --> 00:04:08,640
+to build is going to focus your
+
+138
+00:04:06,840 --> 00:04:10,639
+attention because programming languages
+
+139
+00:04:08,639 --> 00:04:12,679
+are full of tons of different subskills
+
+140
+00:04:10,639 --> 00:04:14,437
+and methods and classes and you kind of
+
+141
+00:04:12,680 --> 00:04:16,199
+have to know which ones to learn and
+
+142
+00:04:14,438 --> 00:04:17,958
+focus on at first otherwise you're going
+
+143
+00:04:16,199 --> 00:04:19,799
+to be very very scatterbrained the other
+
+144
+00:04:17,959 --> 00:04:21,439
+thing the more important thing is when
+
+145
+00:04:19,798 --> 00:04:23,079
+you have an end goal in mind your brain
+
+146
+00:04:21,439 --> 00:04:24,918
+is going to understand that what you're
+
+147
+00:04:23,079 --> 00:04:27,519
+learning even if it's kind of boring in
+
+148
+00:04:24,918 --> 00:04:29,038
+the moment or on its own is relevant to
+
+149
+00:04:27,519 --> 00:04:30,438
+something you care about so it's going
+
+150
+00:04:29,038 --> 00:04:32,839
+to be stick here you're going to retain
+
+151
+00:04:30,439 --> 00:04:34,477
+it much more easily now there are some
+
+152
+00:04:32,839 --> 00:04:36,399
+other factors that go into language
+
+153
+00:04:34,478 --> 00:04:38,198
+selection like the popularity of the
+
+154
+00:04:36,399 --> 00:04:39,519
+language how competitive it is in the
+
+155
+00:04:38,199 --> 00:04:41,560
+job market if you are trying to get a
+
+156
+00:04:39,519 --> 00:04:42,999
+job as a programmer the difficulty of
+
+157
+00:04:41,560 --> 00:04:44,600
+learning language in general and there's
+
+158
+00:04:43,000 --> 00:04:45,839
+a whole great post on free code Camp's
+
+159
+00:04:44,600 --> 00:04:47,720
+website that goes through these
+
+160
+00:04:45,839 --> 00:04:49,278
+considerations and talks about them I'll
+
+161
+00:04:47,720 --> 00:04:50,960
+link to that in the description below
+
+162
+00:04:49,279 --> 00:04:52,279
+but the really nice thing about starting
+
+163
+00:04:50,959 --> 00:04:54,197
+with a language that's going to help you
+
+164
+00:04:52,279 --> 00:04:56,319
+build something interesting uh in the
+
+165
+00:04:54,199 --> 00:04:58,199
+short term is once you learn that
+
+166
+00:04:56,319 --> 00:04:59,879
+language if you have to learn a second
+
+167
+00:04:58,199 --> 00:05:02,159
+language in the future it's going to be
+
+168
+00:04:59,879 --> 00:05:03,559
+much much easier and the reason for that
+
+169
+00:05:02,160 --> 00:05:06,400
+is that we can break programming down
+
+170
+00:05:03,560 --> 00:05:08,880
+into two general categories of subskills
+
+171
+00:05:06,399 --> 00:05:10,879
+we have language specific subskills so
+
+172
+00:05:08,879 --> 00:05:12,999
+things like the syntax of the language
+
+173
+00:05:10,879 --> 00:05:15,079
+its quirks maybe the Frameworks or tools
+
+174
+00:05:13,000 --> 00:05:16,879
+that you use to work with that language
+
+175
+00:05:15,079 --> 00:05:18,998
+but then we have a much bigger category
+
+176
+00:05:16,879 --> 00:05:21,398
+of universal programming skills so
+
+177
+00:05:19,000 --> 00:05:23,759
+things like uh data structures working
+
+178
+00:05:21,399 --> 00:05:26,278
+with functions um just The Logical
+
+179
+00:05:23,759 --> 00:05:28,440
+practice of solving problems with code
+
+180
+00:05:26,279 --> 00:05:30,559
+and once you kind of hone your skills in
+
+181
+00:05:28,439 --> 00:05:32,599
+this category with your first language
+
+182
+00:05:30,560 --> 00:05:34,800
+you take those skills into your second
+
+183
+00:05:32,600 --> 00:05:36,758
+language and all you have to do is kind
+
+184
+00:05:34,800 --> 00:05:38,360
+of apply them to the syntax and the
+
+185
+00:05:36,759 --> 00:05:40,038
+quirks of the new language so learning a
+
+186
+00:05:38,360 --> 00:05:42,119
+new language if you have to for a job or
+
+187
+00:05:40,038 --> 00:05:44,079
+anything else is going to go way way way
+
+188
+00:05:42,120 --> 00:05:45,519
+faster than learning your first language
+
+189
+00:05:44,079 --> 00:05:47,358
+and speaking of learning let's now talk
+
+190
+00:05:45,519 --> 00:05:49,637
+about the learning resources that I use
+
+191
+00:05:47,360 --> 00:05:51,239
+to learn JavaScript so the main one that
+
+192
+00:05:49,639 --> 00:05:52,719
+I'm going to recommend for anybody who
+
+193
+00:05:51,240 --> 00:05:54,478
+does want to learn JavaScript which I
+
+194
+00:05:52,720 --> 00:05:56,599
+think is a great first choice if you are
+
+195
+00:05:54,478 --> 00:05:57,998
+interested in building web apps or doing
+
+196
+00:05:56,600 --> 00:06:00,359
+backend programming like I do or
+
+197
+00:05:58,000 --> 00:06:02,440
+building websites is this JavaScript
+
+198
+00:06:00,360 --> 00:06:04,478
+algorithms and data structures course on
+
+199
+00:06:02,439 --> 00:06:06,079
+freecodecamp.org like I said everything
+
+200
+00:06:04,478 --> 00:06:08,079
+in this learning resources section is
+
+201
+00:06:06,079 --> 00:06:10,038
+completely free and as the name in free
+
+202
+00:06:08,079 --> 00:06:11,958
+code Camp implies this is a completely
+
+203
+00:06:10,038 --> 00:06:14,518
+free course I also think it is
+
+204
+00:06:11,959 --> 00:06:16,478
+absolutely the best beginner resource
+
+205
+00:06:14,519 --> 00:06:18,197
+for anybody trying to learn JavaScript
+
+206
+00:06:16,478 --> 00:06:20,279
+and the reason for that is there are
+
+207
+00:06:18,199 --> 00:06:21,759
+tons and tons of mini lessons in this
+
+208
+00:06:20,279 --> 00:06:23,158
+course there's a whole bunch of modules
+
+209
+00:06:21,759 --> 00:06:24,1000
+here and every one of them has a bunch
+
+210
+00:06:23,160 --> 00:06:27,240
+of different mini lessons each one of
+
+211
+00:06:25,000 --> 00:06:29,038
+those mini lessons is kind of a
+
+212
+00:06:27,240 --> 00:06:31,318
+self-contained challenge so you're
+
+213
+00:06:29,038 --> 00:06:33,278
+immedi Med having to write code while
+
+214
+00:06:31,319 --> 00:06:34,839
+you're learning so for example we have
+
+215
+00:06:33,279 --> 00:06:36,839
+Understanding uninitialized Variables
+
+216
+00:06:34,839 --> 00:06:38,917
+right here it gives you a little bit of
+
+217
+00:06:36,839 --> 00:06:41,037
+a lesson on what it's trying to teach
+
+218
+00:06:38,918 --> 00:06:42,878
+you and then it immediately asks you to
+
+219
+00:06:41,038 --> 00:06:45,079
+write code and it has a button where you
+
+220
+00:06:42,879 --> 00:06:47,398
+can run tests and see if your code is
+
+221
+00:06:45,079 --> 00:06:49,798
+actually right or if there's a bug in it
+
+222
+00:06:47,399 --> 00:06:51,839
+so this immediately gets you writing
+
+223
+00:06:49,800 --> 00:06:53,880
+code instead of just like reading Theory
+
+224
+00:06:51,839 --> 00:06:56,279
+or going through a book and I think that
+
+225
+00:06:53,879 --> 00:06:58,197
+is the best way to learn any programming
+
+226
+00:06:56,279 --> 00:06:59,718
+language not just JavaScript if you can
+
+227
+00:06:58,199 --> 00:07:01,560
+get your hands dirty and start coding
+
+228
+00:06:59,720 --> 00:07:02,720
+right away you're going to learn a lot
+
+229
+00:07:01,560 --> 00:07:04,999
+faster and you're going to be a lot more
+
+230
+00:07:02,720 --> 00:07:06,758
+motivated to keep learning now before I
+
+231
+00:07:05,000 --> 00:07:08,479
+go on to the next Learning Resource that
+
+232
+00:07:06,759 --> 00:07:10,400
+I want to recommend here I have two
+
+233
+00:07:08,478 --> 00:07:12,279
+little tips things that I did with this
+
+234
+00:07:10,399 --> 00:07:15,158
+course that I think are worth mentioning
+
+235
+00:07:12,279 --> 00:07:17,519
+first and foremost alongside this course
+
+236
+00:07:15,160 --> 00:07:19,759
+I had a little test folder in my own
+
+237
+00:07:17,519 --> 00:07:22,078
+programming editor I use vs code right
+
+238
+00:07:19,759 --> 00:07:24,520
+here and basically when I would run
+
+239
+00:07:22,079 --> 00:07:26,718
+across a particularly interesting lesson
+
+240
+00:07:24,519 --> 00:07:27,958
+I would try to take the lesson and remix
+
+241
+00:07:26,720 --> 00:07:29,440
+it and challenge myself to go do
+
+242
+00:07:27,959 --> 00:07:30,679
+something different with it so for
+
+243
+00:07:29,439 --> 00:07:32,439
+example if the lesson was teaching me
+
+244
+00:07:30,680 --> 00:07:35,519
+how to write a really basic for Loop
+
+245
+00:07:32,439 --> 00:07:37,477
+where it just prints out 1 2 3 4 5 Etc I
+
+246
+00:07:35,519 --> 00:07:39,438
+would go into my editor and challenge
+
+247
+00:07:37,478 --> 00:07:42,197
+myself to kind of up the ante a little
+
+248
+00:07:39,439 --> 00:07:44,118
+bit instead of going 1 2 3 4 5 what if I
+
+249
+00:07:42,199 --> 00:07:46,519
+skipped every third number or what if I
+
+250
+00:07:44,120 --> 00:07:49,240
+went just the even numbers and doing
+
+251
+00:07:46,519 --> 00:07:50,757
+that is a great way to take a challenge
+
+252
+00:07:49,240 --> 00:07:52,199
+that's just a tutorial challenge
+
+253
+00:07:50,759 --> 00:07:54,638
+something that someone else has laid out
+
+254
+00:07:52,199 --> 00:07:56,479
+for you and turn it into something that
+
+255
+00:07:54,639 --> 00:07:58,440
+you have more ownership over and
+
+256
+00:07:56,478 --> 00:08:00,119
+something that you care about more in
+
+257
+00:07:58,439 --> 00:08:02,318
+business there's this this idea called
+
+258
+00:08:00,120 --> 00:08:04,158
+the Ikea effect where people have more
+
+259
+00:08:02,319 --> 00:08:06,158
+Affinity they're more proud of the
+
+260
+00:08:04,158 --> 00:08:07,318
+furniture they own from Ikea because
+
+261
+00:08:06,158 --> 00:08:08,999
+they had to actually go through the
+
+262
+00:08:07,319 --> 00:08:10,919
+process of building it themselves this
+
+263
+00:08:09,000 --> 00:08:12,879
+is also applied really successfully in
+
+264
+00:08:10,918 --> 00:08:14,559
+video games like Minecraft even in
+
+265
+00:08:12,879 --> 00:08:16,198
+software like notion I think a big
+
+266
+00:08:14,560 --> 00:08:18,240
+reason people love notion is they get to
+
+267
+00:08:16,199 --> 00:08:20,280
+build stuff and be proud of it and when
+
+268
+00:08:18,240 --> 00:08:22,119
+you're learning programming you can use
+
+269
+00:08:20,279 --> 00:08:24,638
+this concept to your advantage you can
+
+270
+00:08:22,120 --> 00:08:26,560
+take the tutorials and take the concepts
+
+271
+00:08:24,639 --> 00:08:28,799
+they're trying to teach you remix them a
+
+272
+00:08:26,560 --> 00:08:30,399
+little bit and kind of turn it into play
+
+273
+00:08:28,800 --> 00:08:32,038
+almost the second thing and this is
+
+274
+00:08:30,399 --> 00:08:34,477
+going to be kind of controversial that I
+
+275
+00:08:32,038 --> 00:08:36,198
+did here uh is I went through if I go
+
+276
+00:08:34,479 --> 00:08:38,159
+back to the free code Camp course I went
+
+277
+00:08:36,200 --> 00:08:40,360
+through the basic JavaScript module
+
+278
+00:08:38,158 --> 00:08:43,799
+which is 113 lessons then I went through
+
+279
+00:08:40,360 --> 00:08:45,560
+the es6 module which is 29 and then I
+
+280
+00:08:43,799 --> 00:08:47,118
+actually quit the course I didn't go
+
+281
+00:08:45,559 --> 00:08:48,639
+through this regular Expressions module
+
+282
+00:08:47,120 --> 00:08:51,719
+the debugging I didn't go through any of
+
+283
+00:08:48,639 --> 00:08:54,198
+these because es6 and basic JavaScript
+
+284
+00:08:51,720 --> 00:08:56,200
+taught me enough to go off and build the
+
+285
+00:08:54,200 --> 00:08:58,240
+thing I wanted to build at the time I
+
+286
+00:08:56,200 --> 00:08:59,479
+had two kind of main Inspirations the
+
+287
+00:08:58,240 --> 00:09:01,398
+first we already covered which which was
+
+288
+00:08:59,480 --> 00:09:03,399
+me wanting to build a voice notes uh
+
+289
+00:09:01,399 --> 00:09:05,399
+workflow the other one is I really
+
+290
+00:09:03,399 --> 00:09:07,319
+wanted to teach the notion API over my
+
+291
+00:09:05,399 --> 00:09:09,040
+second Channel Thomas Frank explains and
+
+292
+00:09:07,320 --> 00:09:10,360
+I had this really fun project idea that
+
+293
+00:09:09,039 --> 00:09:12,039
+I wanted to build I wanted to make an
+
+294
+00:09:10,360 --> 00:09:14,199
+automated Pokedex generator where I
+
+295
+00:09:12,039 --> 00:09:16,199
+would pull Pokemon from an API and bring
+
+296
+00:09:14,200 --> 00:09:18,560
+them in automatically and after going
+
+297
+00:09:16,200 --> 00:09:20,799
+through those first two modules I felt
+
+298
+00:09:18,559 --> 00:09:22,478
+that I had enough knowledge and I had
+
+299
+00:09:20,799 --> 00:09:24,718
+enough Tools in my tool belt to go off
+
+300
+00:09:22,480 --> 00:09:27,480
+and start building that I also had
+
+301
+00:09:24,720 --> 00:09:29,359
+enough knowledge to now go out and look
+
+302
+00:09:27,480 --> 00:09:31,680
+through references look through kind of
+
+303
+00:09:29,360 --> 00:09:33,480
+like reference resources and figure out
+
+304
+00:09:31,679 --> 00:09:35,759
+things that I didn't know without having
+
+305
+00:09:33,480 --> 00:09:36,959
+to go through a structured course so one
+
+306
+00:09:35,759 --> 00:09:38,957
+thing that I would recommend that you
+
+307
+00:09:36,958 --> 00:09:40,559
+follow something that I do all the time
+
+308
+00:09:38,958 --> 00:09:42,358
+is no matter what kind of educational
+
+309
+00:09:40,559 --> 00:09:44,599
+resource you're going through don't feel
+
+310
+00:09:42,360 --> 00:09:46,440
+that you have to complete it 100% before
+
+311
+00:09:44,600 --> 00:09:49,439
+you can go off and try doing your own
+
+312
+00:09:46,440 --> 00:09:51,760
+stuff instead think of the educational
+
+313
+00:09:49,440 --> 00:09:53,518
+resource as a reference maybe you need
+
+314
+00:09:51,759 --> 00:09:55,278
+to go through the first few modules to
+
+315
+00:09:53,519 --> 00:09:56,760
+sort of just get your feet wet and
+
+316
+00:09:55,278 --> 00:09:58,798
+understand the basic language of the
+
+317
+00:09:56,759 --> 00:10:00,359
+skill you're learning but then if you
+
+318
+00:09:58,799 --> 00:10:02,158
+get into inspiration if you want to go
+
+319
+00:10:00,360 --> 00:10:03,1000
+build something don't feel that you have
+
+320
+00:10:02,159 --> 00:10:06,359
+to complete the entire course before you
+
+321
+00:10:04,000 --> 00:10:08,200
+can go do that let the inspiration carry
+
+322
+00:10:06,360 --> 00:10:09,518
+you okay so I went through the
+
+323
+00:10:08,200 --> 00:10:10,838
+JavaScript algorithms and data
+
+324
+00:10:09,519 --> 00:10:12,680
+structures course that is the main
+
+325
+00:10:10,839 --> 00:10:15,159
+resource I would recommend here the next
+
+326
+00:10:12,679 --> 00:10:17,358
+one is uh the modern JavaScript tutorial
+
+327
+00:10:15,159 --> 00:10:20,239
+which you can find over at J javascript.
+
+328
+00:10:17,360 --> 00:10:22,480
+info so this I think is a great
+
+329
+00:10:20,240 --> 00:10:24,039
+compliment to that free code Camp course
+
+330
+00:10:22,480 --> 00:10:26,560
+because where that one is a little bit
+
+331
+00:10:24,039 --> 00:10:29,518
+light on explanation and heavy on
+
+332
+00:10:26,559 --> 00:10:32,198
+exercises and actual coding this is the
+
+333
+00:10:29,519 --> 00:10:34,160
+exact opposite so let's say I search for
+
+334
+00:10:32,200 --> 00:10:35,680
+arrays here I think they'll probably
+
+335
+00:10:34,159 --> 00:10:38,038
+have an article on arrays within this
+
+336
+00:10:35,679 --> 00:10:41,278
+here it is this is basically a really
+
+337
+00:10:38,039 --> 00:10:43,277
+well-written online free book that
+
+338
+00:10:41,278 --> 00:10:45,278
+basically can teach you everything that
+
+339
+00:10:43,278 --> 00:10:46,518
+the other course isn't teaching you so
+
+340
+00:10:45,278 --> 00:10:48,278
+if you're going through an exercise in
+
+341
+00:10:46,519 --> 00:10:49,639
+the course and you want to kind of
+
+342
+00:10:48,278 --> 00:10:51,758
+understand the concept that's teaching a
+
+343
+00:10:49,639 --> 00:10:53,480
+bit more the modern JavaScript tutorial
+
+344
+00:10:51,759 --> 00:10:55,799
+is my number one resource recommendation
+
+345
+00:10:53,480 --> 00:10:56,839
+for going through it um there's also an
+
+346
+00:10:55,799 --> 00:10:58,198
+actual reference guide which I'm going
+
+347
+00:10:56,839 --> 00:11:00,600
+to cover next but I think the modern
+
+348
+00:10:58,200 --> 00:11:02,959
+JavaScript tutorial is a bit easier to
+
+349
+00:11:00,600 --> 00:11:04,800
+read it's a bit more fun to read so
+
+350
+00:11:02,958 --> 00:11:06,599
+consider that to be an important tool in
+
+351
+00:11:04,799 --> 00:11:08,439
+your programming especially JavaScript
+
+352
+00:11:06,600 --> 00:11:10,120
+focused tool belt and the third one that
+
+353
+00:11:08,440 --> 00:11:12,239
+I'm going to mention which I think makes
+
+354
+00:11:10,120 --> 00:11:13,959
+up the trifecta of the ultimate
+
+355
+00:11:12,240 --> 00:11:17,720
+JavaScript learning resources in my
+
+356
+00:11:13,958 --> 00:11:20,158
+opinion is the mdn web docs so these are
+
+357
+00:11:17,720 --> 00:11:22,680
+basically like the de facto official
+
+358
+00:11:20,159 --> 00:11:24,518
+documentation for uh JavaScript and for
+
+359
+00:11:22,679 --> 00:11:27,278
+a lot of web Technologies actually but
+
+360
+00:11:24,519 --> 00:11:29,200
+they have this whole JavaScript uh kind
+
+361
+00:11:27,278 --> 00:11:30,559
+of guide you can go through I think you
+
+362
+00:11:29,200 --> 00:11:32,479
+could actually learn JavaScript going
+
+363
+00:11:30,559 --> 00:11:34,799
+through just this website but the real
+
+364
+00:11:32,480 --> 00:11:36,560
+strength here is any sort of function
+
+365
+00:11:34,799 --> 00:11:38,158
+that you're trying to use or piece of
+
+366
+00:11:36,559 --> 00:11:40,239
+language you're trying to understand
+
+367
+00:11:38,159 --> 00:11:42,518
+there is comprehensive documentation on
+
+368
+00:11:40,240 --> 00:11:43,839
+it on this website so for example there
+
+369
+00:11:42,519 --> 00:11:46,120
+is a function I use all the time called
+
+370
+00:11:43,839 --> 00:11:47,839
+map and right here array prototype map
+
+371
+00:11:46,120 --> 00:11:49,999
+they have a whole article on it they
+
+372
+00:11:47,839 --> 00:11:52,199
+have a demo they have syntax they have
+
+373
+00:11:50,000 --> 00:11:54,040
+parameters and most importantly they
+
+374
+00:11:52,200 --> 00:11:56,480
+have examples right here so if you want
+
+375
+00:11:54,039 --> 00:11:58,598
+to understand how to use a function like
+
+376
+00:11:56,480 --> 00:11:59,720
+this you would go to the mdn web docs
+
+377
+00:11:58,600 --> 00:12:01,838
+and for for that reason I would
+
+378
+00:11:59,720 --> 00:12:03,720
+recommend keeping this in particular as
+
+379
+00:12:01,839 --> 00:12:05,359
+a bookmark resource on your computer a
+
+380
+00:12:03,720 --> 00:12:07,838
+couple others that are worth mentioning
+
+381
+00:12:05,360 --> 00:12:10,039
+first there is a uh weird JavaScript
+
+382
+00:12:07,839 --> 00:12:12,359
+course by fireship on YouTube which I
+
+383
+00:12:10,039 --> 00:12:13,638
+think is really really fun it's um kind
+
+384
+00:12:12,360 --> 00:12:15,159
+of like a high level overview of
+
+385
+00:12:13,639 --> 00:12:16,679
+JavaScript and all these videos are
+
+386
+00:12:15,159 --> 00:12:18,359
+super entertaining to watch highly
+
+387
+00:12:16,679 --> 00:12:20,319
+recommend watching those and also just
+
+388
+00:12:18,360 --> 00:12:21,839
+subscribing to fireship in general he
+
+389
+00:12:20,320 --> 00:12:23,880
+has some of the best programming content
+
+390
+00:12:21,839 --> 00:12:25,440
+on YouTube and then the last Learning
+
+391
+00:12:23,879 --> 00:12:27,798
+Resource I want to talk about here isn't
+
+392
+00:12:25,440 --> 00:12:30,119
+anything in particular it's more of a
+
+393
+00:12:27,799 --> 00:12:32,239
+general recommendation to kind of just
+
+394
+00:12:30,120 --> 00:12:34,519
+let yourself get obsessed with coding if
+
+395
+00:12:32,240 --> 00:12:36,639
+you feel the interest just sort of like
+
+396
+00:12:34,519 --> 00:12:38,679
+start learning by osmosis so this is
+
+397
+00:12:36,639 --> 00:12:40,440
+something that I definitely did as I was
+
+398
+00:12:38,679 --> 00:12:42,319
+watching through videos like fire ships
+
+399
+00:12:40,440 --> 00:12:44,120
+here on YouTube I started to notice that
+
+400
+00:12:42,320 --> 00:12:46,360
+my recommendations had more and more
+
+401
+00:12:44,120 --> 00:12:47,838
+stuff about JavaScript and so a lot of
+
+402
+00:12:46,360 --> 00:12:49,560
+times if I was like eating dinner or
+
+403
+00:12:47,839 --> 00:12:51,399
+lunch or something instead of going to
+
+404
+00:12:49,559 --> 00:12:53,398
+Netflix or watching a movie I would
+
+405
+00:12:51,399 --> 00:12:54,919
+watch programming content on YouTube
+
+406
+00:12:53,399 --> 00:12:57,120
+instead and just sort of learn by
+
+407
+00:12:54,919 --> 00:12:58,999
+osmosis for example when I was going
+
+408
+00:12:57,120 --> 00:13:00,760
+through this fireship course my YouTube
+
+409
+00:12:59,000 --> 00:13:02,079
+algorithm took notice and started
+
+410
+00:13:00,759 --> 00:13:03,879
+recommending me lots and lots of
+
+411
+00:13:02,078 --> 00:13:06,318
+JavaScript related content on my home
+
+412
+00:13:03,879 --> 00:13:08,159
+feed one of those videos was this video
+
+413
+00:13:06,320 --> 00:13:10,800
+right here on what the heck is the event
+
+414
+00:13:08,159 --> 00:13:12,078
+Loop Anyway by Philip Roberts and I just
+
+415
+00:13:10,799 --> 00:13:13,799
+watched that while eating dinner one
+
+416
+00:13:12,078 --> 00:13:15,439
+night and now I have a much better
+
+417
+00:13:13,799 --> 00:13:17,517
+understanding of how a synchronous code
+
+418
+00:13:15,440 --> 00:13:19,239
+Works in JavaScript I probably wouldn't
+
+419
+00:13:17,519 --> 00:13:21,160
+have even thought to look that up in the
+
+420
+00:13:19,240 --> 00:13:22,639
+first place but it was just recommended
+
+421
+00:13:21,159 --> 00:13:24,518
+to me and I watched it and I'm really
+
+422
+00:13:22,639 --> 00:13:26,559
+glad that I did okay so it's now time to
+
+423
+00:13:24,519 --> 00:13:28,879
+go into secret weapon number one in this
+
+424
+00:13:26,559 --> 00:13:30,559
+video and that secret weapon is chat GPT
+
+425
+00:13:28,879 --> 00:13:32,359
+but probably not in the way that you
+
+426
+00:13:30,559 --> 00:13:33,719
+think because a lot of people especially
+
+427
+00:13:32,360 --> 00:13:35,560
+a lot of people that I follow on Twitter
+
+428
+00:13:33,720 --> 00:13:37,279
+or that end up in my feed will say chat
+
+429
+00:13:35,559 --> 00:13:39,599
+jbt can write code for you we have
+
+430
+00:13:37,278 --> 00:13:41,798
+GitHub co-pilot which uses chat gbt to
+
+431
+00:13:39,600 --> 00:13:43,120
+basically generate code on the Fly and
+
+432
+00:13:41,799 --> 00:13:44,678
+if you're already a professional
+
+433
+00:13:43,120 --> 00:13:46,199
+programmer that can be a great way to
+
+434
+00:13:44,679 --> 00:13:48,478
+boost your productivity but if you're
+
+435
+00:13:46,198 --> 00:13:50,478
+trying to learn how to code letting chat
+
+436
+00:13:48,480 --> 00:13:52,638
+gbt write code for you is actually a bad
+
+437
+00:13:50,480 --> 00:13:55,079
+idea because you are not going to come
+
+438
+00:13:52,639 --> 00:13:57,480
+to understand how that code is actually
+
+439
+00:13:55,078 --> 00:14:00,159
+working you have to write it yourself so
+
+440
+00:13:57,480 --> 00:14:02,159
+what I did instead was I use chaty PT as
+
+441
+00:14:00,159 --> 00:14:04,197
+a learning tool and I came to discover
+
+442
+00:14:02,159 --> 00:14:05,719
+that it has two major strengths that the
+
+443
+00:14:04,198 --> 00:14:08,077
+courses and reference materials that I
+
+444
+00:14:05,720 --> 00:14:10,319
+was using primarily kind of lack the
+
+445
+00:14:08,078 --> 00:14:11,919
+first one is that chaty PT can tailor
+
+446
+00:14:10,320 --> 00:14:14,839
+the level of the material that it's
+
+447
+00:14:11,919 --> 00:14:16,879
+generating for you on the Fly to Your
+
+448
+00:14:14,839 --> 00:14:18,480
+specific needs something like a course
+
+449
+00:14:16,879 --> 00:14:19,958
+or a reference guide can't do that
+
+450
+00:14:18,480 --> 00:14:22,198
+because it's written for lots and lots
+
+451
+00:14:19,958 --> 00:14:24,158
+of people whereas with chat PT you can
+
+452
+00:14:22,198 --> 00:14:25,838
+say hey I didn't quite understand that
+
+453
+00:14:24,159 --> 00:14:27,518
+could you give me some more examples
+
+454
+00:14:25,839 --> 00:14:29,160
+could you bring this down to say like a
+
+455
+00:14:27,519 --> 00:14:32,198
+10th grade level some something like
+
+456
+00:14:29,159 --> 00:14:33,638
+that so for example I have uh one piece
+
+457
+00:14:32,198 --> 00:14:35,398
+of History here where I was asking what
+
+458
+00:14:33,639 --> 00:14:37,039
+is a set can you teach me about it and
+
+459
+00:14:35,399 --> 00:14:38,879
+how running the has function in it is
+
+460
+00:14:37,039 --> 00:14:40,559
+more efficient than some alternative I
+
+461
+00:14:38,879 --> 00:14:42,119
+can't remember what the context was but
+
+462
+00:14:40,559 --> 00:14:45,238
+here it basically generates a mini
+
+463
+00:14:42,120 --> 00:14:48,560
+article for me and if this wasn't enough
+
+464
+00:14:45,240 --> 00:14:50,518
+I could ask for more examples or more
+
+465
+00:14:48,559 --> 00:14:52,559
+Guidance just to make sure that my
+
+466
+00:14:50,519 --> 00:14:54,519
+understanding was clear the other thing
+
+467
+00:14:52,559 --> 00:14:56,277
+that I've learned with chat gbt is it is
+
+468
+00:14:54,519 --> 00:14:58,439
+fantastic for eliminating what's called
+
+469
+00:14:56,278 --> 00:14:59,838
+a second order incompetence which you're
+
+470
+00:14:58,440 --> 00:15:02,399
+basically basically the things that you
+
+471
+00:14:59,839 --> 00:15:03,560
+don't know that you don't know literally
+
+472
+00:15:02,399 --> 00:15:05,799
+the stuff in the skill that you just
+
+473
+00:15:03,559 --> 00:15:07,958
+don't even know exists yet and I found
+
+474
+00:15:05,799 --> 00:15:09,638
+that if you prompt it right chat chbt is
+
+475
+00:15:07,958 --> 00:15:11,239
+really good at helping you discover
+
+476
+00:15:09,639 --> 00:15:13,440
+these kinds of things so just to give
+
+477
+00:15:11,240 --> 00:15:15,278
+you an example here uh here's one of the
+
+478
+00:15:13,440 --> 00:15:17,040
+prompts I gave it I gave it a function
+
+479
+00:15:15,278 --> 00:15:18,718
+that I wrote myself and I said here's a
+
+480
+00:15:17,039 --> 00:15:20,837
+function I wrote that fetches Pokemon
+
+481
+00:15:18,720 --> 00:15:22,320
+from the Poke API creates an array of
+
+482
+00:15:20,839 --> 00:15:23,680
+objects with their data you don't have
+
+483
+00:15:22,320 --> 00:15:25,159
+to worry about what this code does in
+
+484
+00:15:23,679 --> 00:15:28,318
+this video this isn't a technical level
+
+485
+00:15:25,159 --> 00:15:31,159
+video but this is key how would a senior
+
+486
+00:15:28,318 --> 00:15:32,758
+J developer improve this code and then I
+
+487
+00:15:31,159 --> 00:15:34,719
+said for each suggested Improvement
+
+488
+00:15:32,759 --> 00:15:37,079
+please explain why you've suggested it
+
+489
+00:15:34,720 --> 00:15:38,958
+as if I'm a student unaware of it so I
+
+490
+00:15:37,078 --> 00:15:41,358
+pasted my code below the prompt here as
+
+491
+00:15:38,958 --> 00:15:43,438
+context and then it gives me a whole
+
+492
+00:15:41,360 --> 00:15:44,1000
+list of suggestions here use promised
+
+493
+00:15:43,440 --> 00:15:46,920
+that all for concurrent requests
+
+494
+00:15:45,000 --> 00:15:49,399
+refactor error handling separation of
+
+495
+00:15:46,919 --> 00:15:51,398
+concerns and a lot of these Concepts the
+
+496
+00:15:49,399 --> 00:15:54,639
+first time that I wrote a prompt like
+
+497
+00:15:51,399 --> 00:15:57,399
+this I had no idea existed for example
+
+498
+00:15:54,639 --> 00:15:59,959
+this concurrent requests suggestion here
+
+499
+00:15:57,399 --> 00:16:01,799
+I didn't know what that was and it
+
+500
+00:15:59,958 --> 00:16:04,118
+turned out to be one of the most useful
+
+501
+00:16:01,799 --> 00:16:05,238
+Concepts I ever learned as a programmer
+
+502
+00:16:04,120 --> 00:16:07,439
+and I'll just take a little bit of an
+
+503
+00:16:05,240 --> 00:16:09,600
+aside here to explain it so a lot of
+
+504
+00:16:07,440 --> 00:16:11,758
+what I do with my programming is I write
+
+505
+00:16:09,600 --> 00:16:13,600
+code that reaches out to apis and then
+
+506
+00:16:11,759 --> 00:16:15,638
+gets responses so for example if I want
+
+507
+00:16:13,600 --> 00:16:17,160
+to get a Pokemon from the Poke API I
+
+508
+00:16:15,639 --> 00:16:18,480
+have to make a request and then I have
+
+509
+00:16:17,159 --> 00:16:20,837
+to get the response so if I wanted to
+
+510
+00:16:18,480 --> 00:16:21,959
+get say 100 Pokemon I might write a loop
+
+511
+00:16:20,839 --> 00:16:23,959
+which is one of the first things you
+
+512
+00:16:21,958 --> 00:16:26,118
+learn about as a programmer and it would
+
+513
+00:16:23,958 --> 00:16:27,799
+do it as many times as needed Reach Out
+
+514
+00:16:26,120 --> 00:16:29,680
+get the response then kick off the next
+
+515
+00:16:27,799 --> 00:16:31,957
+iteration reach out get the response and
+
+516
+00:16:29,679 --> 00:16:34,358
+do that 100 times when I learned about
+
+517
+00:16:31,958 --> 00:16:36,958
+concurrency I learned that you can
+
+518
+00:16:34,360 --> 00:16:38,759
+basically write code that will reach out
+
+519
+00:16:36,958 --> 00:16:40,958
+and it doesn't have to actually wait to
+
+520
+00:16:38,759 --> 00:16:42,959
+get the response before it will send the
+
+521
+00:16:40,958 --> 00:16:45,837
+next request and just to show you an
+
+522
+00:16:42,958 --> 00:16:47,799
+example of how powerful this is um over
+
+523
+00:16:45,839 --> 00:16:49,799
+on a platform called pipe dream which
+
+524
+00:16:47,799 --> 00:16:51,398
+spoilers is my next secret weapon but
+
+525
+00:16:49,799 --> 00:16:53,398
+I'm going to show you here I wrote some
+
+526
+00:16:51,399 --> 00:16:55,759
+code to show just how much faster
+
+527
+00:16:53,399 --> 00:16:57,278
+concurrency can be than what's called
+
+528
+00:16:55,759 --> 00:16:58,638
+serial programming where we're just
+
+529
+00:16:57,278 --> 00:17:00,318
+waiting for the response before before
+
+530
+00:16:58,639 --> 00:17:01,1000
+we kick off the next iteration of our
+
+531
+00:17:00,318 --> 00:17:04,159
+Loop here so I wrote some code that
+
+532
+00:17:02,000 --> 00:17:06,679
+grabs the first 50 Pokémon both in
+
+533
+00:17:04,160 --> 00:17:09,520
+serial and using concurrent code and we
+
+534
+00:17:06,679 --> 00:17:11,760
+can see here to get these 50 Pokemon
+
+535
+00:17:09,519 --> 00:17:13,918
+names with serial calls it took 7
+
+536
+00:17:11,759 --> 00:17:15,719
+seconds or 7,000 milliseconds here
+
+537
+00:17:13,919 --> 00:17:18,079
+whereas the concurrent calls doing the
+
+538
+00:17:15,720 --> 00:17:20,439
+exact same thing only took 530
+
+539
+00:17:18,078 --> 00:17:22,438
+milliseconds just over half a second so
+
+540
+00:17:20,439 --> 00:17:24,919
+we get this massive speed increase just
+
+541
+00:17:22,439 --> 00:17:26,919
+by implementing concurrency and again I
+
+542
+00:17:24,919 --> 00:17:28,1000
+didn't know about that at all I didn't
+
+543
+00:17:26,919 --> 00:17:31,319
+know it existed as a concept until I
+
+544
+00:17:29,000 --> 00:17:33,918
+asked that magic question how would a
+
+545
+00:17:31,319 --> 00:17:35,639
+senior JavaScript developer improve this
+
+546
+00:17:33,919 --> 00:17:37,240
+code and then please explain the
+
+547
+00:17:35,640 --> 00:17:38,320
+suggested improvements now I could
+
+548
+00:17:37,240 --> 00:17:40,519
+probably do a whole video in the future
+
+549
+00:17:38,319 --> 00:17:42,678
+on chat gbt I've used it for a lot more
+
+550
+00:17:40,519 --> 00:17:44,797
+Beyond coding what I will say to wrap up
+
+551
+00:17:42,679 --> 00:17:47,400
+this section is still realize that chat
+
+552
+00:17:44,798 --> 00:17:49,798
+GPT can get things wrong so it is really
+
+553
+00:17:47,400 --> 00:17:52,079
+important not to lean entirely on chat
+
+554
+00:17:49,798 --> 00:17:53,998
+GPT as a teaching tool I truly believe
+
+555
+00:17:52,079 --> 00:17:55,398
+you should go through courses and get
+
+556
+00:17:54,000 --> 00:17:57,960
+very familiar with the official
+
+557
+00:17:55,400 --> 00:18:01,239
+documentation at the mdn web docs and
+
+558
+00:17:57,960 --> 00:18:03,559
+then use chbt as a support tool that
+
+559
+00:18:01,240 --> 00:18:05,280
+supports those official resources that
+
+560
+00:18:03,558 --> 00:18:06,518
+brings us to secret weapon number two
+
+561
+00:18:05,279 --> 00:18:08,279
+which I've already showed you a little
+
+562
+00:18:06,519 --> 00:18:10,839
+bit in this video but the tool is called
+
+563
+00:18:08,279 --> 00:18:12,838
+pipe dream and it's kind of like zapier
+
+564
+00:18:10,839 --> 00:18:14,638
+or make.com it's like a no code
+
+565
+00:18:12,839 --> 00:18:16,557
+automation tool that allows you to sort
+
+566
+00:18:14,640 --> 00:18:18,320
+of hook up different tools together but
+
+567
+00:18:16,558 --> 00:18:20,478
+the real difference between pipe dream
+
+568
+00:18:18,319 --> 00:18:22,639
+and something like zapier is pipe dream
+
+569
+00:18:20,480 --> 00:18:24,600
+makes it super easy to write JavaScript
+
+570
+00:18:22,640 --> 00:18:26,479
+code that can actually support your
+
+571
+00:18:24,599 --> 00:18:28,398
+workflows and you can even bring in
+
+572
+00:18:26,480 --> 00:18:30,600
+packages that make your code even more
+
+573
+00:18:28,400 --> 00:18:32,640
+powerful and the reason that I'm listing
+
+574
+00:18:30,599 --> 00:18:34,797
+this as a secret weapon is I have found
+
+575
+00:18:32,640 --> 00:18:36,960
+pip dream allows me to build and ship
+
+576
+00:18:34,798 --> 00:18:38,839
+really useful workflows in incredibly
+
+577
+00:18:36,960 --> 00:18:41,400
+quickly and that actually encourages me
+
+578
+00:18:38,839 --> 00:18:43,199
+to go off and do it one of the biggest
+
+579
+00:18:41,400 --> 00:18:45,520
+blockers that kept me from learning
+
+580
+00:18:43,200 --> 00:18:47,440
+programming for a very long time was all
+
+581
+00:18:45,519 --> 00:18:49,557
+the infrastructure and all the extra
+
+582
+00:18:47,440 --> 00:18:51,558
+stuff around the actual code that you
+
+583
+00:18:49,558 --> 00:18:53,199
+want to write traditionally if you want
+
+584
+00:18:51,558 --> 00:18:54,678
+to ship an app you got to write your
+
+585
+00:18:53,200 --> 00:18:56,159
+code for the app but you also have to
+
+586
+00:18:54,679 --> 00:18:58,079
+get servers you have to think about
+
+587
+00:18:56,159 --> 00:19:00,119
+authentication you have to think about
+
+588
+00:18:58,079 --> 00:19:01,759
+uh ooth for apis and all kinds of stuff
+
+589
+00:19:00,119 --> 00:19:03,279
+like that and the beautiful thing about
+
+590
+00:19:01,759 --> 00:19:04,959
+pipe dream is it's a platform that
+
+591
+00:19:03,279 --> 00:19:07,198
+basically takes care of all of that for
+
+592
+00:19:04,960 --> 00:19:08,960
+you so if you're like me and you're very
+
+593
+00:19:07,200 --> 00:19:10,079
+focused on backend programming where
+
+594
+00:19:08,960 --> 00:19:12,520
+you're sort of like building Little
+
+595
+00:19:10,079 --> 00:19:14,439
+Machines That automate uh work between
+
+596
+00:19:12,519 --> 00:19:15,999
+different tools pipe dream makes that
+
+597
+00:19:14,440 --> 00:19:17,719
+incredibly fast and I want to show you
+
+598
+00:19:16,000 --> 00:19:19,759
+an example in this video just to show
+
+599
+00:19:17,720 --> 00:19:22,080
+you how powerful this tool can actually
+
+600
+00:19:19,759 --> 00:19:23,999
+be so here I have a very simple workflow
+
+601
+00:19:22,079 --> 00:19:25,759
+setup which is called audio to notion
+
+602
+00:19:24,000 --> 00:19:27,480
+this is basically the exact same thing I
+
+603
+00:19:25,759 --> 00:19:29,439
+talked about in the intro where we are
+
+604
+00:19:27,480 --> 00:19:30,759
+uploading an audio file to Google Drive
+
+605
+00:19:29,440 --> 00:19:32,640
+and then we're transcribing it and
+
+606
+00:19:30,759 --> 00:19:35,199
+sending the transcript to notion and
+
+607
+00:19:32,640 --> 00:19:37,159
+currently I'm using only no code
+
+608
+00:19:35,200 --> 00:19:39,200
+components so we have a trigger here
+
+609
+00:19:37,159 --> 00:19:40,799
+it's going to then download the file to
+
+610
+00:19:39,200 --> 00:19:42,918
+what's called Temp Storage we're going
+
+611
+00:19:40,798 --> 00:19:44,639
+to connect with open AI to transcribe
+
+612
+00:19:42,919 --> 00:19:46,200
+the audio file to text and then we're
+
+613
+00:19:44,640 --> 00:19:47,999
+going to create a brand new page in a
+
+614
+00:19:46,200 --> 00:19:50,039
+notet taking system in notion that has
+
+615
+00:19:48,000 --> 00:19:51,399
+that transcript so here I've got that
+
+616
+00:19:50,038 --> 00:19:53,399
+note taking system I'm just calling it
+
+617
+00:19:51,400 --> 00:19:55,319
+voice notes and if I go ahead and test
+
+618
+00:19:53,400 --> 00:19:56,960
+this workflow right here we get a
+
+619
+00:19:55,319 --> 00:19:58,319
+success message after a couple seconds
+
+620
+00:19:56,960 --> 00:20:00,1000
+and if I go back over to notion we we
+
+621
+00:19:58,319 --> 00:20:02,078
+see voic sample. MP3 I can open that up
+
+622
+00:20:01,000 --> 00:20:03,798
+and you can see we have a full
+
+623
+00:20:02,079 --> 00:20:06,479
+transcript of an audio file that I
+
+624
+00:20:03,798 --> 00:20:08,599
+recorded and you could do this in a
+
+625
+00:20:06,480 --> 00:20:11,640
+traditional no code automation Builder
+
+626
+00:20:08,599 --> 00:20:13,917
+like zappier or make.com but there's one
+
+627
+00:20:11,640 --> 00:20:16,880
+problem that I see with this transcript
+
+628
+00:20:13,919 --> 00:20:18,760
+it's a wall of text there's just so many
+
+629
+00:20:16,880 --> 00:20:20,558
+lines of text here I would love if this
+
+630
+00:20:18,759 --> 00:20:22,719
+was broken up into paragraphs but
+
+631
+00:20:20,558 --> 00:20:24,639
+unfortunately the no code components in
+
+632
+00:20:22,720 --> 00:20:27,239
+pipe dream don't have an option to do
+
+633
+00:20:24,640 --> 00:20:29,279
+that so that is where adding code into
+
+634
+00:20:27,240 --> 00:20:30,639
+the mix becomes is really really useful
+
+635
+00:20:29,279 --> 00:20:32,798
+and the way we can do that in pipe dream
+
+636
+00:20:30,640 --> 00:20:35,080
+is just by adding a step and choosing
+
+637
+00:20:32,798 --> 00:20:36,599
+the node step right here so node.js if
+
+638
+00:20:35,079 --> 00:20:38,958
+you don't know about it is what's called
+
+639
+00:20:36,599 --> 00:20:40,518
+a backend run time for JavaScript it
+
+640
+00:20:38,960 --> 00:20:42,239
+basically lets you run JavaScript
+
+641
+00:20:40,519 --> 00:20:44,318
+outside of just the browser you can run
+
+642
+00:20:42,240 --> 00:20:47,400
+it on servers almost like a true backend
+
+643
+00:20:44,319 --> 00:20:50,118
+language like PHP and here we can use it
+
+644
+00:20:47,400 --> 00:20:52,159
+to basically write code that acts as
+
+645
+00:20:50,119 --> 00:20:53,438
+glue to do extra stuff within our
+
+646
+00:20:52,159 --> 00:20:55,199
+workflows in pipe dream so I'm just
+
+647
+00:20:53,440 --> 00:20:57,959
+going to grab a hello world component
+
+648
+00:20:55,200 --> 00:20:59,360
+right here and I've prepared some code
+
+649
+00:20:57,960 --> 00:21:01,359
+that that I'm just going to copy and
+
+650
+00:20:59,359 --> 00:21:03,359
+paste directly into the step again this
+
+651
+00:21:01,359 --> 00:21:04,918
+is not meant to be a technical video so
+
+652
+00:21:03,359 --> 00:21:06,839
+you don't have to worry about what this
+
+653
+00:21:04,919 --> 00:21:08,640
+code is doing or how it works but
+
+654
+00:21:06,839 --> 00:21:10,638
+basically we're importing a really
+
+655
+00:21:08,640 --> 00:21:12,918
+powerful Library called natural which
+
+656
+00:21:10,640 --> 00:21:14,320
+can split our transcript into sentences
+
+657
+00:21:12,919 --> 00:21:15,999
+and then I have some simple code here
+
+658
+00:21:14,319 --> 00:21:18,319
+that is going to basically make groups
+
+659
+00:21:16,000 --> 00:21:20,200
+of two sentences per paragraph So if I
+
+660
+00:21:18,319 --> 00:21:21,638
+test this out you can see what it does
+
+661
+00:21:20,200 --> 00:21:23,479
+and you can see here on the return value
+
+662
+00:21:21,640 --> 00:21:26,199
+area we now have our transcript but we
+
+663
+00:21:23,480 --> 00:21:28,960
+have some line breaks uh between these
+
+664
+00:21:26,200 --> 00:21:31,278
+groups of paragraphs so if I copy this
+
+665
+00:21:28,960 --> 00:21:33,719
+path here and I come down into our
+
+666
+00:21:31,278 --> 00:21:35,718
+create page from database no code action
+
+667
+00:21:33,720 --> 00:21:38,239
+and I basically replace this page
+
+668
+00:21:35,720 --> 00:21:40,200
+content call with that variable we can
+
+669
+00:21:38,240 --> 00:21:41,720
+test it one more time and once again we
+
+670
+00:21:40,200 --> 00:21:43,360
+get a success message we can go back
+
+671
+00:21:41,720 --> 00:21:45,159
+over to notion and now we can check out
+
+672
+00:21:43,359 --> 00:21:47,639
+this brand new page and would you look
+
+673
+00:21:45,159 --> 00:21:49,840
+at that we have actual paragraphs and
+
+674
+00:21:47,640 --> 00:21:52,720
+each paragraph is an individual block
+
+675
+00:21:49,839 --> 00:21:54,839
+inside of notion so that is really what
+
+676
+00:21:52,720 --> 00:21:57,038
+code can allow you to do once you kind
+
+677
+00:21:54,839 --> 00:21:58,999
+of come up against the limits of no code
+
+678
+00:21:57,038 --> 00:22:01,478
+platforms a platform like pipe dream
+
+679
+00:21:59,000 --> 00:22:03,278
+basically says hey write your own code
+
+680
+00:22:01,480 --> 00:22:04,520
+work around those limitations and you
+
+681
+00:22:03,278 --> 00:22:06,758
+can build a workflow that does pretty
+
+682
+00:22:04,519 --> 00:22:08,677
+much exactly what you want so I started
+
+683
+00:22:06,759 --> 00:22:10,239
+using pipe dream in that capacity I was
+
+684
+00:22:08,679 --> 00:22:12,159
+building no code workflows and then
+
+685
+00:22:10,240 --> 00:22:14,400
+adding little little Snippets of code
+
+686
+00:22:12,159 --> 00:22:16,079
+just to sort of add things that I wanted
+
+687
+00:22:14,400 --> 00:22:17,919
+and over time I got more and more
+
+688
+00:22:16,079 --> 00:22:20,598
+involved in the platform to the point
+
+689
+00:22:17,919 --> 00:22:22,760
+now where my notion voice notes uh
+
+690
+00:22:20,599 --> 00:22:24,358
+automation actually works on pipe dream
+
+691
+00:22:22,759 --> 00:22:26,638
+that is where it lives but it is
+
+692
+00:22:24,359 --> 00:22:28,719
+entirely based on code nothing is using
+
+693
+00:22:26,640 --> 00:22:31,558
+a no code component at this point and I
+
+694
+00:22:28,720 --> 00:22:33,1000
+wrote probably 2500 lines of code over
+
+695
+00:22:31,558 --> 00:22:35,399
+several months uh to make this entire
+
+696
+00:22:34,000 --> 00:22:37,359
+thing work and that's actually the
+
+697
+00:22:35,400 --> 00:22:39,038
+reason that I am listing piped dream in
+
+698
+00:22:37,359 --> 00:22:41,079
+this video Even if you are not a
+
+699
+00:22:39,038 --> 00:22:42,998
+back-end Focus developer because it
+
+700
+00:22:41,079 --> 00:22:45,199
+represents a concept that I think is
+
+701
+00:22:43,000 --> 00:22:47,679
+very important for learning how to code
+
+702
+00:22:45,200 --> 00:22:49,559
+and that is the removal of friction like
+
+703
+00:22:47,679 --> 00:22:51,599
+I said before I was originally
+
+704
+00:22:49,558 --> 00:22:53,038
+intimidated by all the extra stuff you
+
+705
+00:22:51,599 --> 00:22:55,839
+have to do around coding like
+
+706
+00:22:53,038 --> 00:22:57,959
+authentication security servers finding
+
+707
+00:22:55,839 --> 00:23:00,037
+a platform like pip dream basically G
+
+708
+00:22:57,960 --> 00:23:02,080
+gave me a tool where I could just write
+
+709
+00:23:00,038 --> 00:23:04,079
+simple code write the code that I knew
+
+710
+00:23:02,079 --> 00:23:05,639
+how to write and get something that
+
+711
+00:23:04,079 --> 00:23:08,038
+actually worked and did something
+
+712
+00:23:05,640 --> 00:23:10,319
+interesting and that gave me enough
+
+713
+00:23:08,038 --> 00:23:12,677
+momentum it gave me a result that pushed
+
+714
+00:23:10,319 --> 00:23:15,038
+me to keep improving my scripts until
+
+715
+00:23:12,679 --> 00:23:16,679
+eventually I was coding uh entirely
+
+716
+00:23:15,038 --> 00:23:18,639
+code-based scripts that weren't using no
+
+717
+00:23:16,679 --> 00:23:20,639
+code components and now I'm to the point
+
+718
+00:23:18,640 --> 00:23:22,600
+where I actually do understand things
+
+719
+00:23:20,640 --> 00:23:23,918
+like authentication and servers so if I
+
+720
+00:23:22,599 --> 00:23:25,639
+wanted to go ahead and turn this into a
+
+721
+00:23:23,919 --> 00:23:27,559
+non- pipe dream based workflow if I
+
+722
+00:23:25,640 --> 00:23:29,960
+wanted to build a full stack app on it
+
+723
+00:23:27,558 --> 00:23:31,278
+I'm much better equipped to do that and
+
+724
+00:23:29,960 --> 00:23:33,120
+I don't think I would have gotten to
+
+725
+00:23:31,278 --> 00:23:34,959
+that point quite as quickly without an
+
+726
+00:23:33,119 --> 00:23:36,478
+interim tool like pipe dream now in the
+
+727
+00:23:34,960 --> 00:23:38,120
+intro I also mentioned that one of those
+
+728
+00:23:36,480 --> 00:23:39,839
+secret weapons has become a source of
+
+729
+00:23:38,119 --> 00:23:40,878
+side income for me and represents a
+
+730
+00:23:39,839 --> 00:23:42,879
+pretty interesting side hustle
+
+731
+00:23:40,880 --> 00:23:44,719
+opportunity that actually is pipe dream
+
+732
+00:23:42,880 --> 00:23:47,639
+as well and I want to show you exactly
+
+733
+00:23:44,720 --> 00:23:50,080
+why so first and foremost pip dream has
+
+734
+00:23:47,640 --> 00:23:51,720
+a uh a feature that a lot of other no
+
+735
+00:23:50,079 --> 00:23:53,878
+code tools do not have that I think is
+
+736
+00:23:51,720 --> 00:23:55,960
+super useful and that is this little
+
+737
+00:23:53,880 --> 00:23:57,1000
+share link feature right here
+
+738
+00:23:55,960 --> 00:24:00,200
+essentially I can create this I can can
+
+739
+00:23:58,000 --> 00:24:02,519
+choose some settings and I can generate
+
+740
+00:24:00,200 --> 00:24:04,679
+a little link that when anyone clicks it
+
+741
+00:24:02,519 --> 00:24:06,277
+it's going to automatically rebuild this
+
+742
+00:24:04,679 --> 00:24:08,720
+entire workflow in their pip dream
+
+743
+00:24:06,278 --> 00:24:10,959
+account so it's almost like a notion
+
+744
+00:24:08,720 --> 00:24:12,798
+template and the other thing pip dream
+
+745
+00:24:10,960 --> 00:24:14,640
+has is an affiliate program and a pretty
+
+746
+00:24:12,798 --> 00:24:15,878
+darn good one at that because uh when
+
+747
+00:24:14,640 --> 00:24:17,840
+people click through and actually
+
+748
+00:24:15,880 --> 00:24:20,240
+upgrade to a paid account um the
+
+749
+00:24:17,839 --> 00:24:23,199
+affiliate gets 33% of their payments for
+
+750
+00:24:20,240 --> 00:24:25,759
+an entire year now pipe dream is also
+
+751
+00:24:23,200 --> 00:24:26,918
+incredibly powerful on its free tier so
+
+752
+00:24:25,759 --> 00:24:28,198
+I've been working with their affiliate
+
+753
+00:24:26,919 --> 00:24:30,080
+program for the past few months months
+
+754
+00:24:28,200 --> 00:24:31,519
+and I think only 1% of the people who
+
+755
+00:24:30,079 --> 00:24:33,277
+have clicked my affiliate link have
+
+756
+00:24:31,519 --> 00:24:35,358
+actually converted to a paid account but
+
+757
+00:24:33,278 --> 00:24:38,438
+just that 1% of people about 100
+
+758
+00:24:35,359 --> 00:24:40,397
+customers so far has generated $4,000 in
+
+759
+00:24:38,440 --> 00:24:42,158
+commissions over the past few months and
+
+760
+00:24:40,398 --> 00:24:44,519
+that number is only growing every single
+
+761
+00:24:42,159 --> 00:24:45,639
+month so it's this really cool thing
+
+762
+00:24:44,519 --> 00:24:47,838
+that I get to do where I get to
+
+763
+00:24:45,640 --> 00:24:49,439
+basically build free software share it
+
+764
+00:24:47,839 --> 00:24:50,798
+with my audience which I mainly do over
+
+765
+00:24:49,440 --> 00:24:53,279
+on my second Channel Thomas Frank
+
+766
+00:24:50,798 --> 00:24:55,557
+explains and a small portion of the
+
+767
+00:24:53,278 --> 00:24:57,157
+people who use that software eventually
+
+768
+00:24:55,558 --> 00:24:58,438
+upgrade to paid accounts maybe their
+
+769
+00:24:57,159 --> 00:25:00,279
+teams or just just have a lot of
+
+770
+00:24:58,440 --> 00:25:02,319
+automation needs and I'm able to earn
+
+771
+00:25:00,278 --> 00:25:04,238
+some income that way without having to
+
+772
+00:25:02,319 --> 00:25:05,839
+actually sell anything but if you're
+
+773
+00:25:04,240 --> 00:25:08,759
+following along you might be getting an
+
+774
+00:25:05,839 --> 00:25:10,999
+idea here because these share links are
+
+775
+00:25:08,759 --> 00:25:12,598
+kind of like notion templates in a way
+
+776
+00:25:11,000 --> 00:25:15,240
+they're just links that kind of help you
+
+777
+00:25:12,599 --> 00:25:16,158
+duplicate something that I've built and
+
+778
+00:25:15,240 --> 00:25:18,200
+uh if you've been following me on
+
+779
+00:25:16,159 --> 00:25:20,119
+Twitter you might know that a large part
+
+780
+00:25:18,200 --> 00:25:22,559
+of my business these days is selling
+
+781
+00:25:20,119 --> 00:25:24,277
+paid notion templates over on my website
+
+782
+00:25:22,558 --> 00:25:26,158
+well I think you could do the exact same
+
+783
+00:25:24,278 --> 00:25:28,678
+thing with Pip dream you could either
+
+784
+00:25:26,159 --> 00:25:31,038
+build bespoke workflows for clients in
+
+785
+00:25:28,679 --> 00:25:32,959
+fact I've done that for nebula or you
+
+786
+00:25:31,038 --> 00:25:34,478
+could build workflow templates like the
+
+787
+00:25:32,960 --> 00:25:36,239
+notion voice notes template that I made
+
+788
+00:25:34,480 --> 00:25:38,520
+or notion voice tasks template that I
+
+789
+00:25:36,240 --> 00:25:40,999
+made and you can actually sell those as
+
+790
+00:25:38,519 --> 00:25:42,557
+useful paid software I don't have the
+
+791
+00:25:41,000 --> 00:25:44,080
+capacity to do that right now because I
+
+792
+00:25:42,558 --> 00:25:45,678
+would want to offer support for it it's
+
+793
+00:25:44,079 --> 00:25:47,397
+just one of my values but I think
+
+794
+00:25:45,679 --> 00:25:48,919
+somebody who had a bit more time and a
+
+795
+00:25:47,398 --> 00:25:50,719
+little bit of programming skill could
+
+796
+00:25:48,919 --> 00:25:52,798
+really deliver value by putting together
+
+797
+00:25:50,720 --> 00:25:54,679
+workflows in pipe dream and then selling
+
+798
+00:25:52,798 --> 00:25:56,479
+them so keep that in mind as a potential
+
+799
+00:25:54,679 --> 00:25:57,520
+source of side income at this point in
+
+800
+00:25:56,480 --> 00:25:59,480
+the video we are now going to move on to
+
+801
+00:25:57,519 --> 00:26:00,918
+the next section which is three of my
+
+802
+00:25:59,480 --> 00:26:03,558
+top learning hacks for learning
+
+803
+00:26:00,919 --> 00:26:06,1000
+programming even faster the first one is
+
+804
+00:26:03,558 --> 00:26:09,639
+the simplest write code often write code
+
+805
+00:26:07,000 --> 00:26:11,719
+as much as you can and I'm saying this
+
+806
+00:26:09,640 --> 00:26:13,760
+explicitly because a lot of people when
+
+807
+00:26:11,720 --> 00:26:15,320
+they try to learn programming get caught
+
+808
+00:26:13,759 --> 00:26:17,719
+up in tutorials and they get caught up
+
+809
+00:26:15,319 --> 00:26:19,759
+in watching Learning Materials that's
+
+810
+00:26:17,720 --> 00:26:21,880
+important but it's much more important
+
+811
+00:26:19,759 --> 00:26:23,959
+than you actually go write code and try
+
+812
+00:26:21,880 --> 00:26:25,719
+to build things and anything you can do
+
+813
+00:26:23,960 --> 00:26:27,319
+to make the process of writing code
+
+814
+00:26:25,720 --> 00:26:29,798
+easier for yourself anything you can do
+
+815
+00:26:27,319 --> 00:26:31,639
+to remove friction from that process you
+
+816
+00:26:29,798 --> 00:26:33,278
+should do it is one of the main reasons
+
+817
+00:26:31,640 --> 00:26:35,159
+I chose to feature pipe dream so
+
+818
+00:26:33,278 --> 00:26:37,359
+prominently in this video because it's
+
+819
+00:26:35,159 --> 00:26:39,960
+the tool that allows me to just spin up
+
+820
+00:26:37,359 --> 00:26:41,557
+useful workflows really quickly where
+
+821
+00:26:39,960 --> 00:26:43,039
+otherwise I might say oh that's too much
+
+822
+00:26:41,558 --> 00:26:45,397
+of a hassle right now I'm too busy I'm
+
+823
+00:26:43,038 --> 00:26:46,759
+not going to do it for example a few
+
+824
+00:26:45,398 --> 00:26:48,639
+months ago I was on a Discord with some
+
+825
+00:26:46,759 --> 00:26:50,037
+people and one person was like man I
+
+826
+00:26:48,640 --> 00:26:51,640
+really wish I could pull Magic the
+
+827
+00:26:50,038 --> 00:26:53,879
+Gathering card art into my notion
+
+828
+00:26:51,640 --> 00:26:55,720
+database and I was like there's a magic
+
+829
+00:26:53,880 --> 00:26:58,158
+the Gathering API it's called the
+
+830
+00:26:55,720 --> 00:26:59,840
+scryfall API I think I could whip up
+
+831
+00:26:58,159 --> 00:27:01,720
+something really quickly in pipe dream
+
+832
+00:26:59,839 --> 00:27:04,037
+that would pull the cards this person
+
+833
+00:27:01,720 --> 00:27:06,599
+wants from scryfall and put them into
+
+834
+00:27:04,038 --> 00:27:08,518
+notion so I built that in just about 20
+
+835
+00:27:06,599 --> 00:27:10,797
+minutes using pipe dream gave them the
+
+836
+00:27:08,519 --> 00:27:12,557
+share link and they were able to use it
+
+837
+00:27:10,798 --> 00:27:14,198
+and I learned a whole bunch of cool code
+
+838
+00:27:12,558 --> 00:27:16,397
+tricks along the way because it was a
+
+839
+00:27:14,200 --> 00:27:18,200
+new and novel challenge if I didn't have
+
+840
+00:27:16,398 --> 00:27:19,797
+a tool like pipe dream I might not have
+
+841
+00:27:18,200 --> 00:27:22,119
+taken that on because I only had about
+
+842
+00:27:19,798 --> 00:27:24,038
+an hour of time worth in that evening to
+
+843
+00:27:22,119 --> 00:27:25,917
+do it and I will recommend another tool
+
+844
+00:27:24,038 --> 00:27:28,119
+aside from pipe dream uh for this
+
+845
+00:27:25,919 --> 00:27:29,399
+purpose and that's called repet so pipe
+
+846
+00:27:28,119 --> 00:27:31,797
+dream is really about building
+
+847
+00:27:29,398 --> 00:27:34,319
+automations between apis repet is
+
+848
+00:27:31,798 --> 00:27:36,519
+actually almost like a full coding
+
+849
+00:27:34,319 --> 00:27:37,918
+platform in the cloud you can write code
+
+850
+00:27:36,519 --> 00:27:39,479
+in tons of different languages you can
+
+851
+00:27:37,919 --> 00:27:41,319
+actually run that code you can deploy
+
+852
+00:27:39,480 --> 00:27:44,558
+full apps I've used it I've even
+
+853
+00:27:41,319 --> 00:27:46,277
+embedded um some repet EDS in some of my
+
+854
+00:27:44,558 --> 00:27:48,878
+coding tutorials on my blog and you can
+
+855
+00:27:46,278 --> 00:27:50,478
+literally run code in them so definitely
+
+856
+00:27:48,880 --> 00:27:51,960
+check that out because it's yet another
+
+857
+00:27:50,480 --> 00:27:53,759
+platform that will allow you to spin up
+
+858
+00:27:51,960 --> 00:27:55,480
+something very quickly and again it
+
+859
+00:27:53,759 --> 00:27:57,037
+removes that friction from the process
+
+860
+00:27:55,480 --> 00:27:59,200
+of trying something out or starting a
+
+861
+00:27:57,038 --> 00:28:01,358
+quick project learning hack number two
+
+862
+00:27:59,200 --> 00:28:04,360
+is once you start building projects that
+
+863
+00:28:01,359 --> 00:28:06,759
+get pretty sizable you want to have a
+
+864
+00:28:04,359 --> 00:28:08,439
+testing folder aside from that project
+
+865
+00:28:06,759 --> 00:28:10,397
+where you can write specific functions
+
+866
+00:28:08,440 --> 00:28:12,558
+in isolation and test them and I want to
+
+867
+00:28:10,398 --> 00:28:15,037
+show you kind of an example here so once
+
+868
+00:28:12,558 --> 00:28:17,078
+again to jog your memory this is my
+
+869
+00:28:15,038 --> 00:28:19,999
+biggest project it's called notion voice
+
+870
+00:28:17,079 --> 00:28:21,479
+notes and it is absolutely massive now
+
+871
+00:28:20,000 --> 00:28:23,919
+typically you probably wouldn't write
+
+872
+00:28:21,480 --> 00:28:26,079
+code files this long in normal modern
+
+873
+00:28:23,919 --> 00:28:28,359
+projects that use modern design patterns
+
+874
+00:28:26,079 --> 00:28:30,838
+my code is in one gigantic file here
+
+875
+00:28:28,359 --> 00:28:32,599
+because I started on pipe dream and uh
+
+876
+00:28:30,839 --> 00:28:34,557
+initially I was writing in the actual
+
+877
+00:28:32,599 --> 00:28:36,917
+pipe dream app where you kind of have to
+
+878
+00:28:34,558 --> 00:28:38,878
+have everything in one file so I could
+
+879
+00:28:36,919 --> 00:28:40,519
+split this up but still this is a
+
+880
+00:28:38,880 --> 00:28:42,239
+gigantic project and it has a lot of
+
+881
+00:28:40,519 --> 00:28:44,919
+moving parts and if I want to test
+
+882
+00:28:42,240 --> 00:28:46,799
+something in the middle of the project
+
+883
+00:28:44,919 --> 00:28:48,399
+then uh the testing process can get
+
+884
+00:28:46,798 --> 00:28:49,878
+really really tedious and lengthy
+
+885
+00:28:48,398 --> 00:28:52,678
+because it's sort of like handing stuff
+
+886
+00:28:49,880 --> 00:28:54,599
+off to other functions so instead once
+
+887
+00:28:52,679 --> 00:28:55,880
+you get a project around this size maybe
+
+888
+00:28:54,599 --> 00:28:57,958
+a little smaller you want to give
+
+889
+00:28:55,880 --> 00:29:00,399
+yourself like a testing folder here and
+
+890
+00:28:57,960 --> 00:29:02,599
+this will essentially allow you to write
+
+891
+00:29:00,398 --> 00:29:04,239
+small functions and then test them out
+
+892
+00:29:02,599 --> 00:29:06,759
+directly to make sure they work before
+
+893
+00:29:04,240 --> 00:29:08,799
+you plug them in to your bigger project
+
+894
+00:29:06,759 --> 00:29:10,999
+so here I have a very small function
+
+895
+00:29:08,798 --> 00:29:12,479
+that is going to take a list of Pokemon
+
+896
+00:29:11,000 --> 00:29:14,640
+objects and I can sort them by a
+
+897
+00:29:12,480 --> 00:29:16,840
+specific criteria so down here just to
+
+898
+00:29:14,640 --> 00:29:19,518
+point this out I'm sorting my Pokemon
+
+899
+00:29:16,839 --> 00:29:21,678
+object by their type and if I run this
+
+900
+00:29:19,519 --> 00:29:24,559
+code I get an error and it says type is
+
+901
+00:29:21,679 --> 00:29:26,558
+not defined this is an example of quick
+
+902
+00:29:24,558 --> 00:29:28,478
+iteration here I can immediately get my
+
+903
+00:29:26,558 --> 00:29:30,239
+error where as if I was writing this
+
+904
+00:29:28,480 --> 00:29:31,640
+function in my giant project I would
+
+905
+00:29:30,240 --> 00:29:33,038
+have to go through this entire build
+
+906
+00:29:31,640 --> 00:29:35,678
+process and it would take me a lot
+
+907
+00:29:33,038 --> 00:29:37,797
+longer to get this exact error message
+
+908
+00:29:35,679 --> 00:29:39,360
+so here I get it right away I can go
+
+909
+00:29:37,798 --> 00:29:41,518
+whoops I accidentally forgot to put my
+
+910
+00:29:39,359 --> 00:29:43,479
+quotation marks around this word type
+
+911
+00:29:41,519 --> 00:29:45,719
+here let's go ahead and save the file
+
+912
+00:29:43,480 --> 00:29:47,558
+let's run the code again and do we get
+
+913
+00:29:45,720 --> 00:29:49,320
+an error message this time no we don't
+
+914
+00:29:47,558 --> 00:29:51,838
+and we do see that we have our Pokemon
+
+915
+00:29:49,319 --> 00:29:55,277
+objects sorted in reverse order by their
+
+916
+00:29:51,839 --> 00:29:57,438
+type water grass and fire so again give
+
+917
+00:29:55,278 --> 00:29:59,518
+yourself a little test area where you
+
+918
+00:29:57,440 --> 00:30:00,919
+can write functions in isolation and
+
+919
+00:29:59,519 --> 00:30:03,159
+you're going to tighten those feedback
+
+920
+00:30:00,919 --> 00:30:04,678
+loops and make much quicker progress and
+
+921
+00:30:03,159 --> 00:30:07,279
+speaking of progress learning hack
+
+922
+00:30:04,679 --> 00:30:09,119
+number three is to build yourself a code
+
+923
+00:30:07,278 --> 00:30:11,198
+Snippets note or maybe even a code
+
+924
+00:30:09,119 --> 00:30:12,359
+Snippets database so I want to show you
+
+925
+00:30:11,200 --> 00:30:13,880
+mine really quickly here to show you
+
+926
+00:30:12,359 --> 00:30:15,479
+what this is here in my note taking
+
+927
+00:30:13,880 --> 00:30:18,320
+system in notion I've got a note called
+
+928
+00:30:15,480 --> 00:30:20,398
+code Snippets and basically whenever I
+
+929
+00:30:18,319 --> 00:30:22,517
+find myself using a snippet of code all
+
+930
+00:30:20,398 --> 00:30:24,277
+the time in my projects I will create a
+
+931
+00:30:22,519 --> 00:30:26,839
+snippet for it in this note so I've got
+
+932
+00:30:24,278 --> 00:30:27,798
+one here this one's kind of uh verious I
+
+933
+00:30:26,839 --> 00:30:29,359
+don't know if that's word but I'm going
+
+934
+00:30:27,798 --> 00:30:31,359
+to come down here to show you this one
+
+935
+00:30:29,359 --> 00:30:32,398
+import the notion SDK into pipe dream so
+
+936
+00:30:31,359 --> 00:30:34,798
+basically if I want to work with the
+
+937
+00:30:32,398 --> 00:30:36,959
+notion API there is this import
+
+938
+00:30:34,798 --> 00:30:39,278
+statement and then there's some specific
+
+939
+00:30:36,960 --> 00:30:41,038
+code for creating an instance of a
+
+940
+00:30:39,278 --> 00:30:44,079
+client that I can use to work with the
+
+941
+00:30:41,038 --> 00:30:45,639
+notion API I often forget how to
+
+942
+00:30:44,079 --> 00:30:48,678
+actually type this out and that's kind
+
+943
+00:30:45,640 --> 00:30:51,279
+of okay because memorizing coding syntax
+
+944
+00:30:48,679 --> 00:30:52,679
+specifically for like libraries here is
+
+945
+00:30:51,278 --> 00:30:54,238
+probably one of the least valuable
+
+946
+00:30:52,679 --> 00:30:56,038
+skills you can have as a programmer
+
+947
+00:30:54,240 --> 00:30:57,760
+especially as AI starts to become more
+
+948
+00:30:56,038 --> 00:30:59,558
+and more part of our workflow it's much
+
+949
+00:30:57,759 --> 00:31:01,638
+more important to understand the logic
+
+950
+00:30:59,558 --> 00:31:03,838
+and the creative problem solving process
+
+951
+00:31:01,638 --> 00:31:05,557
+so here if I need to import the notion
+
+952
+00:31:03,839 --> 00:31:06,999
+SDK into pipe dream I'm just going to
+
+953
+00:31:05,558 --> 00:31:08,879
+come grab my snippet I'm going to paste
+
+954
+00:31:07,000 --> 00:31:11,000
+it in and then I'm going to start coding
+
+955
+00:31:08,880 --> 00:31:12,960
+from this base and that is going to
+
+956
+00:31:11,000 --> 00:31:14,839
+allow me to code much more quickly and
+
+957
+00:31:12,960 --> 00:31:16,399
+spend a lot less time trying to remember
+
+958
+00:31:14,839 --> 00:31:17,959
+hey how do I do this thing that I've
+
+959
+00:31:16,398 --> 00:31:19,558
+done a million times before it's all
+
+960
+00:31:17,960 --> 00:31:20,960
+about efficiency and speaking of
+
+961
+00:31:19,558 --> 00:31:22,719
+efficiency I want to now talk about some
+
+962
+00:31:20,960 --> 00:31:24,719
+of my favorite programming tools that
+
+963
+00:31:22,720 --> 00:31:27,479
+speed up my workflow and basically make
+
+964
+00:31:24,720 --> 00:31:29,638
+work a lot easier as well the first one
+
+965
+00:31:27,480 --> 00:31:32,359
+is what's called VSS code or Visual
+
+966
+00:31:29,638 --> 00:31:33,517
+Studio code this is an editor and there
+
+967
+00:31:32,359 --> 00:31:35,798
+are a lot of editors out there there's
+
+968
+00:31:33,519 --> 00:31:38,240
+like Sublime Text there's like notepad++
+
+969
+00:31:35,798 --> 00:31:39,718
+if you're really old school but vs code
+
+970
+00:31:38,240 --> 00:31:41,079
+is kind of seen as one of the most
+
+971
+00:31:39,720 --> 00:31:43,880
+popular one of the most powerful out
+
+972
+00:31:41,079 --> 00:31:45,359
+there it's the one that I use and um for
+
+973
+00:31:43,880 --> 00:31:46,919
+basically any programming language that
+
+974
+00:31:45,359 --> 00:31:49,517
+you're working in you can probably use
+
+975
+00:31:46,919 --> 00:31:51,199
+vs code uh and in particular I want to
+
+976
+00:31:49,519 --> 00:31:52,880
+point out a few different extensions
+
+977
+00:31:51,200 --> 00:31:54,999
+that you can actually add to VSS code to
+
+978
+00:31:52,880 --> 00:31:57,519
+make it really powerful as a learning
+
+979
+00:31:55,000 --> 00:31:59,679
+tool so here in VSS code which is free
+
+980
+00:31:57,519 --> 00:32:02,360
+it's on basically all the major systems
+
+981
+00:31:59,679 --> 00:32:03,760
+I can open up my little extensions area
+
+982
+00:32:02,359 --> 00:32:06,037
+and you can see that I have five
+
+983
+00:32:03,759 --> 00:32:06,999
+installed Cod Runner is the number one
+
+984
+00:32:06,038 --> 00:32:08,397
+extension that I would recommend
+
+985
+00:32:07,000 --> 00:32:10,600
+installing I think you also need to
+
+986
+00:32:08,398 --> 00:32:11,878
+install node.js which is pretty easy you
+
+987
+00:32:10,599 --> 00:32:13,958
+can just go to the website which I'll
+
+988
+00:32:11,880 --> 00:32:15,638
+link below install that in your computer
+
+989
+00:32:13,960 --> 00:32:17,1000
+and the reason I love code Runner so
+
+990
+00:32:15,638 --> 00:32:19,557
+much is it lets you run code really
+
+991
+00:32:18,000 --> 00:32:20,798
+really quickly I've already shown it in
+
+992
+00:32:19,558 --> 00:32:22,839
+this video but I'll show it one more
+
+993
+00:32:20,798 --> 00:32:26,118
+time basically if I clear the output
+
+994
+00:32:22,839 --> 00:32:28,239
+here in the uh output tab if I just
+
+995
+00:32:26,119 --> 00:32:30,518
+right click and hit run code it runs the
+
+996
+00:32:28,240 --> 00:32:32,079
+code and I can see the results and I can
+
+997
+00:32:30,519 --> 00:32:34,799
+see any errors if it's going to throw an
+
+998
+00:32:32,079 --> 00:32:37,037
+error so this is the fastest way to just
+
+999
+00:32:34,798 --> 00:32:38,599
+run a snippet of code get an answer and
+
+1000
+00:32:37,038 --> 00:32:40,278
+tighten those feedback loops there's
+
+1001
+00:32:38,599 --> 00:32:43,238
+another extension that does a very
+
+1002
+00:32:40,278 --> 00:32:45,398
+similar thing it is called live preview
+
+1003
+00:32:43,240 --> 00:32:47,440
+and this one instead of basically
+
+1004
+00:32:45,398 --> 00:32:49,479
+outputting the results of your code in
+
+1005
+00:32:47,440 --> 00:32:51,518
+this little output tab here actually
+
+1006
+00:32:49,480 --> 00:32:53,558
+creates like a mini browser window
+
+1007
+00:32:51,519 --> 00:32:55,519
+inside a vs code so this can be very
+
+1008
+00:32:53,558 --> 00:32:57,599
+helpful if you're actually writing HTML
+
+1009
+00:32:55,519 --> 00:33:00,120
+around your JavaScript um so just like
+
+1010
+00:32:57,599 --> 00:33:02,438
+before I have this very simple HTML file
+
+1011
+00:33:00,119 --> 00:33:04,079
+but we have this Pokemon sorting
+
+1012
+00:33:02,440 --> 00:33:05,359
+function that I've built here and if I
+
+1013
+00:33:04,079 --> 00:33:07,277
+just click this little preview button
+
+1014
+00:33:05,359 --> 00:33:09,118
+right here I can actually see what the
+
+1015
+00:33:07,278 --> 00:33:10,918
+table is going to look like inside of a
+
+1016
+00:33:09,119 --> 00:33:12,558
+mini browser window and the cool thing
+
+1017
+00:33:10,919 --> 00:33:14,519
+about this extension is it will
+
+1018
+00:33:12,558 --> 00:33:17,157
+automatically update if I change the
+
+1019
+00:33:14,519 --> 00:33:20,320
+code so let's say I come down here and I
+
+1020
+00:33:17,159 --> 00:33:24,080
+change my sorting criteria from Attack
+
+1021
+00:33:20,319 --> 00:33:26,078
+to let's say name now we can see it is
+
+1022
+00:33:24,079 --> 00:33:29,439
+uh sorting by name in reverse order if I
+
+1023
+00:33:26,079 --> 00:33:31,439
+remove this reverse call here now it's
+
+1024
+00:33:29,440 --> 00:33:33,239
+sorting in alphabetical order ascending
+
+1025
+00:33:31,440 --> 00:33:35,880
+order and again this is just a super
+
+1026
+00:33:33,240 --> 00:33:37,959
+quick way to iterate on your code make
+
+1027
+00:33:35,880 --> 00:33:39,440
+changes and actually see the results in
+
+1028
+00:33:37,960 --> 00:33:40,839
+real time another extension that I
+
+1029
+00:33:39,440 --> 00:33:43,999
+highly recommend that is a great
+
+1030
+00:33:40,839 --> 00:33:46,358
+learning tool is called quaka uh quaka
+
+1031
+00:33:44,000 --> 00:33:48,599
+JS right here this will basically
+
+1032
+00:33:46,359 --> 00:33:51,078
+execute code directly inside of your
+
+1033
+00:33:48,599 --> 00:33:53,079
+editor on a line byline basis so to show
+
+1034
+00:33:51,079 --> 00:33:55,558
+you an example of that I've got this uh
+
+1035
+00:33:53,079 --> 00:33:57,199
+loop test.js file here it's doing
+
+1036
+00:33:55,558 --> 00:33:59,758
+something very very simple it's just
+
+1037
+00:33:57,200 --> 00:34:01,639
+doing a 99 Loop here that it's basically
+
+1038
+00:33:59,759 --> 00:34:04,358
+just printing uh 99 bottles of beer on
+
+1039
+00:34:01,638 --> 00:34:06,918
+the wall 98 97 Etc and you can see here
+
+1040
+00:34:04,359 --> 00:34:09,357
+quaca actually will output the result of
+
+1041
+00:34:06,919 --> 00:34:11,480
+this console log statement in the editor
+
+1042
+00:34:09,358 --> 00:34:13,078
+itself this is a great way to learn and
+
+1043
+00:34:11,480 --> 00:34:15,040
+to show you a very very simple example
+
+1044
+00:34:13,079 --> 00:34:17,519
+just to drive it home let's do something
+
+1045
+00:34:15,039 --> 00:34:19,758
+super duper easy we'll do console.log 2
+
+1046
+00:34:17,519 --> 00:34:21,438
+* 2 and you can see immediately goes
+
+1047
+00:34:19,760 --> 00:34:22,639
+four so you can see exactly what's
+
+1048
+00:34:21,440 --> 00:34:25,239
+happening maybe if we use a division
+
+1049
+00:34:22,639 --> 00:34:27,358
+operator we'll get one and again this
+
+1050
+00:34:25,239 --> 00:34:29,038
+just teaches you in the moment what your
+
+1051
+00:34:27,358 --> 00:34:30,318
+code is actually doing a couple more
+
+1052
+00:34:29,039 --> 00:34:32,719
+extensions before we move on to some
+
+1053
+00:34:30,320 --> 00:34:34,560
+other tools uh I really like eslint
+
+1054
+00:34:32,719 --> 00:34:36,558
+which is just this great extension that
+
+1055
+00:34:34,559 --> 00:34:38,559
+basically adds what's called linting to
+
+1056
+00:34:36,559 --> 00:34:40,478
+your JavaScript it will uh basically
+
+1057
+00:34:38,559 --> 00:34:42,158
+change the colors it'll highlight errors
+
+1058
+00:34:40,480 --> 00:34:44,158
+things like that and then we also have
+
+1059
+00:34:42,159 --> 00:34:45,440
+prettier which is a formatter that will
+
+1060
+00:34:44,159 --> 00:34:47,918
+basically just format your code with
+
+1061
+00:34:45,440 --> 00:34:50,279
+indentations and line breaks as needed I
+
+1062
+00:34:47,918 --> 00:34:51,759
+love that okay a few more tools Beyond
+
+1063
+00:34:50,280 --> 00:34:54,760
+uh VSS code that I want to recommend
+
+1064
+00:34:51,760 --> 00:34:57,078
+here first one is called Dev utils this
+
+1065
+00:34:54,760 --> 00:34:59,319
+is a Mac OS app that basically just has
+
+1066
+00:34:57,079 --> 00:35:00,640
+a huge toolbox of little utilities that
+
+1067
+00:34:59,320 --> 00:35:02,280
+come in real handy when you're
+
+1068
+00:35:00,639 --> 00:35:04,319
+programming so for example there's like
+
+1069
+00:35:02,280 --> 00:35:06,560
+a Json validator and formatter there's a
+
+1070
+00:35:04,320 --> 00:35:08,560
+text difference Checker there is like a
+
+1071
+00:35:06,559 --> 00:35:10,639
+Rex tester I believe there's all kinds
+
+1072
+00:35:08,559 --> 00:35:12,438
+of really really useful utilities that
+
+1073
+00:35:10,639 --> 00:35:14,038
+before I was using Dev utils I would
+
+1074
+00:35:12,440 --> 00:35:15,759
+often have to Google for so if you are
+
+1075
+00:35:14,039 --> 00:35:17,159
+on a Mac check that out if there is a
+
+1076
+00:35:15,760 --> 00:35:18,559
+Windows alternative I will link to it in
+
+1077
+00:35:17,159 --> 00:35:20,478
+the description not aware of one right
+
+1078
+00:35:18,559 --> 00:35:22,357
+now another really useful one is called
+
+1079
+00:35:20,480 --> 00:35:24,839
+W bin this is just a website that allows
+
+1080
+00:35:22,358 --> 00:35:27,838
+you to send API requests or send uh
+
+1081
+00:35:24,838 --> 00:35:29,238
+posts or get requests to apis I use this
+
+1082
+00:35:27,838 --> 00:35:30,878
+all the time when I'm building pipe
+
+1083
+00:35:29,239 --> 00:35:32,598
+dream workflows it's just a really easy
+
+1084
+00:35:30,880 --> 00:35:34,159
+way to send those requests without
+
+1085
+00:35:32,599 --> 00:35:36,400
+needing like a special piece of software
+
+1086
+00:35:34,159 --> 00:35:39,199
+for it so I'll recommend that and then I
+
+1087
+00:35:36,400 --> 00:35:40,999
+also recommend of course GitHub GitHub
+
+1088
+00:35:39,199 --> 00:35:42,439
+is probably something every programmer
+
+1089
+00:35:41,000 --> 00:35:43,879
+should get familiar with or at least
+
+1090
+00:35:42,440 --> 00:35:46,078
+some kind of what's called version
+
+1091
+00:35:43,880 --> 00:35:48,280
+control system so basically I can write
+
+1092
+00:35:46,079 --> 00:35:51,079
+code on my computer I can commit it to
+
+1093
+00:35:48,280 --> 00:35:53,240
+what's called a repository or repo and
+
+1094
+00:35:51,079 --> 00:35:56,200
+here on GitHub this is an example of a
+
+1095
+00:35:53,239 --> 00:35:57,798
+repo I have my notion voicenotes MJS
+
+1096
+00:35:56,199 --> 00:35:59,638
+file it's a Javascript file just with an
+
+1097
+00:35:57,800 --> 00:36:03,078
+m in front of it for uh I believe it's
+
+1098
+00:35:59,639 --> 00:36:05,837
+module and I can go into the history of
+
+1099
+00:36:03,079 --> 00:36:07,680
+this file and for any given commit I can
+
+1100
+00:36:05,838 --> 00:36:09,679
+literally see what was changed and what
+
+1101
+00:36:07,679 --> 00:36:12,238
+was added so all of these lines here
+
+1102
+00:36:09,679 --> 00:36:14,438
+were added in this commit these lines in
+
+1103
+00:36:12,239 --> 00:36:16,719
+red were uh deleted and replaced with
+
+1104
+00:36:14,440 --> 00:36:18,560
+these lines here so if there's like a
+
+1105
+00:36:16,719 --> 00:36:20,038
+screwup or you're working with uh
+
+1106
+00:36:18,559 --> 00:36:21,438
+collaborators and they need to
+
+1107
+00:36:20,039 --> 00:36:23,639
+understand what is changed about a piece
+
+1108
+00:36:21,440 --> 00:36:24,879
+of code that's what version control is
+
+1109
+00:36:23,639 --> 00:36:26,879
+really really good for and I would
+
+1110
+00:36:24,880 --> 00:36:28,400
+highly recommend learning at least a
+
+1111
+00:36:26,880 --> 00:36:30,319
+little bit about GitHub and how to use
+
+1112
+00:36:28,400 --> 00:36:31,799
+it if you are getting into programming
+
+1113
+00:36:30,318 --> 00:36:33,238
+okay I want to share one more tool with
+
+1114
+00:36:31,800 --> 00:36:34,719
+you in this video and it's actually a
+
+1115
+00:36:33,239 --> 00:36:36,799
+tool that you might find useful even
+
+1116
+00:36:34,719 --> 00:36:38,558
+outside of programming so earlier I
+
+1117
+00:36:36,800 --> 00:36:40,719
+showed you my code Snippets page inside
+
+1118
+00:36:38,559 --> 00:36:42,478
+of my notion note taking database and
+
+1119
+00:36:40,719 --> 00:36:43,998
+that notes page is inside a greater
+
+1120
+00:36:42,480 --> 00:36:45,680
+system that I built for myself called
+
+1121
+00:36:44,000 --> 00:36:48,078
+ultimate brain which is an entire
+
+1122
+00:36:45,679 --> 00:36:49,759
+productivity system inside of notion a
+
+1123
+00:36:48,079 --> 00:36:51,640
+few years ago I got really tired of
+
+1124
+00:36:49,760 --> 00:36:53,519
+juggling all kinds of productivity apps
+
+1125
+00:36:51,639 --> 00:36:55,199
+I had a notetaking app I had a to-do
+
+1126
+00:36:53,519 --> 00:36:57,199
+list app I had another task management
+
+1127
+00:36:55,199 --> 00:36:58,679
+app for my team and I eventually got to
+
+1128
+00:36:57,199 --> 00:37:01,357
+the point where I just wished everything
+
+1129
+00:36:58,679 --> 00:37:03,318
+could be in one place and when I found
+
+1130
+00:37:01,358 --> 00:37:05,117
+notion I started to realize that I think
+
+1131
+00:37:03,318 --> 00:37:06,758
+I could build a system that would
+
+1132
+00:37:05,119 --> 00:37:09,119
+accomplish that goal inside of notion so
+
+1133
+00:37:06,760 --> 00:37:10,679
+I spent months tinkering experimenting
+
+1134
+00:37:09,119 --> 00:37:12,440
+learning how to use the tool and
+
+1135
+00:37:10,679 --> 00:37:14,719
+eventually I was able to build a system
+
+1136
+00:37:12,440 --> 00:37:16,520
+where I have my tasks my notes my goal
+
+1137
+00:37:14,719 --> 00:37:18,518
+tracking my project management
+
+1138
+00:37:16,519 --> 00:37:20,398
+everything I need to organize my
+
+1139
+00:37:18,519 --> 00:37:21,759
+day-to-day life is now inside of notion
+
+1140
+00:37:20,400 --> 00:37:23,598
+inside of a system I built called
+
+1141
+00:37:21,760 --> 00:37:24,960
+ultimate brain and in particular my
+
+1142
+00:37:23,599 --> 00:37:26,880
+favorite part of the system is the
+
+1143
+00:37:24,960 --> 00:37:29,319
+project manager that I built because for
+
+1144
+00:37:26,880 --> 00:37:31,439
+any given project I can see both the
+
+1145
+00:37:29,318 --> 00:37:33,758
+tasks for that project and the notes for
+
+1146
+00:37:31,440 --> 00:37:35,359
+that project all on one page and I find
+
+1147
+00:37:33,760 --> 00:37:37,679
+that super helpful because I'm often
+
+1148
+00:37:35,358 --> 00:37:40,358
+creating tasks as part of a project
+
+1149
+00:37:37,679 --> 00:37:42,078
+using the context from those notes and
+
+1150
+00:37:40,358 --> 00:37:43,878
+in addition to just using this myself I
+
+1151
+00:37:42,079 --> 00:37:45,959
+also released it as a product last year
+
+1152
+00:37:43,880 --> 00:37:47,040
+and since then over 25,000 people have
+
+1153
+00:37:45,960 --> 00:37:48,399
+bought it and my team and I have
+
+1154
+00:37:47,039 --> 00:37:49,878
+collected dozens and dozens of
+
+1155
+00:37:48,400 --> 00:37:52,480
+testimonials from people who find it
+
+1156
+00:37:49,880 --> 00:37:53,520
+just as useful as I do now you probably
+
+1157
+00:37:52,480 --> 00:37:55,279
+know if you've been watching this
+
+1158
+00:37:53,519 --> 00:37:56,918
+channel for quite a while that
+
+1159
+00:37:55,280 --> 00:37:59,039
+traditionally we've always Rel ried on
+
+1160
+00:37:56,920 --> 00:38:01,078
+brand deals and sponsorships as our main
+
+1161
+00:37:59,039 --> 00:38:02,719
+source of income and that's been great
+
+1162
+00:38:01,079 --> 00:38:04,999
+but I have to say being able to build
+
+1163
+00:38:02,719 --> 00:38:07,478
+something that is both useful for me and
+
+1164
+00:38:05,000 --> 00:38:08,919
+for my audience is even better
+
+1165
+00:38:07,480 --> 00:38:10,879
+especially since we're not just selling
+
+1166
+00:38:08,920 --> 00:38:12,679
+a notion template we also include access
+
+1167
+00:38:10,880 --> 00:38:14,560
+to an active support Community where you
+
+1168
+00:38:12,679 --> 00:38:16,438
+can not only get answers to every single
+
+1169
+00:38:14,559 --> 00:38:18,679
+question you have but you can also swap
+
+1170
+00:38:16,440 --> 00:38:20,319
+tips with other people on how to improve
+
+1171
+00:38:18,679 --> 00:38:22,518
+your template add additions to it
+
+1172
+00:38:20,318 --> 00:38:24,358
+customize it and improve your overall
+
+1173
+00:38:22,519 --> 00:38:25,438
+productivity system and your workflow
+
+1174
+00:38:24,358 --> 00:38:27,199
+and if you haven't already picked up
+
+1175
+00:38:25,440 --> 00:38:28,799
+your own copy of ultimate brand now is
+
+1176
+00:38:27,199 --> 00:38:30,399
+actually the best time to do it because
+
+1177
+00:38:28,800 --> 00:38:32,319
+we are running our first ever Black
+
+1178
+00:38:30,400 --> 00:38:34,319
+Friday sale for the rest of this month
+
+1179
+00:38:32,318 --> 00:38:36,399
+you can get ultimate brain at a huge
+
+1180
+00:38:34,318 --> 00:38:39,117
+discount 50% off by going over to
+
+1181
+00:38:36,400 --> 00:38:41,800
+thomasj frank.com srain and using the
+
+1182
+00:38:39,119 --> 00:38:43,200
+Code Black Friday 23 at checkout now you
+
+1183
+00:38:41,800 --> 00:38:44,559
+might be asking yourself why is Tom
+
+1184
+00:38:43,199 --> 00:38:46,598
+running a Black Friday deal he's never
+
+1185
+00:38:44,559 --> 00:38:47,958
+done it before it's a valid question but
+
+1186
+00:38:46,599 --> 00:38:49,639
+in this instance we actually have a very
+
+1187
+00:38:47,960 --> 00:38:50,960
+good reason for doing it and that reason
+
+1188
+00:38:49,639 --> 00:38:52,598
+is we're actually building another tool
+
+1189
+00:38:50,960 --> 00:38:54,1000
+that's going to make both ultimate brain
+
+1190
+00:38:52,599 --> 00:38:56,999
+even better but also notion better for
+
+1191
+00:38:55,000 --> 00:38:58,480
+anybody who uses it that tool is called
+
+1192
+00:38:57,000 --> 00:39:00,720
+fly lighter and it is going to be the
+
+1193
+00:38:58,480 --> 00:39:03,279
+ultimate Web Clipper and idea capture
+
+1194
+00:39:00,719 --> 00:39:04,837
+tool for notion it is a great tool it's
+
+1195
+00:39:03,280 --> 00:39:06,400
+going to help you capture screenshots
+
+1196
+00:39:04,838 --> 00:39:08,639
+highlights add annotations to those
+
+1197
+00:39:06,400 --> 00:39:10,040
+highlights basically it is the idea and
+
+1198
+00:39:08,639 --> 00:39:12,199
+knowledge capture tool that I have
+
+1199
+00:39:10,039 --> 00:39:13,999
+always wanted and the thing is we want
+
+1200
+00:39:12,199 --> 00:39:15,478
+to build this sustainably we want to
+
+1201
+00:39:14,000 --> 00:39:17,160
+build it in a bootstrapped way and we
+
+1202
+00:39:15,480 --> 00:39:19,239
+don't want to take VC money I actually
+
+1203
+00:39:17,159 --> 00:39:21,399
+already have VCS in my inbox asking
+
+1204
+00:39:19,239 --> 00:39:23,317
+about this but I think that if we took
+
+1205
+00:39:21,400 --> 00:39:24,1000
+VC money we would eventually be forced
+
+1206
+00:39:23,318 --> 00:39:26,679
+or at least pressured into making
+
+1207
+00:39:25,000 --> 00:39:29,160
+decisions that weren't aligned with what
+
+1208
+00:39:26,679 --> 00:39:31,078
+you actually want so instead what I
+
+1209
+00:39:29,159 --> 00:39:33,159
+would love to do is be able to use the
+
+1210
+00:39:31,079 --> 00:39:36,119
+products we already sell as a way to
+
+1211
+00:39:33,159 --> 00:39:38,399
+self-fund the building of this new tool
+
+1212
+00:39:36,119 --> 00:39:39,920
+and allow us to have a great free tier
+
+1213
+00:39:38,400 --> 00:39:41,719
+in addition to the premium features that
+
+1214
+00:39:39,920 --> 00:39:43,279
+we're planning so that is what ultimate
+
+1215
+00:39:41,719 --> 00:39:44,919
+brain allows us to do right now and
+
+1216
+00:39:43,280 --> 00:39:46,240
+there's also a ton of synergy here
+
+1217
+00:39:44,920 --> 00:39:47,880
+because ultimate brain is already the
+
+1218
+00:39:46,239 --> 00:39:49,678
+best organizational and productivity
+
+1219
+00:39:47,880 --> 00:39:51,480
+system for notion and fly letter is
+
+1220
+00:39:49,679 --> 00:39:54,078
+going to basically make the capture part
+
+1221
+00:39:51,480 --> 00:39:55,680
+of that system even better so if you
+
+1222
+00:39:54,079 --> 00:39:57,280
+want to help us build this tool you want
+
+1223
+00:39:55,679 --> 00:39:58,998
+to also super charge your productivity
+
+1224
+00:39:57,280 --> 00:40:00,800
+and get the best organizational system
+
+1225
+00:39:59,000 --> 00:40:02,399
+for notion the best second brain for
+
+1226
+00:40:00,800 --> 00:40:05,118
+notion you can go over to Thomas JF
+
+1227
+00:40:02,400 --> 00:40:07,680
+frank.com brain and again use that Code
+
+1228
+00:40:05,119 --> 00:40:09,800
+Black Friday 23 at checkout to get 50%
+
+1229
+00:40:07,679 --> 00:40:11,959
+off of any edition of the template you
+
+1230
+00:40:09,800 --> 00:40:13,319
+can pick up the Standalone Edition or if
+
+1231
+00:40:11,960 --> 00:40:15,279
+you're Creator you can also get the
+
+1232
+00:40:13,318 --> 00:40:17,798
+ultimate brain plus creators companion
+
+1233
+00:40:15,280 --> 00:40:19,999
+bundle and that also gets you the exact
+
+1234
+00:40:17,800 --> 00:40:21,880
+system that my team and I use to manage
+
+1235
+00:40:20,000 --> 00:40:23,919
+all the content on this channel on
+
+1236
+00:40:21,880 --> 00:40:25,960
+Thomas Frank explains on Twitter on
+
+1237
+00:40:23,920 --> 00:40:27,679
+basically all the places where I put out
+
+1238
+00:40:25,960 --> 00:40:29,279
+content onto the internet if you're a
+
+1239
+00:40:27,679 --> 00:40:31,438
+serious content creator and you want to
+
+1240
+00:40:29,280 --> 00:40:33,078
+put out more and better content I think
+
+1241
+00:40:31,440 --> 00:40:34,598
+you're going to love Creator companion
+
+1242
+00:40:33,079 --> 00:40:37,279
+as well so once again you can go to
+
+1243
+00:40:34,599 --> 00:40:39,480
+thomasj frank.com brain and use that
+
+1244
+00:40:37,280 --> 00:40:42,039
+Code Black Friday 23 at checkout to get
+
+1245
+00:40:39,480 --> 00:40:44,039
+50% off of either edition of the
+
+1246
+00:40:42,039 --> 00:40:45,279
+template and with that ad read over
+
+1247
+00:40:44,039 --> 00:40:47,279
+because it's kind of an ad read but it's
+
+1248
+00:40:45,280 --> 00:40:49,318
+my product uh to wrap this video up
+
+1249
+00:40:47,280 --> 00:40:51,159
+seriously I want to say thank you
+
+1250
+00:40:49,318 --> 00:40:52,798
+because not only do I get to make this
+
+1251
+00:40:51,159 --> 00:40:54,279
+kind of content for a living but now
+
+1252
+00:40:52,800 --> 00:40:56,440
+it's so cool I get to make a literal
+
+1253
+00:40:54,280 --> 00:40:57,598
+startup for a living and I feel feel
+
+1254
+00:40:56,440 --> 00:40:59,440
+like there's a way forward we don't have
+
+1255
+00:40:57,599 --> 00:41:01,160
+to take VC money to literally build this
+
+1256
+00:40:59,440 --> 00:41:02,640
+really cool piece of tech and that's all
+
+1257
+00:41:01,159 --> 00:41:03,998
+thanks to you I've been putting out
+
+1258
+00:41:02,639 --> 00:41:05,879
+content for 10 years but if you weren't
+
+1259
+00:41:04,000 --> 00:41:07,919
+watching it then we wouldn't be able to
+
+1260
+00:41:05,880 --> 00:41:09,239
+do any of this so seriously if you've uh
+
+1261
+00:41:07,920 --> 00:41:11,279
+bought one of my products if you've
+
+1262
+00:41:09,239 --> 00:41:12,759
+supported us on nebula if you have uh
+
+1263
+00:41:11,280 --> 00:41:14,719
+supported my sponsors or even just
+
+1264
+00:41:12,760 --> 00:41:16,760
+watched this content and help boost it
+
+1265
+00:41:14,719 --> 00:41:18,518
+in the algorithm thank you we would not
+
+1266
+00:41:16,760 --> 00:41:20,400
+be able to do this without you seriously
+
+1267
+00:41:18,519 --> 00:41:21,798
+I appreciate you so much to wrap this
+
+1268
+00:41:20,400 --> 00:41:23,560
+video up because this is a coding
+
+1269
+00:41:21,800 --> 00:41:24,880
+focused video uh I have a couple of
+
+1270
+00:41:23,559 --> 00:41:27,199
+different resources that I want to point
+
+1271
+00:41:24,880 --> 00:41:28,639
+you to first and foremost if you want a
+
+1272
+00:41:27,199 --> 00:41:30,239
+project that kind of just like takes
+
+1273
+00:41:28,639 --> 00:41:31,558
+everything I've covered in this video
+
+1274
+00:41:30,239 --> 00:41:35,038
+and shoves it into something you can
+
+1275
+00:41:31,559 --> 00:41:36,358
+actually do my notion API Pokedex
+
+1276
+00:41:35,039 --> 00:41:38,159
+project is something you might want to
+
+1277
+00:41:36,358 --> 00:41:39,398
+go through it's a 2-hour video and
+
+1278
+00:41:38,159 --> 00:41:40,558
+there's also a written version of it
+
+1279
+00:41:39,400 --> 00:41:42,719
+that links to literally all the
+
+1280
+00:41:40,559 --> 00:41:44,759
+resources I talked about in this video
+
+1281
+00:41:42,719 --> 00:41:46,199
+secondly if you do want to learn to code
+
+1282
+00:41:44,760 --> 00:41:47,720
+then learning how to learn more
+
+1283
+00:41:46,199 --> 00:41:49,759
+efficiently is going to help you in your
+
+1284
+00:41:47,719 --> 00:41:51,919
+journey and that video right there will
+
+1285
+00:41:49,760 --> 00:41:53,240
+help you with that as well thanks as
+
+1286
+00:41:51,920 --> 00:41:56,118
+always for watching and I will see you
+
+1287
+00:41:53,239 --> 00:41:56,118
+in the next one
+

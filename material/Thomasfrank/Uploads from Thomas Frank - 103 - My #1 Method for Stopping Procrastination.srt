@@ -1,0 +1,912 @@
+1
+00:00:00,160 --> 00:00:03,439
+guys today we are tackling probably the
+
+2
+00:00:02,080 --> 00:00:03,439
+number one issue that I get emailed
+
+3
+00:00:03,600 --> 00:00:04,038
+about tweeted about YouTube commented
+
+4
+00:00:05,519 --> 00:00:09,717
+about whatever and that is
+
+5
+00:00:07,639 --> 00:00:11,879
+procrastination so here's the deal for
+
+6
+00:00:09,718 --> 00:00:13,678
+me procrastination is one of my biggest
+
+7
+00:00:11,880 --> 00:00:16,240
+productivity struggles but it really
+
+8
+00:00:13,679 --> 00:00:18,600
+only rears its ugly head at one step in
+
+9
+00:00:16,239 --> 00:00:20,679
+the process and that's at the beginning
+
+10
+00:00:18,600 --> 00:00:22,358
+of a task because when I'm looking at a
+
+11
+00:00:20,679 --> 00:00:23,998
+task after I planned it out and I'm
+
+12
+00:00:22,359 --> 00:00:25,759
+basically like staring at a blank screen
+
+13
+00:00:24,000 --> 00:00:27,720
+with blinking cursor there's this
+
+14
+00:00:25,760 --> 00:00:30,080
+initial mental resistance to getting
+
+15
+00:00:27,719 --> 00:00:31,799
+into the task and once I can get over it
+
+16
+00:00:30,079 --> 00:00:33,397
+I can get into that flow State and work
+
+17
+00:00:31,800 --> 00:00:35,719
+really really intensely for a long
+
+18
+00:00:33,399 --> 00:00:37,559
+period of time the problem is getting
+
+19
+00:00:35,719 --> 00:00:39,959
+over that mental resistance is pretty
+
+20
+00:00:37,558 --> 00:00:41,838
+tough and more often than not I'll go do
+
+21
+00:00:39,960 --> 00:00:44,280
+something easier like check my email or
+
+22
+00:00:41,840 --> 00:00:45,800
+look at Facebook or really anything else
+
+23
+00:00:44,280 --> 00:00:47,520
+now I'd say it's pretty likely that you
+
+24
+00:00:45,799 --> 00:00:49,319
+struggle with this problem as well so
+
+25
+00:00:47,520 --> 00:00:51,198
+today we are going to go over my number
+
+26
+00:00:49,320 --> 00:00:53,159
+one technique for getting over this
+
+27
+00:00:51,198 --> 00:00:54,839
+problem which is called the Pomodoro
+
+28
+00:00:53,159 --> 00:00:56,198
+Technique now it would not surprise me
+
+29
+00:00:54,840 --> 00:00:57,520
+if you've heard of this technique before
+
+30
+00:00:56,198 --> 00:00:58,999
+because a lot of people have talked
+
+31
+00:00:57,520 --> 00:01:01,120
+about it and I'm honestly surprised I
+
+32
+00:00:59,000 --> 00:01:02,480
+haven't done a video about it yet but in
+
+33
+00:01:01,119 --> 00:01:04,038
+case you haven't we're going to talk
+
+34
+00:01:02,479 --> 00:01:05,438
+exactly about how you can use this
+
+35
+00:01:04,040 --> 00:01:07,399
+technique but we're also going to talk
+
+36
+00:01:05,438 --> 00:01:08,838
+about how you can improve it and I'm
+
+37
+00:01:07,400 --> 00:01:11,400
+going to link you to some apps and other
+
+38
+00:01:08,840 --> 00:01:13,158
+tools that you can use to augment it as
+
+39
+00:01:11,400 --> 00:01:14,520
+well so to start this out here is
+
+40
+00:01:13,159 --> 00:01:16,720
+exactly how to put the pomodora
+
+41
+00:01:14,519 --> 00:01:18,599
+technique into action step number one
+
+42
+00:01:16,719 --> 00:01:20,797
+you pick one particular task that you
+
+43
+00:01:18,599 --> 00:01:23,039
+need to work on not a list of tasks not
+
+44
+00:01:20,799 --> 00:01:25,840
+multiple tasks just one once you've
+
+45
+00:01:23,040 --> 00:01:27,959
+decided on it set a timer for 25 minutes
+
+46
+00:01:25,840 --> 00:01:30,280
+once that timer starts work as intensely
+
+47
+00:01:27,959 --> 00:01:32,919
+as you can on that one task for for the
+
+48
+00:01:30,280 --> 00:01:34,438
+entire 25-minute duration and crucially
+
+49
+00:01:32,920 --> 00:01:36,040
+if something happens to distract you
+
+50
+00:01:34,438 --> 00:01:37,719
+during that time whether it's a call or
+
+51
+00:01:36,040 --> 00:01:38,959
+a text from a friend or whether you get
+
+52
+00:01:37,719 --> 00:01:40,558
+really curious about how much a great
+
+53
+00:01:38,959 --> 00:01:42,438
+white shark weighs write that
+
+54
+00:01:40,560 --> 00:01:44,479
+distraction down on a piece of paper and
+
+55
+00:01:42,438 --> 00:01:46,318
+save it for later lastly once that timer
+
+56
+00:01:44,478 --> 00:01:48,118
+goes off you take a 5minute Min break
+
+57
+00:01:46,319 --> 00:01:49,718
+and then you repeat that process three
+
+58
+00:01:48,118 --> 00:01:51,679
+more times after you've done four
+
+59
+00:01:49,718 --> 00:01:53,398
+Pomodoro sessions then you take a longer
+
+60
+00:01:51,680 --> 00:01:55,200
+break and then if you want you can start
+
+61
+00:01:53,399 --> 00:01:57,279
+the process all over again this
+
+62
+00:01:55,200 --> 00:01:59,560
+technique is admittedly very simple but
+
+63
+00:01:57,280 --> 00:02:01,320
+it's also incredibly powerful and I find
+
+64
+00:01:59,560 --> 00:02:02,839
+it more powerful than almost anything
+
+65
+00:02:01,319 --> 00:02:04,839
+else forgetting me over my
+
+66
+00:02:02,840 --> 00:02:07,240
+procrastination Tendencies and the
+
+67
+00:02:04,840 --> 00:02:09,719
+reasons it works are three-fold in my
+
+68
+00:02:07,239 --> 00:02:11,359
+mind number one it externalizes the
+
+69
+00:02:09,719 --> 00:02:14,039
+discipline aspect of how long you're
+
+70
+00:02:11,360 --> 00:02:15,680
+supposed to work by using a timer as the
+
+71
+00:02:14,039 --> 00:02:17,199
+author Robert Shalini points out in his
+
+72
+00:02:15,680 --> 00:02:19,360
+book influence the psychology of
+
+73
+00:02:17,199 --> 00:02:21,559
+persuasion humans have a strong drive to
+
+74
+00:02:19,360 --> 00:02:22,840
+act consistently with their decisions
+
+75
+00:02:21,560 --> 00:02:24,640
+and that drive becomes even more
+
+76
+00:02:22,840 --> 00:02:26,518
+powerful if there is a public or
+
+77
+00:02:24,639 --> 00:02:28,877
+concrete commitment to those decisions
+
+78
+00:02:26,519 --> 00:02:30,360
+like writing him down or using a timer
+
+79
+00:02:28,878 --> 00:02:31,838
+so if you take nothing else away from
+
+80
+00:02:30,360 --> 00:02:33,679
+this video make sure that you actually
+
+81
+00:02:31,840 --> 00:02:35,040
+do use a timer when you're using this
+
+82
+00:02:33,680 --> 00:02:36,720
+technique it'll allow you to take
+
+83
+00:02:35,039 --> 00:02:38,679
+advantage of those commitment benefits
+
+84
+00:02:36,719 --> 00:02:40,399
+and from personal experience I know that
+
+85
+00:02:38,680 --> 00:02:42,479
+when I get lazy and tell myself I'll
+
+86
+00:02:40,400 --> 00:02:44,440
+just mentally keep track of the time I
+
+87
+00:02:42,479 --> 00:02:46,799
+always end up more distracted and less
+
+88
+00:02:44,439 --> 00:02:47,958
+productive than when I do use a timer
+
+89
+00:02:46,800 --> 00:02:49,958
+another benefit of the pomodora
+
+90
+00:02:47,959 --> 00:02:52,159
+technique is it reframes your task in
+
+91
+00:02:49,959 --> 00:02:53,479
+terms of input rather than output and
+
+92
+00:02:52,158 --> 00:02:54,678
+this might seem like a subtle difference
+
+93
+00:02:53,479 --> 00:02:56,679
+but it really helps you get over that
+
+94
+00:02:54,680 --> 00:02:58,200
+mental resistance to starting which as
+
+95
+00:02:56,680 --> 00:02:59,840
+we said was the main cause of
+
+96
+00:02:58,199 --> 00:03:01,558
+procrastination and it does this because
+
+97
+00:02:59,840 --> 00:03:05,359
+because it Narrows the scope of your
+
+98
+00:03:01,560 --> 00:03:06,1000
+task and it sets a hard fixed end time
+
+99
+00:03:05,360 --> 00:03:08,920
+so when you have an output based task
+
+100
+00:03:07,000 --> 00:03:10,798
+like write a paper or write a script on
+
+101
+00:03:08,919 --> 00:03:12,798
+the pomodora technique there's some end
+
+102
+00:03:10,799 --> 00:03:14,560
+in mind but you know that you have to
+
+103
+00:03:12,799 --> 00:03:16,560
+get there yourself and you're not
+
+104
+00:03:14,560 --> 00:03:18,640
+exactly sure when that's going to happen
+
+105
+00:03:16,560 --> 00:03:21,399
+but by reframing your task in terms of
+
+106
+00:03:18,639 --> 00:03:23,398
+input simply WR for 25 minutes you know
+
+107
+00:03:21,400 --> 00:03:25,400
+that no matter what you do you can stop
+
+108
+00:03:23,400 --> 00:03:27,518
+working after 25 minutes and that makes
+
+109
+00:03:25,400 --> 00:03:29,080
+it much easier to get started and the
+
+110
+00:03:27,519 --> 00:03:30,720
+last main benefit here is having that
+
+111
+00:03:29,080 --> 00:03:32,760
+piece of paper next to you to write down
+
+112
+00:03:30,719 --> 00:03:34,598
+your distractions and this is really
+
+113
+00:03:32,759 --> 00:03:36,198
+really important not only because it
+
+114
+00:03:34,598 --> 00:03:37,877
+lets you write down your distractions
+
+115
+00:03:36,199 --> 00:03:40,437
+and get them out of your mind into a
+
+116
+00:03:37,878 --> 00:03:42,437
+place that you trust but it also helps
+
+117
+00:03:40,438 --> 00:03:45,119
+to sever that connection between the
+
+118
+00:03:42,438 --> 00:03:47,279
+craving for a distraction and the action
+
+119
+00:03:45,120 --> 00:03:49,280
+you take to go get that distraction and
+
+120
+00:03:47,280 --> 00:03:50,958
+every time you do that every time you
+
+121
+00:03:49,280 --> 00:03:52,958
+deny your brain's craving for a
+
+122
+00:03:50,959 --> 00:03:55,199
+distraction you are building that Focus
+
+123
+00:03:52,959 --> 00:03:57,518
+muscle and better enabling yourself to
+
+124
+00:03:55,199 --> 00:03:59,359
+resist distractions in the future making
+
+125
+00:03:57,519 --> 00:04:00,919
+you naturally more productive of course
+
+126
+00:03:59,360 --> 00:04:02,679
+I'm not satisfied to just tell you about
+
+127
+00:04:00,919 --> 00:04:04,678
+the pador technique and leave it at that
+
+128
+00:04:02,680 --> 00:04:06,519
+because like anything else you can
+
+129
+00:04:04,680 --> 00:04:08,318
+optimize this technique and make it even
+
+130
+00:04:06,519 --> 00:04:09,958
+more useful and in this video I've got
+
+131
+00:04:08,318 --> 00:04:12,119
+three additional steps that you can take
+
+132
+00:04:09,959 --> 00:04:13,399
+to make it work even better for you
+
+133
+00:04:12,120 --> 00:04:14,680
+first see if you can combine the
+
+134
+00:04:13,400 --> 00:04:16,519
+pomodora technique with other
+
+135
+00:04:14,680 --> 00:04:18,280
+productivity tools and methods to make
+
+136
+00:04:16,519 --> 00:04:20,439
+it even more effective and the example
+
+137
+00:04:18,279 --> 00:04:22,198
+I'll give you here is that I combine
+
+138
+00:04:20,439 --> 00:04:23,838
+this technique with cold turkey Rider
+
+139
+00:04:22,199 --> 00:04:25,599
+which is an app that basically turns my
+
+140
+00:04:23,839 --> 00:04:27,637
+computer into a typewriter that can do
+
+141
+00:04:25,600 --> 00:04:29,359
+nothing else until I hit a word count
+
+142
+00:04:27,639 --> 00:04:30,800
+goal now one of the features of cold
+
+143
+00:04:29,360 --> 00:04:32,719
+turkey writer is that in addition to
+
+144
+00:04:30,800 --> 00:04:34,1000
+setting a word count goal you can also
+
+145
+00:04:32,720 --> 00:04:36,680
+set a time goal so in effect you could
+
+146
+00:04:35,000 --> 00:04:39,120
+make it a Pomodoro app and that is
+
+147
+00:04:36,680 --> 00:04:40,599
+exactly what I do on a weekly basis
+
+148
+00:04:39,120 --> 00:04:42,399
+secondly feel free to experiment with
+
+149
+00:04:40,600 --> 00:04:44,240
+the time intervals that you use because
+
+150
+00:04:42,399 --> 00:04:45,879
+25 minutes isn't some Universal
+
+151
+00:04:44,240 --> 00:04:48,199
+productivity constant burned into the
+
+152
+00:04:45,879 --> 00:04:50,159
+human psyche forever it's just what the
+
+153
+00:04:48,199 --> 00:04:52,240
+creator of the technique used himself
+
+154
+00:04:50,160 --> 00:04:54,240
+for my part I do use 25 minutes on the
+
+155
+00:04:52,240 --> 00:04:55,918
+clock when I'm starting out but I don't
+
+156
+00:04:54,240 --> 00:04:57,999
+actually take a break after that 25
+
+157
+00:04:55,918 --> 00:05:00,038
+minutes is up and the reason is that I
+
+158
+00:04:58,000 --> 00:05:01,799
+use the pador technique to get over that
+
+159
+00:05:00,038 --> 00:05:03,958
+initial mental hurdle to get into my
+
+160
+00:05:01,800 --> 00:05:05,800
+work but once I'm there I'm in the Flow
+
+161
+00:05:03,959 --> 00:05:07,798
+State and I don't want to stop after 25
+
+162
+00:05:05,800 --> 00:05:09,440
+minutes is up it's just a starting
+
+163
+00:05:07,800 --> 00:05:10,759
+technique for me finally before you
+
+164
+00:05:09,439 --> 00:05:12,478
+start a pomodora session it can be
+
+165
+00:05:10,759 --> 00:05:14,400
+useful to adopt a concept from The
+
+166
+00:05:12,478 --> 00:05:15,878
+Culinary World which is called and my
+
+167
+00:05:14,399 --> 00:05:18,998
+French is terrible so I need some help
+
+168
+00:05:15,879 --> 00:05:20,839
+on this Mison plus that's right Mison
+
+169
+00:05:19,000 --> 00:05:23,038
+plus and that basically means everything
+
+170
+00:05:20,839 --> 00:05:25,119
+in its place now in kitchens in The
+
+171
+00:05:23,038 --> 00:05:26,679
+Culinary world that basically means that
+
+172
+00:05:25,120 --> 00:05:28,840
+the chef needs to get out everything he
+
+173
+00:05:26,680 --> 00:05:30,960
+needs to use before starting the meal so
+
+174
+00:05:28,839 --> 00:05:32,718
+all the food all the ingredients all the
+
+175
+00:05:30,959 --> 00:05:34,838
+condiments all the cooking utensils
+
+176
+00:05:32,720 --> 00:05:36,880
+everything and this is really useful for
+
+177
+00:05:34,839 --> 00:05:39,318
+you as well because if you get into a
+
+178
+00:05:36,879 --> 00:05:40,999
+session and you're not prepared that can
+
+179
+00:05:39,319 --> 00:05:43,039
+disrupt your work so make sure you have
+
+180
+00:05:41,000 --> 00:05:44,799
+all of your tools out all of your apps
+
+181
+00:05:43,038 --> 00:05:46,998
+all of your books all of your resources
+
+182
+00:05:44,800 --> 00:05:49,439
+pens pencils and that distraction sheet
+
+183
+00:05:47,000 --> 00:05:51,360
+next to you but just as importantly make
+
+184
+00:05:49,439 --> 00:05:53,477
+sure that everything you don't need is
+
+185
+00:05:51,360 --> 00:05:55,159
+put away so close any distracting
+
+186
+00:05:53,478 --> 00:05:57,159
+websites any tabs you don't need any
+
+187
+00:05:55,160 --> 00:05:58,840
+programs put your phone away all that
+
+188
+00:05:57,160 --> 00:05:59,999
+good stuff all right so to round this
+
+189
+00:05:58,839 --> 00:06:01,918
+video out I want to point point you to
+
+190
+00:06:00,000 --> 00:06:03,520
+some timer apps that you can use because
+
+191
+00:06:01,918 --> 00:06:05,638
+I'm sure that not all of you want to use
+
+192
+00:06:03,519 --> 00:06:07,679
+an actual physical kitchen timer to time
+
+193
+00:06:05,639 --> 00:06:09,440
+your sessions so if you're on a computer
+
+194
+00:06:07,680 --> 00:06:11,639
+my favorite app which is free and open
+
+195
+00:06:09,439 --> 00:06:13,477
+source is called toighty and it's on Mac
+
+196
+00:06:11,639 --> 00:06:15,199
+and PC and you'll find it linked in the
+
+197
+00:06:13,478 --> 00:06:16,119
+description down below now a lot of you
+
+198
+00:06:15,199 --> 00:06:18,159
+are probably going to want to use your
+
+199
+00:06:16,120 --> 00:06:19,479
+phones instead so and this is different
+
+200
+00:06:18,160 --> 00:06:21,840
+than what I've recommended in the past
+
+201
+00:06:19,478 --> 00:06:23,838
+because it's new the absolute best
+
+202
+00:06:21,839 --> 00:06:27,037
+pomodora app that I have ever found is
+
+203
+00:06:23,839 --> 00:06:28,999
+called tide it is free it is wonderfully
+
+204
+00:06:27,038 --> 00:06:30,679
+designed it has immersive mode which
+
+205
+00:06:29,000 --> 00:06:32,240
+basically means that if you exit the app
+
+206
+00:06:30,680 --> 00:06:34,400
+during a session it will fail that
+
+207
+00:06:32,240 --> 00:06:36,159
+session so it's kind of like helping you
+
+208
+00:06:34,399 --> 00:06:38,719
+not use your phone as a distraction kind
+
+209
+00:06:36,160 --> 00:06:41,160
+of like that Forest app and it also
+
+210
+00:06:38,720 --> 00:06:42,758
+includes ambient noise aside from those
+
+211
+00:06:41,160 --> 00:06:44,400
+apps another option is actually to use
+
+212
+00:06:42,759 --> 00:06:45,759
+my study with me video that I recorded a
+
+213
+00:06:44,399 --> 00:06:47,918
+couple of months ago and that's actually
+
+214
+00:06:45,759 --> 00:06:49,080
+just 25 minutes of me studying so if you
+
+215
+00:06:47,918 --> 00:06:50,719
+happen to want a study buddy and you
+
+216
+00:06:49,079 --> 00:06:52,478
+don't have somebody nearby and you want
+
+217
+00:06:50,720 --> 00:06:54,680
+a timer on the screen that's 25 minutes
+
+218
+00:06:52,478 --> 00:06:56,159
+long definitely check that out you might
+
+219
+00:06:54,680 --> 00:06:57,680
+also like this video over here which
+
+220
+00:06:56,160 --> 00:06:59,840
+will tell you more about the optimal
+
+221
+00:06:57,680 --> 00:07:01,199
+work and break time cycles and and if
+
+222
+00:06:59,839 --> 00:07:02,399
+you like this video definitely give it a
+
+223
+00:07:01,199 --> 00:07:03,919
+like to support this channel And
+
+224
+00:07:02,399 --> 00:07:05,678
+subscribe right there if you haven't
+
+225
+00:07:03,918 --> 00:07:07,038
+done so already lastly if you want to
+
+226
+00:07:05,680 --> 00:07:08,878
+get a free copy of my book on earning
+
+227
+00:07:07,038 --> 00:07:13,238
+better grades check out that link right
+
+228
+00:07:08,879 --> 00:07:13,239
+there and thanks for watching
+

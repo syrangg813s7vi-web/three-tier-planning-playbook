@@ -1,0 +1,5428 @@
+1
+00:00:00,080 --> 00:00:03,638
+well hello there it's been a while since
+
+2
+00:00:02,040 --> 00:00:03,439
+I posted on this channel nearly a year
+
+3
+00:00:03,718 --> 00:00:04,160
+and a half in fact and this video I want
+
+4
+00:00:05,480 --> 00:00:10,119
+to talk about why I stopped posting on
+
+5
+00:00:07,878 --> 00:00:12,158
+this channel uh how doing so actually
+
+6
+00:00:10,119 --> 00:00:13,958
+doubled my income surprisingly uh what
+
+7
+00:00:12,160 --> 00:00:16,160
+I'm doing now and what the future is for
+
+8
+00:00:13,960 --> 00:00:18,960
+this Channel and for what I'm doing in
+
+9
+00:00:16,160 --> 00:00:20,839
+general but the gist of it is hey I'm
+
+10
+00:00:18,960 --> 00:00:22,359
+back I've got new videos in the works we
+
+11
+00:00:20,839 --> 00:00:24,438
+are going to be regularly publishing on
+
+12
+00:00:22,359 --> 00:00:25,759
+this channel again and if you ran across
+
+13
+00:00:24,439 --> 00:00:27,919
+this video in your YouTube feed and have
+
+14
+00:00:25,760 --> 00:00:29,199
+no idea who I am hi there I'm Thomas
+
+15
+00:00:27,920 --> 00:00:30,759
+Frank I've been posting about
+
+16
+00:00:29,199 --> 00:00:32,920
+productivity and personal development on
+
+17
+00:00:30,759 --> 00:00:34,999
+this channel for a long time and in the
+
+18
+00:00:32,920 --> 00:00:38,360
+last couple of years I've gone very deep
+
+19
+00:00:35,000 --> 00:00:39,960
+into no code notion even programming I'm
+
+20
+00:00:38,359 --> 00:00:41,959
+building a new startup there's a lot
+
+21
+00:00:39,960 --> 00:00:44,238
+going on and I'm going to talk about
+
+22
+00:00:41,960 --> 00:00:45,399
+kind of why I ended up leaving this
+
+23
+00:00:44,238 --> 00:00:47,799
+channel because I think that's the
+
+24
+00:00:45,399 --> 00:00:49,238
+question that a lot of people are going
+
+25
+00:00:47,799 --> 00:00:50,557
+to be having in fact I've got a lot of
+
+26
+00:00:49,238 --> 00:00:51,919
+people over my Instagram who thought
+
+27
+00:00:50,558 --> 00:00:53,877
+that I either died or forgot my
+
+28
+00:00:51,920 --> 00:00:55,759
+Instagram password and I'm sure a lot of
+
+29
+00:00:53,878 --> 00:00:58,038
+you thought that I forgot my YouTube
+
+30
+00:00:55,759 --> 00:00:59,557
+password so let's just get into it I've
+
+31
+00:00:58,039 --> 00:01:01,439
+got a few different things I want to
+
+32
+00:00:59,558 --> 00:01:04,279
+talk about but the big question a lot of
+
+33
+00:01:01,439 --> 00:01:06,278
+you probably have is hey Tom why did you
+
+34
+00:01:04,280 --> 00:01:09,360
+stop posting on this YouTube channel why
+
+35
+00:01:06,280 --> 00:01:11,400
+would somebody abandon a 2.9 Million
+
+36
+00:01:09,359 --> 00:01:13,679
+subscriber YouTube channel and a
+
+37
+00:01:11,400 --> 00:01:15,720
+secondary question how would doing that
+
+38
+00:01:13,680 --> 00:01:18,599
+actually double my income the short
+
+39
+00:01:15,719 --> 00:01:20,638
+answer is that I took some time off from
+
+40
+00:01:18,599 --> 00:01:22,199
+this channel intending for it to only be
+
+41
+00:01:20,640 --> 00:01:24,640
+a month but it turned into a year and
+
+42
+00:01:22,200 --> 00:01:27,280
+six months just about to get the focus
+
+43
+00:01:24,640 --> 00:01:29,199
+and to get the time I needed to go and
+
+44
+00:01:27,280 --> 00:01:30,920
+build an actual product I had something
+
+45
+00:01:29,200 --> 00:01:32,599
+I wanted to build it was a premium
+
+46
+00:01:30,920 --> 00:01:34,279
+notion template called ultimate brain I
+
+47
+00:01:32,599 --> 00:01:36,279
+still sell it and I never talked about
+
+48
+00:01:34,280 --> 00:01:37,880
+on this channel because what I thought
+
+49
+00:01:36,280 --> 00:01:39,1000
+was going to be a month taken off to
+
+50
+00:01:37,879 --> 00:01:42,039
+build it ended up becoming a year and a
+
+51
+00:01:40,000 --> 00:01:43,640
+half of building an entirely new part of
+
+52
+00:01:42,040 --> 00:01:45,600
+my business building up my second
+
+53
+00:01:43,640 --> 00:01:48,279
+Channel Thomas Frank explains going very
+
+54
+00:01:45,599 --> 00:01:50,198
+deep into some hyper Niche technical
+
+55
+00:01:48,280 --> 00:01:51,960
+areas uh that i' had never explored
+
+56
+00:01:50,200 --> 00:01:54,119
+before and one thing led to another and
+
+57
+00:01:51,959 --> 00:01:56,398
+I just didn't have time to publish on
+
+58
+00:01:54,118 --> 00:01:58,158
+this channel our team has grown to 12
+
+59
+00:01:56,399 --> 00:02:00,719
+people I've actually kind of had to
+
+60
+00:01:58,159 --> 00:02:02,319
+become a CEO uh and and I've also sort
+
+61
+00:02:00,718 --> 00:02:03,798
+of gone the complete opposite direction
+
+62
+00:02:02,319 --> 00:02:05,359
+with some of my time and I've learned
+
+63
+00:02:03,799 --> 00:02:07,999
+how to code and I spend a lot of my time
+
+64
+00:02:05,359 --> 00:02:09,878
+actually programming these days so I've
+
+65
+00:02:08,000 --> 00:02:10,919
+been doing a lot uh and again I just
+
+66
+00:02:09,878 --> 00:02:12,999
+kind of want to go through a lot of
+
+67
+00:02:10,919 --> 00:02:15,399
+what's happened in this video so to get
+
+68
+00:02:13,000 --> 00:02:17,280
+into the story of why I ended up
+
+69
+00:02:15,400 --> 00:02:19,319
+abandoning this Channel I want to talk
+
+70
+00:02:17,280 --> 00:02:20,760
+about a little bit of philosophy first
+
+71
+00:02:19,318 --> 00:02:23,359
+actually I want to talk about the
+
+72
+00:02:20,759 --> 00:02:25,999
+philosophy of pivots and side quests uh
+
+73
+00:02:23,360 --> 00:02:28,640
+and I think the best way to frame this
+
+74
+00:02:26,000 --> 00:02:31,040
+would be to not talk about the channel
+
+75
+00:02:28,639 --> 00:02:33,438
+abandonment right away and instead talk
+
+76
+00:02:31,039 --> 00:02:36,918
+about my podcast that I deliberately
+
+77
+00:02:33,439 --> 00:02:38,198
+quit uh back in 2020 I believe I had
+
+78
+00:02:36,919 --> 00:02:39,838
+been running what I called the college
+
+79
+00:02:38,199 --> 00:02:42,199
+infogeek podcast later called The
+
+80
+00:02:39,840 --> 00:02:44,639
+Emporium for eight years started it back
+
+81
+00:02:42,199 --> 00:02:46,479
+in 2013 and that was like a college
+
+82
+00:02:44,639 --> 00:02:48,799
+advice podcast kind of morphed into a
+
+83
+00:02:46,479 --> 00:02:50,119
+life advice podcast over the years we
+
+84
+00:02:48,800 --> 00:02:51,760
+talked about productivity we talked
+
+85
+00:02:50,120 --> 00:02:54,039
+about personal finance but after eight
+
+86
+00:02:51,759 --> 00:02:55,799
+years of running it both myself and my
+
+87
+00:02:54,039 --> 00:02:58,638
+co-host Martin kind of had this
+
+88
+00:02:55,800 --> 00:03:00,599
+realization that we were kind of
+
+89
+00:02:58,639 --> 00:03:02,679
+clocking in clocking out every other
+
+90
+00:03:00,598 --> 00:03:03,678
+week doing an episode and eventually we
+
+91
+00:03:02,680 --> 00:03:05,920
+were getting to the point where we were
+
+92
+00:03:03,680 --> 00:03:08,519
+trying to find topics to talk about
+
+93
+00:03:05,919 --> 00:03:11,478
+because we had sort of made a job of
+
+94
+00:03:08,519 --> 00:03:12,919
+creating content about how to improve
+
+95
+00:03:11,479 --> 00:03:14,999
+your life about how to be more
+
+96
+00:03:12,919 --> 00:03:17,758
+productive and I kind of had this
+
+97
+00:03:15,000 --> 00:03:20,360
+realization like at a certain point I'm
+
+98
+00:03:17,759 --> 00:03:22,398
+not giving myself enough time to go out
+
+99
+00:03:20,360 --> 00:03:25,360
+and have additional life experiences to
+
+100
+00:03:22,400 --> 00:03:27,039
+go out and really learn new things uh
+
+101
+00:03:25,360 --> 00:03:29,360
+and I was kind of presented with what I
+
+102
+00:03:27,039 --> 00:03:31,399
+saw as a fork in the road I saw one path
+
+103
+00:03:29,360 --> 00:03:33,438
+as I'll call the journalistic path where
+
+104
+00:03:31,400 --> 00:03:35,959
+I could remain a Creator who makes
+
+105
+00:03:33,438 --> 00:03:37,718
+content about self-improvement and
+
+106
+00:03:35,959 --> 00:03:39,839
+productivity and the way that I could
+
+107
+00:03:37,719 --> 00:03:41,839
+learn new things I could kind of Garner
+
+108
+00:03:39,840 --> 00:03:44,120
+new lessons to share with my audience
+
+109
+00:03:41,840 --> 00:03:45,840
+was by kind of taking on the role of a
+
+110
+00:03:44,120 --> 00:03:47,599
+journalist going out and interviewing
+
+111
+00:03:45,840 --> 00:03:50,519
+people who were like doing their own
+
+112
+00:03:47,598 --> 00:03:51,958
+cool things doing lots of research or I
+
+113
+00:03:50,519 --> 00:03:53,798
+could take the other path in the road
+
+114
+00:03:51,959 --> 00:03:56,359
+and I could go out and build stuff for
+
+115
+00:03:53,799 --> 00:03:57,879
+myself get new life experiences for a
+
+116
+00:03:56,360 --> 00:03:59,920
+long time I thought I could do both of
+
+117
+00:03:57,878 --> 00:04:01,758
+those and I was trying to deeply
+
+118
+00:03:59,919 --> 00:04:04,797
+research videos while also trying to
+
+119
+00:04:01,759 --> 00:04:07,077
+build stuff myself uh and as my past
+
+120
+00:04:04,799 --> 00:04:10,518
+self who has made many many videos about
+
+121
+00:04:07,079 --> 00:04:12,159
+Focus could tell me and you uh that's
+
+122
+00:04:10,519 --> 00:04:13,840
+pretty tough to do it's pretty tough to
+
+123
+00:04:12,158 --> 00:04:16,198
+spin a lot of plates it's much easier to
+
+124
+00:04:13,840 --> 00:04:18,199
+focus on one thing so we made the
+
+125
+00:04:16,199 --> 00:04:20,320
+deliberate decision back in 2020 to shut
+
+126
+00:04:18,199 --> 00:04:21,518
+down our podcast uh it was really tough
+
+127
+00:04:20,319 --> 00:04:24,198
+there were a lot of people who were sad
+
+128
+00:04:21,519 --> 00:04:26,639
+about it we were sad about it but uh
+
+129
+00:04:24,199 --> 00:04:28,040
+when we did it we finally let it go it
+
+130
+00:04:26,639 --> 00:04:30,280
+felt like this weight had been lifted
+
+131
+00:04:28,040 --> 00:04:33,559
+off my shoulders because I now knew that
+
+132
+00:04:30,279 --> 00:04:35,679
+I had time to focus on new things to go
+
+133
+00:04:33,560 --> 00:04:37,1000
+out and learn and try new things and
+
+134
+00:04:35,680 --> 00:04:40,399
+build new projects uh and one of those
+
+135
+00:04:38,000 --> 00:04:42,320
+projects was building a second Channel
+
+136
+00:04:40,399 --> 00:04:44,037
+which I called Thomas Frank explains and
+
+137
+00:04:42,319 --> 00:04:45,799
+I called it that because I could not
+
+138
+00:04:44,038 --> 00:04:47,438
+think of a better name seriously my team
+
+139
+00:04:45,800 --> 00:04:49,239
+and I sat around a table trying to think
+
+140
+00:04:47,439 --> 00:04:51,038
+of names for like eight hours one day we
+
+141
+00:04:49,240 --> 00:04:53,119
+couldn't think of anything better uh but
+
+142
+00:04:51,038 --> 00:04:55,119
+I wanted to make a channel that was all
+
+143
+00:04:53,120 --> 00:04:57,560
+about notion if you have watched this
+
+144
+00:04:55,120 --> 00:04:58,999
+channel for a while then a few years ago
+
+145
+00:04:57,560 --> 00:05:00,800
+you probably noticed me post a few
+
+146
+00:04:59,000 --> 00:05:02,758
+videos about about notion it was a
+
+147
+00:05:00,800 --> 00:05:04,880
+productivity app that I got really into
+
+148
+00:05:02,759 --> 00:05:07,999
+and I'm still very much into uh and I
+
+149
+00:05:04,879 --> 00:05:09,558
+had so much fun making those videos that
+
+150
+00:05:08,000 --> 00:05:12,360
+I kind of had this idea of like what if
+
+151
+00:05:09,560 --> 00:05:14,399
+I made an entirely different Channel
+
+152
+00:05:12,360 --> 00:05:15,840
+just all about notion uh and I had a
+
+153
+00:05:14,399 --> 00:05:18,359
+couple of different reasons for doing
+
+154
+00:05:15,839 --> 00:05:20,959
+that first I just wanted something
+
+155
+00:05:18,360 --> 00:05:22,999
+different to do I had this Channel and
+
+156
+00:05:20,959 --> 00:05:24,398
+at the time every single video was
+
+157
+00:05:23,000 --> 00:05:26,638
+sponsored it was a great source of
+
+158
+00:05:24,399 --> 00:05:28,519
+income it was a great source of uh
+
+159
+00:05:26,639 --> 00:05:30,240
+livelihood for both myself and my team
+
+160
+00:05:28,519 --> 00:05:32,278
+at the time but there was a lot of
+
+161
+00:05:30,240 --> 00:05:33,999
+pressure it was still fun but I wanted
+
+162
+00:05:32,279 --> 00:05:36,359
+something that was like an outlet and
+
+163
+00:05:34,000 --> 00:05:38,280
+because I'm a weird nerd instead of
+
+164
+00:05:36,360 --> 00:05:40,119
+making my outlet like video games or
+
+165
+00:05:38,279 --> 00:05:43,118
+music or something it was building an
+
+166
+00:05:40,120 --> 00:05:45,120
+entire second Channel about a software
+
+167
+00:05:43,120 --> 00:05:46,758
+product a single software product but I
+
+168
+00:05:45,120 --> 00:05:49,080
+also had some inspiration I think back
+
+169
+00:05:46,759 --> 00:05:51,199
+in like 2012 or 2013 there was this guy
+
+170
+00:05:49,079 --> 00:05:53,638
+who made an entire website and then sold
+
+171
+00:05:51,199 --> 00:05:55,319
+an entire course about Evernote uh and I
+
+172
+00:05:53,639 --> 00:05:57,440
+knew about him because I used Evernote
+
+173
+00:05:55,319 --> 00:05:59,198
+back in the day and I don't remember how
+
+174
+00:05:57,439 --> 00:06:01,637
+much he made or how big his audience was
+
+175
+00:05:59,199 --> 00:06:03,479
+but I know that he was able to build a
+
+176
+00:06:01,639 --> 00:06:05,478
+good living for himself possibly even
+
+177
+00:06:03,478 --> 00:06:07,519
+for a team just making content on
+
+178
+00:06:05,478 --> 00:06:09,478
+Evernote because there was a big enough
+
+179
+00:06:07,519 --> 00:06:12,879
+audience out there for this Niche
+
+180
+00:06:09,478 --> 00:06:14,559
+product and they had goals that required
+
+181
+00:06:12,879 --> 00:06:16,278
+learning this product learning its ins
+
+182
+00:06:14,560 --> 00:06:18,800
+and out its tips and tricks so they were
+
+183
+00:06:16,279 --> 00:06:19,799
+willing to pay for the products he was
+
+184
+00:06:18,800 --> 00:06:21,559
+shipping out and willing to pay
+
+185
+00:06:19,800 --> 00:06:23,239
+attention to the content he was making
+
+186
+00:06:21,560 --> 00:06:24,959
+so I just had that little seed of
+
+187
+00:06:23,240 --> 00:06:27,639
+inspiration and I just had this
+
+188
+00:06:24,959 --> 00:06:29,558
+conviction like I see a lot of Buzz and
+
+189
+00:06:27,639 --> 00:06:32,079
+excitement about notion online I'm
+
+190
+00:06:29,560 --> 00:06:34,199
+personally excited about it and I think
+
+191
+00:06:32,079 --> 00:06:35,638
+that there's a lot of potential here for
+
+192
+00:06:34,199 --> 00:06:37,560
+something that could become a business I
+
+193
+00:06:35,639 --> 00:06:39,919
+didn't know what it was but I felt good
+
+194
+00:06:37,560 --> 00:06:41,880
+about it and ever since I was like a
+
+195
+00:06:39,918 --> 00:06:43,478
+late teenager early in college I've kind
+
+196
+00:06:41,879 --> 00:06:45,037
+of had this philosophy that the place
+
+197
+00:06:43,478 --> 00:06:47,279
+you want to be in life is the
+
+198
+00:06:45,038 --> 00:06:49,839
+intersection of three different points
+
+199
+00:06:47,279 --> 00:06:51,118
+uh one is a thing that you're good at uh
+
+200
+00:06:49,839 --> 00:06:53,359
+the other is something that you actually
+
+201
+00:06:51,120 --> 00:06:55,318
+enjoy doing and then the third is
+
+202
+00:06:53,360 --> 00:06:57,080
+something that has a growing and hungry
+
+203
+00:06:55,319 --> 00:06:59,559
+audience so if you can get yourself at
+
+204
+00:06:57,079 --> 00:07:01,317
+the middle of those three things uh
+
+205
+00:06:59,560 --> 00:07:03,720
+you're in a good spot because you're
+
+206
+00:07:01,319 --> 00:07:06,319
+good at it you like it and there's an
+
+207
+00:07:03,720 --> 00:07:07,559
+audience who is looking for Solutions
+
+208
+00:07:06,319 --> 00:07:09,560
+looking for products looking for
+
+209
+00:07:07,560 --> 00:07:11,598
+information uh at the thing that you're
+
+210
+00:07:09,560 --> 00:07:13,280
+good at and that you're working on so I
+
+211
+00:07:11,598 --> 00:07:15,918
+went and started this Channel and it was
+
+212
+00:07:13,279 --> 00:07:17,838
+so funny to see how I reacted to the
+
+213
+00:07:15,918 --> 00:07:20,637
+initial view counts because initial
+
+214
+00:07:17,839 --> 00:07:21,959
+videos were getting 100 to 200 views I
+
+215
+00:07:20,639 --> 00:07:23,800
+wasn't promoting that channel very
+
+216
+00:07:21,959 --> 00:07:25,757
+heavily on this channel I thought hey
+
+217
+00:07:23,800 --> 00:07:27,478
+this is super Niche I think my first
+
+218
+00:07:25,759 --> 00:07:29,719
+video was about like recurring tasks and
+
+219
+00:07:27,478 --> 00:07:31,958
+notion second video was even more nich
+
+220
+00:07:29,720 --> 00:07:33,918
+it was like a URL Handler trick that I
+
+221
+00:07:31,959 --> 00:07:35,718
+had found it was excited about so I
+
+222
+00:07:33,918 --> 00:07:36,998
+didn't talk much about that channel on
+
+223
+00:07:35,720 --> 00:07:39,159
+this channel I just thought let's let
+
+224
+00:07:37,000 --> 00:07:41,960
+the algorithm do its work but it was so
+
+225
+00:07:39,160 --> 00:07:44,240
+interesting just seeing how excited I
+
+226
+00:07:41,959 --> 00:07:46,279
+got to see a 100 views on a video than
+
+227
+00:07:44,240 --> 00:07:47,999
+to see like my first 500 view video on
+
+228
+00:07:46,279 --> 00:07:50,279
+there it was almost like Starting Over
+
+229
+00:07:48,000 --> 00:07:52,080
+Again from scratch and that excitement
+
+230
+00:07:50,279 --> 00:07:53,359
+came back initially I thought hey I'm
+
+231
+00:07:52,079 --> 00:07:55,559
+going to build this Channel and I'm
+
+232
+00:07:53,360 --> 00:07:57,720
+going to be very bored or disappointed
+
+233
+00:07:55,560 --> 00:07:59,598
+with the view counts because I'm already
+
+234
+00:07:57,720 --> 00:08:01,639
+sort of like set and calibrating ated to
+
+235
+00:07:59,598 --> 00:08:02,917
+the view counts on my main Channel
+
+236
+00:08:01,639 --> 00:08:04,319
+that's not at all what happened I
+
+237
+00:08:02,918 --> 00:08:06,838
+started the new project and it was just
+
+238
+00:08:04,319 --> 00:08:09,479
+so exciting to see the ball get rolling
+
+239
+00:08:06,839 --> 00:08:12,157
+once again so I was making videos on
+
+240
+00:08:09,478 --> 00:08:15,718
+that channel completely for fun uh and
+
+241
+00:08:12,158 --> 00:08:17,638
+then I had this idea hey people seem to
+
+242
+00:08:15,720 --> 00:08:18,918
+be interested in these videos and
+
+243
+00:08:17,639 --> 00:08:20,440
+there's this cool little feature in
+
+244
+00:08:18,918 --> 00:08:22,317
+notion where you can actually share a
+
+245
+00:08:20,439 --> 00:08:24,318
+page that you've created as a template
+
+246
+00:08:22,319 --> 00:08:25,960
+so people can basically duplicate it and
+
+247
+00:08:24,319 --> 00:08:28,158
+get an exact copy of that page in their
+
+248
+00:08:25,959 --> 00:08:29,318
+notion workspace and the other thing
+
+249
+00:08:28,158 --> 00:08:30,959
+that notion had really kind of
+
+250
+00:08:29,319 --> 00:08:33,239
+communicated in their marketing back in
+
+251
+00:08:30,959 --> 00:08:35,119
+2018 when I started using it was hey
+
+252
+00:08:33,240 --> 00:08:36,719
+it's this all-in-one app it should be
+
+253
+00:08:35,120 --> 00:08:38,479
+able to do task management it should be
+
+254
+00:08:36,719 --> 00:08:40,038
+able to do note taking it replaces all
+
+255
+00:08:38,479 --> 00:08:42,398
+these different singular apps you've
+
+256
+00:08:40,038 --> 00:08:43,759
+been using for a long time uh it's like
+
+257
+00:08:42,399 --> 00:08:45,479
+the whole alt and brown thing right
+
+258
+00:08:43,759 --> 00:08:47,198
+don't use unitaskers get yourself a good
+
+259
+00:08:45,480 --> 00:08:48,759
+chef's knife it can do everything so
+
+260
+00:08:47,200 --> 00:08:51,480
+notion is like the chef's knife or the
+
+261
+00:08:48,759 --> 00:08:52,799
+utility knife of productivity tools so I
+
+262
+00:08:51,480 --> 00:08:54,839
+kind of took that as a challenge and I
+
+263
+00:08:52,799 --> 00:08:56,999
+was like hey can I build a really good
+
+264
+00:08:54,839 --> 00:08:58,640
+task manager in notion can I build a
+
+265
+00:08:57,000 --> 00:09:00,480
+note taking system in notion I did the
+
+266
+00:08:58,639 --> 00:09:02,277
+note taking system tutorial on this
+
+267
+00:09:00,480 --> 00:09:04,920
+channel actually and then I built a task
+
+268
+00:09:02,278 --> 00:09:07,438
+manager one for Thomas Frank explains uh
+
+269
+00:09:04,919 --> 00:09:10,239
+and with that I kind of created a free
+
+270
+00:09:07,440 --> 00:09:12,119
+template people could use just to see
+
+271
+00:09:10,240 --> 00:09:14,440
+was their interest in this whole
+
+272
+00:09:12,120 --> 00:09:15,838
+template idea and could I use these
+
+273
+00:09:14,440 --> 00:09:18,518
+templates to start building up a
+
+274
+00:09:15,839 --> 00:09:20,518
+secondary email list around Thomas Frank
+
+275
+00:09:18,519 --> 00:09:22,479
+explains and around my notion work
+
+276
+00:09:20,519 --> 00:09:24,919
+because I didn't want to be constantly
+
+277
+00:09:22,480 --> 00:09:26,720
+spamming my huge email list that signed
+
+278
+00:09:24,919 --> 00:09:28,758
+up for college tips and productivity
+
+279
+00:09:26,720 --> 00:09:31,439
+tips with really really technical
+
+280
+00:09:28,759 --> 00:09:33,119
+Notions tips so I made this whole
+
+281
+00:09:31,440 --> 00:09:34,959
+template I made a whole video about it
+
+282
+00:09:33,120 --> 00:09:36,278
+that did pretty well and then something
+
+283
+00:09:34,958 --> 00:09:38,078
+quite interesting happened I think there
+
+284
+00:09:36,278 --> 00:09:39,639
+was a Saturday morning where I was bored
+
+285
+00:09:38,078 --> 00:09:41,598
+so I came down into my basement and I'm
+
+286
+00:09:39,639 --> 00:09:43,478
+like I'm going to basically build the
+
+287
+00:09:41,600 --> 00:09:45,800
+template from scratch all over again I'm
+
+288
+00:09:43,480 --> 00:09:46,759
+going to film myself doing it and I
+
+289
+00:09:45,799 --> 00:09:49,799
+don't even know if I'm going to post
+
+290
+00:09:46,759 --> 00:09:51,799
+this uh I was so not confident about
+
+291
+00:09:49,799 --> 00:09:54,077
+this video idea that I used a tool
+
+292
+00:09:51,799 --> 00:09:55,759
+called Loom to record my screen usually
+
+293
+00:09:54,078 --> 00:09:57,439
+I use like a very highquality screen
+
+294
+00:09:55,759 --> 00:09:59,837
+recorder I'll break out my really nice
+
+295
+00:09:57,440 --> 00:10:02,239
+camera uh to do the face cam with this I
+
+296
+00:09:59,839 --> 00:10:04,199
+just use Loom I use my webcam it turned
+
+297
+00:10:02,240 --> 00:10:06,360
+out to be like an hour long I'm like no
+
+298
+00:10:04,200 --> 00:10:08,959
+one's going to watch this video it's so
+
+299
+00:10:06,360 --> 00:10:10,640
+long it's so technical but let's just
+
+300
+00:10:08,958 --> 00:10:12,159
+put it up in the channel anyway that's
+
+301
+00:10:10,639 --> 00:10:13,799
+kind of the beauty of having a brand new
+
+302
+00:10:12,159 --> 00:10:15,998
+channel is you feel like there's this
+
+303
+00:10:13,799 --> 00:10:18,119
+freedom to try different things and
+
+304
+00:10:16,000 --> 00:10:20,320
+experiment again so I put that video up
+
+305
+00:10:18,120 --> 00:10:21,680
+there alongside the shorter video just
+
+306
+00:10:20,320 --> 00:10:23,719
+sort of going through what the template
+
+307
+00:10:21,679 --> 00:10:25,319
+could do and how to get it uh and if you
+
+308
+00:10:23,720 --> 00:10:27,240
+go on to Thomas Frank explains now you
+
+309
+00:10:25,320 --> 00:10:29,800
+can sort by popular and you can see that
+
+310
+00:10:27,240 --> 00:10:31,480
+the hourlong task manager tutorial is
+
+311
+00:10:29,799 --> 00:10:34,159
+one of the most popular videos on the
+
+312
+00:10:31,480 --> 00:10:35,839
+channel and it did way better than the
+
+313
+00:10:34,159 --> 00:10:38,199
+shorter video that I thought was going
+
+314
+00:10:35,839 --> 00:10:39,560
+to be more viral or whatever uh they're
+
+315
+00:10:38,200 --> 00:10:41,999
+way better than that in terms of views
+
+316
+00:10:39,559 --> 00:10:45,679
+and retention and that started telling
+
+317
+00:10:42,000 --> 00:10:48,200
+me Oh there's a lot of potential here
+
+318
+00:10:45,679 --> 00:10:50,278
+there's a lot of interest around just
+
+319
+00:10:48,200 --> 00:10:51,880
+making these build guides so I started
+
+320
+00:10:50,278 --> 00:10:53,479
+making build guides I started creating
+
+321
+00:10:51,879 --> 00:10:55,158
+this whole content strategy on Thomas
+
+322
+00:10:53,480 --> 00:10:56,919
+Frank explains and it started to become
+
+323
+00:10:55,159 --> 00:10:58,679
+a bigger part of my life and a bigger
+
+324
+00:10:56,919 --> 00:11:00,278
+part of my business I was still making
+
+325
+00:10:58,679 --> 00:11:03,478
+content sent over here I think this was
+
+326
+00:11:00,278 --> 00:11:05,919
+around you know late 2020 early 2021 but
+
+327
+00:11:03,480 --> 00:11:08,760
+I was really getting interested in how I
+
+328
+00:11:05,919 --> 00:11:10,957
+could build up this second Channel as a
+
+329
+00:11:08,759 --> 00:11:13,239
+niche side business at the time my
+
+330
+00:11:10,958 --> 00:11:14,438
+ambitions were not super huge with it I
+
+331
+00:11:13,240 --> 00:11:16,839
+was thinking hey maybe we could build
+
+332
+00:11:14,440 --> 00:11:18,720
+this up to replace one video's sponsor
+
+333
+00:11:16,839 --> 00:11:20,638
+spot worth of income each month so we
+
+334
+00:11:18,720 --> 00:11:21,920
+could kind of go you know more in depth
+
+335
+00:11:20,639 --> 00:11:24,480
+on the videos we're making on the main
+
+336
+00:11:21,919 --> 00:11:26,278
+Channel um But as time went on I just
+
+337
+00:11:24,480 --> 00:11:28,518
+kind of got more and more ambitious and
+
+338
+00:11:26,278 --> 00:11:30,957
+this leads into what I think is the real
+
+339
+00:11:28,519 --> 00:11:34,320
+start of the pivot that I made in mid
+
+340
+00:11:30,958 --> 00:11:36,158
+2021 uh there was this huge boom in what
+
+341
+00:11:34,320 --> 00:11:38,239
+are called cohort-based courses
+
+342
+00:11:36,159 --> 00:11:40,159
+basically these are like Zoom courses
+
+343
+00:11:38,240 --> 00:11:41,920
+where there's like a live cohort uh
+
+344
+00:11:40,159 --> 00:11:43,957
+Thiago Forte is building a second brain
+
+345
+00:11:41,919 --> 00:11:45,919
+is a great example of this Ali abdall
+
+346
+00:11:43,958 --> 00:11:47,679
+had a cohort for part-time YouTuber
+
+347
+00:11:45,919 --> 00:11:49,198
+Academy as well and you know obviously
+
+348
+00:11:47,679 --> 00:11:52,039
+everyone was locked inside at the time
+
+349
+00:11:49,200 --> 00:11:53,759
+mid 2021 so I was thinking hey I wonder
+
+350
+00:11:52,039 --> 00:11:55,159
+if a cohort-based course would be
+
+351
+00:11:53,759 --> 00:11:57,638
+something that would be a good
+
+352
+00:11:55,159 --> 00:11:59,718
+monetization opportunity for uh this
+
+353
+00:11:57,639 --> 00:12:01,680
+side channel here so I ended up taking
+
+354
+00:11:59,720 --> 00:12:04,399
+this is very meta I ended up taking a
+
+355
+00:12:01,679 --> 00:12:06,919
+course for course Builders offered by I
+
+356
+00:12:04,399 --> 00:12:09,320
+think it was on deck and for four weeks
+
+357
+00:12:06,919 --> 00:12:10,439
+I showed up to those live courses
+
+358
+00:12:09,320 --> 00:12:11,958
+thinking hey I'm going to learn how to
+
+359
+00:12:10,440 --> 00:12:14,359
+become a great teacher and a great
+
+360
+00:12:11,958 --> 00:12:16,517
+facilitator for cohort based courses uh
+
+361
+00:12:14,360 --> 00:12:18,638
+and then I'm going to go build one and
+
+362
+00:12:16,519 --> 00:12:20,639
+as I was going through that cohort-based
+
+363
+00:12:18,639 --> 00:12:23,159
+course I started to have this
+
+364
+00:12:20,639 --> 00:12:25,440
+realization uh I didn't want to make a
+
+365
+00:12:23,159 --> 00:12:26,799
+course I wanted to make a product my
+
+366
+00:12:25,440 --> 00:12:28,560
+original idea for the course was going
+
+367
+00:12:26,799 --> 00:12:30,517
+to be like notion for creators because
+
+368
+00:12:28,559 --> 00:12:32,398
+ever since since 2018 I've started
+
+369
+00:12:30,519 --> 00:12:33,919
+moving more and more of my Creator
+
+370
+00:12:32,399 --> 00:12:35,680
+business into notion and we eventually
+
+371
+00:12:33,919 --> 00:12:38,398
+got to a point where we were managing
+
+372
+00:12:35,679 --> 00:12:40,957
+all of what we did on a Content basis
+
+373
+00:12:38,399 --> 00:12:42,958
+inside of notion from idea generation to
+
+374
+00:12:40,958 --> 00:12:44,719
+scripting to uh managing the edit
+
+375
+00:12:42,958 --> 00:12:46,159
+between myself and my editor everything
+
+376
+00:12:44,720 --> 00:12:47,920
+was done an oce so I'm thinking hey
+
+377
+00:12:46,159 --> 00:12:49,918
+let's make a course on this and maybe
+
+378
+00:12:47,919 --> 00:12:52,197
+this could be the way we monetize Thomas
+
+379
+00:12:49,919 --> 00:12:53,999
+Frank explains but as I was going
+
+380
+00:12:52,198 --> 00:12:56,077
+through this cohort based course I
+
+381
+00:12:54,000 --> 00:12:58,399
+started realizing like what if I just
+
+382
+00:12:56,078 --> 00:13:01,078
+took the system that I built for myself
+
+383
+00:12:58,399 --> 00:13:03,440
+and my team turned it into a product and
+
+384
+00:13:01,078 --> 00:13:05,799
+sold that instead so that's what I
+
+385
+00:13:03,440 --> 00:13:07,920
+decided to do I basically took the
+
+386
+00:13:05,799 --> 00:13:10,077
+custom notion template notion system
+
+387
+00:13:07,919 --> 00:13:12,879
+that we had made for managing our
+
+388
+00:13:10,078 --> 00:13:14,398
+channels for uh scripting videos for
+
+389
+00:13:12,879 --> 00:13:16,238
+collecting research for managing the
+
+390
+00:13:14,399 --> 00:13:17,680
+edits all that kind of good stuff and I
+
+391
+00:13:16,240 --> 00:13:20,039
+bundled up into a template that I called
+
+392
+00:13:17,679 --> 00:13:22,637
+creators companion uh and this was
+
+393
+00:13:20,039 --> 00:13:25,398
+actually the first real product that
+
+394
+00:13:22,639 --> 00:13:26,919
+I've ever sold myself it feels kind of
+
+395
+00:13:25,399 --> 00:13:29,559
+weird to say that because I've been
+
+396
+00:13:26,919 --> 00:13:32,197
+doing online business since 201
+
+397
+00:13:29,559 --> 00:13:34,078
+I hit full-time income my blog in 2012
+
+398
+00:13:32,198 --> 00:13:36,358
+and ever since then I've always had
+
+399
+00:13:34,078 --> 00:13:39,438
+intentions of making and selling my own
+
+400
+00:13:36,360 --> 00:13:41,480
+products but whether due to my sponsor
+
+401
+00:13:39,440 --> 00:13:43,359
+schedule or my inclination to try to
+
+402
+00:13:41,480 --> 00:13:44,560
+make everything that I do free I just
+
+403
+00:13:43,360 --> 00:13:47,078
+always kind of Kick the Can down the
+
+404
+00:13:44,559 --> 00:13:48,879
+road so finally I was like I think that
+
+405
+00:13:47,078 --> 00:13:50,998
+this really makes sense as a paid tool
+
+406
+00:13:48,879 --> 00:13:53,239
+it's what my team and I are using for
+
+407
+00:13:51,000 --> 00:13:54,839
+professional level management of a
+
+408
+00:13:53,240 --> 00:13:56,240
+profitable Channel I think this makes
+
+409
+00:13:54,839 --> 00:13:57,480
+sense as a paid product and I remember
+
+410
+00:13:56,240 --> 00:13:59,279
+it was kind of funny at the time there
+
+411
+00:13:57,480 --> 00:14:01,600
+was this online discourse where there
+
+412
+00:13:59,278 --> 00:14:02,958
+were kind of like two different ideas
+
+413
+00:14:01,600 --> 00:14:04,879
+that were thrown around the first one
+
+414
+00:14:02,958 --> 00:14:06,918
+being no one would ever pay for a notion
+
+415
+00:14:04,879 --> 00:14:09,077
+template why would they do that it's so
+
+416
+00:14:06,919 --> 00:14:10,999
+easy to build stuff in notion yourself
+
+417
+00:14:09,078 --> 00:14:12,957
+uh which I disagreed with because the
+
+418
+00:14:11,000 --> 00:14:15,240
+stuff I was building was very
+
+419
+00:14:12,958 --> 00:14:17,517
+complicated required a lot of knowledge
+
+420
+00:14:15,240 --> 00:14:18,880
+of databases and things like that um and
+
+421
+00:14:17,519 --> 00:14:21,039
+then the other prevailing message was
+
+422
+00:14:18,879 --> 00:14:23,798
+well maybe a template is worth like $5
+
+423
+00:14:21,039 --> 00:14:26,758
+or something and my thought there was
+
+424
+00:14:23,799 --> 00:14:27,957
+I'm not excited to sell something for $5
+
+425
+00:14:26,759 --> 00:14:30,638
+that's kind of always been one of my
+
+426
+00:14:27,958 --> 00:14:32,757
+guiding uh principles actually is if I'm
+
+427
+00:14:30,639 --> 00:14:34,078
+not really excited about the amount of
+
+428
+00:14:32,759 --> 00:14:35,679
+money I think I could make selling
+
+429
+00:14:34,078 --> 00:14:38,679
+something I would rather just make it
+
+430
+00:14:35,679 --> 00:14:39,919
+free so I did the math like $5 template
+
+431
+00:14:38,679 --> 00:14:41,278
+how many people are possibly going to
+
+432
+00:14:39,919 --> 00:14:44,278
+want to buy this this is kind of a
+
+433
+00:14:41,278 --> 00:14:45,678
+complex Niche tool $5 doesn't make sense
+
+434
+00:14:44,278 --> 00:14:47,559
+let's just challenge the assumptions for
+
+435
+00:14:45,679 --> 00:14:49,278
+a second what's the worst thing that's
+
+436
+00:14:47,559 --> 00:14:50,998
+going to happen if I decide to charge
+
+437
+00:14:49,278 --> 00:14:52,919
+like 200 bucks for this again it's a
+
+438
+00:14:51,000 --> 00:14:54,160
+professional level tool it's for
+
+439
+00:14:52,919 --> 00:14:56,398
+professional creators who are making
+
+440
+00:14:54,159 --> 00:14:58,958
+money let's try charging 200 bucks if
+
+441
+00:14:56,399 --> 00:15:00,319
+nothing happens if nobody buys it that's
+
+442
+00:14:58,958 --> 00:15:02,159
+fine I already built the system for
+
+443
+00:15:00,320 --> 00:15:03,800
+myself I didn't invest that much more
+
+444
+00:15:02,159 --> 00:15:06,998
+time turning it into a product let's
+
+445
+00:15:03,799 --> 00:15:08,879
+just try it and we put it out there um I
+
+446
+00:15:07,000 --> 00:15:10,680
+tried to go back and see just how much
+
+447
+00:15:08,879 --> 00:15:13,077
+marketing I did around it but I know
+
+448
+00:15:10,679 --> 00:15:14,679
+that I really didn't do a whole lot uh
+
+449
+00:15:13,078 --> 00:15:16,558
+and the reason for that was I was
+
+450
+00:15:14,679 --> 00:15:18,078
+worried that with my big audience I was
+
+451
+00:15:16,559 --> 00:15:20,119
+going to ship something out there and if
+
+452
+00:15:18,078 --> 00:15:22,119
+I publicized it too hard people were
+
+453
+00:15:20,120 --> 00:15:23,680
+going to find tons of bugs and I was
+
+454
+00:15:22,120 --> 00:15:27,560
+going to be overwhelmed with support and
+
+455
+00:15:23,679 --> 00:15:30,238
+negative comments so perhaps almost too
+
+456
+00:15:27,559 --> 00:15:32,757
+um timidly I I just started to very very
+
+457
+00:15:30,240 --> 00:15:34,318
+very gradually Market this template to
+
+458
+00:15:32,759 --> 00:15:35,839
+bits and pieces in my email list at
+
+459
+00:15:34,318 --> 00:15:38,039
+first little mentions here and there on
+
+460
+00:15:35,839 --> 00:15:39,680
+Thomas Frank uh explains I don't think I
+
+461
+00:15:38,039 --> 00:15:42,518
+ever talked about it here on this main
+
+462
+00:15:39,679 --> 00:15:44,757
+Channel and uh within a couple of months
+
+463
+00:15:42,519 --> 00:15:46,318
+it was making around $3 to $5,000 a
+
+464
+00:15:44,759 --> 00:15:47,1000
+month which was already beyond my
+
+465
+00:15:46,318 --> 00:15:49,599
+expectations because I wasn't doing a
+
+466
+00:15:48,000 --> 00:15:51,600
+lot of marketing and that was a really
+
+467
+00:15:49,600 --> 00:15:53,600
+cool signal because I had gotten my
+
+468
+00:15:51,600 --> 00:15:55,680
+first taste of what it's like to
+
+469
+00:15:53,600 --> 00:15:57,720
+literally build and sell my own product
+
+470
+00:15:55,679 --> 00:15:59,438
+build the entire sales funnel sales
+
+471
+00:15:57,720 --> 00:16:01,599
+pipeline myself
+
+472
+00:15:59,440 --> 00:16:03,638
+uh and it was a lot of fun previously I
+
+473
+00:16:01,600 --> 00:16:05,479
+had been working with sponsors or my
+
+474
+00:16:03,639 --> 00:16:07,480
+little tiny dabblings with selling
+
+475
+00:16:05,480 --> 00:16:09,440
+things had been like having a a create
+
+476
+00:16:07,480 --> 00:16:11,079
+space book on Amazon where they totally
+
+477
+00:16:09,440 --> 00:16:12,758
+take care of everything for you or
+
+478
+00:16:11,078 --> 00:16:14,038
+having like courses on skillshare again
+
+479
+00:16:12,759 --> 00:16:15,959
+they take care of everything for you you
+
+480
+00:16:14,039 --> 00:16:17,159
+just say hey go to skillshare that's it
+
+481
+00:16:15,958 --> 00:16:19,277
+with this it's like I got to build the
+
+482
+00:16:17,159 --> 00:16:20,478
+sales page I have to handle fulfillment
+
+483
+00:16:19,278 --> 00:16:22,838
+I have to figure out what payment
+
+484
+00:16:20,480 --> 00:16:24,880
+process are to use uh obviously I went
+
+485
+00:16:22,839 --> 00:16:26,399
+way too in depth with that and spent way
+
+486
+00:16:24,879 --> 00:16:28,158
+too much time Heming and Hauling over
+
+487
+00:16:26,399 --> 00:16:30,318
+the options because that's just kind of
+
+488
+00:16:28,159 --> 00:16:32,277
+how I am but eventually I got my sales
+
+489
+00:16:30,318 --> 00:16:34,598
+pipeline working and yeah we were making
+
+490
+00:16:32,278 --> 00:16:36,518
+$3 to $5,000 a month which was really
+
+491
+00:16:34,600 --> 00:16:38,278
+really cool and a couple of months after
+
+492
+00:16:36,519 --> 00:16:41,198
+that it eventually got up to around
+
+493
+00:16:38,278 --> 00:16:43,239
+$115,000 a month again not a whole lot
+
+494
+00:16:41,198 --> 00:16:45,718
+of direct marketing I wasn't really
+
+495
+00:16:43,240 --> 00:16:47,720
+doing ad reads for it in my videos uh
+
+496
+00:16:45,720 --> 00:16:49,958
+just mentions here or there but I also
+
+497
+00:16:47,720 --> 00:16:52,120
+had my free templates my email list and
+
+498
+00:16:49,958 --> 00:16:54,719
+that was a great way to uh pitch the
+
+499
+00:16:52,120 --> 00:16:56,679
+template to people who signed up so that
+
+500
+00:16:54,720 --> 00:16:58,958
+was kind of an eye opener like this is
+
+501
+00:16:56,679 --> 00:17:02,637
+making 15K a month it's a niche tool on
+
+502
+00:16:58,958 --> 00:17:04,879
+a niche uh channel that is very small
+
+503
+00:17:02,639 --> 00:17:07,079
+what if we did something bigger so that
+
+504
+00:17:04,880 --> 00:17:09,519
+is where we get to why I ended up sort
+
+505
+00:17:07,078 --> 00:17:11,957
+of accidentally abandoning this channel
+
+506
+00:17:09,519 --> 00:17:13,918
+I had an idea for another template that
+
+507
+00:17:11,959 --> 00:17:16,319
+I wanted to sell and this template idea
+
+508
+00:17:13,919 --> 00:17:18,838
+really went back to what I wanted notion
+
+509
+00:17:16,318 --> 00:17:20,238
+to be all the way back in 2018 when I
+
+510
+00:17:18,838 --> 00:17:22,078
+discovered it all the way back when I
+
+511
+00:17:20,240 --> 00:17:24,199
+found that homepage and they had that
+
+512
+00:17:22,078 --> 00:17:26,879
+all inone productivity tool tagline
+
+513
+00:17:24,199 --> 00:17:29,160
+there that is what I wanted because I've
+
+514
+00:17:26,880 --> 00:17:30,960
+spent my entire career both as a Creator
+
+515
+00:17:29,160 --> 00:17:32,999
+but also as a student and as somebody
+
+516
+00:17:30,960 --> 00:17:34,640
+who just has to get work done juggling a
+
+517
+00:17:33,000 --> 00:17:37,440
+whole lot of tools out there my calendar
+
+518
+00:17:34,640 --> 00:17:39,600
+app my to-do list app my note taking app
+
+519
+00:17:37,440 --> 00:17:40,960
+all kinds of stuff uh and as I started
+
+520
+00:17:39,599 --> 00:17:42,958
+to hire people and started working with
+
+521
+00:17:40,960 --> 00:17:45,759
+teams things just got very very
+
+522
+00:17:42,960 --> 00:17:47,759
+complicated so I wanted to build the
+
+523
+00:17:45,759 --> 00:17:50,278
+all-in-one productivity template I
+
+524
+00:17:47,759 --> 00:17:52,318
+wanted to both apply the knowledge that
+
+525
+00:17:50,279 --> 00:17:53,519
+I gained as a nocean template Creator
+
+526
+00:17:52,319 --> 00:17:55,118
+and also a lot of the new feature
+
+527
+00:17:53,519 --> 00:17:57,719
+releases that they had been coming out
+
+528
+00:17:55,119 --> 00:17:59,157
+with uh since 2018 to really try to
+
+529
+00:17:57,720 --> 00:18:01,280
+build that template for myself a
+
+530
+00:17:59,159 --> 00:18:03,119
+notetaking system a project manager a
+
+531
+00:18:01,279 --> 00:18:05,399
+task manager everything that I would
+
+532
+00:18:03,119 --> 00:18:08,439
+need to manage my life inside of a
+
+533
+00:18:05,400 --> 00:18:11,279
+single template so the idea was I'm
+
+534
+00:18:08,440 --> 00:18:13,640
+going to take March of 2022 off give
+
+535
+00:18:11,279 --> 00:18:14,759
+myself 30 days to build this template
+
+536
+00:18:13,640 --> 00:18:16,360
+then I'm going to release it and get
+
+537
+00:18:14,759 --> 00:18:19,158
+right back to making content for the
+
+538
+00:18:16,359 --> 00:18:21,118
+main channel that was the intention what
+
+539
+00:18:19,159 --> 00:18:22,880
+actually ended up happening was I did
+
+540
+00:18:21,119 --> 00:18:26,119
+actually build the template within one
+
+541
+00:18:22,880 --> 00:18:28,559
+month I launched it to a small wait list
+
+542
+00:18:26,119 --> 00:18:31,878
+on my email list uh on April 4th I want
+
+543
+00:18:28,558 --> 00:18:34,758
+to say and that was around 3,000 people
+
+544
+00:18:31,880 --> 00:18:36,679
+and with just two emails to those 3,000
+
+545
+00:18:34,759 --> 00:18:39,358
+people I want to say we made
+
+546
+00:18:36,679 --> 00:18:41,999
+$8,000 in one month and that was
+
+547
+00:18:39,359 --> 00:18:44,719
+legitimately more than we had ever made
+
+548
+00:18:42,000 --> 00:18:46,158
+in the entire life of my business I
+
+549
+00:18:44,720 --> 00:18:49,519
+think the most we had ever made before
+
+550
+00:18:46,159 --> 00:18:50,1000
+then was around 70k one month a previous
+
+551
+00:18:49,519 --> 00:18:52,838
+year when we had done a big new
+
+552
+00:18:51,000 --> 00:18:55,240
+skillshare course launch and uh did a
+
+553
+00:18:52,839 --> 00:18:58,319
+spot about that uh course on one of my
+
+554
+00:18:55,240 --> 00:19:00,039
+videos so this was instantly more money
+
+555
+00:18:58,319 --> 00:19:01,999
+that I had ever made from all of my
+
+556
+00:19:00,038 --> 00:19:04,797
+other income sources combined and that
+
+557
+00:19:02,000 --> 00:19:06,599
+was from an email to 3,000 people uh now
+
+558
+00:19:04,798 --> 00:19:08,599
+granted that was 3,000 people who had
+
+559
+00:19:06,599 --> 00:19:10,677
+signed up to a very specific weit list
+
+560
+00:19:08,599 --> 00:19:12,797
+for this template so they had sort of
+
+561
+00:19:10,679 --> 00:19:15,679
+like opted in and shown their interest
+
+562
+00:19:12,798 --> 00:19:17,479
+already but still 3,000 people was all
+
+563
+00:19:15,679 --> 00:19:20,558
+that was needed to do 80,000 in a single
+
+564
+00:19:17,480 --> 00:19:22,079
+month the next month I decided not to
+
+565
+00:19:20,558 --> 00:19:23,558
+make a video about it yet again I was
+
+566
+00:19:22,079 --> 00:19:25,518
+worried about getting too many customers
+
+567
+00:19:23,558 --> 00:19:26,958
+too fast I didn't have a support team I
+
+568
+00:19:25,519 --> 00:19:28,599
+was worried about getting inundated with
+
+569
+00:19:26,960 --> 00:19:30,839
+support requests and having people find
+
+570
+00:19:28,599 --> 00:19:32,917
+bugs so I kind of wanted to slow roll it
+
+571
+00:19:30,839 --> 00:19:35,239
+uh so the next month I just sent an
+
+572
+00:19:32,919 --> 00:19:37,199
+email to my notion tips newsletter at
+
+573
+00:19:35,240 --> 00:19:40,158
+the time I think it was around 50,000
+
+574
+00:19:37,200 --> 00:19:42,158
+people so 50,000 people minus the 3,000
+
+575
+00:19:40,159 --> 00:19:45,639
+who had already heard about it that
+
+576
+00:19:42,159 --> 00:19:48,720
+email push did $90,000 in revenue and
+
+577
+00:19:45,640 --> 00:19:50,199
+then in I think late may I finally made
+
+578
+00:19:48,720 --> 00:19:52,918
+a video about it on Thomas Frank
+
+579
+00:19:50,200 --> 00:19:55,640
+explains and once that video went live
+
+580
+00:19:52,919 --> 00:19:58,678
+we started averaging between 100 and
+
+581
+00:19:55,640 --> 00:20:01,720
+$130,000 a month in Revenue uh from then
+
+582
+00:19:58,679 --> 00:20:04,360
+on which was absolutely insane I did not
+
+583
+00:20:01,720 --> 00:20:06,918
+expect that whatsoever um but the video
+
+584
+00:20:04,359 --> 00:20:08,759
+did really well and I actually had a
+
+585
+00:20:06,919 --> 00:20:11,079
+very interesting inspiration like point
+
+586
+00:20:08,759 --> 00:20:12,839
+of inspiration for making that video uh
+
+587
+00:20:11,079 --> 00:20:15,319
+it was actually the channel more plates
+
+588
+00:20:12,839 --> 00:20:17,037
+more dates of all things um which he
+
+589
+00:20:15,319 --> 00:20:18,758
+makes videos about like Fitness and
+
+590
+00:20:17,038 --> 00:20:20,558
+supplements and things like that but I
+
+591
+00:20:18,759 --> 00:20:22,719
+remember he had made this video about
+
+592
+00:20:20,558 --> 00:20:24,878
+like a pre-workout that he had developed
+
+593
+00:20:22,720 --> 00:20:27,798
+and it was almost an hour and a half of
+
+594
+00:20:24,880 --> 00:20:29,200
+content where he just goes ingredient by
+
+595
+00:20:27,798 --> 00:20:30,918
+ingredient
+
+596
+00:20:29,200 --> 00:20:32,479
+uh just going through every single thing
+
+597
+00:20:30,919 --> 00:20:34,720
+that is in this pre-workout talking
+
+598
+00:20:32,480 --> 00:20:36,558
+about like why he chose the dosage why
+
+599
+00:20:34,720 --> 00:20:38,280
+he chose to have it in the product what
+
+600
+00:20:36,558 --> 00:20:40,239
+it does in the body and I remember
+
+601
+00:20:38,279 --> 00:20:41,759
+watching that and I was like this is an
+
+602
+00:20:40,240 --> 00:20:43,760
+advertisement I know it's an
+
+603
+00:20:41,759 --> 00:20:45,239
+advertisement but holy crap this is
+
+604
+00:20:43,759 --> 00:20:46,518
+super interesting content like I'm
+
+605
+00:20:45,240 --> 00:20:48,360
+learning about all these different
+
+606
+00:20:46,519 --> 00:20:50,358
+things and compounds and how they affect
+
+607
+00:20:48,359 --> 00:20:52,278
+performance uh with like Athletics and
+
+608
+00:20:50,359 --> 00:20:54,639
+weightlifting this is like legitimately
+
+609
+00:20:52,279 --> 00:20:56,399
+interesting content uh and then of
+
+610
+00:20:54,640 --> 00:20:58,600
+course I got influenced and I bought the
+
+611
+00:20:56,400 --> 00:21:00,199
+product uh used it for a while but I was
+
+612
+00:20:58,599 --> 00:21:02,839
+inspired by The Format of that video I
+
+613
+00:21:00,200 --> 00:21:04,640
+was like you can make a video that is an
+
+614
+00:21:02,839 --> 00:21:07,518
+advertisement through and through but
+
+615
+00:21:04,640 --> 00:21:08,880
+it's also like valuable content on its
+
+616
+00:21:07,519 --> 00:21:10,677
+own and that is something that I've
+
+617
+00:21:08,880 --> 00:21:12,600
+always wanted for any kind of content
+
+618
+00:21:10,679 --> 00:21:14,520
+that I make is it needs to stand alone
+
+619
+00:21:12,599 --> 00:21:16,558
+it cannot just be an advertisement that
+
+620
+00:21:14,519 --> 00:21:18,398
+is valueless unless somebody buys the
+
+621
+00:21:16,558 --> 00:21:20,639
+product that it's pitching uh and that
+
+622
+00:21:18,400 --> 00:21:22,558
+was a big point of like ethical concern
+
+623
+00:21:20,640 --> 00:21:24,360
+with my my main Channel since I was
+
+624
+00:21:22,558 --> 00:21:26,119
+talking about productivity and life
+
+625
+00:21:24,359 --> 00:21:28,118
+advice and things like that I wanted to
+
+626
+00:21:26,119 --> 00:21:30,519
+make sure no sponsor no product pitch
+
+627
+00:21:28,119 --> 00:21:32,838
+know nothing could ever be the main
+
+628
+00:21:30,519 --> 00:21:34,438
+focus of a video every video had to be
+
+629
+00:21:32,839 --> 00:21:37,319
+something useful had to have something
+
+630
+00:21:34,440 --> 00:21:39,159
+you could take away for free so that
+
+631
+00:21:37,319 --> 00:21:40,718
+video was a huge inspiration because I
+
+632
+00:21:39,159 --> 00:21:42,760
+realized like the entire thing is kind
+
+633
+00:21:40,720 --> 00:21:44,880
+of advertising as product but holy crap
+
+634
+00:21:42,759 --> 00:21:46,557
+it's still super educational so I
+
+635
+00:21:44,880 --> 00:21:48,199
+thought okay let's make a video like
+
+636
+00:21:46,558 --> 00:21:50,558
+that about ultimate brain I'm going to
+
+637
+00:21:48,200 --> 00:21:52,959
+show every single part of the template
+
+638
+00:21:50,558 --> 00:21:54,838
+so if somebody wants to they could
+
+639
+00:21:52,960 --> 00:21:56,799
+replicate it entirely for themselves
+
+640
+00:21:54,839 --> 00:21:58,798
+I've got all these tutorials on Thomas
+
+641
+00:21:56,798 --> 00:22:00,839
+Frank explains that are completely free
+
+642
+00:21:58,798 --> 00:22:02,998
+I had striven to make that a completely
+
+643
+00:22:00,839 --> 00:22:04,959
+endtoend like everything you could ever
+
+644
+00:22:03,000 --> 00:22:07,120
+want to know about notion should be
+
+645
+00:22:04,960 --> 00:22:09,080
+there as a tutorial kind of channel so
+
+646
+00:22:07,119 --> 00:22:10,639
+my thought was I think this will be a
+
+647
+00:22:09,079 --> 00:22:11,918
+good advertisement for the template but
+
+648
+00:22:10,640 --> 00:22:14,399
+I'm not going to really pitch it hard
+
+649
+00:22:11,919 --> 00:22:16,239
+until the end and otherwise I just want
+
+650
+00:22:14,400 --> 00:22:18,239
+to show everything I want to show people
+
+651
+00:22:16,240 --> 00:22:19,599
+like here's how you could structure an
+
+652
+00:22:18,240 --> 00:22:22,600
+all-in-one productivity tool for
+
+653
+00:22:19,599 --> 00:22:25,079
+yourself here's why it's so beneficial
+
+654
+00:22:22,599 --> 00:22:26,759
+to say have a project dashboard and when
+
+655
+00:22:25,079 --> 00:22:29,239
+you go into a project you can see both
+
+656
+00:22:26,759 --> 00:22:31,079
+your tasks and your notes for that
+
+657
+00:22:29,240 --> 00:22:33,119
+project gives you a single point of
+
+658
+00:22:31,079 --> 00:22:35,319
+reference for both all the information
+
+659
+00:22:33,119 --> 00:22:37,319
+and context but also everything you need
+
+660
+00:22:35,319 --> 00:22:39,078
+to do and that's more useful than having
+
+661
+00:22:37,319 --> 00:22:40,879
+it kind of spread out between different
+
+662
+00:22:39,079 --> 00:22:42,958
+apps so I wanted to show people the
+
+663
+00:22:40,880 --> 00:22:44,759
+architecture the thought behind it give
+
+664
+00:22:42,960 --> 00:22:47,158
+them inspiration for building things
+
+665
+00:22:44,759 --> 00:22:48,198
+themselves but also sort of say like hey
+
+666
+00:22:47,159 --> 00:22:50,079
+if you don't want to build this for
+
+667
+00:22:48,200 --> 00:22:52,240
+yourself if you want the faster option
+
+668
+00:22:50,079 --> 00:22:54,758
+if you want us to do it for you then you
+
+669
+00:22:52,240 --> 00:22:56,360
+can go ahead and buy it and that video
+
+670
+00:22:54,759 --> 00:22:58,118
+you can go to Thomas Frank explains if
+
+671
+00:22:56,359 --> 00:23:00,359
+you want and check the popular uh
+
+672
+00:22:58,119 --> 00:23:01,998
+sorting option I think it is the most
+
+673
+00:23:00,359 --> 00:23:04,719
+popular video on the channel it's
+
+674
+00:23:02,000 --> 00:23:06,960
+getting near a million views so that
+
+675
+00:23:04,720 --> 00:23:08,519
+just sort of made things explode and
+
+676
+00:23:06,960 --> 00:23:11,679
+like I said earlier we were doing
+
+677
+00:23:08,519 --> 00:23:14,719
+between 100 and 130k in Revenue per
+
+678
+00:23:11,679 --> 00:23:16,360
+month uh just off of that video and then
+
+679
+00:23:14,720 --> 00:23:17,960
+the sort of like email funnel we had
+
+680
+00:23:16,359 --> 00:23:19,839
+built as well with our free templates
+
+681
+00:23:17,960 --> 00:23:21,1000
+but getting to sort of the next part of
+
+682
+00:23:19,839 --> 00:23:24,718
+the story the reason that I didn't come
+
+683
+00:23:22,000 --> 00:23:27,679
+back to this channel uh was I ended up
+
+684
+00:23:24,720 --> 00:23:31,080
+doing customer support 8 hours a day or
+
+685
+00:23:27,679 --> 00:23:32,919
+more more fulltime for 2 months after
+
+686
+00:23:31,079 --> 00:23:34,759
+that template launched because you know
+
+687
+00:23:32,919 --> 00:23:36,798
+you get those kind of good problems when
+
+688
+00:23:34,759 --> 00:23:39,199
+you have a successful product launch uh
+
+689
+00:23:36,798 --> 00:23:41,798
+and in our case it was tons and tons of
+
+690
+00:23:39,200 --> 00:23:44,799
+support requests uh I had done as much
+
+691
+00:23:41,798 --> 00:23:46,759
+bug testing as I could I had uh made
+
+692
+00:23:44,798 --> 00:23:48,557
+over six hours actually of tutorial
+
+693
+00:23:46,759 --> 00:23:50,557
+videos and I made like a whole
+
+694
+00:23:48,558 --> 00:23:52,518
+interactive uh version of the template
+
+695
+00:23:50,558 --> 00:23:55,078
+that had dummy data all kinds of stuff
+
+696
+00:23:52,519 --> 00:23:57,038
+but with a tool like notion there is a
+
+697
+00:23:55,079 --> 00:23:58,398
+lot of customizability there are a lot
+
+698
+00:23:57,038 --> 00:23:59,879
+of people who get excited about a
+
+699
+00:23:58,400 --> 00:24:01,279
+template like this even if they're new
+
+700
+00:23:59,880 --> 00:24:03,080
+to the product and don't really
+
+701
+00:24:01,278 --> 00:24:05,598
+understand it very well so support
+
+702
+00:24:03,079 --> 00:24:07,638
+inqueries are going to be inevitable and
+
+703
+00:24:05,599 --> 00:24:09,079
+a big decision that I decided to make
+
+704
+00:24:07,640 --> 00:24:11,079
+before I even launched Creator's
+
+705
+00:24:09,079 --> 00:24:13,119
+companion was I want to have active
+
+706
+00:24:11,079 --> 00:24:15,038
+support a lot of template creators out
+
+707
+00:24:13,119 --> 00:24:16,359
+there just give out the template or they
+
+708
+00:24:15,038 --> 00:24:19,198
+sell it maybe they have some
+
+709
+00:24:16,359 --> 00:24:21,399
+documentation but that's kind of it and
+
+710
+00:24:19,200 --> 00:24:23,240
+I didn't want that because I knew from
+
+711
+00:24:21,400 --> 00:24:24,960
+listening to my commenters and
+
+712
+00:24:23,240 --> 00:24:27,159
+interacting with them on the channel
+
+713
+00:24:24,960 --> 00:24:29,278
+itself that notion is complex that it's
+
+714
+00:24:27,159 --> 00:24:30,639
+easy to get stuck and I really wanted to
+
+715
+00:24:29,278 --> 00:24:32,918
+make sure that people were going to have
+
+716
+00:24:30,640 --> 00:24:33,959
+as good of an experience as possible
+
+717
+00:24:32,919 --> 00:24:35,879
+another thing maybe I'll come back to
+
+718
+00:24:33,960 --> 00:24:37,719
+this a little bit later we also offer
+
+719
+00:24:35,880 --> 00:24:39,239
+refunds for our templates and that
+
+720
+00:24:37,720 --> 00:24:41,398
+sounds kind of weird to some people
+
+721
+00:24:39,240 --> 00:24:43,480
+because it's impossible to return a
+
+722
+00:24:41,398 --> 00:24:45,398
+digital product uh there's no license
+
+723
+00:24:43,480 --> 00:24:46,960
+keys this isn't SAS you duplicate the
+
+724
+00:24:45,398 --> 00:24:49,838
+template and you have a perfect copy of
+
+725
+00:24:46,960 --> 00:24:51,559
+it forever but I wanted to offer refunds
+
+726
+00:24:49,839 --> 00:24:53,999
+and I wanted to offer active support
+
+727
+00:24:51,558 --> 00:24:56,439
+because one of my core tenants one of my
+
+728
+00:24:54,000 --> 00:24:58,440
+values as a business person is everyone
+
+729
+00:24:56,440 --> 00:25:00,199
+who purchases from us must have a good
+
+730
+00:24:58,440 --> 00:25:01,1000
+experience so that means our product
+
+731
+00:25:00,200 --> 00:25:03,559
+needs to be excellent our support needs
+
+732
+00:25:02,000 --> 00:25:05,439
+to be excellent because if people get
+
+733
+00:25:03,558 --> 00:25:07,599
+stuck and they want to continue we need
+
+734
+00:25:05,440 --> 00:25:10,039
+to have an Avenue for that uh but we
+
+735
+00:25:07,599 --> 00:25:11,917
+also need to offer refunds because if
+
+736
+00:25:10,038 --> 00:25:13,239
+somebody purchases there's going to be a
+
+737
+00:25:11,919 --> 00:25:14,959
+certain percentage who realize this
+
+738
+00:25:13,240 --> 00:25:16,720
+isn't the product for me maybe it's just
+
+739
+00:25:14,960 --> 00:25:18,640
+not the right time in my life right now
+
+740
+00:25:16,720 --> 00:25:20,240
+I wanted to make sure those people had a
+
+741
+00:25:18,640 --> 00:25:22,079
+way to get their money back so there's
+
+742
+00:25:20,240 --> 00:25:25,039
+no way anybody could ever be truly
+
+743
+00:25:22,079 --> 00:25:26,638
+dissatisfied or feel like they were put
+
+744
+00:25:25,038 --> 00:25:28,199
+out because it was the wrong product for
+
+745
+00:25:26,640 --> 00:25:30,200
+them so we offer
+
+746
+00:25:28,200 --> 00:25:32,398
+uh refunds we offered active support and
+
+747
+00:25:30,200 --> 00:25:35,879
+in the beginning active support was just
+
+748
+00:25:32,398 --> 00:25:37,878
+me I had a team but everyone on my team
+
+749
+00:25:35,880 --> 00:25:40,120
+at the time wasn't really a notion
+
+750
+00:25:37,880 --> 00:25:41,520
+expert we all used notion but I was the
+
+751
+00:25:40,119 --> 00:25:43,839
+only one who was sort of sitting in my
+
+752
+00:25:41,519 --> 00:25:45,719
+basement on Saturday mornings learning
+
+753
+00:25:43,839 --> 00:25:47,079
+how to fiddle with databases and writing
+
+754
+00:25:45,720 --> 00:25:50,120
+notion formulas and all that kind of
+
+755
+00:25:47,079 --> 00:25:51,878
+crazy stuff so it was up to me to do the
+
+756
+00:25:50,119 --> 00:25:54,119
+support requests and I did that full
+
+757
+00:25:51,880 --> 00:25:55,880
+time for about two months uh I actually
+
+758
+00:25:54,119 --> 00:25:59,277
+think that was a very very useful thing
+
+759
+00:25:55,880 --> 00:26:01,200
+to do because that sort of gave me a
+
+760
+00:25:59,278 --> 00:26:02,758
+different perspective on the product and
+
+761
+00:26:01,200 --> 00:26:04,440
+if anybody watching this if you were
+
+762
+00:26:02,759 --> 00:26:06,479
+watching this and you want to build your
+
+763
+00:26:04,440 --> 00:26:08,319
+own products maybe like a SAS product
+
+764
+00:26:06,480 --> 00:26:10,399
+eventually or your own notion templates
+
+765
+00:26:08,319 --> 00:26:12,639
+whatever it is I would highly encourage
+
+766
+00:26:10,398 --> 00:26:15,037
+you to do customer support for a couple
+
+767
+00:26:12,640 --> 00:26:17,239
+of months after you launch at least a
+
+768
+00:26:15,038 --> 00:26:19,677
+couple of months because as the builder
+
+769
+00:26:17,240 --> 00:26:20,840
+of the product or as the CEO you're
+
+770
+00:26:19,679 --> 00:26:22,440
+going to have a very different
+
+771
+00:26:20,839 --> 00:26:24,638
+perspective than your customers are
+
+772
+00:26:22,440 --> 00:26:27,199
+going to have you have the architect's
+
+773
+00:26:24,640 --> 00:26:29,359
+eye and uh that sort of involves What's
+
+774
+00:26:27,200 --> 00:26:31,278
+called the expert Paradox where experts
+
+775
+00:26:29,359 --> 00:26:33,079
+get so good at something that uh the
+
+776
+00:26:31,278 --> 00:26:34,798
+things that are hard for a beginner are
+
+777
+00:26:33,079 --> 00:26:36,239
+almost like breathing to the expert it's
+
+778
+00:26:34,798 --> 00:26:38,798
+so unconscious they don't even think
+
+779
+00:26:36,240 --> 00:26:40,720
+about it anymore so by doing support you
+
+780
+00:26:38,798 --> 00:26:42,557
+really gain greater perspective on your
+
+781
+00:26:40,720 --> 00:26:45,038
+product you help your customers who are
+
+782
+00:26:42,558 --> 00:26:46,958
+stuck but you also get insights that you
+
+783
+00:26:45,038 --> 00:26:49,238
+can use to go and improve that product
+
+784
+00:26:46,960 --> 00:26:50,960
+that you just couldn't get yourself so
+
+785
+00:26:49,240 --> 00:26:52,119
+go ahead and do support for yourself uh
+
+786
+00:26:50,960 --> 00:26:53,399
+but I eventually got to a point where
+
+787
+00:26:52,119 --> 00:26:55,319
+I'm like there are other things I want
+
+788
+00:26:53,398 --> 00:26:56,478
+to do ideally I want to get back to this
+
+789
+00:26:55,319 --> 00:26:57,839
+Channel and start filming again but
+
+790
+00:26:56,480 --> 00:27:00,558
+there's some other things I want to do
+
+791
+00:26:57,839 --> 00:27:02,917
+so I think it's time to hire my first
+
+792
+00:27:00,558 --> 00:27:04,639
+like actual support person uh and I kind
+
+793
+00:27:02,919 --> 00:27:06,798
+of want to talk about the way that I
+
+794
+00:27:04,640 --> 00:27:08,880
+hired and if anybody watching this needs
+
+795
+00:27:06,798 --> 00:27:11,318
+to hire support for their own products
+
+796
+00:27:08,880 --> 00:27:13,158
+or maybe even for YouTube channel um I
+
+797
+00:27:11,319 --> 00:27:16,277
+think this is a good method so basically
+
+798
+00:27:13,159 --> 00:27:18,159
+what I did is I put together a test that
+
+799
+00:27:16,278 --> 00:27:19,599
+I anticipated the right kind of
+
+800
+00:27:18,159 --> 00:27:21,720
+candidate who had the right kind of
+
+801
+00:27:19,599 --> 00:27:24,238
+notion product experience would be able
+
+802
+00:27:21,720 --> 00:27:26,279
+to finish in 10 minutes so honestly like
+
+803
+00:27:24,240 --> 00:27:28,278
+not even as long as your average job
+
+804
+00:27:26,278 --> 00:27:30,398
+application for the right canidate but
+
+805
+00:27:28,278 --> 00:27:32,359
+it had two main components so there was
+
+806
+00:27:30,398 --> 00:27:33,838
+a building challenge I basically had
+
+807
+00:27:32,359 --> 00:27:35,398
+like a test in there I was like hey I
+
+808
+00:27:33,839 --> 00:27:37,718
+need a two database setup there's going
+
+809
+00:27:35,398 --> 00:27:40,157
+to be a meetings database and a CRM I
+
+810
+00:27:37,720 --> 00:27:43,159
+need you to show I think it was like the
+
+811
+00:27:40,159 --> 00:27:45,399
+last meeting date for each person in the
+
+812
+00:27:43,159 --> 00:27:46,1000
+CRM so that required a little bit of
+
+813
+00:27:45,398 --> 00:27:48,759
+notion formula knowledge a little bit of
+
+814
+00:27:47,000 --> 00:27:50,158
+filters and rollups all kinds of like
+
+815
+00:27:48,759 --> 00:27:52,598
+stuff that anybody who's going to be
+
+816
+00:27:50,159 --> 00:27:54,798
+doing notion support needs to know that
+
+817
+00:27:52,599 --> 00:27:57,118
+was my product knowledge test but then I
+
+818
+00:27:54,798 --> 00:27:58,359
+had the other test which secretly in the
+
+819
+00:27:57,119 --> 00:28:01,119
+back of my head head was the more
+
+820
+00:27:58,359 --> 00:28:03,118
+important one and that was two sample
+
+821
+00:28:01,119 --> 00:28:05,119
+support questions from some fictional
+
+822
+00:28:03,119 --> 00:28:06,998
+characters and I asked candidates to
+
+823
+00:28:05,119 --> 00:28:08,958
+answer those support questions as if
+
+824
+00:28:07,000 --> 00:28:11,120
+they were talking to those characters
+
+825
+00:28:08,960 --> 00:28:13,080
+and what I was looking for there was not
+
+826
+00:28:11,119 --> 00:28:14,958
+necessarily perfect product knowledge
+
+827
+00:28:13,079 --> 00:28:17,718
+that was a plus but the real things I
+
+828
+00:28:14,960 --> 00:28:19,960
+was looking for are number one empathy
+
+829
+00:28:17,720 --> 00:28:22,359
+and number two the ability to anticipate
+
+830
+00:28:19,960 --> 00:28:25,158
+the next question these are in my
+
+831
+00:28:22,359 --> 00:28:26,517
+opinion the two uh out of the three I
+
+832
+00:28:25,159 --> 00:28:28,399
+think two out of the three most
+
+833
+00:28:26,519 --> 00:28:30,759
+important qualities that anybody doing
+
+834
+00:28:28,398 --> 00:28:33,037
+any kind of customer support needs to
+
+835
+00:28:30,759 --> 00:28:35,839
+have the other one is uh solution
+
+836
+00:28:33,038 --> 00:28:37,677
+finding ability so not necessarily preet
+
+837
+00:28:35,839 --> 00:28:39,517
+product knowledge but you know the
+
+838
+00:28:37,679 --> 00:28:41,839
+ability to Google well the ability to
+
+839
+00:28:39,519 --> 00:28:44,278
+use chat gbt these days the ability to
+
+840
+00:28:41,839 --> 00:28:46,319
+find references that's very important um
+
+841
+00:28:44,278 --> 00:28:48,478
+but empathy and anticipation are the
+
+842
+00:28:46,319 --> 00:28:50,678
+other two that are mega mega important
+
+843
+00:28:48,480 --> 00:28:52,640
+so number one you know I learned this
+
+844
+00:28:50,679 --> 00:28:54,480
+when I was working in the IT Tech
+
+845
+00:28:52,640 --> 00:28:56,960
+Support Department at my college back
+
+846
+00:28:54,480 --> 00:28:58,919
+when I was 18 19 years old you have to
+
+847
+00:28:56,960 --> 00:29:00,960
+be empathy athetic with the person who
+
+848
+00:28:58,919 --> 00:29:02,600
+is asking the question you cannot make
+
+849
+00:29:00,960 --> 00:29:04,319
+them feel stupid because they're going
+
+850
+00:29:02,599 --> 00:29:06,797
+to come out of it with a bad experience
+
+851
+00:29:04,319 --> 00:29:09,078
+so I was looking for like actual
+
+852
+00:29:06,798 --> 00:29:11,038
+empathetic answers like hey yeah I've
+
+853
+00:29:09,079 --> 00:29:12,719
+been this I've been there before uh yeah
+
+854
+00:29:11,038 --> 00:29:14,158
+this can be really easy to overlook the
+
+855
+00:29:12,720 --> 00:29:15,918
+product's kind of confusing let me help
+
+856
+00:29:14,159 --> 00:29:18,678
+you out the other thing I was looking
+
+857
+00:29:15,919 --> 00:29:20,159
+for was anticipation so this is another
+
+858
+00:29:18,679 --> 00:29:22,440
+thing that I learned in tech support
+
+859
+00:29:20,159 --> 00:29:25,279
+often the question that the person comes
+
+860
+00:29:22,440 --> 00:29:26,959
+to you with is not the question that
+
+861
+00:29:25,278 --> 00:29:29,879
+they're actually trying to get answered
+
+862
+00:29:26,960 --> 00:29:31,799
+it's just the first step in a process so
+
+863
+00:29:29,880 --> 00:29:34,479
+a good support person needs to be able
+
+864
+00:29:31,798 --> 00:29:37,517
+to identify the actual goal that the
+
+865
+00:29:34,480 --> 00:29:39,359
+person has and ideally they can
+
+866
+00:29:37,519 --> 00:29:41,360
+anticipate the next question that is
+
+867
+00:29:39,359 --> 00:29:43,118
+going to come after they answer the
+
+868
+00:29:41,359 --> 00:29:45,998
+question that has been asked so what I
+
+869
+00:29:43,119 --> 00:29:49,199
+was looking for there was did you not
+
+870
+00:29:46,000 --> 00:29:51,719
+only answer the question that was posed
+
+871
+00:29:49,200 --> 00:29:53,679
+but did you also anticipate the next
+
+872
+00:29:51,720 --> 00:29:56,239
+follow-up question and include your
+
+873
+00:29:53,679 --> 00:29:58,039
+answer there because that is the
+
+874
+00:29:56,240 --> 00:30:00,119
+Hallmark of efficiency support you are
+
+875
+00:29:58,038 --> 00:30:03,158
+getting people to their goal much more
+
+876
+00:30:00,119 --> 00:30:04,878
+quickly uh side note to the side note
+
+877
+00:30:03,159 --> 00:30:07,279
+this is also a very good quality to have
+
+878
+00:30:04,880 --> 00:30:08,799
+just as an individual for example if you
+
+879
+00:30:07,278 --> 00:30:10,557
+get an email or a message from your
+
+880
+00:30:08,798 --> 00:30:12,038
+co-worker they're asking you a question
+
+881
+00:30:10,558 --> 00:30:14,119
+if you can anticipate what their next
+
+882
+00:30:12,038 --> 00:30:16,278
+question is and include that information
+
+883
+00:30:14,119 --> 00:30:18,798
+so easy example like are you available
+
+884
+00:30:16,278 --> 00:30:20,319
+to meet next week the obvious follow-up
+
+885
+00:30:18,798 --> 00:30:22,038
+question is when are you available to
+
+886
+00:30:20,319 --> 00:30:23,118
+meet next week so instead of saying yes
+
+887
+00:30:22,038 --> 00:30:24,759
+I'm available and waiting for the
+
+888
+00:30:23,119 --> 00:30:26,759
+follow-up it's like yes I'm available
+
+889
+00:30:24,759 --> 00:30:27,917
+Tuesday Thursday uh from the 3 to 5H
+
+890
+00:30:26,759 --> 00:30:29,638
+hour window
+
+891
+00:30:27,919 --> 00:30:31,640
+that is anticipation of the follow-up
+
+892
+00:30:29,640 --> 00:30:35,479
+question and that is anticipation of the
+
+893
+00:30:31,640 --> 00:30:37,600
+actual goal so I put that test out there
+
+894
+00:30:35,480 --> 00:30:39,359
+uh and this guy Alex was my top
+
+895
+00:30:37,599 --> 00:30:40,639
+candidate uh and it turned out that he
+
+896
+00:30:39,359 --> 00:30:42,557
+actually was one of the founders of the
+
+897
+00:30:40,640 --> 00:30:45,199
+notion subreddit so I was very excited
+
+898
+00:30:42,558 --> 00:30:47,758
+to hire him and he came on and he just
+
+899
+00:30:45,200 --> 00:30:51,360
+started kicking absolute ass like he is
+
+900
+00:30:47,759 --> 00:30:53,478
+amazing uh and it was so amazing to to
+
+901
+00:30:51,359 --> 00:30:55,319
+hire somebody who was so good at support
+
+902
+00:30:53,480 --> 00:30:57,359
+and so interested in connecting and
+
+903
+00:30:55,319 --> 00:30:59,637
+building community that I think Within
+
+904
+00:30:57,359 --> 00:31:01,599
+just a couple of weeks support was
+
+905
+00:30:59,638 --> 00:31:03,397
+almost no longer a concern that I had to
+
+906
+00:31:01,599 --> 00:31:05,277
+think about actively I didn't have to go
+
+907
+00:31:03,398 --> 00:31:06,677
+in and like check all the threads make
+
+908
+00:31:05,278 --> 00:31:09,999
+sure that the answers were good he was
+
+909
+00:31:06,679 --> 00:31:12,720
+so good off the bat that it allowed me
+
+910
+00:31:10,000 --> 00:31:15,960
+to go focus on other things and this I
+
+911
+00:31:12,720 --> 00:31:17,359
+think is the ultimate uh benefit the
+
+912
+00:31:15,960 --> 00:31:19,399
+ultimate thing you're looking for like
+
+913
+00:31:17,359 --> 00:31:21,439
+the Holy Grail of hiring is that you can
+
+914
+00:31:19,398 --> 00:31:23,239
+hire somebody who is so good so
+
+915
+00:31:21,440 --> 00:31:26,600
+passionate who takes such good ownership
+
+916
+00:31:23,240 --> 00:31:28,518
+over their area in the company that you
+
+917
+00:31:26,599 --> 00:31:29,878
+totally trust to handle it you know that
+
+918
+00:31:28,519 --> 00:31:31,720
+they're going to go above and beyond and
+
+919
+00:31:29,880 --> 00:31:33,440
+that gives you the freedom to go focus
+
+920
+00:31:31,720 --> 00:31:34,840
+on growing the business or focusing on
+
+921
+00:31:33,440 --> 00:31:38,079
+the things that you are the absolute
+
+922
+00:31:34,839 --> 00:31:40,438
+best at and Alex has been amazing at
+
+923
+00:31:38,079 --> 00:31:42,199
+that Ben Smith also a huge influence in
+
+924
+00:31:40,440 --> 00:31:44,158
+Ocean Community he came on as our second
+
+925
+00:31:42,200 --> 00:31:46,278
+support guy and then Alex and Ben have
+
+926
+00:31:44,159 --> 00:31:47,960
+also started taking on bigger projects
+
+927
+00:31:46,278 --> 00:31:49,119
+they are actually helping me do upgrades
+
+928
+00:31:47,960 --> 00:31:50,519
+on the templates they're doing
+
+929
+00:31:49,119 --> 00:31:52,397
+documentation they have both
+
+930
+00:31:50,519 --> 00:31:54,799
+demonstrated that they have the ability
+
+931
+00:31:52,398 --> 00:31:56,558
+to not only take on new projects but
+
+932
+00:31:54,798 --> 00:31:57,838
+suggest improvements that are really
+
+933
+00:31:56,558 --> 00:32:00,558
+really well thought thought out and that
+
+934
+00:31:57,839 --> 00:32:03,199
+has just been so awesome to experience
+
+935
+00:32:00,558 --> 00:32:05,958
+as a business owner uh especially one
+
+936
+00:32:03,200 --> 00:32:07,919
+like me who really just kind of wants to
+
+937
+00:32:05,960 --> 00:32:09,799
+be like the Tony Stark in the cave with
+
+938
+00:32:07,919 --> 00:32:11,120
+a box of scraps that's another big thing
+
+939
+00:32:09,798 --> 00:32:13,119
+that I've learned about myself over
+
+940
+00:32:11,119 --> 00:32:15,439
+these past couple of years is like
+
+941
+00:32:13,119 --> 00:32:16,958
+managing people and making tons and tons
+
+942
+00:32:15,440 --> 00:32:18,919
+of decisions all day long is not really
+
+943
+00:32:16,960 --> 00:32:20,960
+what I want to be doing I want to be off
+
+944
+00:32:18,919 --> 00:32:22,200
+in my own little corner building things
+
+945
+00:32:20,960 --> 00:32:23,359
+and then I want to come onto the camera
+
+946
+00:32:22,200 --> 00:32:25,559
+every once in a while and kind of show
+
+947
+00:32:23,359 --> 00:32:27,397
+it off so it's been really really cool
+
+948
+00:32:25,558 --> 00:32:29,758
+to be able to hire people who can just
+
+949
+00:32:27,398 --> 00:32:32,119
+take ownership of their area of the
+
+950
+00:32:29,759 --> 00:32:33,797
+company and just be excellent at it
+
+951
+00:32:32,119 --> 00:32:36,758
+which has been super super amazing to
+
+952
+00:32:33,798 --> 00:32:38,439
+experience so we built that uh and then
+
+953
+00:32:36,759 --> 00:32:40,319
+you know once again I anticipated
+
+954
+00:32:38,440 --> 00:32:43,359
+getting right back to the main Channel
+
+955
+00:32:40,319 --> 00:32:44,798
+but part of my problem is even though I
+
+956
+00:32:43,359 --> 00:32:47,958
+know it would probably be more
+
+957
+00:32:44,798 --> 00:32:50,118
+profitable to make lots of videos about
+
+958
+00:32:47,960 --> 00:32:51,799
+topics that are going to go viral uh to
+
+959
+00:32:50,119 --> 00:32:54,359
+really lean into the whole influencer
+
+960
+00:32:51,798 --> 00:32:56,397
+thing um part of my problem which I will
+
+961
+00:32:54,359 --> 00:32:59,479
+Embrace and uh not even call a problem
+
+962
+00:32:56,398 --> 00:33:03,037
+really is is I am just very fascinated
+
+963
+00:32:59,480 --> 00:33:05,840
+by technical things so after sort of
+
+964
+00:33:03,038 --> 00:33:07,438
+like the chaos calmed down from the
+
+965
+00:33:05,839 --> 00:33:09,557
+ultimate brain launch and building out
+
+966
+00:33:07,440 --> 00:33:11,279
+our support department uh I had this
+
+967
+00:33:09,558 --> 00:33:12,678
+idea and it started out as a video idea
+
+968
+00:33:11,278 --> 00:33:14,479
+actually but it ballooned into what
+
+969
+00:33:12,679 --> 00:33:15,1000
+ended up being a four-month project but
+
+970
+00:33:14,480 --> 00:33:17,759
+I had this idea I was like I want to
+
+971
+00:33:16,000 --> 00:33:19,120
+teach notion formulas if you don't know
+
+972
+00:33:17,759 --> 00:33:20,638
+what these are basically in notion
+
+973
+00:33:19,119 --> 00:33:23,319
+there's a database function looks kind
+
+974
+00:33:20,638 --> 00:33:24,719
+of like Excel tables and like Excel
+
+975
+00:33:23,319 --> 00:33:27,278
+there's a formula function where you can
+
+976
+00:33:24,720 --> 00:33:29,399
+like do math and you can do all kind of
+
+977
+00:33:27,278 --> 00:33:32,199
+stuff it's almost like programming uh at
+
+978
+00:33:29,398 --> 00:33:34,359
+the time noan hadn't really done
+
+979
+00:33:32,200 --> 00:33:36,119
+documentation for their formulas so a
+
+980
+00:33:34,359 --> 00:33:38,278
+lot of people weren't really sure how to
+
+981
+00:33:36,119 --> 00:33:39,839
+use them uh and I ended up spending a
+
+982
+00:33:38,278 --> 00:33:41,479
+lot of my time on the notion subreddit
+
+983
+00:33:39,839 --> 00:33:44,239
+just answering formula questions because
+
+984
+00:33:41,480 --> 00:33:46,638
+I found it fun so I had this idea let's
+
+985
+00:33:44,240 --> 00:33:48,159
+make this video about notion formulas
+
+986
+00:33:46,638 --> 00:33:49,959
+and I wanted to do it in that like five
+
+987
+00:33:48,159 --> 00:33:52,079
+levels of complexity style and I think
+
+988
+00:33:49,960 --> 00:33:54,278
+I'm still going to do it but uh spoiler
+
+989
+00:33:52,079 --> 00:33:56,998
+alert I have not made that video yet
+
+990
+00:33:54,278 --> 00:33:58,598
+because I got this idea that hey
+
+991
+00:33:57,000 --> 00:34:00,439
+wouldn't it be interesting if there was
+
+992
+00:33:58,599 --> 00:34:01,558
+like a bonus resource to go along with
+
+993
+00:34:00,440 --> 00:34:03,399
+that video like maybe it's like a
+
+994
+00:34:01,558 --> 00:34:06,239
+formula cheat sheet something that would
+
+995
+00:34:03,398 --> 00:34:07,878
+show a simple example of what every
+
+996
+00:34:06,240 --> 00:34:10,999
+function in the formula language
+
+997
+00:34:07,880 --> 00:34:13,960
+actually does I let that idea snowball
+
+998
+00:34:11,000 --> 00:34:16,078
+into me writing like Mozilla level
+
+999
+00:34:13,960 --> 00:34:18,399
+technical documentation for the entire
+
+1000
+00:34:16,079 --> 00:34:22,119
+formulus language it ended up taking me
+
+1001
+00:34:18,398 --> 00:34:24,439
+four months of work I wrote 45,000 words
+
+1002
+00:34:22,119 --> 00:34:27,399
+of documentation made like a hundred
+
+1003
+00:34:24,440 --> 00:34:29,480
+different example databases uh deeply
+
+1004
+00:34:27,398 --> 00:34:31,239
+learned that formula language and ended
+
+1005
+00:34:29,480 --> 00:34:33,440
+up publishing it on my website it's
+
+1006
+00:34:31,239 --> 00:34:35,397
+still there it has been now updated for
+
+1007
+00:34:33,440 --> 00:34:37,598
+the new formulas language uh Ben on my
+
+1008
+00:34:35,398 --> 00:34:39,758
+team did the full update so that is now
+
+1009
+00:34:37,599 --> 00:34:42,398
+more his project than mine but yeah
+
+1010
+00:34:39,760 --> 00:34:45,159
+45,000 words of documentation four
+
+1011
+00:34:42,398 --> 00:34:47,638
+months of effort and that just sort of
+
+1012
+00:34:45,159 --> 00:34:49,760
+kept happening I think that is what I
+
+1013
+00:34:47,639 --> 00:34:51,159
+could encapsulate as the theme Here the
+
+1014
+00:34:49,760 --> 00:34:52,1000
+reason that I sort of kept kicking the
+
+1015
+00:34:51,159 --> 00:34:55,559
+can down the road for coming back to
+
+1016
+00:34:53,000 --> 00:34:57,559
+this channel is I kept finding these
+
+1017
+00:34:55,559 --> 00:34:59,719
+interesting technical problems s that I
+
+1018
+00:34:57,559 --> 00:35:03,198
+knew would be useful for my audience if
+
+1019
+00:34:59,719 --> 00:35:04,999
+I solved they were fun for me and they
+
+1020
+00:35:03,199 --> 00:35:07,399
+also helped our business like if I make
+
+1021
+00:35:05,000 --> 00:35:09,639
+additional notion content not only is
+
+1022
+00:35:07,400 --> 00:35:11,159
+that another way that we can Market our
+
+1023
+00:35:09,639 --> 00:35:13,118
+templates the one thing that we sell
+
+1024
+00:35:11,159 --> 00:35:15,479
+that actually makes us money uh but it
+
+1025
+00:35:13,119 --> 00:35:17,760
+also helps to build up our library of
+
+1026
+00:35:15,480 --> 00:35:18,1000
+content uh that I think I kind of forgot
+
+1027
+00:35:17,760 --> 00:35:21,559
+to mention this but I do want to bring
+
+1028
+00:35:19,000 --> 00:35:23,359
+it up uh that was my guiding principle
+
+1029
+00:35:21,559 --> 00:35:25,759
+with Thomas Frank explains the idea
+
+1030
+00:35:23,358 --> 00:35:28,718
+there was to go and build the go-to
+
+1031
+00:35:25,760 --> 00:35:31,240
+channel for the notion Niche I sort of
+
+1032
+00:35:28,719 --> 00:35:33,078
+had this idea like if you think notion
+
+1033
+00:35:31,239 --> 00:35:35,038
+or if you think I want to answer a
+
+1034
+00:35:33,079 --> 00:35:36,599
+question that I have about notion you
+
+1035
+00:35:35,039 --> 00:35:39,357
+should immediately think of Thomas Fring
+
+1036
+00:35:36,599 --> 00:35:41,959
+explains so that was the idea there and
+
+1037
+00:35:39,358 --> 00:35:44,159
+to really accomplish that goal the
+
+1038
+00:35:41,960 --> 00:35:46,519
+channel needed to have highquality
+
+1039
+00:35:44,159 --> 00:35:49,357
+content covering anything that a ocean
+
+1040
+00:35:46,519 --> 00:35:51,799
+user might want to do from the absolute
+
+1041
+00:35:49,358 --> 00:35:54,718
+basics of building pages and linking to
+
+1042
+00:35:51,800 --> 00:35:56,559
+things to the higher-end stuff like
+
+1043
+00:35:54,719 --> 00:35:58,959
+formulas and like the notion API and
+
+1044
+00:35:56,559 --> 00:36:00,799
+everything else so I went ahead and I
+
+1045
+00:35:58,960 --> 00:36:03,319
+built that uh notion formula
+
+1046
+00:36:00,800 --> 00:36:06,838
+documentation and then went right into
+
+1047
+00:36:03,318 --> 00:36:08,318
+the next way too big project that I did
+
+1048
+00:36:06,838 --> 00:36:10,278
+not anticipate being so big when I
+
+1049
+00:36:08,318 --> 00:36:12,518
+started it uh and that was the notion
+
+1050
+00:36:10,280 --> 00:36:14,879
+API the notion API is basically like
+
+1051
+00:36:12,519 --> 00:36:16,959
+this set of tools that programmers can
+
+1052
+00:36:14,880 --> 00:36:19,118
+use to connect an otion up to different
+
+1053
+00:36:16,960 --> 00:36:20,680
+things um if you're curious about what
+
+1054
+00:36:19,119 --> 00:36:22,400
+it can do I think the coolest
+
+1055
+00:36:20,679 --> 00:36:23,919
+application of it right now that I've
+
+1056
+00:36:22,400 --> 00:36:25,679
+come up with is I have a little
+
+1057
+00:36:23,920 --> 00:36:27,880
+automation where I can record a voice
+
+1058
+00:36:25,679 --> 00:36:30,159
+note on my phone and using the notion
+
+1059
+00:36:27,880 --> 00:36:32,160
+API and also some AI tools from like
+
+1060
+00:36:30,159 --> 00:36:34,118
+chat gbt and Whisper I get a full
+
+1061
+00:36:32,159 --> 00:36:36,078
+summary I get a full transcript I get
+
+1062
+00:36:34,119 --> 00:36:38,279
+lists of main points and action items
+
+1063
+00:36:36,079 --> 00:36:39,640
+and things just for my voice notes so at
+
+1064
+00:36:38,280 --> 00:36:42,039
+this point I can just like go for a half
+
+1065
+00:36:39,639 --> 00:36:44,238
+an hour walk I can record an idea in my
+
+1066
+00:36:42,039 --> 00:36:46,798
+head or I can talk to my phone and I get
+
+1067
+00:36:44,239 --> 00:36:47,959
+the whole thing as a note and notion uh
+
+1068
+00:36:46,800 --> 00:36:49,040
+that video is live so I'll go ahead and
+
+1069
+00:36:47,960 --> 00:36:50,440
+link to that in the description if you
+
+1070
+00:36:49,039 --> 00:36:52,559
+are curious about it but yeah that's an
+
+1071
+00:36:50,440 --> 00:36:54,160
+example of what the notion API could do
+
+1072
+00:36:52,559 --> 00:36:56,639
+and again going back to the mission of
+
+1073
+00:36:54,159 --> 00:36:58,399
+Thomas Frank explains if I was going to
+
+1074
+00:36:56,639 --> 00:37:01,759
+to accomplish that mission of building
+
+1075
+00:36:58,400 --> 00:37:04,318
+the go-to resource for the notion Niche
+
+1076
+00:37:01,760 --> 00:37:07,279
+it needed to teach the API as well the
+
+1077
+00:37:04,318 --> 00:37:09,718
+only problem is I didn't know how to
+
+1078
+00:37:07,280 --> 00:37:10,1000
+code I'd made a couple of videos about
+
+1079
+00:37:09,719 --> 00:37:13,399
+how you could do like no code things
+
+1080
+00:37:11,000 --> 00:37:16,240
+with the API using like zapier and
+
+1081
+00:37:13,400 --> 00:37:18,039
+make.com uh no code tools like that but
+
+1082
+00:37:16,239 --> 00:37:20,118
+again that wasn't good enough I needed
+
+1083
+00:37:18,039 --> 00:37:22,758
+to have a video on the channel That
+
+1084
+00:37:20,119 --> 00:37:24,800
+would teach the notion API so I started
+
+1085
+00:37:22,760 --> 00:37:26,720
+teaching myself JavaScript I started
+
+1086
+00:37:24,800 --> 00:37:29,200
+completely from scratch and that was
+
+1087
+00:37:26,719 --> 00:37:30,478
+about a year a year and two months ago
+
+1088
+00:37:29,199 --> 00:37:31,879
+uh and at this point I think I've
+
+1089
+00:37:30,480 --> 00:37:33,759
+actually become a pretty confident
+
+1090
+00:37:31,880 --> 00:37:35,480
+backend JavaScript developer I've got a
+
+1091
+00:37:33,760 --> 00:37:37,480
+whole video in the works about my coding
+
+1092
+00:37:35,480 --> 00:37:38,759
+Journey that'll probably be within the
+
+1093
+00:37:37,480 --> 00:37:40,680
+next two videos I release on this
+
+1094
+00:37:38,760 --> 00:37:43,439
+channel so I'm not going to go too much
+
+1095
+00:37:40,679 --> 00:37:45,318
+into how I did that uh with this video
+
+1096
+00:37:43,440 --> 00:37:47,160
+but I've kind of become a programmer at
+
+1097
+00:37:45,318 --> 00:37:48,919
+this point it's really fun I keep
+
+1098
+00:37:47,159 --> 00:37:50,639
+getting ideas for things I want to build
+
+1099
+00:37:48,920 --> 00:37:52,960
+so that's part of the reason I haven't
+
+1100
+00:37:50,639 --> 00:37:54,639
+been on this channel in a while uh but
+
+1101
+00:37:52,960 --> 00:37:57,200
+yeah back in I think it was like July
+
+1102
+00:37:54,639 --> 00:37:59,597
+2022 I started with free Cod code camps
+
+1103
+00:37:57,199 --> 00:38:01,718
+free Javascript course at the absolute
+
+1104
+00:37:59,599 --> 00:38:03,319
+Basics learning how to set variables and
+
+1105
+00:38:01,719 --> 00:38:05,279
+build loops and all that kind of stuff
+
+1106
+00:38:03,318 --> 00:38:06,718
+very quickly abandon that course after
+
+1107
+00:38:05,280 --> 00:38:08,400
+the first couple of modules because I
+
+1108
+00:38:06,719 --> 00:38:10,158
+learned enough to start actually going
+
+1109
+00:38:08,400 --> 00:38:11,799
+out and building I think that is a very
+
+1110
+00:38:10,159 --> 00:38:13,478
+important principle in learning any
+
+1111
+00:38:11,800 --> 00:38:15,1000
+skill but especially how to code you got
+
+1112
+00:38:13,480 --> 00:38:18,480
+to get a project you care about uh as
+
+1113
+00:38:16,000 --> 00:38:20,280
+quick as possible and the project I
+
+1114
+00:38:18,480 --> 00:38:22,960
+cared about at the time was I wanted to
+
+1115
+00:38:20,280 --> 00:38:24,959
+teach the notion API so I took another
+
+1116
+00:38:22,960 --> 00:38:27,078
+about three full months to build a
+
+1117
+00:38:24,960 --> 00:38:29,280
+single video on Thomas Frank explains
+
+1118
+00:38:27,079 --> 00:38:30,640
+ended up being 2 hours long where I
+
+1119
+00:38:29,280 --> 00:38:33,039
+teach people how to build a full
+
+1120
+00:38:30,639 --> 00:38:34,879
+pokeddex from scratch with no manual
+
+1121
+00:38:33,039 --> 00:38:38,239
+data entry whatsoever pulling all of the
+
+1122
+00:38:34,880 --> 00:38:40,838
+Pokemon data from uh poke API and use
+
+1123
+00:38:38,239 --> 00:38:41,879
+that to teach the notion API uh I ended
+
+1124
+00:38:40,838 --> 00:38:44,639
+up also writing I think it was like a
+
+1125
+00:38:41,880 --> 00:38:47,078
+30,000 word blog post that is almost
+
+1126
+00:38:44,639 --> 00:38:49,639
+like a beginner coding tutorial on its
+
+1127
+00:38:47,079 --> 00:38:52,040
+own as well so that took up about 3
+
+1128
+00:38:49,639 --> 00:38:53,639
+months and now on the channel we have uh
+
+1129
+00:38:52,039 --> 00:38:55,398
+what I'm going to call one of like the
+
+1130
+00:38:53,639 --> 00:38:57,558
+infinity gems in The Gauntlet for that
+
+1131
+00:38:55,400 --> 00:38:59,800
+channel the notion a API tutorial is
+
+1132
+00:38:57,559 --> 00:39:01,799
+there uh little did I know that I was
+
+1133
+00:38:59,800 --> 00:39:04,479
+going to catch the programming bug and
+
+1134
+00:39:01,800 --> 00:39:05,960
+now I spend a lot of my time programming
+
+1135
+00:39:04,480 --> 00:39:08,680
+that voice notes automation that I
+
+1136
+00:39:05,960 --> 00:39:10,599
+talked about a while ago that's around 2
+
+1137
+00:39:08,679 --> 00:39:12,719
+200 lines of code it is actively
+
+1138
+00:39:10,599 --> 00:39:14,200
+developed it's got GitHub repo like I've
+
+1139
+00:39:12,719 --> 00:39:16,719
+kind of gotone the whole nine yards with
+
+1140
+00:39:14,199 --> 00:39:18,479
+programming and it's been a lot of fun I
+
+1141
+00:39:16,719 --> 00:39:21,039
+spend a lot of my time doing it now I've
+
+1142
+00:39:18,480 --> 00:39:22,880
+built a lot of automations uh I use
+
+1143
+00:39:21,039 --> 00:39:24,639
+primarily a platform called pipe dream
+
+1144
+00:39:22,880 --> 00:39:26,560
+to do it it's kind of like zappier but
+
+1145
+00:39:24,639 --> 00:39:27,837
+you can actually write JavaScript code
+
+1146
+00:39:26,559 --> 00:39:29,438
+and another cool thing that I like about
+
+1147
+00:39:27,838 --> 00:39:31,117
+it is I can actually share my workflows
+
+1148
+00:39:29,440 --> 00:39:33,160
+with other people so it's almost like
+
+1149
+00:39:31,119 --> 00:39:34,559
+being able to ship many apps to people
+
+1150
+00:39:33,159 --> 00:39:36,239
+and I can even update them which is
+
+1151
+00:39:34,559 --> 00:39:39,318
+pretty sweet but I don't have to like
+
+1152
+00:39:36,239 --> 00:39:40,878
+build my own servers or deploy to Amazon
+
+1153
+00:39:39,318 --> 00:39:42,278
+or all that stuff that I have not
+
+1154
+00:39:40,880 --> 00:39:45,519
+learned how to do yet so that's pretty
+
+1155
+00:39:42,280 --> 00:39:49,480
+cool uh and that I think explains a lot
+
+1156
+00:39:45,519 --> 00:39:51,597
+of 2023 it's been uh pretty quiet on the
+
+1157
+00:39:49,480 --> 00:39:53,040
+content front not because I haven't been
+
+1158
+00:39:51,599 --> 00:39:55,280
+doing anything but because the videos
+
+1159
+00:39:53,039 --> 00:39:58,117
+that I've been working on are sort of
+
+1160
+00:39:55,280 --> 00:40:00,720
+like mini software projects in Disguise
+
+1161
+00:39:58,119 --> 00:40:02,519
+and they always take a lot longer than I
+
+1162
+00:40:00,719 --> 00:40:04,999
+think they're going to take case in
+
+1163
+00:40:02,519 --> 00:40:07,479
+point another automation that I made was
+
+1164
+00:40:05,000 --> 00:40:08,799
+uh adding voice tasks to notion so I now
+
+1165
+00:40:07,480 --> 00:40:11,040
+have an automation on my phone where I
+
+1166
+00:40:08,800 --> 00:40:13,280
+can click a little shortcut I can record
+
+1167
+00:40:11,039 --> 00:40:14,798
+as many tasks as I want actually and
+
+1168
+00:40:13,280 --> 00:40:16,280
+they're all going to go into notion with
+
+1169
+00:40:14,800 --> 00:40:18,199
+their names their due dates their
+
+1170
+00:40:16,280 --> 00:40:19,800
+assignes their projects I thought that
+
+1171
+00:40:18,199 --> 00:40:21,638
+was going to be a two-e project ended up
+
+1172
+00:40:19,800 --> 00:40:23,559
+taking me four months I don't really
+
+1173
+00:40:21,639 --> 00:40:25,038
+regret it because I learned a lot about
+
+1174
+00:40:23,559 --> 00:40:26,918
+coding learned a ton of advanced
+
+1175
+00:40:25,039 --> 00:40:29,239
+concepts like concurrency and error
+
+1176
+00:40:26,920 --> 00:40:30,759
+handling and all sorts of stuff that I
+
+1177
+00:40:29,239 --> 00:40:32,638
+really didn't think I'd be getting into
+
+1178
+00:40:30,760 --> 00:40:34,559
+this early into my journey uh but that
+
+1179
+00:40:32,639 --> 00:40:37,879
+took about 4 months so that about brings
+
+1180
+00:40:34,559 --> 00:40:39,837
+us up to today uh and I want to talk now
+
+1181
+00:40:37,880 --> 00:40:41,1000
+about what I've got planned for the
+
+1182
+00:40:39,838 --> 00:40:44,759
+future both for this channel but also
+
+1183
+00:40:42,000 --> 00:40:45,839
+for the entire business that I'm running
+
+1184
+00:40:44,760 --> 00:40:47,679
+I just want to talk about the one that
+
+1185
+00:40:45,838 --> 00:40:49,238
+I'm most excited about right now and
+
+1186
+00:40:47,679 --> 00:40:51,357
+that is the new startup that we are
+
+1187
+00:40:49,239 --> 00:40:53,679
+building it is called fly lighter and it
+
+1188
+00:40:51,358 --> 00:40:56,518
+is going to be the best information and
+
+1189
+00:40:53,679 --> 00:40:58,478
+idea capture tool you have ever seen we
+
+1190
+00:40:56,519 --> 00:41:00,559
+are starting out with a notion Web
+
+1191
+00:40:58,480 --> 00:41:02,079
+Clipper that is far more powerful than
+
+1192
+00:41:00,559 --> 00:41:03,759
+Notions official Web Clipper or any
+
+1193
+00:41:02,079 --> 00:41:05,720
+other Web Clipper out there so if you
+
+1194
+00:41:03,760 --> 00:41:07,240
+are on a web page and you want to save
+
+1195
+00:41:05,719 --> 00:41:09,038
+it you want to highlight text on that
+
+1196
+00:41:07,239 --> 00:41:10,799
+page you want to capture an image you
+
+1197
+00:41:09,039 --> 00:41:13,279
+want to do basically any sort of
+
+1198
+00:41:10,800 --> 00:41:15,760
+information capture on the web fly lter
+
+1199
+00:41:13,280 --> 00:41:17,919
+gives you a bunch of tools to not only
+
+1200
+00:41:15,760 --> 00:41:19,960
+build these very very highly customized
+
+1201
+00:41:17,920 --> 00:41:22,838
+capture abilities you can even like take
+
+1202
+00:41:19,960 --> 00:41:25,719
+YouTube notes with uh timestamps to the
+
+1203
+00:41:22,838 --> 00:41:28,198
+notes uh but also it is built for Speed
+
+1204
+00:41:25,719 --> 00:41:29,959
+you can set up these flows and then the
+
+1205
+00:41:28,199 --> 00:41:31,958
+moment you click a flow it'll just
+
+1206
+00:41:29,960 --> 00:41:34,1000
+instantly capture with your settings
+
+1207
+00:41:31,960 --> 00:41:36,879
+we've been building this tool for almost
+
+1208
+00:41:35,000 --> 00:41:39,040
+a year actually more than a year at this
+
+1209
+00:41:36,880 --> 00:41:41,479
+point I think I hired my first developer
+
+1210
+00:41:39,039 --> 00:41:43,039
+in August of last year actually uh and
+
+1211
+00:41:41,480 --> 00:41:45,200
+this started out as like a very very
+
+1212
+00:41:43,039 --> 00:41:47,357
+small idea that ballooned into something
+
+1213
+00:41:45,199 --> 00:41:49,958
+much much bigger uh originally I had
+
+1214
+00:41:47,358 --> 00:41:52,838
+just wanted a notion Web Clipper that
+
+1215
+00:41:49,960 --> 00:41:54,920
+number one had better abilities to
+
+1216
+00:41:52,838 --> 00:41:57,357
+capture like certain uh like folders in
+
+1217
+00:41:54,920 --> 00:41:59,639
+my notion basically but number two that
+
+1218
+00:41:57,358 --> 00:42:01,358
+use the official API because there are
+
+1219
+00:41:59,639 --> 00:42:03,317
+other tools out there that are pretty
+
+1220
+00:42:01,358 --> 00:42:04,719
+good but they use like non-official apis
+
+1221
+00:42:03,318 --> 00:42:05,879
+that I'm not super comfortable with
+
+1222
+00:42:04,719 --> 00:42:08,638
+because they kind of like hijack your
+
+1223
+00:42:05,880 --> 00:42:10,1000
+user session so I wanted to build a tool
+
+1224
+00:42:08,639 --> 00:42:13,478
+that used the correct API uh that was
+
+1225
+00:42:11,000 --> 00:42:15,400
+security focused privacy focused uh and
+
+1226
+00:42:13,480 --> 00:42:16,839
+then I hired my developer Eli and we
+
+1227
+00:42:15,400 --> 00:42:18,679
+just started bouncing ideas off of each
+
+1228
+00:42:16,838 --> 00:42:21,118
+other uh he had all these great ideas
+
+1229
+00:42:18,679 --> 00:42:22,239
+for like Advanced table capture and web
+
+1230
+00:42:21,119 --> 00:42:24,359
+element capture and all this kind of
+
+1231
+00:42:22,239 --> 00:42:25,719
+cool stuff and then I had ideas a really
+
+1232
+00:42:24,358 --> 00:42:28,399
+big one that I had is I wanted to be
+
+1233
+00:42:25,719 --> 00:42:30,039
+able to highlight text on a web page uh
+
+1234
+00:42:28,400 --> 00:42:31,839
+for like blog post research or video
+
+1235
+00:42:30,039 --> 00:42:34,199
+research capture those highlights to
+
+1236
+00:42:31,838 --> 00:42:36,959
+notion like you would with a readwise or
+
+1237
+00:42:34,199 --> 00:42:39,558
+a similar tool but then if you go back
+
+1238
+00:42:36,960 --> 00:42:41,519
+to that web page you see the highlights
+
+1239
+00:42:39,559 --> 00:42:42,920
+still so we are building it there are
+
+1240
+00:42:41,519 --> 00:42:44,558
+going to be a heck of a lot of other
+
+1241
+00:42:42,920 --> 00:42:47,078
+features in the product we are building
+
+1242
+00:42:44,559 --> 00:42:49,160
+a full iPhone app what I want to do is
+
+1243
+00:42:47,079 --> 00:42:50,838
+solve capture if you have an idea
+
+1244
+00:42:49,159 --> 00:42:52,918
+wherever you are there should be a tool
+
+1245
+00:42:50,838 --> 00:42:55,799
+for instantly capturing that idea using
+
+1246
+00:42:52,920 --> 00:42:57,240
+Voice using text uh but also if you come
+
+1247
+00:42:55,800 --> 00:42:59,319
+across something on the web you should
+
+1248
+00:42:57,239 --> 00:43:01,078
+also be able to instantly capture that
+
+1249
+00:42:59,318 --> 00:43:03,077
+add it to your second brain so you can
+
+1250
+00:43:01,079 --> 00:43:04,920
+close that Tab and be sure that you can
+
+1251
+00:43:03,079 --> 00:43:06,720
+find it later this is a big problem I
+
+1252
+00:43:04,920 --> 00:43:08,880
+have if you ask anyone I know who has
+
+1253
+00:43:06,719 --> 00:43:10,638
+ever seen my computer screen they'll
+
+1254
+00:43:08,880 --> 00:43:12,920
+tell you I often have like a 100 tabs
+
+1255
+00:43:10,639 --> 00:43:14,759
+open uh and a lot of those tabs are just
+
+1256
+00:43:12,920 --> 00:43:16,558
+like tabs I didn't want to lose and I
+
+1257
+00:43:14,760 --> 00:43:19,319
+haven't found a found a good enough tool
+
+1258
+00:43:16,559 --> 00:43:21,318
+yet to capture them to my tool of choice
+
+1259
+00:43:19,318 --> 00:43:23,678
+which is notion so we're building it and
+
+1260
+00:43:21,318 --> 00:43:25,638
+I'm telling you now uh very early in
+
+1261
+00:43:23,679 --> 00:43:26,958
+what I will call our like release
+
+1262
+00:43:25,639 --> 00:43:29,078
+process you've been working on this tool
+
+1263
+00:43:26,960 --> 00:43:31,479
+for a year but we are now I think
+
+1264
+00:43:29,079 --> 00:43:33,680
+nearing the end of our private beta so
+
+1265
+00:43:31,480 --> 00:43:36,319
+if you go over to fighter.com there is a
+
+1266
+00:43:33,679 --> 00:43:37,999
+weight list sign up and as soon as we
+
+1267
+00:43:36,318 --> 00:43:40,558
+can we are going to be releasing a
+
+1268
+00:43:38,000 --> 00:43:42,519
+browser extension that you can use on
+
+1269
+00:43:40,559 --> 00:43:44,959
+Chrome and Edge and any chromium based
+
+1270
+00:43:42,519 --> 00:43:47,198
+browser and then ideally quickly after
+
+1271
+00:43:44,960 --> 00:43:49,759
+that we're going to have a basic iPhone
+
+1272
+00:43:47,199 --> 00:43:51,838
+app that is going to be uh from day one
+
+1273
+00:43:49,760 --> 00:43:53,679
+the best Web Clipper for notion but
+
+1274
+00:43:51,838 --> 00:43:56,399
+eventually a heck of a lot more than
+
+1275
+00:43:53,679 --> 00:43:58,438
+that I've got tons of ideas um and if
+
+1276
+00:43:56,400 --> 00:43:59,960
+you've seen some of the tutorials and
+
+1277
+00:43:58,440 --> 00:44:01,319
+projects I've been doing on Thomas Frank
+
+1278
+00:43:59,960 --> 00:44:03,640
+explains you might be able to
+
+1279
+00:44:01,318 --> 00:44:07,159
+extrapolate what we are planning on
+
+1280
+00:44:03,639 --> 00:44:09,158
+adding to fly lighter as time goes on uh
+
+1281
+00:44:07,159 --> 00:44:11,479
+I'm also planning on building this kind
+
+1282
+00:44:09,159 --> 00:44:14,038
+of in public as much as I can I'm not an
+
+1283
+00:44:11,480 --> 00:44:15,920
+indie hacker building this on my own so
+
+1284
+00:44:14,039 --> 00:44:17,398
+I do have to think about the fact that
+
+1285
+00:44:15,920 --> 00:44:18,960
+there is a bigger audience here and I
+
+1286
+00:44:17,400 --> 00:44:20,759
+don't want to like bring too many people
+
+1287
+00:44:18,960 --> 00:44:22,359
+into the product before it's ready so
+
+1288
+00:44:20,760 --> 00:44:24,558
+there's definitely going to be some
+
+1289
+00:44:22,358 --> 00:44:26,399
+navigation there that I have to do but I
+
+1290
+00:44:24,559 --> 00:44:28,240
+want to share this experience with you I
+
+1291
+00:44:26,400 --> 00:44:31,079
+want to actually document the experience
+
+1292
+00:44:28,239 --> 00:44:32,758
+of trying to build a profitable privacy
+
+1293
+00:44:31,079 --> 00:44:35,200
+focused startup that doesn't take VC
+
+1294
+00:44:32,760 --> 00:44:38,359
+money um that is really focused on
+
+1295
+00:44:35,199 --> 00:44:39,958
+giving you the ability to send your data
+
+1296
+00:44:38,358 --> 00:44:41,438
+where you want to send it we don't want
+
+1297
+00:44:39,960 --> 00:44:42,960
+to be another one of those startups that
+
+1298
+00:44:41,440 --> 00:44:45,199
+is like the place that actually holds
+
+1299
+00:44:42,960 --> 00:44:47,479
+your data um I'm not comfortable with
+
+1300
+00:44:45,199 --> 00:44:48,998
+that in the first place but also I think
+
+1301
+00:44:47,480 --> 00:44:51,359
+that there are already so many great
+
+1302
+00:44:49,000 --> 00:44:54,400
+tools out there uh with notion being my
+
+1303
+00:44:51,358 --> 00:44:56,159
+focus for for having your data where you
+
+1304
+00:44:54,400 --> 00:44:57,920
+want it for building it the way you want
+
+1305
+00:44:56,159 --> 00:44:59,159
+for organize it the way you want and you
+
+1306
+00:44:57,920 --> 00:45:00,598
+know a lot of my business is around
+
+1307
+00:44:59,159 --> 00:45:02,478
+teaching people how to use notion so
+
+1308
+00:45:00,599 --> 00:45:04,358
+what we want to do is solve the first
+
+1309
+00:45:02,480 --> 00:45:06,200
+part of the funnel the capture part of
+
+1310
+00:45:04,358 --> 00:45:08,638
+the funnel uh once again you can go over
+
+1311
+00:45:06,199 --> 00:45:10,357
+to flyer.com and sign up for our waiting
+
+1312
+00:45:08,639 --> 00:45:12,719
+list if you are interested in testing it
+
+1313
+00:45:10,358 --> 00:45:14,919
+out and using it once we have a full
+
+1314
+00:45:12,719 --> 00:45:17,518
+launch uh beyond that what I've got
+
+1315
+00:45:14,920 --> 00:45:19,759
+planned for this channel is uh a bit of
+
+1316
+00:45:17,519 --> 00:45:21,159
+a mix of content I have a lot more I
+
+1317
+00:45:19,760 --> 00:45:22,639
+want to say and a lot more I want to
+
+1318
+00:45:21,159 --> 00:45:23,759
+teach when it comes to productivity so
+
+1319
+00:45:22,639 --> 00:45:26,317
+you're going to see a good mix of
+
+1320
+00:45:23,760 --> 00:45:27,960
+productivity videos in the future but
+
+1321
+00:45:26,318 --> 00:45:30,039
+I've also spent a lot of my time over
+
+1322
+00:45:27,960 --> 00:45:32,719
+the past couple of years learning how to
+
+1323
+00:45:30,039 --> 00:45:35,439
+code becoming an expert in no code tools
+
+1324
+00:45:32,719 --> 00:45:37,919
+and building my business so this channel
+
+1325
+00:45:35,440 --> 00:45:39,640
+is going to kind of delve into some of
+
+1326
+00:45:37,920 --> 00:45:41,279
+those topics as well one of the videos
+
+1327
+00:45:39,639 --> 00:45:43,438
+that I'm working on right now is on how
+
+1328
+00:45:41,280 --> 00:45:44,960
+I learned how to code um I've got a
+
+1329
+00:45:43,440 --> 00:45:47,359
+couple of business related videos as
+
+1330
+00:45:44,960 --> 00:45:50,319
+well so this channel is going to be kind
+
+1331
+00:45:47,358 --> 00:45:52,318
+of like an entrepreneur Cod productivity
+
+1332
+00:45:50,318 --> 00:45:53,758
+Focus Channel going forward if that's
+
+1333
+00:45:52,318 --> 00:45:55,879
+your kind of thing I think you're going
+
+1334
+00:45:53,760 --> 00:45:57,880
+to like the content that we are building
+
+1335
+00:45:55,880 --> 00:45:59,520
+my only real call to action for this
+
+1336
+00:45:57,880 --> 00:46:01,159
+video other than going and signing up
+
+1337
+00:45:59,519 --> 00:46:02,958
+for the fly lighter weit list if you are
+
+1338
+00:46:01,159 --> 00:46:04,679
+interested is if you want to learn
+
+1339
+00:46:02,960 --> 00:46:06,239
+notion I've got lots of content that is
+
+1340
+00:46:04,679 --> 00:46:08,879
+coming out regularly over on Thomas
+
+1341
+00:46:06,239 --> 00:46:11,279
+Frank explains so check that out if you
+
+1342
+00:46:08,880 --> 00:46:12,558
+do want to become an expert at that tool
+
+1343
+00:46:11,280 --> 00:46:14,359
+if you do want an all-in-one
+
+1344
+00:46:12,559 --> 00:46:16,280
+productivity system for notion you can
+
+1345
+00:46:14,358 --> 00:46:17,758
+check out ultimate brain over at thomasj
+
+1346
+00:46:16,280 --> 00:46:20,318
+frank.com
+
+1347
+00:46:17,760 --> 00:46:22,279
+brain uh and beyond that if you have
+
+1348
+00:46:20,318 --> 00:46:24,117
+questions at some point I might do like
+
+1349
+00:46:22,280 --> 00:46:26,280
+an AMA on Twitter or I might do some
+
+1350
+00:46:24,119 --> 00:46:27,880
+like more talky content like this in the
+
+1351
+00:46:26,280 --> 00:46:29,199
+future so let me know in the comments
+
+1352
+00:46:27,880 --> 00:46:30,960
+what kind of stuff you would like to see
+
+1353
+00:46:29,199 --> 00:46:32,799
+in the future what questions you have
+
+1354
+00:46:30,960 --> 00:46:35,599
+that'll help me shape additional content
+
+1355
+00:46:32,800 --> 00:46:37,040
+ideas and I'll see you in the next video
+
+1356
+00:46:35,599 --> 00:46:39,759
+oh if you want to chat Tom frankley on
+
+1357
+00:46:37,039 --> 00:46:39,759
+Twitter
+

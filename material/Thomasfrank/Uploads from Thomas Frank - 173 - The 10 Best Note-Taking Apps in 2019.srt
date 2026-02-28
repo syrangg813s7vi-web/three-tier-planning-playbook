@@ -1,0 +1,2216 @@
+1
+00:00:00,000 --> 00:00:04,230
+hey what's going on guys so it has come
+
+2
+00:00:02,040 --> 00:00:03,569
+to one of those fairly infrequent points
+
+3
+00:00:04,230 --> 00:00:07,439
+in my life where I start to reevaluate
+
+4
+00:00:05,609 --> 00:00:09,509
+some of the tools that I'm using to get
+
+5
+00:00:07,440 --> 00:00:11,009
+my work done and this time around my
+
+6
+00:00:09,509 --> 00:00:13,379
+critical eye has fallen on the apps that
+
+7
+00:00:11,009 --> 00:00:14,279
+hold my thoughts and machinations
+
+8
+00:00:13,380 --> 00:00:16,739
+I like that words a good word
+
+9
+00:00:14,279 --> 00:00:18,929
+machinations anyway yes it is time to
+
+10
+00:00:16,739 --> 00:00:21,569
+talk about note-taking apps because
+
+11
+00:00:18,929 --> 00:00:23,249
+after about a full week of let's be
+
+12
+00:00:21,570 --> 00:00:25,050
+honest here far more research than I
+
+13
+00:00:23,250 --> 00:00:26,1000
+should have done for this topic I am now
+
+14
+00:00:25,050 --> 00:00:29,880
+ready to present to you my top 10
+
+15
+00:00:27,000 --> 00:00:31,469
+note-taking apps in 2019 now before we
+
+16
+00:00:29,879 --> 00:00:33,599
+dive in I do want to talk a little bit
+
+17
+00:00:31,469 --> 00:00:35,608
+about my criteria for this list first
+
+18
+00:00:33,600 --> 00:00:37,410
+the apps on this list primarily use text
+
+19
+00:00:35,609 --> 00:00:39,238
+as their input method because I can type
+
+20
+00:00:37,409 --> 00:00:40,679
+a lot faster than I can write and I want
+
+21
+00:00:39,238 --> 00:00:42,959
+to be able to type and get data out at
+
+22
+00:00:40,679 --> 00:00:44,308
+the speed at which I think so what we're
+
+23
+00:00:42,960 --> 00:00:46,109
+gonna talk about apps like Evernote and
+
+24
+00:00:44,308 --> 00:00:47,788
+OneNote which can support drawing to an
+
+25
+00:00:46,109 --> 00:00:49,738
+extent we're not gonna focus on apps
+
+26
+00:00:47,789 --> 00:00:51,660
+that primarily use handwriting as their
+
+27
+00:00:49,738 --> 00:00:53,307
+method of input like note shelf two for
+
+28
+00:00:51,659 --> 00:00:55,049
+the iPad plus a lot of those apps have
+
+29
+00:00:53,308 --> 00:00:56,788
+integrations with Evernote anyway
+
+30
+00:00:55,049 --> 00:00:58,769
+secondly every applicant to talk about
+
+31
+00:00:56,789 --> 00:01:01,109
+here has some form of cross-platform
+
+32
+00:00:58,770 --> 00:01:03,420
+availability not every app and list is
+
+33
+00:01:01,109 --> 00:01:05,790
+available on every platform but nothing
+
+34
+00:01:03,420 --> 00:01:07,650
+on this list is available on only one OS
+
+35
+00:01:05,790 --> 00:01:09,390
+and finally a criteria number three
+
+36
+00:01:07,650 --> 00:01:11,310
+which I find to be the most important
+
+37
+00:01:09,390 --> 00:01:13,559
+criteria I don't think an app is a
+
+38
+00:01:11,310 --> 00:01:16,140
+note-taking app unless it combines its
+
+39
+00:01:13,560 --> 00:01:18,869
+note-taking or editor area with its UI
+
+40
+00:01:16,140 --> 00:01:20,489
+for browsing files or notes I think this
+
+41
+00:01:18,868 --> 00:01:21,928
+is crucial for a note-taking app because
+
+42
+00:01:20,489 --> 00:01:23,698
+I'm constantly referencing different
+
+43
+00:01:21,930 --> 00:01:25,680
+notes searching for things and I want to
+
+44
+00:01:23,700 --> 00:01:27,209
+have all that available in one window so
+
+45
+00:01:25,680 --> 00:01:29,430
+that means apps like Google Docs and
+
+46
+00:01:27,209 --> 00:01:31,228
+Microsoft Word and Dropbox paper all not
+
+47
+00:01:29,430 --> 00:01:32,938
+going to make the cut here though I do
+
+48
+00:01:31,228 --> 00:01:35,039
+have to admit the Dropbox paper in
+
+49
+00:01:32,938 --> 00:01:36,658
+particular has probably the best writing
+
+50
+00:01:35,040 --> 00:01:38,939
+experience in a writing app that I've
+
+51
+00:01:36,659 --> 00:01:40,979
+ever tried though we do have one app on
+
+52
+00:01:38,938 --> 00:01:42,989
+this list that does come very close to
+
+53
+00:01:40,978 --> 00:01:44,728
+that level of greatness so stay tuned
+
+54
+00:01:42,989 --> 00:01:45,808
+for that app before we get to that one
+
+55
+00:01:44,728 --> 00:01:47,518
+though we do have to go through the
+
+56
+00:01:45,810 --> 00:01:49,920
+other entries on my list and where
+
+57
+00:01:47,519 --> 00:01:50,699
+better to start than with Evernote ah
+
+58
+00:01:49,920 --> 00:01:52,979
+yes
+
+59
+00:01:50,700 --> 00:01:54,360
+Evernote the granddaddy of syncing and
+
+60
+00:01:52,978 --> 00:01:56,547
+note-taking apps I have been using
+
+61
+00:01:54,359 --> 00:01:58,378
+Evernote for darn near nine years at
+
+62
+00:01:56,549 --> 00:02:00,930
+this point and I have to admit that it's
+
+63
+00:01:58,379 --> 00:02:02,789
+a very powerful tool that I basically
+
+64
+00:02:00,930 --> 00:02:04,320
+can't get myself to break away from it's
+
+65
+00:02:02,790 --> 00:02:05,729
+got a pretty capable rich text editor
+
+66
+00:02:04,319 --> 00:02:07,948
+the ability to share notebooks with
+
+67
+00:02:05,728 --> 00:02:09,659
+people it's got tags the ability to save
+
+68
+00:02:07,950 --> 00:02:11,280
+searches and a ton of different
+
+69
+00:02:09,659 --> 00:02:12,839
+integrations with other apps
+
+70
+00:02:11,280 --> 00:02:13,169
+it also features optical character
+
+71
+00:02:12,840 --> 00:02:15,239
+recognition
+
+72
+00:02:13,169 --> 00:02:16,528
+which means you can scan in images with
+
+73
+00:02:15,240 --> 00:02:18,300
+text and it can make that text
+
+74
+00:02:16,530 --> 00:02:20,520
+searchable and you can also annotate
+
+75
+00:02:18,300 --> 00:02:22,708
+images in the app as well but for all
+
+76
+00:02:20,520 --> 00:02:24,209
+its strengths Evernote frustrates me and
+
+77
+00:02:22,709 --> 00:02:26,580
+that's primarily because you cannot
+
+78
+00:02:24,209 --> 00:02:27,930
+create nested hierarchies of notebooks
+
+79
+00:02:26,580 --> 00:02:29,789
+you can do notebooks and you can do
+
+80
+00:02:27,930 --> 00:02:31,260
+notebook stacks but that's it
+
+81
+00:02:29,789 --> 00:02:32,519
+now some people out there like the
+
+82
+00:02:31,259 --> 00:02:34,678
+writer Michael Hyatt for example
+
+83
+00:02:32,520 --> 00:02:36,600
+advocate using a tag based structure to
+
+84
+00:02:34,680 --> 00:02:38,130
+gain that hierarchy instead but that
+
+85
+00:02:36,599 --> 00:02:39,839
+doesn't really work because on the
+
+86
+00:02:38,129 --> 00:02:41,488
+Evernote mobile apps those tags are not
+
+87
+00:02:39,840 --> 00:02:43,259
+going to show in their hierarchy they're
+
+88
+00:02:41,489 --> 00:02:44,1000
+all alphabetical so it kind of breaks
+
+89
+00:02:43,259 --> 00:02:47,189
+down still Evernote is incredibly
+
+90
+00:02:45,000 --> 00:02:49,169
+powerful is available on basically every
+
+91
+00:02:47,189 --> 00:02:50,789
+platform and because of those reasons I
+
+92
+00:02:49,169 --> 00:02:52,649
+am continuing to use it at least for
+
+93
+00:02:50,789 --> 00:02:54,688
+certain parts of my workflow even though
+
+94
+00:02:52,650 --> 00:02:56,669
+I have many other options in 2019
+
+95
+00:02:54,689 --> 00:02:58,979
+speaking of other options let's now talk
+
+96
+00:02:56,669 --> 00:03:00,957
+about OneNote Microsoft OneNote is
+
+97
+00:02:58,979 --> 00:03:02,608
+probably the closest competitor to
+
+98
+00:03:00,959 --> 00:03:04,560
+Evernote in terms of features as our
+
+99
+00:03:02,610 --> 00:03:05,969
+gonna find similar image support optical
+
+100
+00:03:04,560 --> 00:03:07,979
+character recognition the ability to
+
+101
+00:03:05,969 --> 00:03:09,748
+annotate images and honestly the editor
+
+102
+00:03:07,979 --> 00:03:11,338
+area is a lot more flexible and
+
+103
+00:03:09,750 --> 00:03:13,769
+customizable than Evernote is
+
+104
+00:03:11,340 --> 00:03:16,229
+additionally Microsoft OneNote is free
+
+105
+00:03:13,769 --> 00:03:17,820
+like actually free the only way you'd
+
+106
+00:03:16,229 --> 00:03:19,318
+ever pay for Microsoft OneNote is if you
+
+107
+00:03:17,819 --> 00:03:21,509
+decided to upgrade your onedrive storage
+
+108
+00:03:19,319 --> 00:03:23,129
+as that's the only way they ever charge
+
+109
+00:03:21,509 --> 00:03:24,928
+you money they just use onedrive for
+
+110
+00:03:23,129 --> 00:03:27,688
+their storage that being said I
+
+111
+00:03:24,930 --> 00:03:29,279
+personally just can't get into OneNote I
+
+112
+00:03:27,689 --> 00:03:30,749
+know a lot of people out there love it
+
+113
+00:03:29,280 --> 00:03:32,369
+it's incredibly powerful which is why
+
+114
+00:03:30,750 --> 00:03:34,379
+it's on my list but it doesn't work for
+
+115
+00:03:32,370 --> 00:03:36,090
+me because you cannot sort notes within
+
+116
+00:03:34,379 --> 00:03:37,948
+your notebooks by date modified date
+
+117
+00:03:36,090 --> 00:03:40,049
+created or alphabetically you can only
+
+118
+00:03:37,949 --> 00:03:41,909
+drag them around like their actual note
+
+119
+00:03:40,049 --> 00:03:43,109
+cards or pages in a notebook and that
+
+120
+00:03:41,909 --> 00:03:44,969
+combined with limited tagging
+
+121
+00:03:43,110 --> 00:03:46,739
+capabilities and the same number of
+
+122
+00:03:44,969 --> 00:03:48,298
+organizational levels of hierarchy as
+
+123
+00:03:46,739 --> 00:03:50,730
+you get in Evernote you don't get more
+
+124
+00:03:48,299 --> 00:03:53,100
+makes OneNote kind of a no-go for me
+
+125
+00:03:50,729 --> 00:03:55,078
+personally that brings us over to bear
+
+126
+00:03:53,099 --> 00:03:57,089
+which is an absolutely beautiful app
+
+127
+00:03:55,079 --> 00:03:59,640
+that I wish that I could use as a daily
+
+128
+00:03:57,090 --> 00:04:01,620
+driver in my workflow but bear is a Mac
+
+129
+00:03:59,639 --> 00:04:03,449
+and iOS exclusive and that's kind of a
+
+130
+00:04:01,620 --> 00:04:05,850
+bummer because I also use Windows on a
+
+131
+00:04:03,449 --> 00:04:07,409
+daily basis alongside my back and iPhone
+
+132
+00:04:05,849 --> 00:04:08,909
+that being said if you are a Mac and
+
+133
+00:04:07,409 --> 00:04:10,738
+iPhone only kind of person bear is
+
+134
+00:04:08,909 --> 00:04:12,719
+definitely worth your consideration this
+
+135
+00:04:10,739 --> 00:04:15,120
+is primarily because unlike Evernote and
+
+136
+00:04:12,719 --> 00:04:16,618
+OneNote bear has a beautiful hybrid
+
+137
+00:04:15,120 --> 00:04:18,298
+markdown editor and if you're not
+
+138
+00:04:16,620 --> 00:04:19,858
+familiar with markdown it's a markup
+
+139
+00:04:18,298 --> 00:04:22,379
+language so it allows you to format your
+
+140
+00:04:19,858 --> 00:04:24,508
+text as you type by putting different
+
+141
+00:04:22,379 --> 00:04:25,948
+symbols around your text so for example
+
+142
+00:04:24,509 --> 00:04:28,229
+you could put two stars around
+
+143
+00:04:25,949 --> 00:04:29,968
+word to bold that word now a lot of
+
+144
+00:04:28,230 --> 00:04:31,770
+markdown editors force you to write in
+
+145
+00:04:29,970 --> 00:04:33,780
+plain text and then you can only preview
+
+146
+00:04:31,769 --> 00:04:35,429
+your formatted text but bear doesn't do
+
+147
+00:04:33,779 --> 00:04:37,709
+that and actually format your text as
+
+148
+00:04:35,430 --> 00:04:39,180
+you write which I really really like
+
+149
+00:04:37,709 --> 00:04:40,918
+additionally bear also has a pretty
+
+150
+00:04:39,180 --> 00:04:42,450
+interesting organizational system that
+
+151
+00:04:40,920 --> 00:04:44,429
+does let you create as many levels of
+
+152
+00:04:42,449 --> 00:04:46,618
+hierarchy as you like and they use tags
+
+153
+00:04:44,430 --> 00:04:48,209
+to achieve this by typing hash tags in
+
+154
+00:04:46,620 --> 00:04:49,950
+your document then using slashes to
+
+155
+00:04:48,209 --> 00:04:51,899
+create additional tags beyond it you can
+
+156
+00:04:49,949 --> 00:04:53,489
+create your own organizational structure
+
+157
+00:04:51,899 --> 00:04:55,289
+now some people don't like having tags
+
+158
+00:04:53,490 --> 00:04:57,030
+right in the editor window like that but
+
+159
+00:04:55,290 --> 00:04:58,020
+some people might not mind that and I
+
+160
+00:04:57,029 --> 00:04:59,339
+also have to give a shout out to their
+
+161
+00:04:58,019 --> 00:05:01,139
+archive feature which lets you archive
+
+162
+00:04:59,339 --> 00:05:02,698
+notes and take them out of search and
+
+163
+00:05:01,139 --> 00:05:04,648
+your organizational hierarchy but not
+
+164
+00:05:02,699 --> 00:05:06,179
+delete them of course if you are an
+
+165
+00:05:04,649 --> 00:05:08,039
+apple exclusive kind of person then we
+
+166
+00:05:06,180 --> 00:05:10,079
+do have to consider Apple's own notes
+
+167
+00:05:08,040 --> 00:05:12,599
+program mainly because it's free and
+
+168
+00:05:10,079 --> 00:05:13,949
+unlike bear if you happen to not have
+
+169
+00:05:12,600 --> 00:05:15,689
+access to an Apple computer at some
+
+170
+00:05:13,949 --> 00:05:17,728
+point or you're a part-time windows guy
+
+171
+00:05:15,689 --> 00:05:18,988
+like me you can't at least access your
+
+172
+00:05:17,730 --> 00:05:20,549
+notes at icloud.com
+
+173
+00:05:18,990 --> 00:05:22,349
+now though Apple Notes doesn't have the
+
+174
+00:05:20,550 --> 00:05:23,429
+awesome hyper markdown capabilities of
+
+175
+00:05:22,350 --> 00:05:25,080
+bear or some other apps are going to
+
+176
+00:05:23,430 --> 00:05:26,639
+talk about it does have really nice
+
+177
+00:05:25,079 --> 00:05:28,438
+formatting tools and to my eyes the
+
+178
+00:05:26,639 --> 00:05:30,719
+default formatting looks better than it
+
+179
+00:05:28,439 --> 00:05:32,549
+does on Evernote additionally yep you
+
+180
+00:05:30,720 --> 00:05:34,830
+guessed it you can indeed create your
+
+181
+00:05:32,550 --> 00:05:36,990
+own nested list of hierarchical folders
+
+182
+00:05:34,829 --> 00:05:38,519
+and I love in that feature moving on to
+
+183
+00:05:36,990 --> 00:05:40,740
+the next item on our list we are now at
+
+184
+00:05:38,519 --> 00:05:41,999
+Google keep which is a pretty nice and
+
+185
+00:05:40,740 --> 00:05:43,650
+simple note-taking app that's available
+
+186
+00:05:42,000 --> 00:05:45,240
+in the browser and also on pretty much
+
+187
+00:05:43,649 --> 00:05:46,798
+all of your devices as well now when I
+
+188
+00:05:45,240 --> 00:05:48,420
+was testing Google keep the number one
+
+189
+00:05:46,800 --> 00:05:50,190
+word that kept coming up to my mind was
+
+190
+00:05:48,420 --> 00:05:51,960
+simplicity it's a very simple
+
+191
+00:05:50,189 --> 00:05:53,579
+note-taking app there is simple but
+
+192
+00:05:51,959 --> 00:05:54,988
+effective formatting options and you can
+
+193
+00:05:53,579 --> 00:05:56,728
+even change the background color of your
+
+194
+00:05:54,990 --> 00:05:58,139
+notes to visually distinguish them the
+
+195
+00:05:56,730 --> 00:06:00,509
+problem for me though is there's only
+
+196
+00:05:58,139 --> 00:06:02,398
+one level of tags that you can create
+
+197
+00:06:00,509 --> 00:06:04,049
+you cannot create a hierarchical level
+
+198
+00:06:02,399 --> 00:06:06,178
+of basically anything so there's no
+
+199
+00:06:04,050 --> 00:06:07,559
+hierarchical organization so I guess if
+
+200
+00:06:06,180 --> 00:06:08,849
+you're gonna use Google keep as a
+
+201
+00:06:07,560 --> 00:06:11,010
+note-taking app you're gonna want to
+
+202
+00:06:08,850 --> 00:06:12,810
+rely mostly on their search function and
+
+203
+00:06:11,009 --> 00:06:14,638
+I guess with it being Google that search
+
+204
+00:06:12,810 --> 00:06:16,589
+function is probably pretty good
+
+205
+00:06:14,639 --> 00:06:18,329
+but that being said since it lacks true
+
+206
+00:06:16,589 --> 00:06:20,008
+organizational hierarchy I don't see
+
+207
+00:06:18,329 --> 00:06:22,139
+this as a viable alternative to Evernote
+
+208
+00:06:20,009 --> 00:06:24,119
+or OneNote or anything more complex but
+
+209
+00:06:22,139 --> 00:06:25,708
+if you want a scratch pad for taking
+
+210
+00:06:24,120 --> 00:06:28,169
+notes and setting reminders for later
+
+211
+00:06:25,709 --> 00:06:29,968
+Google key could be a good bet that
+
+212
+00:06:28,170 --> 00:06:31,110
+brings us over to notion and I know a
+
+213
+00:06:29,970 --> 00:06:32,550
+lot of you guys were waiting for me to
+
+214
+00:06:31,110 --> 00:06:34,050
+talk about notion it's definitely the
+
+215
+00:06:32,550 --> 00:06:36,090
+app that I get the most questions about
+
+216
+00:06:34,050 --> 00:06:37,409
+these days and for good reason because
+
+217
+00:06:36,089 --> 00:06:38,938
+notion is
+
+218
+00:06:37,408 --> 00:06:40,707
+could be powerful it's definitely the
+
+219
+00:06:38,939 --> 00:06:42,269
+most flexible tool on this list allowing
+
+220
+00:06:40,709 --> 00:06:43,559
+you layout pages however you want to
+
+221
+00:06:42,269 --> 00:06:45,568
+create an infinite hierarchy
+
+222
+00:06:43,559 --> 00:06:47,789
+organization on the sidebar and even
+
+223
+00:06:45,569 --> 00:06:49,080
+interlink between pages easily it's also
+
+224
+00:06:47,788 --> 00:06:50,488
+got a great hybrid markdown editor
+
+225
+00:06:49,079 --> 00:06:52,348
+that's very similar the one you're gonna
+
+226
+00:06:50,488 --> 00:06:54,299
+find in bear though it does have some
+
+227
+00:06:52,348 --> 00:06:55,557
+quirks that keep me from really loving
+
+228
+00:06:54,300 --> 00:06:58,228
+it such as the fact that you cannot
+
+229
+00:06:55,559 --> 00:07:00,329
+precisely select text if it goes outside
+
+230
+00:06:58,228 --> 00:07:02,428
+a single block of information but my
+
+231
+00:07:00,329 --> 00:07:04,437
+gripes about the editor aside notion can
+
+232
+00:07:02,428 --> 00:07:06,028
+do things that no other app can do
+
+233
+00:07:04,439 --> 00:07:07,738
+that's mainly because the combination of
+
+234
+00:07:06,028 --> 00:07:09,568
+a couple of different features first
+
+235
+00:07:07,738 --> 00:07:11,637
+their table feature is actually a
+
+236
+00:07:09,569 --> 00:07:14,038
+database feature so every row at a table
+
+237
+00:07:11,639 --> 00:07:15,449
+actually links to its own page and
+
+238
+00:07:14,038 --> 00:07:16,317
+secondly they've got a templating
+
+239
+00:07:15,449 --> 00:07:18,598
+feature that allows you to make
+
+240
+00:07:16,319 --> 00:07:20,129
+basically anything into a template and
+
+241
+00:07:18,598 --> 00:07:22,138
+I've combined these two features to
+
+242
+00:07:20,129 --> 00:07:24,059
+build notion out into an incredibly
+
+243
+00:07:22,139 --> 00:07:26,099
+powerful video management platform that
+
+244
+00:07:24,059 --> 00:07:27,688
+has made our editing process so much
+
+245
+00:07:26,098 --> 00:07:29,098
+smoother so in one area of the app I've
+
+246
+00:07:27,689 --> 00:07:30,689
+got a database with all of our videos
+
+247
+00:07:29,098 --> 00:07:32,187
+who's sponsoring them there publish
+
+248
+00:07:30,689 --> 00:07:33,988
+dates all kinds of good information like
+
+249
+00:07:32,189 --> 00:07:35,939
+that but if you click into any video
+
+250
+00:07:33,988 --> 00:07:37,708
+you'll see there's a very well laid out
+
+251
+00:07:35,939 --> 00:07:40,288
+template that allows for us to create a
+
+252
+00:07:37,709 --> 00:07:42,058
+b-roll database a script and also has
+
+253
+00:07:40,288 --> 00:07:43,468
+some checklists that are automatically
+
+254
+00:07:42,059 --> 00:07:45,300
+populated every single time we need to
+
+255
+00:07:43,468 --> 00:07:46,827
+do a video so for very complicated
+
+256
+00:07:45,300 --> 00:07:48,089
+processes like going through the
+
+257
+00:07:46,829 --> 00:07:49,619
+publishing process we can just go to
+
+258
+00:07:48,088 --> 00:07:50,847
+that automatically generated checklist
+
+259
+00:07:49,619 --> 00:07:53,369
+and make sure nothing gets left behind
+
+260
+00:07:50,848 --> 00:07:54,747
+now like I said I get a lot of questions
+
+261
+00:07:53,369 --> 00:07:56,038
+about notion over on Twitter and on
+
+262
+00:07:54,749 --> 00:07:57,719
+Instagram so if you guys want to see a
+
+263
+00:07:56,038 --> 00:07:58,888
+more detailed notion video on this
+
+264
+00:07:57,718 --> 00:08:01,077
+channel definitely let me know in the
+
+265
+00:07:58,889 --> 00:08:02,308
+comments down below right now the
+
+266
+00:08:01,079 --> 00:08:03,869
+verdict is out on if it's a great
+
+267
+00:08:02,309 --> 00:08:05,909
+note-taking app but it's definitely a
+
+268
+00:08:03,869 --> 00:08:08,038
+great organizational app in general and
+
+269
+00:08:05,908 --> 00:08:10,018
+it's again very flexible all right let's
+
+270
+00:08:08,038 --> 00:08:11,968
+talk about standard notes now standard
+
+271
+00:08:10,019 --> 00:08:13,378
+notes as far as I can tell it could be
+
+272
+00:08:11,968 --> 00:08:15,117
+wrong but I think standard notes is the
+
+273
+00:08:13,379 --> 00:08:17,249
+only app on my list that is developed by
+
+274
+00:08:15,119 --> 00:08:18,389
+one single developer given that fact
+
+275
+00:08:17,249 --> 00:08:19,679
+I've got to say that I'm pretty
+
+276
+00:08:18,389 --> 00:08:20,938
+impressed with everything the developer
+
+277
+00:08:19,678 --> 00:08:22,859
+has been able to accomplish with this
+
+278
+00:08:20,939 --> 00:08:24,869
+app for one it is easily the most
+
+279
+00:08:22,860 --> 00:08:26,489
+security focused app on list as
+
+280
+00:08:24,869 --> 00:08:28,829
+everything you write is encrypted by
+
+281
+00:08:26,488 --> 00:08:30,178
+default and only you can access it now
+
+282
+00:08:28,829 --> 00:08:31,860
+you'll immediately notice that the free
+
+283
+00:08:30,178 --> 00:08:33,658
+version of standard notes is just a
+
+284
+00:08:31,860 --> 00:08:35,098
+plain text editor there is a note
+
+285
+00:08:33,658 --> 00:08:36,628
+browsing window but you can't write and
+
+286
+00:08:35,099 --> 00:08:39,089
+mark down there's no rich text editing
+
+287
+00:08:36,629 --> 00:08:40,528
+it's just plain text but upgrade to
+
+288
+00:08:39,089 --> 00:08:42,180
+their extended version and you get a
+
+289
+00:08:40,528 --> 00:08:44,157
+whole bunch of extensions that you can
+
+290
+00:08:42,179 --> 00:08:45,538
+optionally turn on or off there are
+
+291
+00:08:44,158 --> 00:08:47,398
+several different editors to choose from
+
+292
+00:08:45,539 --> 00:08:49,229
+including multiple markdown editors a
+
+293
+00:08:47,399 --> 00:08:51,419
+rich text editor and even a co
+
+294
+00:08:49,230 --> 00:08:53,220
+and this is really cool you can choose
+
+295
+00:08:51,419 --> 00:08:55,169
+which editor you want to use I note by
+
+296
+00:08:53,220 --> 00:08:56,610
+note basis you can create custom folders
+
+297
+00:08:55,169 --> 00:08:58,079
+with your tags and these are infinitely
+
+298
+00:08:56,610 --> 00:09:00,060
+nested ball and you can even define
+
+299
+00:08:58,080 --> 00:09:01,589
+custom searches based on those tags or
+
+300
+00:09:00,059 --> 00:09:03,418
+even other information and then save
+
+301
+00:09:01,590 --> 00:09:05,280
+those searches within the app standard
+
+302
+00:09:03,419 --> 00:09:06,659
+notes is not perfect though for one the
+
+303
+00:09:05,279 --> 00:09:08,009
+image support is kind of lacking right
+
+304
+00:09:06,659 --> 00:09:09,268
+now as you have to host your images
+
+305
+00:09:08,009 --> 00:09:11,129
+elsewhere to have them displayed within
+
+306
+00:09:09,269 --> 00:09:12,838
+the app and you also cannot drag and
+
+307
+00:09:11,129 --> 00:09:14,369
+drop notes between different folders or
+
+308
+00:09:12,840 --> 00:09:15,659
+tags still I've got to say that I am
+
+309
+00:09:14,370 --> 00:09:17,610
+pretty impressed with what the developer
+
+310
+00:09:15,659 --> 00:09:19,379
+has accomplished so far now we are on to
+
+311
+00:09:17,610 --> 00:09:21,060
+me taking a break and playing with this
+
+312
+00:09:19,379 --> 00:09:22,919
+puzzle because well there's a lot of
+
+313
+00:09:21,059 --> 00:09:24,568
+items on this list alright enough of
+
+314
+00:09:22,919 --> 00:09:26,639
+that let's talk about slight slight is
+
+315
+00:09:24,570 --> 00:09:28,139
+by design a very team focused
+
+316
+00:09:26,639 --> 00:09:29,728
+note-taking app that could also work
+
+317
+00:09:28,139 --> 00:09:31,409
+pretty well for a solo note-taker it's
+
+318
+00:09:29,730 --> 00:09:32,609
+got an absolutely fantastic hybrid
+
+319
+00:09:31,409 --> 00:09:34,228
+markdown editor that I found pretty
+
+320
+00:09:32,610 --> 00:09:35,310
+similar to the one in Dropbox paper
+
+321
+00:09:34,230 --> 00:09:37,859
+which allows you to format your text
+
+322
+00:09:35,309 --> 00:09:40,049
+on-the-fly and also embed images and
+
+323
+00:09:37,860 --> 00:09:41,340
+videos and even tables I'm also a big
+
+324
+00:09:40,049 --> 00:09:42,718
+fan of their table of contents view
+
+325
+00:09:41,340 --> 00:09:44,070
+which lets you quickly zoom to different
+
+326
+00:09:42,720 --> 00:09:45,479
+headings within your note and this is
+
+327
+00:09:44,070 --> 00:09:46,920
+something you'll find in Google Docs and
+
+328
+00:09:45,480 --> 00:09:48,270
+Dropbox paper and it's something we even
+
+329
+00:09:46,919 --> 00:09:49,738
+built under the articles and latest
+
+330
+00:09:48,269 --> 00:09:51,269
+version of college info geek but it's
+
+331
+00:09:49,740 --> 00:09:53,249
+very rare to find in a note-taking app
+
+332
+00:09:51,269 --> 00:09:54,929
+so props to sly for including it now
+
+333
+00:09:53,250 --> 00:09:56,490
+site also allows you to create a nested
+
+334
+00:09:54,929 --> 00:09:58,018
+hierarchy of notes within the app so you
+
+335
+00:09:56,490 --> 00:09:59,760
+can organize things though the way they
+
+336
+00:09:58,019 --> 00:10:01,349
+implement it is kind of weird because on
+
+337
+00:09:59,759 --> 00:10:02,819
+one side you've got channels and then
+
+338
+00:10:01,350 --> 00:10:04,169
+within the middle part of the app that's
+
+339
+00:10:02,820 --> 00:10:05,460
+where you can create these collections
+
+340
+00:10:04,169 --> 00:10:06,508
+which are infinitely nestful
+
+341
+00:10:05,460 --> 00:10:08,879
+the only problem is that you can only
+
+342
+00:10:06,509 --> 00:10:09,928
+sort by a recency on a channel level so
+
+343
+00:10:08,879 --> 00:10:11,548
+they're sorting options are a little
+
+344
+00:10:09,929 --> 00:10:13,379
+less powerful than other apps can offer
+
+345
+00:10:11,549 --> 00:10:15,448
+you now much like notions sleight is
+
+346
+00:10:13,379 --> 00:10:16,859
+built primarily for teams so you can
+
+347
+00:10:15,450 --> 00:10:18,479
+collaboratively edit a document with
+
+348
+00:10:16,860 --> 00:10:20,429
+somebody in real time there's also this
+
+349
+00:10:18,480 --> 00:10:22,020
+great comment section that puts comments
+
+350
+00:10:20,429 --> 00:10:23,609
+in a nice little window to the side of
+
+351
+00:10:22,019 --> 00:10:25,108
+your editor I really like that sleight
+
+352
+00:10:23,610 --> 00:10:26,580
+is also available on mobile apps and on
+
+353
+00:10:25,110 --> 00:10:28,290
+the web and I'm basically every platform
+
+354
+00:10:26,580 --> 00:10:29,879
+out there so at least from a design
+
+355
+00:10:28,289 --> 00:10:31,318
+perspective it seems to be one of the
+
+356
+00:10:29,879 --> 00:10:32,758
+best note-taking apps that I could
+
+357
+00:10:31,320 --> 00:10:34,770
+actually find when doing the research
+
+358
+00:10:32,759 --> 00:10:37,379
+fourth is a video my main gripe with it
+
+359
+00:10:34,769 --> 00:10:39,238
+right now at least right now is the
+
+360
+00:10:37,379 --> 00:10:40,948
+experience of using it because it can be
+
+361
+00:10:39,240 --> 00:10:42,240
+slow at times and I've also run to some
+
+362
+00:10:40,950 --> 00:10:44,249
+bugs where the text actually isn't
+
+363
+00:10:42,240 --> 00:10:46,019
+formatted after I've put the formatting
+
+364
+00:10:44,250 --> 00:10:47,700
+tags around it that being said sleight
+
+365
+00:10:46,019 --> 00:10:49,409
+is a pretty new company and I do have to
+
+366
+00:10:47,700 --> 00:10:51,510
+admit that when I tested a few months
+
+367
+00:10:49,409 --> 00:10:53,248
+ago it was much slower than it is now so
+
+368
+00:10:51,509 --> 00:10:54,569
+they're making big improvements and I'm
+
+369
+00:10:53,250 --> 00:10:56,879
+gonna be keeping an eye on the team's
+
+370
+00:10:54,570 --> 00:10:58,440
+progress going forward but that is
+
+371
+00:10:56,879 --> 00:11:00,068
+talked about the future and we are
+
+372
+00:10:58,440 --> 00:11:01,989
+living in the present and
+
+373
+00:11:00,070 --> 00:11:03,520
+at present in my opinion the note-taking
+
+374
+00:11:01,990 --> 00:11:05,680
+app with the best organizational
+
+375
+00:11:03,519 --> 00:11:06,278
+structure of them all is our ninth app
+
+376
+00:11:05,679 --> 00:11:08,348
+on the list
+
+377
+00:11:06,279 --> 00:11:10,269
+Ulysses now Ulysses is often billed as
+
+378
+00:11:08,350 --> 00:11:12,160
+an app for serious novelists and writers
+
+379
+00:11:10,269 --> 00:11:13,719
+but I think it can also work really well
+
+380
+00:11:12,159 --> 00:11:15,489
+as a note-taking app and that's because
+
+381
+00:11:13,720 --> 00:11:16,960
+primarily it has that amazing
+
+382
+00:11:15,490 --> 00:11:19,059
+organizational system that I just
+
+383
+00:11:16,960 --> 00:11:20,859
+alluded to not only can you create a
+
+384
+00:11:19,059 --> 00:11:22,358
+nested hierarchy of as many folders as
+
+385
+00:11:20,860 --> 00:11:23,949
+you want but when you go into a
+
+386
+00:11:22,360 --> 00:11:26,080
+top-level folder you're able to see the
+
+387
+00:11:23,950 --> 00:11:27,880
+notes within subfolders along with notes
+
+388
+00:11:26,080 --> 00:11:29,620
+in that top-level folder as well and I
+
+389
+00:11:27,879 --> 00:11:31,658
+love that additionally you can define
+
+390
+00:11:29,620 --> 00:11:33,010
+sorting options for every single folder
+
+391
+00:11:31,659 --> 00:11:35,199
+in the app you can create custom
+
+392
+00:11:33,009 --> 00:11:37,329
+searches you can do tags there's an
+
+393
+00:11:35,200 --> 00:11:39,070
+archive view there's an inbox view
+
+394
+00:11:37,330 --> 00:11:41,349
+there's a favorites view there's recency
+
+395
+00:11:39,070 --> 00:11:43,270
+views evila sees basically has it all
+
+396
+00:11:41,350 --> 00:11:45,970
+and I absolutely love it the biggest
+
+397
+00:11:43,269 --> 00:11:48,698
+bummer is just like bear it's only on
+
+398
+00:11:45,970 --> 00:11:50,290
+Mac and iOS platforms so I can't use it
+
+399
+00:11:48,700 --> 00:11:53,440
+unless I want to just totally give up my
+
+400
+00:11:50,289 --> 00:11:55,748
+Windows PC as a writing device so that
+
+401
+00:11:53,440 --> 00:11:57,819
+leads us to this question what does a
+
+402
+00:11:55,750 --> 00:11:59,740
+guy who uses a Windows computer and a
+
+403
+00:11:57,820 --> 00:12:01,480
+Mac computer on a daily basis and who
+
+404
+00:11:59,740 --> 00:12:04,209
+really wants a great writing experience
+
+405
+00:12:01,480 --> 00:12:06,340
+to do well in my case the answer is to
+
+406
+00:12:04,210 --> 00:12:08,740
+use the last app on our list which is
+
+407
+00:12:06,340 --> 00:12:10,540
+type aura type Aria is a desktop writing
+
+408
+00:12:08,740 --> 00:12:11,440
+app that has the best writing experience
+
+409
+00:12:10,539 --> 00:12:13,029
+I've ever had
+
+410
+00:12:11,440 --> 00:12:14,649
+next to Dropbox paper it's got that
+
+411
+00:12:13,029 --> 00:12:16,089
+Hybrid markdown writing system that
+
+412
+00:12:14,649 --> 00:12:18,399
+automatically formats your writing as
+
+413
+00:12:16,090 --> 00:12:20,679
+you type it's much faster than slight
+
+414
+00:12:18,399 --> 00:12:23,049
+and unlike bear again it's on Windows
+
+415
+00:12:20,679 --> 00:12:24,248
+along with Mac and even Linux it's also
+
+416
+00:12:23,049 --> 00:12:26,319
+full of features for serious writers
+
+417
+00:12:24,250 --> 00:12:27,790
+like a focus mode that dims the text
+
+418
+00:12:26,320 --> 00:12:29,500
+that you're not currently working on a
+
+419
+00:12:27,789 --> 00:12:31,148
+table of contents mode for zooming
+
+420
+00:12:29,500 --> 00:12:33,580
+between your outline headings just like
+
+421
+00:12:31,149 --> 00:12:35,828
+in sleight and themes lots and lots of
+
+422
+00:12:33,580 --> 00:12:38,020
+themes which you can customize with CSS
+
+423
+00:12:35,830 --> 00:12:38,800
+if you want however there are some
+
+424
+00:12:38,019 --> 00:12:41,318
+caveats
+
+425
+00:12:38,799 --> 00:12:43,209
+like I said type or is a desktop writing
+
+426
+00:12:41,320 --> 00:12:45,250
+app there is no mobile app right now
+
+427
+00:12:43,210 --> 00:12:46,989
+which is kind of a bummer the other
+
+428
+00:12:45,250 --> 00:12:49,060
+thing is that typer almost didn't make
+
+429
+00:12:46,990 --> 00:12:50,380
+my list because unlike everything else
+
+430
+00:12:49,059 --> 00:12:52,568
+that I've talked about it doesn't
+
+431
+00:12:50,379 --> 00:12:54,999
+actually store or sync your notes itself
+
+432
+00:12:52,570 --> 00:12:56,170
+it's purely a markdown editor the reason
+
+433
+00:12:55,000 --> 00:12:57,819
+it still fits my definition of a
+
+434
+00:12:56,169 --> 00:12:59,588
+note-taking app is because of its file
+
+435
+00:12:57,820 --> 00:13:01,060
+browser once you've opened up a folder
+
+436
+00:12:59,590 --> 00:13:02,619
+in the app you can easily drill down
+
+437
+00:13:01,059 --> 00:13:04,838
+into all the subfolders and open up as
+
+438
+00:13:02,620 --> 00:13:06,459
+many documents as you want but again the
+
+439
+00:13:04,840 --> 00:13:08,409
+biggest downside here is the lack of a
+
+440
+00:13:06,460 --> 00:13:09,669
+good mobile app now I don't really care
+
+441
+00:13:08,409 --> 00:13:11,288
+too much about this since I'm really
+
+442
+00:13:09,669 --> 00:13:12,459
+only using type Aurra for serious
+
+443
+00:13:11,289 --> 00:13:14,648
+writing for like finish
+
+444
+00:13:12,460 --> 00:13:16,239
+articles or video scripts but if you
+
+445
+00:13:14,649 --> 00:13:17,799
+really need to access your type or our
+
+446
+00:13:16,240 --> 00:13:19,599
+documents remember they are just
+
+447
+00:13:17,799 --> 00:13:21,218
+markdown files within your folder system
+
+448
+00:13:19,600 --> 00:13:22,898
+on your computer so if you're using
+
+449
+00:13:21,220 --> 00:13:24,760
+Dropbox or Google Drive then you can get
+
+450
+00:13:22,899 --> 00:13:26,410
+a markdown editor for your iPhone or
+
+451
+00:13:24,759 --> 00:13:28,808
+Android that can access those cloud
+
+452
+00:13:26,409 --> 00:13:31,027
+platforms such as ia writer so now it's
+
+453
+00:13:28,809 --> 00:13:32,708
+time to come to a verdict which app on
+
+454
+00:13:31,028 --> 00:13:34,389
+this list wins hmm
+
+455
+00:13:32,708 --> 00:13:36,128
+honestly it is pretty hard to come to a
+
+456
+00:13:34,389 --> 00:13:37,299
+definitive conclusion on this because
+
+457
+00:13:36,129 --> 00:13:39,129
+everyone has different features they
+
+458
+00:13:37,299 --> 00:13:41,318
+want different needs different devices
+
+459
+00:13:39,129 --> 00:13:42,968
+they use different budgets so instead of
+
+460
+00:13:41,320 --> 00:13:43,958
+just recommending one app I'm gonna name
+
+461
+00:13:42,970 --> 00:13:45,940
+some winners in a few different
+
+462
+00:13:43,958 --> 00:13:48,249
+categories and then it's up to you to
+
+463
+00:13:45,940 --> 00:13:50,260
+choose for the actual writing experience
+
+464
+00:13:48,250 --> 00:13:51,1000
+again the wind goes to type aura sleight
+
+465
+00:13:50,259 --> 00:13:53,439
+is also pretty good but I'm waiting for
+
+466
+00:13:52,000 --> 00:13:54,730
+it to get a little less buggy and a
+
+467
+00:13:53,440 --> 00:13:56,109
+little more snappy so I'm gonna be
+
+468
+00:13:54,730 --> 00:13:57,549
+keeping my eye on that and using type
+
+469
+00:13:56,110 --> 00:13:59,529
+aura in the meantime for note
+
+470
+00:13:57,549 --> 00:14:01,388
+organization the wind goes to Ulysses
+
+471
+00:13:59,528 --> 00:14:03,669
+again with infinite Lane estable folders
+
+472
+00:14:01,389 --> 00:14:05,408
+and tags and custom searches really
+
+473
+00:14:03,669 --> 00:14:07,989
+nothing else out there beats it at least
+
+474
+00:14:05,409 --> 00:14:10,359
+in my eyes for overall capability and my
+
+475
+00:14:07,990 --> 00:14:12,009
+general recommendation I still have to
+
+476
+00:14:10,360 --> 00:14:13,719
+give the win to Evernote yeah it doesn't
+
+477
+00:14:12,009 --> 00:14:15,397
+have markdown support which I really
+
+478
+00:14:13,720 --> 00:14:17,139
+really want long those nestled folders
+
+479
+00:14:15,399 --> 00:14:18,1000
+but otherwise it's got a ton of
+
+480
+00:14:17,139 --> 00:14:20,438
+capabilities though I do have to say
+
+481
+00:14:19,000 --> 00:14:22,028
+that notion in particular is really
+
+482
+00:14:20,440 --> 00:14:23,859
+nipping at the heels of Evernote in the
+
+483
+00:14:22,028 --> 00:14:25,329
+capability Department and if you care
+
+484
+00:14:23,860 --> 00:14:26,650
+more about those database and templating
+
+485
+00:14:25,330 --> 00:14:29,080
+features then you might actually think
+
+486
+00:14:26,649 --> 00:14:31,027
+it's more capable now I do want to make
+
+487
+00:14:29,080 --> 00:14:32,950
+one last note here with all these
+
+488
+00:14:31,028 --> 00:14:34,718
+devices and apps and capabilities we
+
+489
+00:14:32,950 --> 00:14:36,400
+have it can be really easy to
+
+490
+00:14:34,720 --> 00:14:38,050
+overcomplicate things because if you're
+
+491
+00:14:36,399 --> 00:14:39,849
+anything like me having all these
+
+492
+00:14:38,049 --> 00:14:42,518
+capabilities makes it very tempting to
+
+493
+00:14:39,850 --> 00:14:44,380
+try and do too much and that's why I am
+
+494
+00:14:42,519 --> 00:14:46,148
+once again listening to Gregg McEwan's
+
+495
+00:14:44,379 --> 00:14:48,249
+excellent book essentialism the
+
+496
+00:14:46,149 --> 00:14:50,168
+disciplined pursuit of less this was one
+
+497
+00:14:48,250 --> 00:14:51,850
+of my favorite books from 2017 and it's
+
+498
+00:14:50,169 --> 00:14:53,588
+one that at least for me is worth
+
+499
+00:14:51,850 --> 00:14:54,939
+returning to because it has great advice
+
+500
+00:14:53,589 --> 00:14:57,069
+for figuring out how to narrow down your
+
+501
+00:14:54,940 --> 00:14:58,390
+focuses in life and honestly this is one
+
+502
+00:14:57,070 --> 00:15:00,070
+of the areas where I tend to struggle
+
+503
+00:14:58,389 --> 00:15:01,389
+the most now if you also want to get
+
+504
+00:15:00,070 --> 00:15:02,619
+more focused with your priorities you
+
+505
+00:15:01,389 --> 00:15:03,879
+know I start digging into essentialism
+
+506
+00:15:02,620 --> 00:15:05,050
+then you are in luck
+
+507
+00:15:03,879 --> 00:15:07,327
+because you can start listening to it
+
+508
+00:15:05,049 --> 00:15:09,098
+for free today on audible all you to do
+
+509
+00:15:07,328 --> 00:15:10,808
+is go over to audible.com slash Thomas
+
+510
+00:15:09,100 --> 00:15:11,769
+or text Thomas to five hundred five
+
+511
+00:15:10,809 --> 00:15:13,599
+hundred on your phone and you can
+
+512
+00:15:11,769 --> 00:15:15,039
+download that audio book or any audio
+
+513
+00:15:13,600 --> 00:15:16,269
+book of your choosing for free and
+
+514
+00:15:15,039 --> 00:15:18,248
+you're also gonna get a free 30-day
+
+515
+00:15:16,269 --> 00:15:19,509
+trial of their service as well and once
+
+516
+00:15:18,250 --> 00:15:20,919
+you start the trial you are quickly
+
+517
+00:15:19,509 --> 00:15:22,778
+going to find out that audible is the
+
+518
+00:15:20,919 --> 00:15:24,338
+best place to get audiobooks on the
+
+519
+00:15:22,778 --> 00:15:25,988
+entire internet they have an unmatched
+
+520
+00:15:24,339 --> 00:15:27,339
+selection of audio book titles
+
+521
+00:15:25,990 --> 00:15:29,380
+tons of different genres including
+
+522
+00:15:27,340 --> 00:15:31,599
+biographies and psychology and sci-fi
+
+523
+00:15:29,379 --> 00:15:33,489
+and once you download an audiobook it is
+
+524
+00:15:31,600 --> 00:15:35,019
+yours to keep forever regardless of
+
+525
+00:15:33,490 --> 00:15:36,460
+whether or not you cancel you're always
+
+526
+00:15:35,019 --> 00:15:38,289
+gonna be able to listen to it across all
+
+527
+00:15:36,460 --> 00:15:39,759
+of your devices so if you want to gain
+
+528
+00:15:38,289 --> 00:15:41,498
+the ability to learn new things wherever
+
+529
+00:15:39,759 --> 00:15:42,939
+you are whatever you're doing whether
+
+530
+00:15:41,500 --> 00:15:44,709
+it's going on a long bike ride or
+
+531
+00:15:42,940 --> 00:15:47,050
+cooking or doing chores then once again
+
+532
+00:15:44,710 --> 00:15:48,580
+go over to audible.com slash Thomas or
+
+533
+00:15:47,049 --> 00:15:50,169
+text Thomas to five hundred five hundred
+
+534
+00:15:48,580 --> 00:15:52,209
+on your phone to get that free audiobook
+
+535
+00:15:50,169 --> 00:15:54,129
+download and a free 30-day trial of
+
+536
+00:15:52,210 --> 00:15:55,600
+their service but thanks as always to
+
+537
+00:15:54,129 --> 00:15:57,039
+audible for sponsoring this video on
+
+538
+00:15:55,600 --> 00:15:58,720
+being supporter of the channel and as
+
+539
+00:15:57,039 --> 00:15:59,769
+always guys thank you so much for
+
+540
+00:15:58,720 --> 00:16:01,389
+watching hopefully you got a lot of
+
+541
+00:15:59,769 --> 00:16:02,619
+value out of this video hopefully you've
+
+542
+00:16:01,389 --> 00:16:03,998
+got something that you can go try out
+
+543
+00:16:02,620 --> 00:16:05,588
+now and if you enjoyed this video
+
+544
+00:16:04,000 --> 00:16:07,240
+definitely hit that like button and
+
+545
+00:16:05,589 --> 00:16:08,259
+subscribe right there as well to get new
+
+546
+00:16:07,240 --> 00:16:10,089
+videos when they come out every single
+
+547
+00:16:08,259 --> 00:16:11,408
+week you can also click right there to
+
+548
+00:16:10,089 --> 00:16:12,819
+get a free copy of my book on how to
+
+549
+00:16:11,409 --> 00:16:14,828
+earn better grades follow me on
+
+550
+00:16:12,820 --> 00:16:16,389
+instagram at tom frankly or click right
+
+551
+00:16:14,830 --> 00:16:18,100
+over here or smash your face into your
+
+552
+00:16:16,389 --> 00:16:19,659
+phone screen to get one more video on
+
+553
+00:16:18,100 --> 00:16:22,680
+this channel thanks for watching and
+
+554
+00:16:19,659 --> 00:16:22,679
+I'll see you in the next one
+

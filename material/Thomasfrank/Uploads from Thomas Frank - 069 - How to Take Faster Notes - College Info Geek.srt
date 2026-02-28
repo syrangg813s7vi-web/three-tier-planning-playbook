@@ -1,0 +1,788 @@
+1
+00:00:00,080 --> 00:00:03,439
+I want to show you something cool that I
+
+2
+00:00:01,280 --> 00:00:03,999
+can do on my Mac here. So, I get a lot
+
+3
+00:00:03,520 --> 00:00:04,238
+of email and for a lot of these emails,
+
+4
+00:00:05,278 --> 00:00:09,438
+I have to type the exact same responses.
+
+5
+00:00:07,759 --> 00:00:10,960
+But instead of typing the same words
+
+6
+00:00:09,439 --> 00:00:12,558
+over and over and over again, I have
+
+7
+00:00:10,960 --> 00:00:15,040
+this cool little Chrome extension called
+
+8
+00:00:12,558 --> 00:00:17,197
+Georgia that lets me bind templates to
+
+9
+00:00:15,039 --> 00:00:19,038
+little keywords that I can type. So, if
+
+10
+00:00:17,199 --> 00:00:20,400
+somebody emails me and say they want me
+
+11
+00:00:19,039 --> 00:00:22,079
+to do something and I just don't have
+
+12
+00:00:20,399 --> 00:00:24,318
+the time to do it, instead of typing out
+
+13
+00:00:22,079 --> 00:00:26,559
+a long apology and an explanation, I can
+
+14
+00:00:24,320 --> 00:00:28,320
+just type the word busy, hit tab, and
+
+15
+00:00:26,559 --> 00:00:29,918
+the entire response will pop out in less
+
+16
+00:00:28,320 --> 00:00:31,279
+than a second. Over the past few months,
+
+17
+00:00:29,920 --> 00:00:32,799
+I've been steadily developing more and
+
+18
+00:00:31,278 --> 00:00:34,398
+more templates as the need arises. And
+
+19
+00:00:32,799 --> 00:00:36,077
+according to the app statistics, it's
+
+20
+00:00:34,399 --> 00:00:37,919
+already saved me over five hours of
+
+21
+00:00:36,079 --> 00:00:40,079
+typing, which isn't too shabby. But what
+
+22
+00:00:37,920 --> 00:00:42,238
+if you're using paper? Well, on paper,
+
+23
+00:00:40,079 --> 00:00:44,079
+we have shorthand writing systems. These
+
+24
+00:00:42,238 --> 00:00:45,839
+are systems that vastly cut down on the
+
+25
+00:00:44,079 --> 00:00:47,280
+characters or strokes needed to express
+
+26
+00:00:45,840 --> 00:00:48,960
+ideas. The process of writing in
+
+27
+00:00:47,280 --> 00:00:50,320
+shorthand is called stenography, and
+
+28
+00:00:48,960 --> 00:00:51,920
+it's an art that basically every
+
+29
+00:00:50,320 --> 00:00:53,759
+journalist had to learn before the
+
+30
+00:00:51,920 --> 00:00:55,759
+widespread availability of these little
+
+31
+00:00:53,759 --> 00:00:57,598
+devices. The origins of shorthand date
+
+32
+00:00:55,759 --> 00:00:59,439
+back to the 4th century BC in ancient
+
+33
+00:00:57,600 --> 00:01:01,120
+Greece. Though even before that, scribes
+
+34
+00:00:59,439 --> 00:01:03,197
+in ancient Egypt developed two different
+
+35
+00:01:01,119 --> 00:01:05,038
+writing systems. The hieratic and later
+
+36
+00:01:03,198 --> 00:01:06,319
+the demonic, which let them write much
+
+37
+00:01:05,040 --> 00:01:08,080
+more quickly than they could using
+
+38
+00:01:06,319 --> 00:01:09,919
+complicated hieroglyphics. Fast forward
+
+39
+00:01:08,079 --> 00:01:11,838
+to the past couple of centuries and two
+
+40
+00:01:09,920 --> 00:01:13,920
+systems became dominant in the shorthand
+
+41
+00:01:11,840 --> 00:01:15,1000
+sphere. The Pitman shorthand method and
+
+42
+00:01:13,920 --> 00:01:17,759
+the Greg shorthand method. Both these
+
+43
+00:01:16,000 --> 00:01:19,680
+systems are phonetic, that is, their
+
+44
+00:01:17,759 --> 00:01:21,439
+alphabets aren't onetoone approximations
+
+45
+00:01:19,680 --> 00:01:23,119
+for Latin characters. Rather, they're
+
+46
+00:01:21,438 --> 00:01:24,958
+symbols designed to express how words
+
+47
+00:01:23,118 --> 00:01:26,319
+sound when they're being spoken. Masters
+
+48
+00:01:24,959 --> 00:01:28,238
+of these two systems have been known to
+
+49
+00:01:26,319 --> 00:01:29,598
+be able to write at 200 words per minute
+
+50
+00:01:28,239 --> 00:01:31,678
+or more, which means they can write
+
+51
+00:01:29,599 --> 00:01:33,599
+basically anything word for word, as it
+
+52
+00:01:31,680 --> 00:01:35,200
+said. But the problem here is that both
+
+53
+00:01:33,599 --> 00:01:36,719
+of these systems are incredibly
+
+54
+00:01:35,200 --> 00:01:38,959
+difficult to learn. They take a lot of
+
+55
+00:01:36,719 --> 00:01:40,558
+time and practice. And as a student, I'm
+
+56
+00:01:38,959 --> 00:01:42,078
+betting you probably don't have that
+
+57
+00:01:40,560 --> 00:01:44,319
+time to dedicate to learning one of
+
+58
+00:01:42,078 --> 00:01:45,437
+them. For example, here is as best as I
+
+59
+00:01:44,319 --> 00:01:47,279
+can write it with 10 minutes of
+
+60
+00:01:45,438 --> 00:01:48,958
+practice, the statement, there is a
+
+61
+00:01:47,280 --> 00:01:51,039
+ninja standing right behind you. I am
+
+62
+00:01:48,959 --> 00:01:52,718
+not joking. You seriously need to run.
+
+63
+00:01:51,040 --> 00:01:54,479
+Written in Greg Shortorthhand. Now, I'd
+
+64
+00:01:52,719 --> 00:01:56,078
+wager it take you a bit of time to
+
+65
+00:01:54,478 --> 00:01:57,757
+figure out how to read that, let alone
+
+66
+00:01:56,078 --> 00:01:59,038
+be able to write it proficiently. So, on
+
+67
+00:01:57,759 --> 00:02:00,880
+one side of the problem, writing a Greg
+
+68
+00:01:59,040 --> 00:02:02,479
+or Pitman shortand takes way too long to
+
+69
+00:02:00,879 --> 00:02:04,478
+learn. But on the other side, writing a
+
+70
+00:02:02,478 --> 00:02:06,078
+longhand is painful for your wrist and
+
+71
+00:02:04,478 --> 00:02:08,159
+simply takes too long to do while you're
+
+72
+00:02:06,078 --> 00:02:09,839
+in class. What's the solution? Well,
+
+73
+00:02:08,159 --> 00:02:11,998
+actually, I've got two solutions in
+
+74
+00:02:09,840 --> 00:02:13,840
+mind. The first one is to use a simpler
+
+75
+00:02:12,000 --> 00:02:15,599
+shorthand writing system. One option is
+
+76
+00:02:13,840 --> 00:02:17,279
+alphabetic shorthand systems like
+
+77
+00:02:15,598 --> 00:02:18,799
+speedriting or personal shortorthhand.
+
+78
+00:02:17,280 --> 00:02:20,319
+Now, these are systems that use the
+
+79
+00:02:18,800 --> 00:02:21,1000
+standard Latin alphabet you're already
+
+80
+00:02:20,318 --> 00:02:23,679
+familiar with. And while some shorthand
+
+81
+00:02:22,000 --> 00:02:25,919
+purists may turn their noses up at them
+
+82
+00:02:23,680 --> 00:02:27,280
+like snooty aristocratic gentleman, and
+
+83
+00:02:25,919 --> 00:02:29,039
+while indeed you may not be able to
+
+84
+00:02:27,280 --> 00:02:30,800
+write as fast as you could with Greg or
+
+85
+00:02:29,039 --> 00:02:32,719
+Pitman, the trade-off here is that they
+
+86
+00:02:30,800 --> 00:02:34,319
+take far, far less time to learn.
+
+87
+00:02:32,719 --> 00:02:35,839
+Another option is to use a system with
+
+88
+00:02:34,318 --> 00:02:37,518
+characters that do differ from that
+
+89
+00:02:35,840 --> 00:02:38,879
+standard Latin alphabet, but that are
+
+90
+00:02:37,519 --> 00:02:40,958
+easier to learn than the phonetic
+
+91
+00:02:38,878 --> 00:02:42,639
+alphabets of Greg or Pitman. The most
+
+92
+00:02:40,959 --> 00:02:44,479
+famous example I can think of is called
+
+93
+00:02:42,639 --> 00:02:46,159
+Tline, which is actually still used by a
+
+94
+00:02:44,479 --> 00:02:47,439
+lot of journalists today. But an even
+
+95
+00:02:46,159 --> 00:02:48,957
+newer example that I came across
+
+96
+00:02:47,439 --> 00:02:50,958
+recently is called Ford improved
+
+97
+00:02:48,959 --> 00:02:52,800
+shorthand which is supposedly designed
+
+98
+00:02:50,959 --> 00:02:54,479
+to be able to be learned within 15
+
+99
+00:02:52,800 --> 00:02:56,559
+minutes. So here's that same statement
+
+100
+00:02:54,479 --> 00:02:57,838
+from before but now written in Ford. And
+
+101
+00:02:56,560 --> 00:02:59,359
+I have to say that while it took me
+
+102
+00:02:57,840 --> 00:03:01,360
+probably 10 minutes to puzzle out how to
+
+103
+00:02:59,360 --> 00:03:02,959
+write it in Greg, it was really really
+
+104
+00:03:01,360 --> 00:03:04,560
+easy to write it in forward. And I found
+
+105
+00:03:02,959 --> 00:03:05,999
+myself being able to memorize the new
+
+106
+00:03:04,560 --> 00:03:07,680
+characters after writing them just once
+
+107
+00:03:06,000 --> 00:03:09,120
+or twice. The other solution is to
+
+108
+00:03:07,680 --> 00:03:10,878
+create what amounts to your own
+
+109
+00:03:09,120 --> 00:03:12,399
+shorthand system. And this is an idea
+
+110
+00:03:10,878 --> 00:03:14,398
+I've had kicking around in my brain for
+
+111
+00:03:12,400 --> 00:03:16,158
+a long, long time. And it's actually why
+
+112
+00:03:14,400 --> 00:03:17,839
+I made this video in the first place.
+
+113
+00:03:16,158 --> 00:03:19,038
+Because if you're the only one who's
+
+114
+00:03:17,840 --> 00:03:20,239
+going to review your notes and no one
+
+115
+00:03:19,039 --> 00:03:21,999
+else is going to need to look at them,
+
+116
+00:03:20,239 --> 00:03:24,080
+then why not write them in the most
+
+117
+00:03:22,000 --> 00:03:25,519
+efficient way you can for you? With that
+
+118
+00:03:24,080 --> 00:03:26,878
+being said, let's get into one of the
+
+119
+00:03:25,519 --> 00:03:28,720
+experiments that I've been doing in
+
+120
+00:03:26,878 --> 00:03:30,317
+recent weeks with my notes. So, let's
+
+121
+00:03:28,719 --> 00:03:32,558
+take three words, allegation,
+
+122
+00:03:30,318 --> 00:03:34,558
+procrastination, and litigation. All
+
+123
+00:03:32,560 --> 00:03:36,878
+these three words with the suffix shun,
+
+124
+00:03:34,560 --> 00:03:38,399
+which in my mind sounds a bit like shin.
+
+125
+00:03:36,878 --> 00:03:40,317
+So, we could just draw a picture of a
+
+126
+00:03:38,400 --> 00:03:41,839
+shin with a foot. Now, let's circle the
+
+127
+00:03:40,318 --> 00:03:44,079
+shin. And then we could simplify that
+
+128
+00:03:41,840 --> 00:03:45,759
+drawing down. and then simplify it once
+
+129
+00:03:44,080 --> 00:03:47,839
+more until we have a two-stroke symbol
+
+130
+00:03:45,759 --> 00:03:49,439
+that resembles a shin. Now I can add
+
+131
+00:03:47,840 --> 00:03:51,598
+that as the suffix instead of writing
+
+132
+00:03:49,439 --> 00:03:53,119
+shun which is six strokes and this one
+
+133
+00:03:51,598 --> 00:03:54,719
+is two. So now we have a reduction of
+
+134
+00:03:53,120 --> 00:03:56,479
+four strokes. If you want to do another
+
+135
+00:03:54,719 --> 00:03:57,919
+example, let's take the suffix able.
+
+136
+00:03:56,479 --> 00:03:59,358
+When I think of able, I think of
+
+137
+00:03:57,919 --> 00:04:01,518
+somebody who is strong and able to do
+
+138
+00:03:59,360 --> 00:04:03,680
+things. So let's take a big beefy arm,
+
+139
+00:04:01,519 --> 00:04:05,120
+draw that, and then simplify that once
+
+140
+00:04:03,680 --> 00:04:06,799
+again. And now we have yet another
+
+141
+00:04:05,120 --> 00:04:08,399
+two-stroke symbol. Now going beyond
+
+142
+00:04:06,799 --> 00:04:09,519
+those two examples that I made up, I
+
+143
+00:04:08,400 --> 00:04:10,959
+just want to give you a list of good
+
+144
+00:04:09,519 --> 00:04:12,958
+targets in your notes for developing
+
+145
+00:04:10,959 --> 00:04:14,798
+potential symbols. And one target is
+
+146
+00:04:12,959 --> 00:04:16,399
+prefixes and suffixes. And I'm actually
+
+147
+00:04:14,799 --> 00:04:18,238
+going to link to a big list of these in
+
+148
+00:04:16,399 --> 00:04:19,758
+the article for this video. Another idea
+
+149
+00:04:18,238 --> 00:04:21,599
+is function words. Essentially, the
+
+150
+00:04:19,759 --> 00:04:24,159
+words that make sentences coherent, like
+
+151
+00:04:21,600 --> 00:04:25,758
+with, and because, or, greater than,
+
+152
+00:04:24,160 --> 00:04:27,519
+less than, those kind of things. These
+
+153
+00:04:25,759 --> 00:04:29,198
+words don't really carry a whole lot of
+
+154
+00:04:27,519 --> 00:04:31,119
+information about the concepts within
+
+155
+00:04:29,199 --> 00:04:32,638
+them. So, they're prime targets for
+
+156
+00:04:31,120 --> 00:04:34,240
+shortening. So, that rounds out all the
+
+157
+00:04:32,639 --> 00:04:35,440
+ideas I had about shorthand right now.
+
+158
+00:04:34,240 --> 00:04:36,960
+But I did want to leave you with one
+
+159
+00:04:35,439 --> 00:04:38,798
+final tip before we round out the video.
+
+160
+00:04:36,959 --> 00:04:40,398
+And that is that shortorthhand isn't the
+
+161
+00:04:38,800 --> 00:04:41,919
+only way to condense the amount of notes
+
+162
+00:04:40,399 --> 00:04:43,439
+you have to take and also to cut down on
+
+163
+00:04:41,918 --> 00:04:45,438
+the amount of carpal tunnel you suffer
+
+164
+00:04:43,439 --> 00:04:47,278
+from. In fact, you can draw diagrams,
+
+165
+00:04:45,439 --> 00:04:49,039
+you can use arrows to connect concepts
+
+166
+00:04:47,279 --> 00:04:50,319
+and ideas. And you can find other ways
+
+167
+00:04:49,040 --> 00:04:51,758
+to jot down the things you're learning
+
+168
+00:04:50,319 --> 00:04:53,198
+in class without having to write them
+
+169
+00:04:51,759 --> 00:04:54,479
+out fully. And as always, if you've
+
+170
+00:04:53,199 --> 00:04:56,079
+already done your own experiments or
+
+171
+00:04:54,478 --> 00:04:57,358
+have any tips I didn't mention here, I
+
+172
+00:04:56,079 --> 00:04:59,518
+would love to hear about them down in
+
+173
+00:04:57,360 --> 00:05:01,040
+the comments. So let your knowledge flow
+
+174
+00:04:59,519 --> 00:05:02,719
+forth from your brain. And if you
+
+175
+00:05:01,040 --> 00:05:04,240
+enjoyed this video, as always, give it a
+
+176
+00:05:02,720 --> 00:05:07,319
+like to support this channel, and I will
+
+177
+00:05:04,240 --> 00:05:09,600
+see you in next week's video. Thanks for
+
+178
+00:05:07,319 --> 00:05:10,799
+watching. Hey there guys, thanks so much
+
+179
+00:05:09,600 --> 00:05:12,160
+for watching this video. Now, if you
+
+180
+00:05:10,800 --> 00:05:13,599
+want to get new tips on being a more
+
+181
+00:05:12,160 --> 00:05:15,120
+effective student every single week, you
+
+182
+00:05:13,600 --> 00:05:16,560
+can click that big red subscribe button
+
+183
+00:05:15,120 --> 00:05:17,758
+right there. Also, I wrote an entire
+
+184
+00:05:16,560 --> 00:05:18,959
+book on how to earn better grades. And
+
+185
+00:05:17,759 --> 00:05:20,080
+if you want to get a free copy, you can
+
+186
+00:05:18,959 --> 00:05:21,197
+click the picture of the book and I'll
+
+187
+00:05:20,079 --> 00:05:22,878
+send you one. And if you want to read
+
+188
+00:05:21,199 --> 00:05:24,478
+the article for this video and find all
+
+189
+00:05:22,879 --> 00:05:25,999
+the links to things I mentioned, you can
+
+190
+00:05:24,478 --> 00:05:27,198
+click the orange button right there.
+
+191
+00:05:26,000 --> 00:05:28,879
+Last week's video, we talked about
+
+192
+00:05:27,199 --> 00:05:30,320
+resources for getting cheaper prices on
+
+193
+00:05:28,879 --> 00:05:31,439
+the textbooks you have to buy. So check
+
+194
+00:05:30,319 --> 00:05:32,879
+it out if you missed it. And if you want
+
+195
+00:05:31,439 --> 00:05:34,238
+to connect, I'm Tom Frankley on
+
+196
+00:05:32,879 --> 00:05:37,879
+Instagram and Twitter, or you can leave
+
+197
+00:05:34,240 --> 00:05:37,880
+a comment down below.
+

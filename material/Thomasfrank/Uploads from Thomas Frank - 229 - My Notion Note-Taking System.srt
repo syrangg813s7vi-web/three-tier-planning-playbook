@@ -1,0 +1,1700 @@
+1
+00:00:00,030 --> 00:00:03,629
+this video is sponsored by Skillshare
+
+2
+00:00:01,860 --> 00:00:03,509
+and the entirety of my sponsorship fee
+
+3
+00:00:03,658 --> 00:00:07,408
+for this video is being donated to the
+
+4
+00:00:05,370 --> 00:00:09,480
+black lives matter organization more on
+
+5
+00:00:07,410 --> 00:00:11,969
+that at the end for now enjoy the video
+
+6
+00:00:09,480 --> 00:00:13,798
+it's no secret that notion is an
+
+7
+00:00:11,968 --> 00:00:17,277
+incredibly powerful app that can do a
+
+8
+00:00:13,798 --> 00:00:19,589
+lot of things but can it work as a
+
+9
+00:00:17,278 --> 00:00:21,419
+note-taking app well you might think the
+
+10
+00:00:19,589 --> 00:00:23,158
+answer to that question is obvious since
+
+11
+00:00:21,420 --> 00:00:25,019
+it is an app where you can input text
+
+12
+00:00:23,160 --> 00:00:27,868
+and create hierarchies of pages and
+
+13
+00:00:25,018 --> 00:00:29,878
+pseudo folders but personally I have had
+
+14
+00:00:27,868 --> 00:00:31,469
+a tough time answering this question for
+
+15
+00:00:29,879 --> 00:00:33,539
+myself even though I've been using
+
+16
+00:00:31,469 --> 00:00:35,879
+notion for about two years at this point
+
+17
+00:00:33,539 --> 00:00:37,949
+and that is because before I discovered
+
+18
+00:00:35,880 --> 00:00:41,309
+notion I used a little tool called
+
+19
+00:00:37,950 --> 00:00:43,259
+Evernote for about 10 years and when you
+
+20
+00:00:41,308 --> 00:00:45,058
+use a tool for that long you tend to get
+
+21
+00:00:43,259 --> 00:00:47,877
+very used to the way that it's set up
+
+22
+00:00:45,058 --> 00:00:49,979
+and changes to that set up can be hard
+
+23
+00:00:47,878 --> 00:00:51,689
+to deal with so over the past couple of
+
+24
+00:00:49,979 --> 00:00:53,729
+weeks I've given myself the challenge of
+
+25
+00:00:51,689 --> 00:00:55,499
+building a system within notion that
+
+26
+00:00:53,729 --> 00:00:57,689
+gives me a lot of what I love from
+
+27
+00:00:55,500 --> 00:01:00,269
+Evernote but also takes advantage of
+
+28
+00:00:57,689 --> 00:01:02,368
+many of notions unique features so this
+
+29
+00:01:00,270 --> 00:01:04,289
+is my note-taking system here in notion
+
+30
+00:01:02,369 --> 00:01:06,148
+it looks pretty simple and that is
+
+31
+00:01:04,290 --> 00:01:08,339
+actually on purpose because not only
+
+32
+00:01:06,150 --> 00:01:10,590
+does it need to be very usable here but
+
+33
+00:01:08,340 --> 00:01:12,780
+to properly replace Evernote and to be
+
+34
+00:01:10,590 --> 00:01:14,759
+something I can use at all times it
+
+35
+00:01:12,780 --> 00:01:16,829
+needs to be usable on my iPhone as well
+
+36
+00:01:14,760 --> 00:01:18,630
+where I have a lot less horizontal space
+
+37
+00:01:16,829 --> 00:01:20,848
+to work with and this setup works
+
+38
+00:01:18,629 --> 00:01:22,589
+perfectly there so the system consists
+
+39
+00:01:20,849 --> 00:01:24,569
+of notebooks which are here on the left
+
+40
+00:01:22,590 --> 00:01:26,070
+we also have an inbox which works really
+
+41
+00:01:24,569 --> 00:01:27,477
+well for quick capture just quickly
+
+42
+00:01:26,069 --> 00:01:29,218
+getting ideas out of my head when I
+
+43
+00:01:27,478 --> 00:01:31,319
+don't have time to sort them correctly
+
+44
+00:01:29,219 --> 00:01:33,029
+and then something called the status
+
+45
+00:01:31,319 --> 00:01:34,888
+dashboard which is probably the coolest
+
+46
+00:01:33,030 --> 00:01:36,869
+part of the system but we're gonna get
+
+47
+00:01:34,890 --> 00:01:38,729
+to that a little bit later first let me
+
+48
+00:01:36,868 --> 00:01:40,709
+just show you what a notebook looks like
+
+49
+00:01:38,728 --> 00:01:42,838
+so these notebooks are actually
+
+50
+00:01:40,709 --> 00:01:44,938
+databases each of which contain many
+
+51
+00:01:42,840 --> 00:01:47,490
+different notes and if we look here
+
+52
+00:01:44,938 --> 00:01:49,438
+these notes have a status and also a
+
+53
+00:01:47,489 --> 00:01:51,569
+category the status is going to be
+
+54
+00:01:49,438 --> 00:01:53,309
+useful for the status dashboard and we
+
+55
+00:01:51,569 --> 00:01:55,647
+can set them to open we can set them
+
+56
+00:01:53,310 --> 00:01:57,630
+archived or urgent and this basically
+
+57
+00:01:55,649 --> 00:01:58,740
+lets you sort notes by the things that
+
+58
+00:01:57,629 --> 00:02:00,988
+are relevant to your life right now
+
+59
+00:01:58,739 --> 00:02:02,937
+things that are even urgent and things
+
+60
+00:02:00,989 --> 00:02:04,798
+that you want to keep for safekeeping
+
+61
+00:02:02,938 --> 00:02:06,297
+but you don't really need anymore and
+
+62
+00:02:04,799 --> 00:02:08,008
+those be archived we also have
+
+63
+00:02:06,299 --> 00:02:10,379
+categories and what we can actually do
+
+64
+00:02:08,008 --> 00:02:12,868
+is sort into one of these different
+
+65
+00:02:10,378 --> 00:02:13,528
+custom views which just kind of filters
+
+66
+00:02:12,870 --> 00:02:16,079
+based
+
+67
+00:02:13,530 --> 00:02:19,829
+it's category so this is just production
+
+68
+00:02:16,080 --> 00:02:21,629
+notes this is just song notes and what
+
+69
+00:02:19,830 --> 00:02:23,640
+this essentially gets you is something
+
+70
+00:02:21,629 --> 00:02:25,978
+just like whatever note had with the
+
+71
+00:02:23,639 --> 00:02:27,778
+notebook stacks and the notebooks that
+
+72
+00:02:25,979 --> 00:02:30,358
+afforded you two levels of hierarchy for
+
+73
+00:02:27,780 --> 00:02:31,890
+organization and this in turn gives you
+
+74
+00:02:30,360 --> 00:02:34,560
+two levels of hierarchy the first one
+
+75
+00:02:31,889 --> 00:02:36,539
+being music which contains our second
+
+76
+00:02:34,560 --> 00:02:38,880
+level which is our songs our gear our
+
+77
+00:02:36,539 --> 00:02:40,048
+learning singing etc and to create a new
+
+78
+00:02:38,879 --> 00:02:42,388
+note we have a couple of different
+
+79
+00:02:40,050 --> 00:02:44,130
+options number one we can just hit new
+
+80
+00:02:42,389 --> 00:02:45,929
+write within this notebook and it's
+
+81
+00:02:44,129 --> 00:02:48,898
+gonna give us a new note and I'll just
+
+82
+00:02:45,930 --> 00:02:51,750
+call it test note and this instance so
+
+83
+00:02:48,900 --> 00:02:53,669
+that now exists within this database I
+
+84
+00:02:51,750 --> 00:02:55,649
+can give it a category which works
+
+85
+00:02:53,669 --> 00:02:57,419
+really well let's just call it songs I'm
+
+86
+00:02:55,650 --> 00:03:00,270
+gonna have a great song called test note
+
+87
+00:02:57,419 --> 00:03:02,279
+someday and we can set a reminder for it
+
+88
+00:03:00,270 --> 00:03:03,779
+if we want to we can attach files to it
+
+89
+00:03:02,280 --> 00:03:06,030
+if we want to I'm just gonna leave it
+
+90
+00:03:03,780 --> 00:03:08,520
+like this so that's one way to add notes
+
+91
+00:03:06,030 --> 00:03:10,049
+to the database or we can go and use
+
+92
+00:03:08,520 --> 00:03:12,539
+that quick capture method we're adding
+
+93
+00:03:10,050 --> 00:03:14,849
+things to the inbox now the inbox is
+
+94
+00:03:12,539 --> 00:03:17,039
+pretty much identical to these notebooks
+
+95
+00:03:14,849 --> 00:03:19,799
+in terms of features it's also filtered
+
+96
+00:03:17,039 --> 00:03:21,869
+like this it's also sorted by default by
+
+97
+00:03:19,800 --> 00:03:23,009
+date updated which is my preference but
+
+98
+00:03:21,870 --> 00:03:25,350
+of course you could change this however
+
+99
+00:03:23,009 --> 00:03:28,707
+you want and if we create a new note
+
+100
+00:03:25,349 --> 00:03:30,898
+which others call test Note 2 then it's
+
+101
+00:03:28,709 --> 00:03:33,779
+gonna be again defaulted to open status
+
+102
+00:03:30,900 --> 00:03:36,900
+and sitting here in the Inbox what I can
+
+103
+00:03:33,780 --> 00:03:38,699
+do then is if I have like a review day
+
+104
+00:03:36,900 --> 00:03:41,669
+on the weekend I can go into my inbox
+
+105
+00:03:38,699 --> 00:03:43,828
+and I can drag all of these notes to the
+
+106
+00:03:41,669 --> 00:03:46,258
+notebook in which they belong so test
+
+107
+00:03:43,830 --> 00:03:47,580
+Note will say that's another song we
+
+108
+00:03:46,259 --> 00:03:49,348
+want to write creating the ultimate
+
+109
+00:03:47,580 --> 00:03:52,080
+note-taking system and notion that would
+
+110
+00:03:49,349 --> 00:03:54,478
+probably go in content and finally we
+
+111
+00:03:52,080 --> 00:03:56,010
+have the status dashboard so the status
+
+112
+00:03:54,479 --> 00:03:58,738
+dashboard is a place that shows you all
+
+113
+00:03:56,009 --> 00:04:00,808
+the open and urgent notes across all of
+
+114
+00:03:58,739 --> 00:04:02,639
+your notebooks and this is using the
+
+115
+00:04:00,810 --> 00:04:05,010
+notions linked database feature which
+
+116
+00:04:02,639 --> 00:04:07,139
+essentially lets you see a database even
+
+117
+00:04:05,009 --> 00:04:09,509
+if you are not on the page that contains
+
+118
+00:04:07,139 --> 00:04:11,249
+that database it's kind of like linking
+
+119
+00:04:09,509 --> 00:04:13,707
+out to a database that exists somewhere
+
+120
+00:04:11,250 --> 00:04:15,660
+else and showing you the contents the
+
+121
+00:04:13,709 --> 00:04:18,359
+interesting thing about linked databases
+
+122
+00:04:15,659 --> 00:04:20,878
+is that if you edit the content so if I
+
+123
+00:04:18,358 --> 00:04:23,369
+edit one of these rows here I will
+
+124
+00:04:20,879 --> 00:04:25,949
+actually be editing the row in that
+
+125
+00:04:23,370 --> 00:04:27,389
+database if I delete one of these
+
+126
+00:04:25,949 --> 00:04:29,218
+columns here I will
+
+127
+00:04:27,389 --> 00:04:31,948
+actually deleting the column in that
+
+128
+00:04:29,218 --> 00:04:34,137
+database but linked databases have their
+
+129
+00:04:31,949 --> 00:04:36,120
+own views they have their own filters in
+
+130
+00:04:34,139 --> 00:04:38,459
+their own sorts so you can create custom
+
+131
+00:04:36,120 --> 00:04:39,870
+views custom sorts do whatever you want
+
+132
+00:04:38,459 --> 00:04:42,059
+with LinkedIn databases and you're not
+
+133
+00:04:39,870 --> 00:04:43,860
+going to affect the parent database the
+
+134
+00:04:42,060 --> 00:04:44,550
+real database and we can use that to our
+
+135
+00:04:43,860 --> 00:04:46,529
+advantage
+
+136
+00:04:44,550 --> 00:04:48,210
+so this status dashboard uses that to
+
+137
+00:04:46,528 --> 00:04:51,388
+show me all the notes across my entire
+
+138
+00:04:48,209 --> 00:04:53,247
+system that are either open or urgent we
+
+139
+00:04:51,389 --> 00:04:55,499
+are first sorting by urgent and then we
+
+140
+00:04:53,249 --> 00:04:57,508
+sort by date updated so if I'm on a
+
+141
+00:04:55,499 --> 00:04:59,219
+review day once again I can go through
+
+142
+00:04:57,509 --> 00:05:01,469
+my system and I can look through and see
+
+143
+00:04:59,218 --> 00:05:04,227
+you know what's relevant to my life do I
+
+144
+00:05:01,468 --> 00:05:06,118
+need to set something to archived do I
+
+145
+00:05:04,228 --> 00:05:08,188
+need to set it to urgent and I've also
+
+146
+00:05:06,120 --> 00:05:10,050
+sorted it so that it shows any note that
+
+147
+00:05:08,189 --> 00:05:11,370
+doesn't have a category that way I can
+
+148
+00:05:10,050 --> 00:05:14,099
+go through in the dashboard and
+
+149
+00:05:11,370 --> 00:05:15,719
+categorize things so site speed upgrades
+
+150
+00:05:14,098 --> 00:05:17,758
+right here I'm going to put that on
+
+151
+00:05:15,718 --> 00:05:19,499
+projects all right so that being said
+
+152
+00:05:17,759 --> 00:05:22,409
+here is how you would add a new notebook
+
+153
+00:05:19,500 --> 00:05:24,479
+to your system first off there's an add
+
+154
+00:05:22,408 --> 00:05:26,247
+new notebook block here and this is just
+
+155
+00:05:24,478 --> 00:05:28,798
+a template block that contains a
+
+156
+00:05:26,249 --> 00:05:30,989
+template database so I can click it to
+
+157
+00:05:28,800 --> 00:05:33,870
+generate it and why don't we just call
+
+158
+00:05:30,990 --> 00:05:35,549
+this notebook DIY I think that's a good
+
+159
+00:05:33,870 --> 00:05:38,188
+parent notebook that could contain lots
+
+160
+00:05:35,550 --> 00:05:40,168
+of different sub notebooks and because
+
+161
+00:05:38,189 --> 00:05:41,580
+this is built off of a template a lot of
+
+162
+00:05:40,168 --> 00:05:43,168
+the work is already done for me I've
+
+163
+00:05:41,579 --> 00:05:45,239
+already got my filters I've already got
+
+164
+00:05:43,168 --> 00:05:47,488
+my sort criteria and I've already got a
+
+165
+00:05:45,240 --> 00:05:50,099
+few different views here most of these
+
+166
+00:05:47,490 --> 00:05:52,528
+don't really need any kind of editing
+
+167
+00:05:50,098 --> 00:05:54,477
+before I start working but I am gonna
+
+168
+00:05:52,528 --> 00:05:56,818
+want to edit this category view right
+
+169
+00:05:54,478 --> 00:05:57,598
+here and I want to make more based on my
+
+170
+00:05:56,819 --> 00:06:00,388
+categories
+
+171
+00:05:57,598 --> 00:06:03,298
+so first let's assign a category to this
+
+172
+00:06:00,389 --> 00:06:04,349
+test note here and we've got a test one
+
+173
+00:06:03,300 --> 00:06:08,128
+here I'm just gonna go ahead and rename
+
+174
+00:06:04,348 --> 00:06:10,647
+it to woodworking so this will be my
+
+175
+00:06:08,129 --> 00:06:12,989
+woodworking notebook and I'm gonna come
+
+176
+00:06:10,649 --> 00:06:16,860
+into category one I'm going to rename
+
+177
+00:06:12,990 --> 00:06:18,930
+that to woodworking as well so this will
+
+178
+00:06:16,860 --> 00:06:21,449
+be my woodworking notebook and I'm just
+
+179
+00:06:18,930 --> 00:06:24,508
+going to add a filter based on the
+
+180
+00:06:21,449 --> 00:06:26,429
+category and it will be good working so
+
+181
+00:06:24,509 --> 00:06:28,888
+any note tag with what working is now
+
+182
+00:06:26,430 --> 00:06:30,809
+going to be in this woodworking notebook
+
+183
+00:06:28,889 --> 00:06:32,490
+and once you've done that all you need
+
+184
+00:06:30,810 --> 00:06:34,978
+to do to create additional category
+
+185
+00:06:32,490 --> 00:06:37,198
+based notebooks is to duplicate this
+
+186
+00:06:34,978 --> 00:06:40,038
+view and then rename it to whatever you
+
+187
+00:06:37,199 --> 00:06:43,250
+want so maybe this one is going to be
+
+188
+00:06:40,040 --> 00:06:45,410
+metalworking yeah I would love to get
+
+189
+00:06:43,250 --> 00:06:48,259
+into welding in my spare time and all we
+
+190
+00:06:45,410 --> 00:06:50,810
+got to do is well first add a category
+
+191
+00:06:48,259 --> 00:06:53,869
+for metalworking and change our filter
+
+192
+00:06:50,810 --> 00:06:55,819
+criteria so as your notebooks expand and
+
+193
+00:06:53,870 --> 00:06:57,560
+you add additional sub notebooks within
+
+194
+00:06:55,819 --> 00:06:59,958
+the parents you can go through this
+
+195
+00:06:57,560 --> 00:07:01,670
+process of adding the category and then
+
+196
+00:06:59,959 --> 00:07:03,949
+adding the filter I know this is a
+
+197
+00:07:01,670 --> 00:07:05,449
+little bit of work to set up and I
+
+198
+00:07:03,949 --> 00:07:06,978
+thought really hard about how to make it
+
+199
+00:07:05,449 --> 00:07:09,049
+easier and I couldn't really figure out
+
+200
+00:07:06,980 --> 00:07:10,759
+a way that didn't compromise some of the
+
+201
+00:07:09,050 --> 00:07:12,889
+other features including the ability to
+
+202
+00:07:10,759 --> 00:07:14,959
+have quick capture the ability to easily
+
+203
+00:07:12,889 --> 00:07:16,999
+sort the ability to show the status
+
+204
+00:07:14,959 --> 00:07:19,128
+dashboard so it's a little bit of work
+
+205
+00:07:17,000 --> 00:07:21,259
+to set up each notebook but once you
+
+206
+00:07:19,129 --> 00:07:22,879
+have those notebooks set up you don't
+
+207
+00:07:21,259 --> 00:07:25,129
+have any additional maintenance work and
+
+208
+00:07:22,879 --> 00:07:27,319
+at least personally after I've got my
+
+209
+00:07:25,129 --> 00:07:29,329
+first maybe you know 15 notebooks that
+
+210
+00:07:27,319 --> 00:07:31,519
+kind of encompass my whole life built
+
+211
+00:07:29,329 --> 00:07:32,929
+then there aren't really any new
+
+212
+00:07:31,519 --> 00:07:34,849
+notebooks being created on a regular
+
+213
+00:07:32,930 --> 00:07:37,130
+basis so personally I'm okay with a
+
+214
+00:07:34,850 --> 00:07:39,170
+little bit of initial setup work and
+
+215
+00:07:37,129 --> 00:07:41,089
+speaking of initial setup one last thing
+
+216
+00:07:39,170 --> 00:07:43,670
+we do need to do for this other than
+
+217
+00:07:41,089 --> 00:07:46,069
+setting a cool emoji let's let's give it
+
+218
+00:07:43,670 --> 00:07:49,639
+a hammer is to add this to status
+
+219
+00:07:46,069 --> 00:07:51,948
+dashboard so here is one thing where I
+
+220
+00:07:49,639 --> 00:07:54,619
+would love notion to add a feature I
+
+221
+00:07:51,949 --> 00:07:57,918
+would love the ability to duplicate a
+
+222
+00:07:54,620 --> 00:07:59,570
+linked database and then change the
+
+223
+00:07:57,920 --> 00:08:01,250
+database it's looking at change the
+
+224
+00:07:59,569 --> 00:08:03,109
+original database that's not a feature
+
+225
+00:08:01,250 --> 00:08:05,750
+right now which kind of stinks because
+
+226
+00:08:03,110 --> 00:08:07,220
+it means I can't duplicate this preset
+
+227
+00:08:05,750 --> 00:08:08,990
+up link to database that has all the
+
+228
+00:08:07,220 --> 00:08:10,940
+filters in the sorts that'd be awesome
+
+229
+00:08:08,990 --> 00:08:13,999
+but that doesn't exist so we're gonna
+
+230
+00:08:10,939 --> 00:08:16,248
+hit the slash command and go to create
+
+231
+00:08:14,000 --> 00:08:18,259
+linked database and then all we need to
+
+232
+00:08:16,250 --> 00:08:21,379
+do is search for the particular database
+
+233
+00:08:18,259 --> 00:08:23,749
+we just created and here we are so again
+
+234
+00:08:21,379 --> 00:08:26,119
+the views we create here the filters the
+
+235
+00:08:23,750 --> 00:08:28,339
+sorts and any shuffling around of
+
+236
+00:08:26,120 --> 00:08:29,899
+columns is going to be unique to the
+
+237
+00:08:28,339 --> 00:08:31,848
+linked database it's not gonna affect
+
+238
+00:08:29,899 --> 00:08:33,918
+your notebook but if we change anything
+
+239
+00:08:31,850 --> 00:08:36,739
+about the content that is actually going
+
+240
+00:08:33,918 --> 00:08:38,988
+to affect what's in the real notebook so
+
+241
+00:08:36,740 --> 00:08:40,490
+what we need to do here first is number
+
+242
+00:08:38,990 --> 00:08:42,619
+one get rid of some properties that we
+
+243
+00:08:40,490 --> 00:08:44,869
+don't care about such as date created
+
+244
+00:08:42,620 --> 00:08:47,480
+and files I really don't care about
+
+245
+00:08:44,870 --> 00:08:49,730
+those things I just want these for next
+
+246
+00:08:47,480 --> 00:08:52,369
+we need to create a view so we're just
+
+247
+00:08:49,730 --> 00:08:54,050
+going to call this table view
+
+248
+00:08:52,370 --> 00:08:56,300
+I'm gonna give it a capital V because
+
+249
+00:08:54,049 --> 00:08:58,249
+it's going to default to creating two of
+
+250
+00:08:56,299 --> 00:09:00,318
+them now basically we need to do this so
+
+251
+00:08:58,250 --> 00:09:01,759
+we can easily duplicate the filters and
+
+252
+00:09:00,320 --> 00:09:03,800
+sorts we're gonna be creating here if we
+
+253
+00:09:01,759 --> 00:09:06,018
+don't make another view first it's gonna
+
+254
+00:09:03,799 --> 00:09:07,789
+be a kind of a pain to do it go in here
+
+255
+00:09:06,019 --> 00:09:10,459
+we're gonna create filters and this is
+
+256
+00:09:07,789 --> 00:09:12,649
+where notions new filter groups option
+
+257
+00:09:10,460 --> 00:09:14,540
+comes really in handy so I'm gonna go
+
+258
+00:09:12,649 --> 00:09:16,189
+here and I'm gonna make a filter where
+
+259
+00:09:14,539 --> 00:09:20,168
+I'm filtering for status and I'm gonna
+
+260
+00:09:16,190 --> 00:09:23,810
+filter for either open or urgent and
+
+261
+00:09:20,169 --> 00:09:26,239
+lastly I want one more filtering for
+
+262
+00:09:23,809 --> 00:09:28,188
+anything where the category is empty
+
+263
+00:09:26,240 --> 00:09:29,930
+this shouldn't happen with the way that
+
+264
+00:09:28,190 --> 00:09:31,730
+I've set this system up but just in case
+
+265
+00:09:29,929 --> 00:09:33,828
+it does I want to have this filter
+
+266
+00:09:31,730 --> 00:09:36,109
+criteria in here so I can use this as an
+
+267
+00:09:33,830 --> 00:09:38,419
+easy place to set categories for
+
+268
+00:09:36,110 --> 00:09:39,800
+anything that doesn't get it initially
+
+269
+00:09:38,419 --> 00:09:43,518
+finally the last thing we gotta do is
+
+270
+00:09:39,799 --> 00:09:45,199
+set up a sort first based on status and
+
+271
+00:09:43,519 --> 00:09:47,749
+I want it to be first so we're gonna go
+
+272
+00:09:45,200 --> 00:09:49,700
+descending order and then I want it to
+
+273
+00:09:47,750 --> 00:09:53,059
+be sorted by date updated also
+
+274
+00:09:49,700 --> 00:09:54,860
+descending and lastly with this table
+
+275
+00:09:53,059 --> 00:09:57,009
+view I'm gonna go ahead and duplicate it
+
+276
+00:09:54,860 --> 00:09:59,480
+and I'm gonna call this duplicate
+
+277
+00:09:57,009 --> 00:10:01,218
+ListView so this is gonna be that nice
+
+278
+00:09:59,480 --> 00:10:04,249
+little list style database that is
+
+279
+00:10:01,220 --> 00:10:06,229
+easily viewable on mobile hit that up
+
+280
+00:10:04,250 --> 00:10:08,029
+and then I'm gonna delete this original
+
+281
+00:10:06,230 --> 00:10:09,710
+table view with lowercase B that's what
+
+282
+00:10:08,029 --> 00:10:10,939
+notion defaults to call init and I don't
+
+283
+00:10:09,710 --> 00:10:12,980
+need it because it doesn't have any of
+
+284
+00:10:10,940 --> 00:10:14,719
+those cool filters and sorts on it
+
+285
+00:10:12,980 --> 00:10:16,370
+boom never done again a little bit of
+
+286
+00:10:14,720 --> 00:10:18,200
+setup work once you've got it set up for
+
+287
+00:10:16,370 --> 00:10:20,240
+each parent notebook you don't have to
+
+288
+00:10:18,200 --> 00:10:21,890
+do anything except for go through here
+
+289
+00:10:20,240 --> 00:10:22,820
+and sort your notes and look I have
+
+290
+00:10:21,889 --> 00:10:24,768
+Creighton yellow spent note-taking
+
+291
+00:10:22,820 --> 00:10:26,029
+system an ocean with nothing on there
+
+292
+00:10:24,769 --> 00:10:28,608
+we're gonna call that YouTube because
+
+293
+00:10:26,029 --> 00:10:30,889
+this here is on YouTube so this notes
+
+294
+00:10:28,610 --> 00:10:32,420
+database as you might have expected is a
+
+295
+00:10:30,889 --> 00:10:34,489
+template and it is in the notion
+
+296
+00:10:32,419 --> 00:10:36,678
+template gallery now so I will have that
+
+297
+00:10:34,490 --> 00:10:38,240
+linked in the description below and one
+
+298
+00:10:36,679 --> 00:10:41,119
+additional tip that I want to give you
+
+299
+00:10:38,240 --> 00:10:44,150
+here for using this is to drag both the
+
+300
+00:10:41,120 --> 00:10:46,039
+notes area itself and also the inbox
+
+301
+00:10:44,149 --> 00:10:47,539
+specifically up to your favorites bar
+
+302
+00:10:46,039 --> 00:10:49,729
+that's going to give you really quick
+
+303
+00:10:47,539 --> 00:10:51,649
+access to basically every part of your
+
+304
+00:10:49,730 --> 00:10:52,819
+notebook if you open the toggle here you
+
+305
+00:10:51,649 --> 00:10:54,468
+have access to all of your parent
+
+306
+00:10:52,820 --> 00:10:56,900
+notebooks and because we built custom
+
+307
+00:10:54,470 --> 00:10:59,689
+views for the subcategories you can even
+
+308
+00:10:56,899 --> 00:11:01,339
+drill into those subcategories from the
+
+309
+00:10:59,690 --> 00:11:02,989
+sidebar this was really important to me
+
+310
+00:11:01,340 --> 00:11:04,1000
+which is another reason why I built it
+
+311
+00:11:02,990 --> 00:11:05,700
+this way and then last but not least you
+
+312
+00:11:05,000 --> 00:11:07,140
+have your inbox
+
+313
+00:11:05,700 --> 00:11:08,459
+at the top which means that when you're
+
+314
+00:11:07,139 --> 00:11:09,839
+on your phone when you're on the go and
+
+315
+00:11:08,460 --> 00:11:11,700
+you don't have a whole lot of time you
+
+316
+00:11:09,840 --> 00:11:12,179
+can easily open up notion get to the
+
+317
+00:11:11,700 --> 00:11:14,159
+Inbox
+
+318
+00:11:12,179 --> 00:11:15,899
+in just a couple of quick taps and add
+
+319
+00:11:14,159 --> 00:11:17,339
+something to it and then have it in a
+
+320
+00:11:15,899 --> 00:11:19,379
+place where you know you're gonna easily
+
+321
+00:11:17,340 --> 00:11:21,870
+be able to sort it and organize it later
+
+322
+00:11:19,379 --> 00:11:23,579
+on so again use this favourites area to
+
+323
+00:11:21,870 --> 00:11:25,499
+your advantage and use it for things
+
+324
+00:11:23,580 --> 00:11:27,660
+that you access beyond just your notes
+
+325
+00:11:25,500 --> 00:11:29,490
+database I've got my inbox here I've got
+
+326
+00:11:27,659 --> 00:11:31,228
+my notes sitting right here but I have a
+
+327
+00:11:29,490 --> 00:11:32,849
+lot of other things that I need really
+
+328
+00:11:31,230 --> 00:11:35,249
+quick access to on a really frequent
+
+329
+00:11:32,850 --> 00:11:37,470
+basis including my youtube video tracker
+
+330
+00:11:35,250 --> 00:11:39,210
+which basically helps me run my channel
+
+331
+00:11:37,470 --> 00:11:41,220
+and helps me make videos a lot more
+
+332
+00:11:39,210 --> 00:11:43,049
+efficiently and speaking of making
+
+333
+00:11:41,220 --> 00:11:44,820
+videos if you are a content creator
+
+334
+00:11:43,049 --> 00:11:46,468
+yourself if you make videos here or even
+
+335
+00:11:44,820 --> 00:11:48,210
+if you're aspiring to get into it in the
+
+336
+00:11:46,470 --> 00:11:49,740
+future then I want to take a second to
+
+337
+00:11:48,210 --> 00:11:51,810
+recommend Christopher Rhodes budget
+
+338
+00:11:49,740 --> 00:11:53,369
+filmmaking class over on Skillshare
+
+339
+00:11:51,809 --> 00:11:55,378
+Christopher Rhodes is somebody I've been
+
+340
+00:11:53,370 --> 00:11:57,330
+following for a long time he's a channel
+
+341
+00:11:55,379 --> 00:11:59,848
+here called YC imaging and his work is
+
+342
+00:11:57,330 --> 00:12:01,020
+absolutely fantastic in fact if you've
+
+343
+00:11:59,850 --> 00:12:02,399
+been following my channel for a few
+
+344
+00:12:01,019 --> 00:12:04,559
+months and you've noticed the production
+
+345
+00:12:02,399 --> 00:12:06,238
+quality increasing over time that is due
+
+346
+00:12:04,559 --> 00:12:08,458
+in part to a lot of the tips that I have
+
+347
+00:12:06,240 --> 00:12:09,900
+picked up from Christopher and his skill
+
+348
+00:12:08,460 --> 00:12:12,089
+short class really gets in the details
+
+349
+00:12:09,899 --> 00:12:13,709
+of how to make the most modest gear or a
+
+350
+00:12:12,090 --> 00:12:15,810
+small budget when you're making a video
+
+351
+00:12:13,710 --> 00:12:17,879
+and in particular I really enjoy his
+
+352
+00:12:15,809 --> 00:12:20,219
+lesson about location scouting which is
+
+353
+00:12:17,879 --> 00:12:21,749
+about taking one location and using it
+
+354
+00:12:20,220 --> 00:12:23,460
+really creatively to get lots of
+
+355
+00:12:21,750 --> 00:12:26,160
+different shot angles or even different
+
+356
+00:12:23,460 --> 00:12:27,870
+sets out of that one small space and
+
+357
+00:12:26,159 --> 00:12:29,518
+because Christopher's class is on
+
+358
+00:12:27,870 --> 00:12:31,260
+Skillshare you're also gonna have access
+
+359
+00:12:29,519 --> 00:12:33,449
+to thousands of other classes across
+
+360
+00:12:31,259 --> 00:12:36,928
+topics ranging from digital illustration
+
+361
+00:12:33,450 --> 00:12:38,430
+to animation to personal finance to even
+
+362
+00:12:36,929 --> 00:12:39,958
+productivity and within that
+
+363
+00:12:38,429 --> 00:12:42,268
+productivity category you'll even find
+
+364
+00:12:39,960 --> 00:12:43,770
+two classes taught by me which cover the
+
+365
+00:12:42,269 --> 00:12:45,509
+basics of setting up a productivity
+
+366
+00:12:43,769 --> 00:12:47,579
+system and then how to build strong
+
+367
+00:12:45,509 --> 00:12:49,589
+habits and actually stick to them in the
+
+368
+00:12:47,580 --> 00:12:50,999
+long term membership on Skillshare is
+
+369
+00:12:49,590 --> 00:12:52,409
+also really affordable with plans
+
+370
+00:12:51,000 --> 00:12:54,480
+starting at less than 10 bucks a month
+
+371
+00:12:52,409 --> 00:12:55,679
+and if you're one of the first 1,000
+
+372
+00:12:54,480 --> 00:12:57,509
+people to use the link in the
+
+373
+00:12:55,679 --> 00:12:59,308
+description down below to sign up you're
+
+374
+00:12:57,509 --> 00:13:01,078
+also going to get a two month free trial
+
+375
+00:12:59,309 --> 00:13:03,179
+with unlimited use of the platform so
+
+376
+00:13:01,080 --> 00:13:04,560
+you can try it out before you buy like I
+
+377
+00:13:03,179 --> 00:13:06,328
+said in the beginning of this video I am
+
+378
+00:13:04,559 --> 00:13:08,128
+donating the entirety of my sponsorship
+
+379
+00:13:06,330 --> 00:13:10,499
+fee for this video to the black lives
+
+380
+00:13:08,129 --> 00:13:11,729
+matter organization honestly with
+
+381
+00:13:10,500 --> 00:13:13,589
+everything that's been going on over the
+
+382
+00:13:11,730 --> 00:13:15,629
+past few weeks I don't know what the
+
+383
+00:13:13,590 --> 00:13:17,550
+perfect thing to say that would be
+
+384
+00:13:15,629 --> 00:13:19,298
+helpful would be but I do know that
+
+385
+00:13:17,549 --> 00:13:21,308
+saying and doing nothing
+
+386
+00:13:19,299 --> 00:13:23,259
+would be the wrong thing to do this
+
+387
+00:13:21,309 --> 00:13:25,088
+channel is about self-improvement for
+
+388
+00:13:23,259 --> 00:13:26,888
+the most part but I think that we should
+
+389
+00:13:25,090 --> 00:13:28,989
+be using the gains we make through
+
+390
+00:13:26,889 --> 00:13:30,819
+self-improvement to be improving the
+
+391
+00:13:28,990 --> 00:13:32,170
+lives of other people as well and to be
+
+392
+00:13:30,820 --> 00:13:34,750
+calling out and fighting against
+
+393
+00:13:32,169 --> 00:13:36,638
+injustice when we see it and it's clear
+
+394
+00:13:34,750 --> 00:13:39,040
+to me that black people in my country
+
+395
+00:13:36,639 --> 00:13:41,318
+and around the world deal with systemic
+
+396
+00:13:39,039 --> 00:13:43,388
+racism and injustice on a daily basis in
+
+397
+00:13:41,320 --> 00:13:45,970
+addition to many voices that are trying
+
+398
+00:13:43,389 --> 00:13:48,728
+to say that injustice doesn't exist it
+
+399
+00:13:45,970 --> 00:13:51,010
+absolutely does and I want to make some
+
+400
+00:13:48,730 --> 00:13:54,100
+small effort to use my platform to both
+
+401
+00:13:51,009 --> 00:13:55,509
+amplify black voices and to help which
+
+402
+00:13:54,100 --> 00:13:57,010
+is why I'm making this donation and
+
+403
+00:13:55,509 --> 00:13:58,419
+which is why instead of calling out all
+
+404
+00:13:57,009 --> 00:13:59,859
+the SUBSCRIBE stuff that I usually have
+
+405
+00:13:58,419 --> 00:14:01,899
+on the screen here I just want to point
+
+406
+00:13:59,860 --> 00:14:03,790
+you to a video by a Manuel show that I
+
+407
+00:14:01,899 --> 00:14:06,068
+watched last week called uncomfortable
+
+408
+00:14:03,789 --> 00:14:07,838
+conversations with a black man this was
+
+409
+00:14:06,070 --> 00:14:09,190
+an eye-opening look for me at some of
+
+410
+00:14:07,840 --> 00:14:11,199
+the different types of racism that
+
+411
+00:14:09,190 --> 00:14:13,359
+people have to deal with on a daily
+
+412
+00:14:11,200 --> 00:14:15,010
+basis and I highly recommend you go
+
+413
+00:14:13,360 --> 00:14:16,239
+watch it and also subscribe to his
+
+414
+00:14:15,009 --> 00:14:18,578
+channel he's turned this into a series
+
+415
+00:14:16,240 --> 00:14:20,379
+and the other videos are just as good
+
+416
+00:14:18,580 --> 00:14:21,939
+beyond that hopefully you enjoyed this
+
+417
+00:14:20,379 --> 00:14:23,379
+video hopefully you found it helpful in
+
+418
+00:14:21,940 --> 00:14:25,060
+some way again I'm gonna have the
+
+419
+00:14:23,379 --> 00:14:26,528
+template link for this note-taking
+
+420
+00:14:25,059 --> 00:14:28,358
+system in the description down below
+
+421
+00:14:26,529 --> 00:14:29,888
+which should hopefully save you a lot of
+
+422
+00:14:28,360 --> 00:14:32,619
+effort if you want to implement it for
+
+423
+00:14:29,889 --> 00:14:34,089
+yourself and as always I will see you in
+
+424
+00:14:32,620 --> 00:14:36,959
+my next video which is coming out in
+
+425
+00:14:34,090 --> 00:14:36,960
+just a few days
+

@@ -1,0 +1,1660 @@
+1
+00:00:00,080 --> 00:00:03,359
+this video is sponsored by brilliant do
+
+2
+00:00:02,638 --> 00:00:05,518
+delay
+
+3
+00:00:03,439 --> 00:00:04,320
+delegate and delete these are the
+
+4
+00:00:05,519 --> 00:00:08,878
+classic four d's of time management
+
+5
+00:00:07,759 --> 00:00:10,400
+which have been described in
+
+6
+00:00:08,880 --> 00:00:12,159
+countless different productivity books
+
+7
+00:00:10,400 --> 00:00:12,638
+and articles and together they help you
+
+8
+00:00:12,160 --> 00:00:15,200
+answer
+
+9
+00:00:12,638 --> 00:00:16,958
+one big question how should i deal with
+
+10
+00:00:15,199 --> 00:00:18,799
+all the tasks that i'm supposed to do
+
+11
+00:00:16,960 --> 00:00:20,799
+most of us have too many things to do
+
+12
+00:00:18,800 --> 00:00:21,840
+our to-do lists are a mile long we're
+
+13
+00:00:20,800 --> 00:00:23,199
+stressed out and
+
+14
+00:00:21,839 --> 00:00:25,037
+half the time we don't even know where
+
+15
+00:00:23,199 --> 00:00:26,800
+to start and this this
+
+16
+00:00:25,039 --> 00:00:28,720
+is the problem that a decision-making
+
+17
+00:00:26,800 --> 00:00:30,320
+framework can help you to solve
+
+18
+00:00:28,719 --> 00:00:32,238
+the 4ds form one of those such
+
+19
+00:00:30,320 --> 00:00:33,1000
+frameworks but today i would like to
+
+20
+00:00:32,238 --> 00:00:36,319
+submit for your consideration an
+
+21
+00:00:34,000 --> 00:00:38,078
+improved version of that framework one
+
+22
+00:00:36,320 --> 00:00:40,640
+that adds a fifth element
+
+23
+00:00:38,079 --> 00:00:42,160
+automate now to be fair you could
+
+24
+00:00:40,640 --> 00:00:42,800
+consider this to be a subtype of
+
+25
+00:00:42,159 --> 00:00:44,558
+delegate
+
+26
+00:00:42,799 --> 00:00:45,999
+since you are technically delegating to
+
+27
+00:00:44,558 --> 00:00:47,919
+a robot but i
+
+28
+00:00:46,000 --> 00:00:49,919
+prefer to give it its own equal position
+
+29
+00:00:47,920 --> 00:00:52,559
+and list so that we can form our own
+
+30
+00:00:49,920 --> 00:00:53,279
+shiny new productivity term the dad
+
+31
+00:00:52,558 --> 00:00:54,958
+method
+
+32
+00:00:53,280 --> 00:00:57,038
+so let me level with you here for a
+
+33
+00:00:54,960 --> 00:00:59,359
+second we productivity gurus
+
+34
+00:00:57,039 --> 00:01:01,439
+we live and die by the arbitrary
+
+35
+00:00:59,359 --> 00:01:03,359
+acronyms and methods that we coin
+
+36
+00:01:01,439 --> 00:01:04,478
+in fact entire careers have been built
+
+37
+00:01:03,359 --> 00:01:07,679
+off of this practice
+
+38
+00:01:04,478 --> 00:01:07,918
+gtd the pomodoro technique 80 20. they
+
+39
+00:01:07,680 --> 00:01:11,438
+are
+
+40
+00:01:07,920 --> 00:01:11,439
+the bedrock upon which are built
+
+41
+00:01:11,680 --> 00:01:14,880
+so let's make a deal you and i you
+
+42
+00:01:14,000 --> 00:01:16,879
+begrudge me
+
+43
+00:01:14,879 --> 00:01:19,199
+my shiny new productivity term let me
+
+44
+00:01:16,879 --> 00:01:21,039
+get mine
+
+45
+00:01:19,200 --> 00:01:23,039
+and in return i will not share with
+
+46
+00:01:21,040 --> 00:01:24,240
+everyone your secret shameful harry
+
+47
+00:01:23,040 --> 00:01:26,240
+potter fan fiction
+
+48
+00:01:24,239 --> 00:01:27,359
+derek so let's get started and let's
+
+49
+00:01:26,239 --> 00:01:30,078
+start with do
+
+50
+00:01:27,359 --> 00:01:31,998
+the domain of weddings shia labeouf and
+
+51
+00:01:30,078 --> 00:01:34,398
+extinct birds if you say it twice fast
+
+52
+00:01:32,000 --> 00:01:35,279
+in the context of decision making do
+
+53
+00:01:34,400 --> 00:01:37,759
+really means
+
+54
+00:01:35,280 --> 00:01:38,719
+do now so how do you know if you should
+
+55
+00:01:37,759 --> 00:01:40,400
+do something
+
+56
+00:01:38,719 --> 00:01:42,078
+right now well the answer is simple ask
+
+57
+00:01:40,400 --> 00:01:44,319
+yourself these two questions
+
+58
+00:01:42,078 --> 00:01:45,679
+number one is the task at hand both
+
+59
+00:01:44,319 --> 00:01:47,839
+urgent and
+
+60
+00:01:45,680 --> 00:01:49,039
+important and number two can you do it
+
+61
+00:01:47,840 --> 00:01:50,478
+in under two minutes
+
+62
+00:01:49,040 --> 00:01:52,399
+if the answer to at least one of those
+
+63
+00:01:50,478 --> 00:01:54,158
+questions is yes then
+
+64
+00:01:52,399 --> 00:01:56,158
+yes do it right now so answering that
+
+65
+00:01:54,159 --> 00:01:59,280
+first question is kind of obvious
+
+66
+00:01:56,159 --> 00:02:01,200
+your house is on fire it's 11 58 pm and
+
+67
+00:01:59,280 --> 00:02:03,039
+the term paper is due in two minutes the
+
+68
+00:02:01,200 --> 00:02:04,799
+president has been kidnapped by ninjas
+
+69
+00:02:03,040 --> 00:02:06,640
+these are all tasks that would be found
+
+70
+00:02:04,799 --> 00:02:08,399
+in the first quadrant of the classic
+
+71
+00:02:06,640 --> 00:02:10,398
+eisenhower matrix which is used by
+
+72
+00:02:08,399 --> 00:02:11,120
+project managers to prioritize tasks
+
+73
+00:02:10,399 --> 00:02:13,760
+based on
+
+74
+00:02:11,120 --> 00:02:15,360
+their urgency and on their importance
+
+75
+00:02:13,759 --> 00:02:17,279
+when a task falls into the fire and
+
+76
+00:02:15,360 --> 00:02:18,239
+ninjas quadrant it should probably be
+
+77
+00:02:17,280 --> 00:02:19,520
+done right now
+
+78
+00:02:18,239 --> 00:02:20,959
+the second question refers to the
+
+79
+00:02:19,520 --> 00:02:22,480
+two-minute rule that david allen
+
+80
+00:02:20,959 --> 00:02:23,039
+describes in his book getting things
+
+81
+00:02:22,479 --> 00:02:24,719
+done
+
+82
+00:02:23,039 --> 00:02:26,317
+if you can do a task in two minutes or
+
+83
+00:02:24,719 --> 00:02:28,719
+less then it as well
+
+84
+00:02:26,318 --> 00:02:30,159
+should be done right now now like the
+
+85
+00:02:28,719 --> 00:02:31,359
+22nd rule that i've talked about in
+
+86
+00:02:30,159 --> 00:02:33,119
+other videos the
+
+87
+00:02:31,360 --> 00:02:35,199
+two minutes here is really just kind of
+
+88
+00:02:33,120 --> 00:02:36,720
+an arbitrary marker yet another pithy
+
+89
+00:02:35,199 --> 00:02:40,159
+term that sticks well in the mind and
+
+90
+00:02:36,719 --> 00:02:41,919
+helps business authors bag those
+
+91
+00:02:40,159 --> 00:02:43,598
+in general even if it's a little over
+
+92
+00:02:41,919 --> 00:02:47,039
+two minutes if you can do it quickly
+
+93
+00:02:43,598 --> 00:02:48,958
+do it now otherwise delay it to remix a
+
+94
+00:02:47,039 --> 00:02:51,359
+line from toy story delaying
+
+95
+00:02:48,959 --> 00:02:52,080
+is really just procrastinating with
+
+96
+00:02:51,360 --> 00:02:54,080
+style
+
+97
+00:02:52,080 --> 00:02:55,999
+the key to delaying a task strategically
+
+98
+00:02:54,080 --> 00:02:56,479
+instead of merely procrastinating is to
+
+99
+00:02:56,000 --> 00:02:59,439
+first
+
+100
+00:02:56,479 --> 00:03:01,038
+get very specific about the details of
+
+101
+00:02:59,439 --> 00:03:03,439
+your deferment the what
+
+102
+00:03:01,039 --> 00:03:05,119
+the when and the how and then secondly
+
+103
+00:03:03,439 --> 00:03:06,237
+you want to get those details into an
+
+104
+00:03:05,120 --> 00:03:08,479
+external system
+
+105
+00:03:06,239 --> 00:03:09,1000
+that you trust so what i want to do here
+
+106
+00:03:08,479 --> 00:03:11,999
+is share two big tips
+
+107
+00:03:10,000 --> 00:03:13,279
+for improving the way you use your to-do
+
+108
+00:03:12,000 --> 00:03:15,599
+lists first
+
+109
+00:03:13,280 --> 00:03:17,039
+create an inbox for yourself so an inbox
+
+110
+00:03:15,598 --> 00:03:18,799
+is a place where you can quickly dump
+
+111
+00:03:17,039 --> 00:03:20,559
+tasks wherever they come up and wherever
+
+112
+00:03:18,800 --> 00:03:22,079
+you are it should be a low friction way
+
+113
+00:03:20,560 --> 00:03:22,720
+to get things into your system that you
+
+114
+00:03:22,080 --> 00:03:25,280
+can access
+
+115
+00:03:22,719 --> 00:03:26,158
+at a moment's notice key point low
+
+116
+00:03:25,280 --> 00:03:28,159
+friction here
+
+117
+00:03:26,158 --> 00:03:29,597
+secondly have a specific time for
+
+118
+00:03:28,158 --> 00:03:30,878
+processing that inbox
+
+119
+00:03:29,598 --> 00:03:32,798
+and this is the part that most people
+
+120
+00:03:30,878 --> 00:03:34,639
+tend to skip which is why their to-do
+
+121
+00:03:32,799 --> 00:03:36,158
+list so often fall victim to
+
+122
+00:03:34,639 --> 00:03:38,639
+entropy another term that i'm going to
+
+123
+00:03:36,158 --> 00:03:40,638
+use in my
+
+124
+00:03:38,639 --> 00:03:42,478
+basically entropy means chaos when
+
+125
+00:03:40,639 --> 00:03:44,317
+people don't process their inboxes they
+
+126
+00:03:42,479 --> 00:03:46,237
+become a mile long and eventually they
+
+127
+00:03:44,318 --> 00:03:47,119
+become this chaotic mess that people no
+
+128
+00:03:46,239 --> 00:03:48,400
+longer trust
+
+129
+00:03:47,120 --> 00:03:50,318
+and then they start trusting their
+
+130
+00:03:48,400 --> 00:03:51,519
+brains when you take time every single
+
+131
+00:03:50,318 --> 00:03:53,518
+day or at least
+
+132
+00:03:51,519 --> 00:03:54,878
+each week to process your inbox your
+
+133
+00:03:53,519 --> 00:03:56,878
+system remains something
+
+134
+00:03:54,878 --> 00:03:58,559
+that you can trust next up we have
+
+135
+00:03:56,878 --> 00:04:00,079
+automate which is objectively the
+
+136
+00:03:58,560 --> 00:04:02,318
+coolest step since it does involve
+
+137
+00:04:00,080 --> 00:04:03,919
+robots for millennia humans have used
+
+138
+00:04:02,318 --> 00:04:06,079
+tools to conquer their environment
+
+139
+00:04:03,919 --> 00:04:08,157
+and shape it to their will now in most
+
+140
+00:04:06,080 --> 00:04:09,439
+cases these tools have simply made the
+
+141
+00:04:08,158 --> 00:04:11,437
+work that they were already doing a
+
+142
+00:04:09,438 --> 00:04:13,279
+little bit faster or a little bit easier
+
+143
+00:04:11,438 --> 00:04:15,279
+but then somewhere along the line we
+
+144
+00:04:13,280 --> 00:04:17,358
+started building these rube goldberg
+
+145
+00:04:15,280 --> 00:04:19,600
+contraptions that in some cases did the
+
+146
+00:04:17,358 --> 00:04:21,917
+work entirely for us so the line between
+
+147
+00:04:19,600 --> 00:04:24,800
+automation and mirror optimization gets
+
+148
+00:04:21,918 --> 00:04:25,838
+pretty blurry pretty fast did the oxtron
+
+149
+00:04:24,800 --> 00:04:27,840
+plow merely
+
+150
+00:04:25,839 --> 00:04:28,879
+optimize work once done by hoeing by
+
+151
+00:04:27,839 --> 00:04:30,718
+humans or
+
+152
+00:04:28,879 --> 00:04:32,318
+was the man driving that ox forward one
+
+153
+00:04:30,720 --> 00:04:33,039
+of the world's first automation
+
+154
+00:04:32,319 --> 00:04:34,559
+engineers
+
+155
+00:04:33,040 --> 00:04:36,080
+and if so what was the stack overflow
+
+156
+00:04:34,560 --> 00:04:37,520
+ranking anyway wherever you place that
+
+157
+00:04:36,079 --> 00:04:39,599
+line doesn't matter so much as long as
+
+158
+00:04:37,519 --> 00:04:41,358
+you understand that you can use tools to
+
+159
+00:04:39,600 --> 00:04:41,999
+do things faster and if you can approach
+
+160
+00:04:41,360 --> 00:04:44,320
+a repeated
+
+161
+00:04:42,000 --> 00:04:45,600
+process with a creative systems based
+
+162
+00:04:44,319 --> 00:04:47,039
+mindset then you'll start to see
+
+163
+00:04:45,600 --> 00:04:49,120
+opportunities for automating
+
+164
+00:04:47,040 --> 00:04:50,560
+at least some of the pieces of it one
+
+165
+00:04:49,120 --> 00:04:52,879
+method for doing this is called
+
+166
+00:04:50,560 --> 00:04:55,119
+templatization this involves basically
+
+167
+00:04:52,879 --> 00:04:56,959
+boxing pieces of a project up into
+
+168
+00:04:55,120 --> 00:04:58,720
+a master template which you can then
+
+169
+00:04:56,959 --> 00:05:00,159
+copy for each new project
+
+170
+00:04:58,720 --> 00:05:02,559
+instead of making each of those little
+
+171
+00:05:00,160 --> 00:05:03,599
+pieces over and over and over again in a
+
+172
+00:05:02,560 --> 00:05:06,080
+row process
+
+173
+00:05:03,600 --> 00:05:07,600
+for a very very simple example here
+
+174
+00:05:06,079 --> 00:05:08,638
+let's look at just a slice of the
+
+175
+00:05:07,600 --> 00:05:10,479
+editing process
+
+176
+00:05:08,639 --> 00:05:12,400
+for this video to stay organized we make
+
+177
+00:05:10,478 --> 00:05:13,757
+a video we have folders for the footage
+
+178
+00:05:12,399 --> 00:05:14,159
+that we shoot that i'm shooting right
+
+179
+00:05:13,759 --> 00:05:16,479
+now
+
+180
+00:05:14,160 --> 00:05:17,759
+for the project files for music for
+
+181
+00:05:16,478 --> 00:05:19,839
+sound effects for images
+
+182
+00:05:17,759 --> 00:05:21,679
+basically every different type of media
+
+183
+00:05:19,839 --> 00:05:24,079
+now for each video i could manually
+
+184
+00:05:21,680 --> 00:05:26,080
+create these folders which i used to do
+
+185
+00:05:24,079 --> 00:05:27,918
+or i could simply make a folder called
+
+186
+00:05:26,079 --> 00:05:28,559
+template that already contains all these
+
+187
+00:05:27,918 --> 00:05:30,159
+folders
+
+188
+00:05:28,560 --> 00:05:31,919
+then i can just duplicate that folder
+
+189
+00:05:30,160 --> 00:05:32,478
+and rename it for every new video that
+
+190
+00:05:31,918 --> 00:05:34,159
+we make
+
+191
+00:05:32,478 --> 00:05:36,159
+another method is called process
+
+192
+00:05:34,160 --> 00:05:39,440
+automation which basically means
+
+193
+00:05:36,160 --> 00:05:41,360
+building a robot to do the job for you
+
+194
+00:05:39,439 --> 00:05:42,959
+you might use robots to build cars to
+
+195
+00:05:41,360 --> 00:05:44,560
+cook a chicken by slapping it
+
+196
+00:05:42,959 --> 00:05:45,999
+in terms of chicken integrity this
+
+197
+00:05:44,560 --> 00:05:48,160
+chicken's looking pretty good we're up
+
+198
+00:05:46,000 --> 00:05:50,000
+another degree celsius let's go
+
+199
+00:05:48,160 --> 00:05:51,439
+or to automate tedious processes on your
+
+200
+00:05:50,000 --> 00:05:54,559
+computer and tools like
+
+201
+00:05:51,439 --> 00:05:56,158
+zapier integromat and ifttt are all
+
+202
+00:05:54,560 --> 00:05:57,999
+great places to start exploring if
+
+203
+00:05:56,160 --> 00:05:59,680
+you're interested in that last option
+
+204
+00:05:58,000 --> 00:06:01,919
+though they won't cook chickens for you
+
+205
+00:05:59,680 --> 00:06:03,918
+of course process automation has existed
+
+206
+00:06:01,918 --> 00:06:05,918
+for quite a lot longer than robots have
+
+207
+00:06:03,918 --> 00:06:07,519
+just under a different moniker
+
+208
+00:06:05,918 --> 00:06:09,358
+delegation now
+
+209
+00:06:07,519 --> 00:06:11,358
+honestly if i want to break into the
+
+210
+00:06:09,360 --> 00:06:11,1000
+area of business writing where the real
+
+211
+00:06:11,360 --> 00:06:13,199
+money is
+
+212
+00:06:12,000 --> 00:06:15,359
+then i should probably flesh this
+
+213
+00:06:13,199 --> 00:06:17,119
+section out more than any of the others
+
+214
+00:06:15,360 --> 00:06:18,400
+i should also throw around terms like
+
+215
+00:06:17,120 --> 00:06:21,198
+management theory
+
+216
+00:06:18,399 --> 00:06:22,958
+agile framework no bathroom breaks after
+
+217
+00:06:21,199 --> 00:06:24,960
+all it is the managers who call the
+
+218
+00:06:22,959 --> 00:06:26,637
+shots in most companies which means that
+
+219
+00:06:24,959 --> 00:06:27,999
+it's the managers who hire business
+
+220
+00:06:26,639 --> 00:06:29,280
+authors to come speak at their corporate
+
+221
+00:06:28,000 --> 00:06:31,198
+retreats and spout motivational
+
+222
+00:06:29,279 --> 00:06:32,879
+platitudes for fifty thousand dollars
+
+223
+00:06:31,199 --> 00:06:34,239
+one can dream now if you're watching
+
+224
+00:06:32,879 --> 00:06:35,678
+this video my guess is that
+
+225
+00:06:34,240 --> 00:06:37,280
+you don't count yourself amongst the
+
+226
+00:06:35,680 --> 00:06:38,880
+ranks of these people and you don't know
+
+227
+00:06:37,279 --> 00:06:40,879
+how to dress for their cocktail parties
+
+228
+00:06:38,879 --> 00:06:42,478
+you may also think that delegation is
+
+229
+00:06:40,879 --> 00:06:44,158
+not a strategy for you
+
+230
+00:06:42,478 --> 00:06:45,998
+but that's probably not true let's
+
+231
+00:06:44,160 --> 00:06:47,199
+consider for a moment the simplest and
+
+232
+00:06:46,000 --> 00:06:49,120
+cheapest way to delegate
+
+233
+00:06:47,199 --> 00:06:50,400
+any task there is could you trick your
+
+234
+00:06:49,120 --> 00:06:52,160
+little brother into doing it
+
+235
+00:06:50,399 --> 00:06:53,999
+and will he take payment and left over
+
+236
+00:06:52,160 --> 00:06:56,400
+halloween candy even if he decides to
+
+237
+00:06:54,000 --> 00:06:57,758
+demand cold hard cash it still might be
+
+238
+00:06:56,399 --> 00:06:59,439
+worth taking that deal
+
+239
+00:06:57,759 --> 00:07:01,679
+and to know for sure you first need to
+
+240
+00:06:59,439 --> 00:07:04,238
+understand the value of your time
+
+241
+00:07:01,680 --> 00:07:05,599
+like money time is a resource whenever
+
+242
+00:07:04,240 --> 00:07:07,999
+you choose to do something
+
+243
+00:07:05,598 --> 00:07:09,998
+you incur an opportunity cost you're
+
+244
+00:07:08,000 --> 00:07:11,680
+losing the opportunity to do
+
+245
+00:07:10,000 --> 00:07:13,279
+literally anything else you could have
+
+246
+00:07:11,680 --> 00:07:15,680
+done with that time
+
+247
+00:07:13,279 --> 00:07:17,439
+you are giving something up so one easy
+
+248
+00:07:15,680 --> 00:07:18,318
+way to value your time to understand
+
+249
+00:07:17,439 --> 00:07:20,159
+this trade-off
+
+250
+00:07:18,319 --> 00:07:22,080
+is to take the amount that you make and
+
+251
+00:07:20,160 --> 00:07:24,560
+figure out your per hour rate
+
+252
+00:07:22,079 --> 00:07:26,559
+so for example if you make 60 000 a year
+
+253
+00:07:24,560 --> 00:07:28,399
+and you work an average of 1800 hours a
+
+254
+00:07:26,560 --> 00:07:31,520
+year which is the average here in the us
+
+255
+00:07:28,399 --> 00:07:34,078
+then your per hour rate is roughly 33
+
+256
+00:07:31,519 --> 00:07:35,839
+now this is an incredibly oversimplified
+
+257
+00:07:34,079 --> 00:07:37,598
+way of valuing your time there's a lot
+
+258
+00:07:35,839 --> 00:07:39,118
+of other factors we can include here but
+
+259
+00:07:37,598 --> 00:07:40,799
+for simplicity's sake we're doing it
+
+260
+00:07:39,120 --> 00:07:42,639
+this way because it's at least a good
+
+261
+00:07:40,800 --> 00:07:44,719
+way to help yourself be more open
+
+262
+00:07:42,639 --> 00:07:47,440
+to delegation that would make sense for
+
+263
+00:07:44,720 --> 00:07:48,960
+instance if your per hour rate is 33
+
+264
+00:07:47,439 --> 00:07:50,559
+and you can pay someone to mow your lawn
+
+265
+00:07:48,959 --> 00:07:52,079
+for 30 dollars then
+
+266
+00:07:50,560 --> 00:07:53,839
+doing so makes sense unless you're
+
+267
+00:07:52,079 --> 00:07:55,038
+somebody that really likes mowing lawns
+
+268
+00:07:53,839 --> 00:07:56,559
+the bottom line is that you should start
+
+269
+00:07:55,038 --> 00:07:57,758
+at least thinking of your time as a
+
+270
+00:07:56,560 --> 00:07:59,839
+valuable resource
+
+271
+00:07:57,759 --> 00:08:02,079
+one that is at least as valuable as your
+
+272
+00:07:59,839 --> 00:08:03,359
+money and honestly probably more
+
+273
+00:08:02,079 --> 00:08:04,958
+do that and you're gonna start opening
+
+274
+00:08:03,360 --> 00:08:05,759
+your mind up to more delegation
+
+275
+00:08:04,959 --> 00:08:07,358
+opportunities
+
+276
+00:08:05,759 --> 00:08:09,038
+but you're also gonna realize that some
+
+277
+00:08:07,360 --> 00:08:10,960
+of the tasks on your plate just
+
+278
+00:08:09,038 --> 00:08:12,317
+aren't worth your time or the money that
+
+279
+00:08:10,959 --> 00:08:13,757
+you would spend delegating them
+
+280
+00:08:12,319 --> 00:08:15,680
+and these are the tasks that you should
+
+281
+00:08:13,759 --> 00:08:17,038
+simply delete but
+
+282
+00:08:15,680 --> 00:08:18,639
+how do you know whether or not it's a
+
+283
+00:08:17,038 --> 00:08:19,198
+good idea to snap a task out of
+
+284
+00:08:18,639 --> 00:08:21,599
+existence
+
+285
+00:08:19,199 --> 00:08:23,199
+instead of doing it well when faced with
+
+286
+00:08:21,598 --> 00:08:23,598
+this question i like to remind myself of
+
+287
+00:08:23,199 --> 00:08:25,679
+the
+
+288
+00:08:23,598 --> 00:08:27,439
+any benefit approach that cal newport
+
+289
+00:08:25,680 --> 00:08:28,959
+discusses in his book deep work
+
+290
+00:08:27,439 --> 00:08:30,637
+as he explains in the book people will
+
+291
+00:08:28,959 --> 00:08:32,717
+often add new tools
+
+292
+00:08:30,639 --> 00:08:33,918
+new products and especially new social
+
+293
+00:08:32,719 --> 00:08:36,879
+networks into their lives
+
+294
+00:08:33,918 --> 00:08:38,078
+if they provide literally any benefit no
+
+295
+00:08:36,879 --> 00:08:39,838
+matter how small
+
+296
+00:08:38,080 --> 00:08:42,080
+and in doing so these people fail to
+
+297
+00:08:39,839 --> 00:08:43,440
+consider the cost of these additions in
+
+298
+00:08:42,080 --> 00:08:45,278
+the case of social networks it's
+
+299
+00:08:43,440 --> 00:08:46,879
+more wasted time scrolling through fees
+
+300
+00:08:45,278 --> 00:08:48,398
+more cognitive switching penalties to
+
+301
+00:08:46,879 --> 00:08:50,718
+make you less productive
+
+302
+00:08:48,399 --> 00:08:51,680
+so newport advocates rejecting this any
+
+303
+00:08:50,720 --> 00:08:53,999
+benefit approach
+
+304
+00:08:51,679 --> 00:08:55,359
+instead scrutinizing any new product or
+
+305
+00:08:54,000 --> 00:08:57,680
+social network or tool
+
+306
+00:08:55,360 --> 00:08:59,279
+to determine its net benefit i think
+
+307
+00:08:57,679 --> 00:09:01,438
+that we need to consider this when we're
+
+308
+00:08:59,278 --> 00:09:03,518
+adding things to our to-do lists as well
+
+309
+00:09:01,440 --> 00:09:04,959
+i know that i'm guilty of adding tasks
+
+310
+00:09:03,519 --> 00:09:05,680
+willy-nilly tiny little things that i
+
+311
+00:09:04,958 --> 00:09:07,518
+just think
+
+312
+00:09:05,679 --> 00:09:09,199
+have to be done and then when i
+
+313
+00:09:07,519 --> 00:09:11,278
+scrutinized these things later on
+
+314
+00:09:09,200 --> 00:09:12,880
+i often realized that i was wrong they
+
+315
+00:09:11,278 --> 00:09:13,278
+really didn't matter what i try to do
+
+316
+00:09:12,879 --> 00:09:15,678
+now
+
+317
+00:09:13,278 --> 00:09:17,438
+is consider the opportunity cost like we
+
+318
+00:09:15,679 --> 00:09:19,999
+just talked about the delegation section
+
+319
+00:09:17,440 --> 00:09:20,879
+of each task i ask myself what could i
+
+320
+00:09:20,000 --> 00:09:22,319
+do instead
+
+321
+00:09:20,879 --> 00:09:23,838
+as it turns out i usually have quite a
+
+322
+00:09:22,320 --> 00:09:25,839
+few options that are either more
+
+323
+00:09:23,839 --> 00:09:27,759
+enjoyable or they're higher value
+
+324
+00:09:25,839 --> 00:09:29,120
+by thinking about these alternatives it
+
+325
+00:09:27,759 --> 00:09:31,517
+becomes a lot easier
+
+326
+00:09:29,120 --> 00:09:32,720
+to just say no to all these little tiny
+
+327
+00:09:31,519 --> 00:09:35,360
+tasks that really
+
+328
+00:09:32,720 --> 00:09:36,720
+at the end of the day don't matter so
+
+329
+00:09:35,360 --> 00:09:39,440
+that in a nutshell
+
+330
+00:09:36,720 --> 00:09:41,279
+is the dad method now if you are an
+
+331
+00:09:39,440 --> 00:09:41,600
+agent of a big book publisher i will
+
+332
+00:09:41,278 --> 00:09:44,718
+take
+
+333
+00:09:41,600 --> 00:09:45,1000
+one please and thank you
+
+334
+00:09:44,720 --> 00:09:47,839
+for everyone else here is a quick
+
+335
+00:09:46,000 --> 00:09:48,879
+summary of the process reversed so that
+
+336
+00:09:47,839 --> 00:09:51,359
+it fits into a nice
+
+337
+00:09:48,879 --> 00:09:51,999
+neat flowchart for any task that you are
+
+338
+00:09:51,360 --> 00:09:54,880
+faced with
+
+339
+00:09:52,000 --> 00:09:56,000
+ask yourself number one does it even
+
+340
+00:09:54,879 --> 00:09:58,638
+need to be done
+
+341
+00:09:56,000 --> 00:09:59,839
+number two do i need to be the one to do
+
+342
+00:09:58,639 --> 00:10:01,837
+it number three
+
+343
+00:09:59,839 --> 00:10:03,120
+can i automate it and number four do i
+
+344
+00:10:01,839 --> 00:10:04,719
+need to do it now
+
+345
+00:10:03,120 --> 00:10:06,559
+out of the five steps in the dad method
+
+346
+00:10:04,720 --> 00:10:07,680
+perhaps the most rewarding and yet the
+
+347
+00:10:06,559 --> 00:10:10,239
+hardest to master
+
+348
+00:10:07,679 --> 00:10:10,957
+is automation at its core automation is
+
+349
+00:10:10,240 --> 00:10:13,039
+really just
+
+350
+00:10:10,958 --> 00:10:14,559
+problem solving can you take a problem
+
+351
+00:10:13,039 --> 00:10:15,918
+and creatively figure out how to solve
+
+352
+00:10:14,559 --> 00:10:18,078
+it by building a system
+
+353
+00:10:15,919 --> 00:10:20,077
+instead of by doing it manually peter
+
+354
+00:10:18,078 --> 00:10:21,759
+parker brilliant but lazy right
+
+355
+00:10:20,078 --> 00:10:23,038
+and this is a fundamental skill that is
+
+356
+00:10:21,759 --> 00:10:24,957
+sought after in pretty much every
+
+357
+00:10:23,039 --> 00:10:27,119
+industry today it is often crucial
+
+358
+00:10:24,958 --> 00:10:28,639
+in hiring decisions and luckily it's
+
+359
+00:10:27,120 --> 00:10:30,479
+also something that you can learn
+
+360
+00:10:28,639 --> 00:10:32,159
+through practice and one great resource
+
+361
+00:10:30,480 --> 00:10:33,278
+for learning this skill is brilliant
+
+362
+00:10:32,159 --> 00:10:35,359
+which is a learning library that
+
+363
+00:10:33,278 --> 00:10:37,039
+actually kills two birds with one stone
+
+364
+00:10:35,360 --> 00:10:38,480
+their library of more than 60 in-depth
+
+365
+00:10:37,039 --> 00:10:40,478
+courses teaches you math
+
+366
+00:10:38,480 --> 00:10:41,759
+science and computer science skills like
+
+367
+00:10:40,480 --> 00:10:43,519
+how to build a search engine
+
+368
+00:10:41,759 --> 00:10:45,198
+or how to figure out probabilities while
+
+369
+00:10:43,519 --> 00:10:47,278
+also building your universally
+
+370
+00:10:45,200 --> 00:10:48,720
+applicable problem-solving skills
+
+371
+00:10:47,278 --> 00:10:50,718
+this is because brilliant's entire
+
+372
+00:10:48,720 --> 00:10:52,398
+approach to learning is based on active
+
+373
+00:10:50,720 --> 00:10:53,760
+problem-solving so when you're working
+
+374
+00:10:52,399 --> 00:10:55,359
+through their courses you're not just
+
+375
+00:10:53,759 --> 00:10:55,919
+passively learning like you often do in
+
+376
+00:10:55,360 --> 00:10:57,1000
+school
+
+377
+00:10:55,919 --> 00:10:59,119
+you are doing so if you'd like to try
+
+378
+00:10:58,000 --> 00:11:00,240
+out brilliant for yourself you can
+
+379
+00:10:59,120 --> 00:11:01,760
+actually start learning for free by
+
+380
+00:11:00,240 --> 00:11:03,279
+going over to brilliant.org
+
+381
+00:11:01,759 --> 00:11:04,957
+thomasfrank or by clicking the link in
+
+382
+00:11:03,278 --> 00:11:06,798
+the description down below and if you're
+
+383
+00:11:04,958 --> 00:11:07,998
+one of the first 200 people to use that
+
+384
+00:11:06,799 --> 00:11:08,718
+link and sign up you're also going to
+
+385
+00:11:08,000 --> 00:11:11,040
+get 20
+
+386
+00:11:08,720 --> 00:11:12,159
+off your annual premium subscription and
+
+387
+00:11:11,039 --> 00:11:13,837
+you'll be helping to support this
+
+388
+00:11:12,159 --> 00:11:14,639
+channel by supporting the sponsors who
+
+389
+00:11:13,839 --> 00:11:16,239
+support me
+
+390
+00:11:14,639 --> 00:11:17,998
+that was a lot of instances of the word
+
+391
+00:11:16,240 --> 00:11:19,518
+support maybe i should automate that
+
+392
+00:11:18,000 --> 00:11:21,519
+but seriously if you do choose to
+
+393
+00:11:19,519 --> 00:11:22,800
+support my sponsors thank you so much
+
+394
+00:11:21,519 --> 00:11:24,398
+you're really helping the channel out
+
+395
+00:11:22,799 --> 00:11:25,999
+but also if you made it to the end of
+
+396
+00:11:24,399 --> 00:11:27,680
+this video thank you for putting up with
+
+397
+00:11:26,000 --> 00:11:28,720
+all my stupid jokes and thank you for
+
+398
+00:11:27,679 --> 00:11:30,639
+watching my videos
+
+399
+00:11:28,720 --> 00:11:32,079
+seriously i really appreciate you
+
+400
+00:11:30,639 --> 00:11:33,837
+hopefully you found something useful in
+
+401
+00:11:32,078 --> 00:11:34,879
+this video if you haven't subscribed yet
+
+402
+00:11:33,839 --> 00:11:35,919
+i'll have a little button right there
+
+403
+00:11:34,879 --> 00:11:37,439
+where you can subscribe to get
+
+404
+00:11:35,919 --> 00:11:38,879
+notifications of new videos
+
+405
+00:11:37,440 --> 00:11:40,160
+we'll have a couple of other videos on
+
+406
+00:11:38,879 --> 00:11:40,558
+screen if you want to watch some more
+
+407
+00:11:40,159 --> 00:11:42,239
+stuff
+
+408
+00:11:40,559 --> 00:11:43,438
+that i've made in the past uh if you
+
+409
+00:11:42,240 --> 00:11:44,639
+want to hit that like button that's
+
+410
+00:11:43,440 --> 00:11:46,719
+always appreciated but
+
+411
+00:11:44,639 --> 00:11:47,759
+of course i can't tell you what to do so
+
+412
+00:11:46,720 --> 00:11:49,518
+if you don't want to do any of that
+
+413
+00:11:47,759 --> 00:11:50,077
+stuff go fight a shark for all i care
+
+414
+00:11:49,519 --> 00:11:53,278
+because
+
+415
+00:11:50,078 --> 00:11:53,278
+i am not your dad
+

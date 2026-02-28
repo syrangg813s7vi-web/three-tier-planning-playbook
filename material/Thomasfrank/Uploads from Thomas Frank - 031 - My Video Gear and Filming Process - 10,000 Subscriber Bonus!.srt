@@ -1,0 +1,432 @@
+1
+00:00:00,080 --> 00:00:04,160
+Hey, what's up guys? So, I think it's
+
+2
+00:00:02,158 --> 00:00:03,520
+high time for a bonus video. So, let's
+
+3
+00:00:04,240 --> 00:00:07,440
+step away from the study tips and
+
+4
+00:00:05,679 --> 00:00:09,759
+tactics for a minute and talk about how
+
+5
+00:00:07,440 --> 00:00:11,279
+I actually make these videos.
+
+6
+00:00:09,759 --> 00:00:13,038
+Specifically, in this video, I want to
+
+7
+00:00:11,279 --> 00:00:14,959
+show you my gear and also walk you
+
+8
+00:00:13,039 --> 00:00:16,798
+through my actual filming process. So,
+
+9
+00:00:14,960 --> 00:00:18,480
+let's dive right in. So, believe it or
+
+10
+00:00:16,800 --> 00:00:20,480
+not, I'm actually rocking a relatively
+
+11
+00:00:18,480 --> 00:00:22,080
+inexpensive setup to make these videos.
+
+12
+00:00:20,480 --> 00:00:24,560
+Uh, for the camera, I'm using a Sony
+
+13
+00:00:22,079 --> 00:00:26,399
+NEX5N mirrorless camera, which ran me
+
+14
+00:00:24,559 --> 00:00:27,918
+about 750 bucks when I bought it, and
+
+15
+00:00:26,399 --> 00:00:29,999
+takes really high quality videos for the
+
+16
+00:00:27,920 --> 00:00:31,759
+price. Now, that's hooked up via HDMI to
+
+17
+00:00:30,000 --> 00:00:33,120
+a small TV which I used to set my scene
+
+18
+00:00:31,760 --> 00:00:34,639
+up and make sure I'm in focus and all
+
+19
+00:00:33,119 --> 00:00:36,319
+that good stuff since my camera doesn't
+
+20
+00:00:34,640 --> 00:00:37,600
+have a flip out screen. For lighting,
+
+21
+00:00:36,320 --> 00:00:39,040
+I've got a couple of DIY lights
+
+22
+00:00:37,600 --> 00:00:40,398
+constructed from supplies I found at
+
+23
+00:00:39,039 --> 00:00:42,078
+Lowe's and clamped onto cheap light
+
+24
+00:00:40,399 --> 00:00:43,439
+stands from Amazon. They cost me about
+
+25
+00:00:42,079 --> 00:00:44,559
+100 bucks to make for both of them and
+
+26
+00:00:43,439 --> 00:00:46,077
+they're much easier to store and work
+
+27
+00:00:44,558 --> 00:00:47,359
+with than the pre-made options I found.
+
+28
+00:00:46,079 --> 00:00:48,959
+So, I'm more than happy with them for
+
+29
+00:00:47,359 --> 00:00:50,398
+now. I've also got some accent lighting
+
+30
+00:00:48,960 --> 00:00:51,1000
+on my backdrop to warm up the scene a
+
+31
+00:00:50,399 --> 00:00:53,279
+bit. And speaking of the backdrop, what
+
+32
+00:00:52,000 --> 00:00:54,238
+do you guys think of the new one? I
+
+33
+00:00:53,280 --> 00:00:55,520
+actually just moved. And this time
+
+34
+00:00:54,238 --> 00:00:57,037
+around, I actually made measurements and
+
+35
+00:00:55,520 --> 00:00:58,640
+used a level instead of just slapping
+
+36
+00:00:57,039 --> 00:01:00,079
+things up over time. The other important
+
+37
+00:00:58,640 --> 00:01:02,079
+part of the backdrop is my computer,
+
+38
+00:01:00,079 --> 00:01:03,840
+which is also what I use for recording
+
+39
+00:01:02,079 --> 00:01:04,959
+the audio. And on a side note, this is
+
+40
+00:01:03,840 --> 00:01:06,478
+actually a new build that I've been
+
+41
+00:01:04,959 --> 00:01:07,679
+saving up for for quite some time. And
+
+42
+00:01:06,478 --> 00:01:08,958
+let me know in the comments if you'd
+
+43
+00:01:07,680 --> 00:01:10,400
+like to see a bonus video on it, and
+
+44
+00:01:08,959 --> 00:01:12,079
+maybe I'll do it. Now, I actually think
+
+45
+00:01:10,400 --> 00:01:13,759
+audio quality is more important than
+
+46
+00:01:12,079 --> 00:01:15,998
+video quality. So, I recently invested
+
+47
+00:01:13,760 --> 00:01:17,840
+in a Mackie Pro FX8 mixing board, which
+
+48
+00:01:16,000 --> 00:01:19,839
+feeds the audio via USB into my
+
+49
+00:01:17,840 --> 00:01:21,199
+computer. There, I record using Adobe
+
+50
+00:01:19,840 --> 00:01:23,759
+Audition. And then on the other end of
+
+51
+00:01:21,200 --> 00:01:25,200
+that chain is a Sure SM7B dynamic mic
+
+52
+00:01:23,759 --> 00:01:27,439
+which I use for both recording the
+
+53
+00:01:25,200 --> 00:01:28,799
+College Info Geek podcast and my videos.
+
+54
+00:01:27,438 --> 00:01:30,639
+Before buying this mic though, I was
+
+55
+00:01:28,799 --> 00:01:32,479
+actually using a $99 Blue Yeti, which
+
+56
+00:01:30,640 --> 00:01:34,240
+just connected via USB, and it wasn't
+
+57
+00:01:32,478 --> 00:01:35,918
+actually too bad. To start the filming
+
+58
+00:01:34,239 --> 00:01:37,437
+process, I put my camera up on top of my
+
+59
+00:01:35,920 --> 00:01:39,439
+bookshelf and then connected to the TV
+
+60
+00:01:37,438 --> 00:01:40,797
+via HDMI. Then I set up the lights, put
+
+61
+00:01:39,438 --> 00:01:42,639
+my mic in the mic stand, and plug it
+
+62
+00:01:40,799 --> 00:01:43,1000
+into the Mackie with an XLR cable. Next,
+
+63
+00:01:42,640 --> 00:01:45,200
+I'll start recording with Audition and
+
+64
+00:01:44,000 --> 00:01:46,720
+the camera. And then before I go through
+
+65
+00:01:45,200 --> 00:01:48,079
+my script, I'll make some dumb faces so
+
+66
+00:01:46,719 --> 00:01:49,359
+it's easy to find a shot for the video's
+
+67
+00:01:48,078 --> 00:01:51,279
+thumbnail. And finally, I'll start
+
+68
+00:01:49,359 --> 00:01:52,718
+recording. I typically don't memorize my
+
+69
+00:01:51,280 --> 00:01:53,759
+scripts before filming. Actually, most
+
+70
+00:01:52,719 --> 00:01:55,518
+of the time they're just lists of bullet
+
+71
+00:01:53,759 --> 00:01:57,118
+points. And this means that I just keep
+
+72
+00:01:55,519 --> 00:01:58,797
+saying lines until I'm done with plenty
+
+73
+00:01:57,118 --> 00:02:00,239
+of mistakes along the way. So, that's
+
+74
+00:01:58,799 --> 00:02:01,920
+just a quick overview of my shooting
+
+75
+00:02:00,239 --> 00:02:03,518
+process. And this video was supposed to
+
+76
+00:02:01,920 --> 00:02:05,679
+be a thank you for when we hit 10,000
+
+77
+00:02:03,519 --> 00:02:08,318
+subscribers. And we are a little bit
+
+78
+00:02:05,680 --> 00:02:09,920
+past that. Oops. Still, thank you so
+
+79
+00:02:08,318 --> 00:02:11,597
+much for the support and the feedback
+
+80
+00:02:09,919 --> 00:02:12,958
+you've given me so far. This has been a
+
+81
+00:02:11,598 --> 00:02:14,399
+ton of fun, and I can't wait to keep
+
+82
+00:02:12,959 --> 00:02:15,999
+making better and better videos every
+
+83
+00:02:14,400 --> 00:02:17,920
+single week. Now, for the next bonus
+
+84
+00:02:16,000 --> 00:02:19,599
+video, let's set the milestone at and
+
+85
+00:02:17,919 --> 00:02:20,718
+how about 50,000 subscribers. But I
+
+86
+00:02:19,598 --> 00:02:22,318
+actually want to hear from you down in
+
+87
+00:02:20,719 --> 00:02:23,919
+the comments. What kind of a bonus video
+
+88
+00:02:22,318 --> 00:02:25,679
+aside from college tips and studying
+
+89
+00:02:23,919 --> 00:02:26,798
+advice do you want to see? And also, if
+
+90
+00:02:25,680 --> 00:02:28,479
+you're still curious or have more
+
+91
+00:02:26,800 --> 00:02:29,679
+questions about my shooting process or
+
+92
+00:02:28,479 --> 00:02:30,958
+other parts of the video creation
+
+93
+00:02:29,680 --> 00:02:33,039
+process, I'm actually doing a little
+
+94
+00:02:30,959 --> 00:02:35,199
+minieries on my podcast both this week
+
+95
+00:02:33,039 --> 00:02:36,639
+and next week over that entire process.
+
+96
+00:02:35,199 --> 00:02:37,998
+And you can click the card or link down
+
+97
+00:02:36,639 --> 00:02:39,359
+in the description if you want to listen
+
+98
+00:02:38,000 --> 00:02:40,720
+to that episode. The first one's out
+
+99
+00:02:39,360 --> 00:02:41,1000
+right now. And if you subscribe to the
+
+100
+00:02:40,719 --> 00:02:43,679
+podcast, you'll get the second one when
+
+101
+00:02:42,000 --> 00:02:45,120
+it comes out next Monday. So, that's all
+
+102
+00:02:43,680 --> 00:02:46,640
+I've got for you today. Thanks so much
+
+103
+00:02:45,120 --> 00:02:48,559
+for watching this bonus video and I will
+
+104
+00:02:46,639 --> 00:02:50,869
+see you in my video over test anxiety
+
+105
+00:02:48,560 --> 00:02:52,520
+coming out on Thursday.
+
+106
+00:02:50,870 --> 00:02:52,899
+[Music]
+
+107
+00:02:52,520 --> 00:03:00,039
+[Applause]
+
+108
+00:02:52,900 --> 00:03:00,039
+[Music]
+

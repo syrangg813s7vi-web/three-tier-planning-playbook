@@ -1,0 +1,844 @@
+1
+00:00:00,199 --> 00:00:03,400
+it's a question I get pretty often can
+
+2
+00:00:02,040 --> 00:00:04,238
+listening to music help you study more
+
+3
+00:00:03,600 --> 00:00:04,679
+effectively or is it just a distraction
+
+4
+00:00:06,278 --> 00:00:10,238
+well as the journalist HL manin once
+
+5
+00:00:08,279 --> 00:00:13,158
+said for every complex problem there is
+
+6
+00:00:10,240 --> 00:00:14,360
+an answer that is clear simple and wrong
+
+7
+00:00:13,160 --> 00:00:16,559
+I've been curious about this question
+
+8
+00:00:14,359 --> 00:00:17,999
+myself for years and I've always kind of
+
+9
+00:00:16,559 --> 00:00:19,958
+secretly hoped that the answer came down
+
+10
+00:00:18,000 --> 00:00:22,198
+in favor of music because I have almost
+
+11
+00:00:19,960 --> 00:00:23,759
+always studied with music but from the
+
+12
+00:00:22,199 --> 00:00:25,320
+research I've done so far the only thing
+
+13
+00:00:23,760 --> 00:00:27,720
+I can confidently tell you at this point
+
+14
+00:00:25,320 --> 00:00:29,518
+is that we don't actually know their
+
+15
+00:00:27,719 --> 00:00:30,719
+answ is going in both directions and to
+
+16
+00:00:29,518 --> 00:00:32,437
+give you some more detail we're going to
+
+17
+00:00:30,719 --> 00:00:33,919
+dig into that research in a minute here
+
+18
+00:00:32,439 --> 00:00:35,919
+but first I want to preface this with my
+
+19
+00:00:33,920 --> 00:00:37,640
+own experience because as I said I've
+
+20
+00:00:35,920 --> 00:00:38,960
+almost always studied with music I've
+
+21
+00:00:37,640 --> 00:00:40,360
+got like a borderline unhealthy
+
+22
+00:00:38,960 --> 00:00:42,079
+obsession with trying to find new study
+
+23
+00:00:40,359 --> 00:00:43,519
+music and I've spent more hours than I
+
+24
+00:00:42,079 --> 00:00:45,200
+can count digging through the charts on
+
+25
+00:00:43,520 --> 00:00:47,198
+Sputnik Music or going through music
+
+26
+00:00:45,200 --> 00:00:48,878
+forums trying to find new stuff and when
+
+27
+00:00:47,198 --> 00:00:50,319
+I've studied or done homework it's
+
+28
+00:00:48,878 --> 00:00:52,197
+always almost with headphones on or
+
+29
+00:00:50,320 --> 00:00:54,280
+something coming out of my speakers so
+
+30
+00:00:52,198 --> 00:00:56,598
+here's what I found works well for me
+
+31
+00:00:54,280 --> 00:00:59,119
+for tasks that require low mental effort
+
+32
+00:00:56,600 --> 00:01:00,640
+or tasks that uh deal with very tangible
+
+33
+00:00:59,119 --> 00:01:02,759
+information that I already am very
+
+34
+00:01:00,640 --> 00:01:04,280
+familiar with um high energy music can
+
+35
+00:01:02,759 --> 00:01:06,239
+get me energized and helps me get into
+
+36
+00:01:04,280 --> 00:01:08,039
+the Flow State faster I'm talking stuff
+
+37
+00:01:06,239 --> 00:01:10,038
+like statistics homework or accounting
+
+38
+00:01:08,040 --> 00:01:11,600
+or programming things where I know
+
+39
+00:01:10,040 --> 00:01:13,560
+basically what needs to be done and it's
+
+40
+00:01:11,599 --> 00:01:15,599
+just a matter of manipulating numbers or
+
+41
+00:01:13,560 --> 00:01:17,280
+code to get it done and if you want some
+
+42
+00:01:15,599 --> 00:01:19,118
+recommendations for albums for this kind
+
+43
+00:01:17,280 --> 00:01:20,1000
+of work I can give you a few here uh
+
+44
+00:01:19,118 --> 00:01:22,919
+pomeg granic Tiger's boundless is a new
+
+45
+00:01:21,000 --> 00:01:25,118
+one I've been really digging lately also
+
+46
+00:01:22,920 --> 00:01:26,520
+the algorithm's polymorphic code any of
+
+47
+00:01:25,118 --> 00:01:28,359
+the instrumental tracks off of the Metal
+
+48
+00:01:26,519 --> 00:01:30,839
+Gear Rising soundtrack I absolutely love
+
+49
+00:01:28,359 --> 00:01:32,599
+that thing and uh ties demands young and
+
+50
+00:01:30,840 --> 00:01:34,439
+courageous all great albums you should
+
+51
+00:01:32,599 --> 00:01:36,719
+definitely check out however once we get
+
+52
+00:01:34,438 --> 00:01:38,438
+into tasks that are more cerebral or
+
+53
+00:01:36,719 --> 00:01:39,879
+more conceptual or if I'm trying to wrap
+
+54
+00:01:38,438 --> 00:01:42,039
+my brain around something more
+
+55
+00:01:39,879 --> 00:01:44,518
+unfamiliar I really need to have either
+
+56
+00:01:42,040 --> 00:01:46,078
+very calm music or silence and if you
+
+57
+00:01:44,519 --> 00:01:48,199
+want a few recommendations for tasks
+
+58
+00:01:46,078 --> 00:01:50,158
+like these I can give you Austin winry's
+
+59
+00:01:48,200 --> 00:01:52,398
+Journey soundtrack any of the Kingdom
+
+60
+00:01:50,159 --> 00:01:54,758
+Hearts piano collections albums olaer
+
+61
+00:01:52,399 --> 00:01:56,639
+Arnold's the chopan project or tian's
+
+62
+00:01:54,759 --> 00:01:58,999
+amazing Majora's Mask tribute album
+
+63
+00:01:56,640 --> 00:02:00,519
+times end and regarding silence uh
+
+64
+00:01:59,000 --> 00:02:02,640
+studying and silence work really well
+
+65
+00:02:00,519 --> 00:02:03,999
+for me at times but other times it gets
+
+66
+00:02:02,640 --> 00:02:05,280
+really distracting because my brain
+
+67
+00:02:04,000 --> 00:02:07,158
+starts picking out all the little
+
+68
+00:02:05,280 --> 00:02:09,119
+intermittent environmental noises that
+
+69
+00:02:07,159 --> 00:02:10,1000
+you can't really control it's almost as
+
+70
+00:02:09,118 --> 00:02:12,799
+if my brain knows it's trying to use
+
+71
+00:02:11,000 --> 00:02:14,040
+silence to concentrate better so it
+
+72
+00:02:12,800 --> 00:02:16,040
+starts like picking those things out and
+
+73
+00:02:14,039 --> 00:02:17,798
+being like H uh it's not actually silent
+
+74
+00:02:16,039 --> 00:02:20,119
+man kind of like what happens if I tell
+
+75
+00:02:17,800 --> 00:02:22,399
+you whatever you do do not think about
+
+76
+00:02:20,120 --> 00:02:24,318
+fluffy red pandas what are you thinking
+
+77
+00:02:22,400 --> 00:02:25,1000
+about so if you have this problem as
+
+78
+00:02:24,318 --> 00:02:27,237
+well calm music isn't the only solution
+
+79
+00:02:26,000 --> 00:02:28,919
+you can also try like a white noise
+
+80
+00:02:27,239 --> 00:02:30,360
+generator like simply noise or an
+
+81
+00:02:28,919 --> 00:02:33,438
+environmental sound gener Ator like
+
+82
+00:02:30,360 --> 00:02:35,238
+rainy mood or cativity basically if you
+
+83
+00:02:33,439 --> 00:02:37,198
+deliberately set up the noise yourself I
+
+84
+00:02:35,239 --> 00:02:38,679
+found that it kind of helps to calm that
+
+85
+00:02:37,199 --> 00:02:40,399
+distraction a little bit so the other
+
+86
+00:02:38,680 --> 00:02:41,920
+question I get a lot is is lyrical music
+
+87
+00:02:40,400 --> 00:02:43,799
+fine or does it have to be instrumental
+
+88
+00:02:41,919 --> 00:02:45,079
+all the way and what I found is for that
+
+89
+00:02:43,800 --> 00:02:46,1000
+former type of work where it's either
+
+90
+00:02:45,080 --> 00:02:48,878
+lower mental intensity or very math or
+
+91
+00:02:47,000 --> 00:02:50,040
+logic based lyrical music is fine
+
+92
+00:02:48,878 --> 00:02:51,838
+because I can pretty much tune it out
+
+93
+00:02:50,039 --> 00:02:53,358
+and just kind of focus myself on that
+
+94
+00:02:51,840 --> 00:02:54,1000
+work but once we get into the more
+
+95
+00:02:53,360 --> 00:02:56,799
+conceptual work or especially when I'm
+
+96
+00:02:55,000 --> 00:02:58,158
+reading it has to be instrumental all
+
+97
+00:02:56,800 --> 00:03:00,440
+the way anything with lyrics will just
+
+98
+00:02:58,158 --> 00:03:02,078
+pull up my attention and distract me ton
+
+99
+00:03:00,439 --> 00:03:03,278
+and this experience is actually right in
+
+100
+00:03:02,080 --> 00:03:04,999
+line with the opinion of the late
+
+101
+00:03:03,280 --> 00:03:06,799
+Stanford University Professor Clifford
+
+102
+00:03:05,000 --> 00:03:08,959
+nass who was known for his research into
+
+103
+00:03:06,799 --> 00:03:10,319
+multitasking and Nas said music with
+
+104
+00:03:08,959 --> 00:03:11,720
+lyrics is very likely to have a
+
+105
+00:03:10,318 --> 00:03:13,518
+problematic effect when you're writing
+
+106
+00:03:11,719 --> 00:03:15,118
+or reading but probably less of an
+
+107
+00:03:13,519 --> 00:03:16,958
+effect on math if you're not using the
+
+108
+00:03:15,120 --> 00:03:18,239
+language processing parts of your brain
+
+109
+00:03:16,959 --> 00:03:19,720
+Okay so we've gone over what works for
+
+110
+00:03:18,239 --> 00:03:21,158
+me and I can confidently say through
+
+111
+00:03:19,719 --> 00:03:22,318
+years of experimentation that it's
+
+112
+00:03:21,158 --> 00:03:24,158
+probably going to keep working for me
+
+113
+00:03:22,318 --> 00:03:25,838
+this way in the future but what does
+
+114
+00:03:24,158 --> 00:03:27,439
+science have to say about it well as I
+
+115
+00:03:25,840 --> 00:03:29,799
+alluded to in the intro the answers are
+
+116
+00:03:27,439 --> 00:03:31,759
+kind of mixed for example one study done
+
+117
+00:03:29,799 --> 00:03:33,759
+2013 at the University of Maryland
+
+118
+00:03:31,759 --> 00:03:35,638
+tested 32 students on several different
+
+119
+00:03:33,759 --> 00:03:37,517
+math tests in different music conditions
+
+120
+00:03:35,639 --> 00:03:39,238
+they had silent music uh high-intensity
+
+121
+00:03:37,519 --> 00:03:41,080
+music and low intensity music and what
+
+122
+00:03:39,239 --> 00:03:42,759
+they found is that the students scored
+
+123
+00:03:41,080 --> 00:03:44,560
+best under the silence condition with
+
+124
+00:03:42,759 --> 00:03:47,119
+the low intensity music beating out the
+
+125
+00:03:44,560 --> 00:03:48,439
+high-intensity music for uh second place
+
+126
+00:03:47,120 --> 00:03:50,720
+and by low and high I mean like
+
+127
+00:03:48,438 --> 00:03:52,838
+classical piano music versus death metal
+
+128
+00:03:50,719 --> 00:03:54,238
+so they didn't really have like a nice
+
+129
+00:03:52,840 --> 00:03:55,1000
+balance between the music they went one
+
+130
+00:03:54,239 --> 00:03:57,518
+extreme and another extreme still that's
+
+131
+00:03:56,000 --> 00:03:59,120
+irrelevant to the fact that the silence
+
+132
+00:03:57,519 --> 00:04:01,079
+condition beat out both music conditions
+
+133
+00:03:59,120 --> 00:04:03,639
+in that study however another study in
+
+134
+00:04:01,079 --> 00:04:05,159
+France done with 249 participants found
+
+135
+00:04:03,639 --> 00:04:06,598
+that the students who watched a lecture
+
+136
+00:04:05,158 --> 00:04:08,318
+while listening to classical music
+
+137
+00:04:06,598 --> 00:04:09,478
+scored better on a subsequent test than
+
+138
+00:04:08,318 --> 00:04:11,679
+the students who watched that same
+
+139
+00:04:09,479 --> 00:04:13,517
+lecture while listening to nothing so
+
+140
+00:04:11,680 --> 00:04:15,039
+the answers differ and to my knowledge
+
+141
+00:04:13,519 --> 00:04:16,599
+there hasn't yet been a truly large
+
+142
+00:04:15,039 --> 00:04:18,478
+scale study on music's effect on the
+
+143
+00:04:16,600 --> 00:04:19,918
+brain but with the results we have right
+
+144
+00:04:18,478 --> 00:04:21,839
+now I think we can still make a couple
+
+145
+00:04:19,918 --> 00:04:23,757
+of different conclusions first it seems
+
+146
+00:04:21,839 --> 00:04:25,359
+clear that high-intensity music or music
+
+147
+00:04:23,759 --> 00:04:27,320
+with lyrics aren't really good choices
+
+148
+00:04:25,360 --> 00:04:28,759
+when you're reading or when you're doing
+
+149
+00:04:27,319 --> 00:04:29,959
+something that has to do with language
+
+150
+00:04:28,759 --> 00:04:31,159
+or when you're trying to wrap your brain
+
+151
+00:04:29,959 --> 00:04:33,398
+around something that's totally
+
+152
+00:04:31,160 --> 00:04:35,280
+unfamiliar to you and secondly more
+
+153
+00:04:33,399 --> 00:04:36,439
+generally it could be that music is a
+
+154
+00:04:35,279 --> 00:04:38,158
+kind of give and take thing when it
+
+155
+00:04:36,439 --> 00:04:40,119
+comes to your brain it might be that in
+
+156
+00:04:38,160 --> 00:04:42,320
+an objective sense it is distracting but
+
+157
+00:04:40,120 --> 00:04:44,198
+it also raises your positive emotions it
+
+158
+00:04:42,319 --> 00:04:46,519
+can lessen your anxiety and it raises
+
+159
+00:04:44,199 --> 00:04:48,479
+your motivation to stay focused and the
+
+160
+00:04:46,519 --> 00:04:50,318
+net benefit or net deficit is going to
+
+161
+00:04:48,478 --> 00:04:52,198
+depend on who you are what kind of work
+
+162
+00:04:50,319 --> 00:04:54,477
+you're doing and what the specific kind
+
+163
+00:04:52,199 --> 00:04:56,559
+of music you're listening to is and that
+
+164
+00:04:54,478 --> 00:04:58,838
+third Factor the specific type of music
+
+165
+00:04:56,560 --> 00:05:00,240
+brings up another question can music be
+
+166
+00:04:58,839 --> 00:05:01,959
+specifically designed designed to
+
+167
+00:05:00,240 --> 00:05:03,519
+increase your brain's performance well
+
+168
+00:05:01,959 --> 00:05:04,478
+stay tuned because in next week's video
+
+169
+00:05:03,519 --> 00:05:05,798
+that's exactly what we're going to be
+
+170
+00:05:04,478 --> 00:05:06,917
+covering in the meantime if you want to
+
+171
+00:05:05,800 --> 00:05:07,960
+check out any of those albums I
+
+172
+00:05:06,918 --> 00:05:09,358
+mentioned earlier they're going to be
+
+173
+00:05:07,959 --> 00:05:11,038
+linked up in the blog post for this
+
+174
+00:05:09,360 --> 00:05:12,960
+video along with my ultimate study
+
+175
+00:05:11,038 --> 00:05:14,879
+playlist on YouTube here and if you want
+
+176
+00:05:12,959 --> 00:05:16,278
+to discuss this video or get more music
+
+177
+00:05:14,879 --> 00:05:17,758
+recommendations from other students you
+
+178
+00:05:16,279 --> 00:05:19,198
+can check out the official discussion
+
+179
+00:05:17,759 --> 00:05:21,159
+thread for this video in the College of
+
+180
+00:05:19,199 --> 00:05:22,440
+Boge Community linked down below that is
+
+181
+00:05:21,160 --> 00:05:23,759
+it for this week's video so hopefully
+
+182
+00:05:22,439 --> 00:05:24,798
+you found it useful and if you did you
+
+183
+00:05:23,759 --> 00:05:26,279
+can give it a like to support this
+
+184
+00:05:24,800 --> 00:05:27,719
+Channel and I would really be curious to
+
+185
+00:05:26,279 --> 00:05:29,158
+hear what your experience with studying
+
+186
+00:05:27,720 --> 00:05:30,559
+with music is so let me know either in
+
+187
+00:05:29,160 --> 00:05:32,400
+the discussion thread or in the comments
+
+188
+00:05:30,560 --> 00:05:33,800
+down below and as always thank you so
+
+189
+00:05:32,399 --> 00:05:35,278
+much for watching and I will see you
+
+190
+00:05:33,800 --> 00:05:37,400
+next
+
+191
+00:05:35,279 --> 00:05:38,678
+week hey there guys thank you so much
+
+192
+00:05:37,399 --> 00:05:40,318
+for watching this video now if you want
+
+193
+00:05:38,680 --> 00:05:41,880
+to get new videos every single week on
+
+194
+00:05:40,319 --> 00:05:43,440
+being a more effective student you can
+
+195
+00:05:41,879 --> 00:05:45,238
+click that big red subscribe button
+
+196
+00:05:43,439 --> 00:05:46,478
+right there and also I wrote a free book
+
+197
+00:05:45,240 --> 00:05:47,559
+on earning better grades so you can
+
+198
+00:05:46,478 --> 00:05:49,038
+click the picture of the book If you
+
+199
+00:05:47,560 --> 00:05:50,600
+want to get one also if you want to find
+
+200
+00:05:49,038 --> 00:05:52,118
+the blog post for this video with links
+
+201
+00:05:50,600 --> 00:05:53,399
+to a lot of the playlists I mentioned
+
+202
+00:05:52,120 --> 00:05:55,959
+and some of the studies I talked about
+
+203
+00:05:53,399 --> 00:05:57,399
+as well the orange button right there in
+
+204
+00:05:55,959 --> 00:05:58,838
+last week's video I talked a bit more
+
+205
+00:05:57,399 --> 00:06:00,278
+about the College infogeek Community
+
+206
+00:05:58,839 --> 00:06:01,758
+that just launched to so check it out if
+
+207
+00:06:00,279 --> 00:06:02,839
+you want some more details on that and
+
+208
+00:06:01,759 --> 00:06:04,638
+if you want to connect I'm in the
+
+209
+00:06:02,839 --> 00:06:06,678
+community all the time I'm also on
+
+210
+00:06:04,639 --> 00:06:10,680
+Twitter and Instagram at tomf Frankle or
+
+211
+00:06:06,680 --> 00:06:10,680
+you can leave a comment down below
+

@@ -1,0 +1,3276 @@
+1
+00:00:00,030 --> 00:00:04,769
+hey what is up guys and welcome to a new
+
+2
+00:00:02,220 --> 00:00:04,799
+series that I am for now calling this is
+
+3
+00:00:04,799 --> 00:00:09,630
+how I get stuff done and I'm here with
+
+4
+00:00:07,019 --> 00:00:12,238
+my friend and competing a beard model on
+
+5
+00:00:09,630 --> 00:00:14,219
+the internet Matson Avella is a know him
+
+6
+00:00:12,240 --> 00:00:15,920
+from his channel what Matt developer
+
+7
+00:00:14,218 --> 00:00:18,689
+Matt Savelle yeah it's very simple
+
+8
+00:00:15,919 --> 00:00:20,278
+he's got a lot of videos on habits
+
+9
+00:00:18,690 --> 00:00:21,660
+productivity minimalism is something
+
+10
+00:00:20,278 --> 00:00:23,548
+that you focus on for the most part I
+
+11
+00:00:21,660 --> 00:00:24,990
+would say right yeah minimalism is
+
+12
+00:00:23,550 --> 00:00:27,960
+definitely kind of that's definitely
+
+13
+00:00:24,989 --> 00:00:29,639
+where I kind of formed my initial start
+
+14
+00:00:27,960 --> 00:00:32,278
+on YouTube was going about simple living
+
+15
+00:00:29,640 --> 00:00:34,920
+and you came to YouTube from the
+
+16
+00:00:32,279 --> 00:00:37,200
+documentary world right yeah documentary
+
+17
+00:00:34,920 --> 00:00:38,730
+on Netflix with the minimalists who have
+
+18
+00:00:37,200 --> 00:00:40,440
+actually met once before yeah yeah
+
+19
+00:00:38,729 --> 00:00:42,269
+really cool guys yeah I think it was I
+
+20
+00:00:40,439 --> 00:00:44,099
+think it was either watching a video of
+
+21
+00:00:42,270 --> 00:00:46,200
+yours or read a blog post where you were
+
+22
+00:00:44,100 --> 00:00:47,609
+talking about that experience of kind of
+
+23
+00:00:46,200 --> 00:00:51,089
+seeing the minimalist and meeting I'm
+
+24
+00:00:47,609 --> 00:00:53,038
+with Colin right yeah we got burritos is
+
+25
+00:00:51,090 --> 00:00:55,320
+an excellent night so what I want to do
+
+26
+00:00:53,039 --> 00:00:57,750
+with this series is sort of explore how
+
+27
+00:00:55,320 --> 00:00:59,520
+other insanely productive people get
+
+28
+00:00:57,750 --> 00:01:01,259
+things done kind of dig into their
+
+29
+00:00:59,520 --> 00:01:03,659
+processes the systems they use all that
+
+30
+00:01:01,259 --> 00:01:07,408
+kind of stuff and you're my guinea pig
+
+31
+00:01:03,659 --> 00:01:09,748
+right this is the first one we're just
+
+32
+00:01:07,409 --> 00:01:11,250
+going to see how it turns out and I
+
+33
+00:01:09,750 --> 00:01:14,250
+guess the first thing I want to start
+
+34
+00:01:11,250 --> 00:01:17,009
+with is just sort of getting an overview
+
+35
+00:01:14,250 --> 00:01:19,979
+of what you what what do you say you do
+
+36
+00:01:17,009 --> 00:01:23,459
+here essentially yeah so I'm a filmmaker
+
+37
+00:01:19,978 --> 00:01:25,498
+that's the the craft and then it's I
+
+38
+00:01:23,459 --> 00:01:27,238
+make one video every week from my
+
+39
+00:01:25,500 --> 00:01:30,959
+channel I also have a podcast that I've
+
+40
+00:01:27,239 --> 00:01:32,998
+released on a usually weekly basis yeah
+
+41
+00:01:30,959 --> 00:01:34,499
+I mean I really I was consistent for
+
+42
+00:01:33,000 --> 00:01:37,169
+about a year and a half of releasing a
+
+43
+00:01:34,500 --> 00:01:38,879
+podcast every single week and lately
+
+44
+00:01:37,170 --> 00:01:40,679
+it's I've just been experimenting and
+
+45
+00:01:38,879 --> 00:01:42,688
+trying some different models out but I
+
+46
+00:01:40,680 --> 00:01:45,930
+would say the core of what I do is just
+
+47
+00:01:42,688 --> 00:01:47,878
+one eight to ten minute video every week
+
+48
+00:01:45,930 --> 00:01:49,110
+on my youtube channel okay is there
+
+49
+00:01:47,879 --> 00:01:51,289
+anything else that's sort of a ancillary
+
+50
+00:01:49,109 --> 00:01:54,359
+to that yeah like a blog or a newsletter
+
+51
+00:01:51,290 --> 00:01:56,158
+yes so yeah like everybody like
+
+52
+00:01:54,359 --> 00:01:58,559
+everybody else like I have social media
+
+53
+00:01:56,159 --> 00:02:02,040
+I've got the newsletter okay and I have
+
+54
+00:01:58,560 --> 00:02:04,290
+yeah like I said the podcast so I would
+
+55
+00:02:02,040 --> 00:02:05,729
+say when I'm really looking and planning
+
+56
+00:02:04,290 --> 00:02:07,499
+at the beginning of the year what
+
+57
+00:02:05,728 --> 00:02:09,719
+channels and mediums I want to focus on
+
+58
+00:02:07,500 --> 00:02:11,910
+I would say the two big ones one is
+
+59
+00:02:09,719 --> 00:02:14,518
+definitely the YouTube channel yeah and
+
+60
+00:02:11,909 --> 00:02:16,468
+that's just from the overall response
+
+61
+00:02:14,520 --> 00:02:19,109
+and reception of the channel itself and
+
+62
+00:02:16,469 --> 00:02:21,627
+also just what I'd love to do most yeah
+
+63
+00:02:19,110 --> 00:02:23,909
+and then I would say the runner-up is
+
+64
+00:02:21,628 --> 00:02:25,847
+probably the either the podcast or the
+
+65
+00:02:23,909 --> 00:02:29,368
+newsletter because the newsletter is
+
+66
+00:02:25,848 --> 00:02:31,788
+generally once a week again I'm not as
+
+67
+00:02:29,370 --> 00:02:34,349
+strict with that I I don't let myself
+
+68
+00:02:31,789 --> 00:02:35,789
+slip up very often at all with the
+
+69
+00:02:34,348 --> 00:02:37,318
+YouTube channel like that's the thing
+
+70
+00:02:35,789 --> 00:02:39,567
+that I'm like I have to release a video
+
+71
+00:02:37,318 --> 00:02:42,418
+every single week yeah I take a few
+
+72
+00:02:39,568 --> 00:02:43,528
+weeks off every year or a little bit
+
+73
+00:02:42,419 --> 00:02:45,149
+more maybe like three or four weeks
+
+74
+00:02:43,530 --> 00:02:48,209
+total in the year that I might take off
+
+75
+00:02:45,150 --> 00:02:49,980
+but overall those are kind of my main
+
+76
+00:02:48,209 --> 00:02:52,260
+channels that I create for and when you
+
+77
+00:02:49,979 --> 00:02:54,628
+take time off do you just not publish
+
+78
+00:02:52,259 --> 00:02:55,649
+during those times sometimes sometimes I
+
+79
+00:02:54,628 --> 00:02:56,909
+don't videos in the can
+
+80
+00:02:55,650 --> 00:02:58,590
+yeah sometimes I do have videos in the
+
+81
+00:02:56,909 --> 00:03:00,538
+can okay I think the one thing that I've
+
+82
+00:02:58,590 --> 00:03:02,759
+learned is that I can put a lot of
+
+83
+00:03:00,539 --> 00:03:04,408
+pressure on myself to keep getting ahead
+
+84
+00:03:02,759 --> 00:03:06,029
+in the head and ahead and the problem
+
+85
+00:03:04,408 --> 00:03:08,128
+with that is that you can never get
+
+86
+00:03:06,030 --> 00:03:10,499
+ahead like there's always so much is up
+
+87
+00:03:08,128 --> 00:03:12,868
+with you exactly like so I will get to a
+
+88
+00:03:10,500 --> 00:03:14,399
+point where I was four weeks ahead I
+
+89
+00:03:12,870 --> 00:03:17,488
+took a really long like two-and-a-half
+
+90
+00:03:14,400 --> 00:03:19,018
+week vacation and I felt amazing I just
+
+91
+00:03:17,489 --> 00:03:20,069
+felt so good about getting that far out
+
+92
+00:03:19,019 --> 00:03:22,318
+and then when I came back from vacation
+
+93
+00:03:20,068 --> 00:03:23,548
+all my runway was gone yeah and I'm like
+
+94
+00:03:22,318 --> 00:03:25,407
+I had to start over and I was just so
+
+95
+00:03:23,550 --> 00:03:27,628
+bummed out about it and it really like
+
+96
+00:03:25,408 --> 00:03:29,128
+it was hard to restart again mm-hmm so
+
+97
+00:03:27,628 --> 00:03:30,479
+I've started to pull that pressure back
+
+98
+00:03:29,128 --> 00:03:33,119
+a little bit on myself and say you know
+
+99
+00:03:30,479 --> 00:03:34,318
+what if instead of going for weeks six
+
+100
+00:03:33,120 --> 00:03:36,149
+weeks and just trying to always get
+
+101
+00:03:34,318 --> 00:03:38,218
+ahead what if I just created in the
+
+102
+00:03:36,150 --> 00:03:40,590
+moment and then just I was just week to
+
+103
+00:03:38,219 --> 00:03:42,478
+week or maybe two weeks most and not
+
+104
+00:03:40,590 --> 00:03:44,849
+feeling like I always had to get ahead
+
+105
+00:03:42,479 --> 00:03:46,348
+and that's helped so much with my sanity
+
+106
+00:03:44,848 --> 00:03:48,017
+yeah there's a certain beauty of that
+
+107
+00:03:46,348 --> 00:03:50,758
+too right I think there's like this
+
+108
+00:03:48,019 --> 00:03:52,438
+preoccupation with getting ahead to the
+
+109
+00:03:50,759 --> 00:03:55,199
+pourable you'll never have to work again
+
+110
+00:03:52,438 --> 00:03:56,999
+maybe that's the fantasy but there is a
+
+111
+00:03:55,199 --> 00:03:58,529
+certain beauty to just knowing you have
+
+112
+00:03:57,000 --> 00:04:00,629
+to get up and do your craft everyday
+
+113
+00:03:58,530 --> 00:04:02,699
+yeah and it yeah I do think that that's
+
+114
+00:04:00,628 --> 00:04:05,759
+something that we kind of like idolized
+
+115
+00:04:02,699 --> 00:04:07,348
+in our head as this idea of I can just
+
+116
+00:04:05,759 --> 00:04:08,999
+sit back and relax and I want to do
+
+117
+00:04:07,348 --> 00:04:11,248
+anything I think there's an element of
+
+118
+00:04:09,000 --> 00:04:12,540
+it that in the short term it takes
+
+119
+00:04:11,250 --> 00:04:15,209
+pressure off yourself at least
+
+120
+00:04:12,539 --> 00:04:18,058
+have one or two weeks ahead yeah but I
+
+121
+00:04:15,209 --> 00:04:19,919
+do really like releasing more closer to
+
+122
+00:04:18,060 --> 00:04:21,660
+the moment like I just finished up a
+
+123
+00:04:19,918 --> 00:04:24,299
+video two days ago and I release it
+
+124
+00:04:21,660 --> 00:04:25,829
+today and that to me I feel closer to
+
+125
+00:04:24,300 --> 00:04:27,300
+the project I feel closer to the
+
+126
+00:04:25,829 --> 00:04:28,708
+feedback that it gets and I can
+
+127
+00:04:27,300 --> 00:04:30,509
+understand how people are responding to
+
+128
+00:04:28,709 --> 00:04:32,309
+it more but when you're for six weeks
+
+129
+00:04:30,509 --> 00:04:33,719
+ahead it gets to the point where you
+
+130
+00:04:32,310 --> 00:04:34,830
+just kind of like pushing it out there
+
+131
+00:04:33,720 --> 00:04:37,228
+you know what I mean it's more like a
+
+132
+00:04:34,829 --> 00:04:39,659
+factory and less of an art mm-hmm
+
+133
+00:04:37,228 --> 00:04:41,188
+so you briefly mentioned that when you
+
+134
+00:04:39,660 --> 00:04:43,499
+we sit down the plan you're looking at
+
+135
+00:04:41,189 --> 00:04:45,328
+the year do you actually plan a whole
+
+136
+00:04:43,500 --> 00:04:47,310
+year and ahead like what is your
+
+137
+00:04:45,329 --> 00:04:48,898
+planning process for all of your
+
+138
+00:04:47,310 --> 00:04:51,899
+different channels like and how far in
+
+139
+00:04:48,899 --> 00:04:53,939
+advance is it yeah so I usually kind of
+
+140
+00:04:51,899 --> 00:04:56,007
+put together like a business strategy
+
+141
+00:04:53,939 --> 00:04:57,538
+plan around the beginning of the year
+
+142
+00:04:56,009 --> 00:04:59,729
+that's usually when it feels right no
+
+143
+00:04:57,538 --> 00:05:01,319
+but I'll usually kind of recalibrate six
+
+144
+00:04:59,728 --> 00:05:04,798
+months into the year but it basically
+
+145
+00:05:01,319 --> 00:05:07,498
+kind of drol up a note document on my
+
+146
+00:05:04,800 --> 00:05:08,1000
+Mac and I just work through what are the
+
+147
+00:05:07,500 --> 00:05:12,448
+main channels and the mediums that I
+
+148
+00:05:09,000 --> 00:05:14,549
+want to focus on I usually I used to in
+
+149
+00:05:12,449 --> 00:05:15,810
+the past focus on growth metrics but we
+
+150
+00:05:14,550 --> 00:05:17,340
+were talking about this before where
+
+151
+00:05:15,810 --> 00:05:19,109
+it's like you could always just keep
+
+152
+00:05:17,339 --> 00:05:21,118
+wanting more and more and more and like
+
+153
+00:05:19,110 --> 00:05:22,860
+generally I get pretty happy with like
+
+154
+00:05:21,120 --> 00:05:25,499
+I'm totally content with where I'm at
+
+155
+00:05:22,860 --> 00:05:27,209
+right now with like numbers so these
+
+156
+00:05:25,500 --> 00:05:29,158
+days I don't include that but it's just
+
+157
+00:05:27,209 --> 00:05:31,079
+like God what do I want to get out of it
+
+158
+00:05:29,158 --> 00:05:32,999
+what are my expectations for the kind of
+
+159
+00:05:31,079 --> 00:05:34,378
+content I want to create and the kind of
+
+160
+00:05:33,000 --> 00:05:35,819
+message that I want to put out there
+
+161
+00:05:34,379 --> 00:05:37,948
+what I like the topics I want to talk
+
+162
+00:05:35,819 --> 00:05:40,408
+about and it's usually no more than one
+
+163
+00:05:37,949 --> 00:05:42,389
+page to kind of this is just kind of the
+
+164
+00:05:40,408 --> 00:05:44,158
+jump start the direction of where things
+
+165
+00:05:42,389 --> 00:05:45,960
+are gonna go okay and when you sit down
+
+166
+00:05:44,158 --> 00:05:47,578
+to plan or you sedona take notes is it
+
+167
+00:05:45,959 --> 00:05:49,887
+always on your mac is it always in the
+
+168
+00:05:47,579 --> 00:05:52,468
+Notes app yeah so I use the Notes app on
+
+169
+00:05:49,889 --> 00:05:54,599
+Mac and I have it on my phone a lot of
+
+170
+00:05:52,470 --> 00:05:55,800
+times you know when I'm out I'll pop it
+
+171
+00:05:54,598 --> 00:05:58,679
+open and I'll take a couple of notes
+
+172
+00:05:55,800 --> 00:06:01,949
+down you sometimes what I actually do is
+
+173
+00:05:58,680 --> 00:06:04,949
+productivity hack here when I'm with NAT
+
+174
+00:06:01,949 --> 00:06:07,199
+my wife and we're driving I will ask her
+
+175
+00:06:04,949 --> 00:06:10,349
+to text me an idea i'ma go I got an idea
+
+176
+00:06:07,199 --> 00:06:12,538
+like smart yeah it text me but sweat and
+
+177
+00:06:10,348 --> 00:06:14,458
+they detect me but sweat and then all
+
+178
+00:06:12,538 --> 00:06:16,709
+like oh yeah and I don't forget what
+
+179
+00:06:14,459 --> 00:06:19,228
+that what's about why did you text me
+
+180
+00:06:16,709 --> 00:06:20,768
+but swear that makes no sense at all no
+
+181
+00:06:19,228 --> 00:06:22,627
+that's like how I'll do it like on the
+
+182
+00:06:20,769 --> 00:06:23,918
+on the road or if I'm driving but
+
+183
+00:06:22,629 --> 00:06:25,448
+otherwise I'll just open up the Notes
+
+184
+00:06:23,918 --> 00:06:27,938
+app and I'll simply write out a couple
+
+185
+00:06:25,449 --> 00:06:29,830
+of notes of you know the idea that I
+
+186
+00:06:27,939 --> 00:06:32,108
+have I usually don't go to long form
+
+187
+00:06:29,829 --> 00:06:33,878
+sometimes if it's like a really
+
+188
+00:06:32,110 --> 00:06:35,440
+important idea I might actually put it
+
+189
+00:06:33,879 --> 00:06:37,899
+on my to-do list as something that I
+
+190
+00:06:35,439 --> 00:06:38,588
+have to do now and with to-do lists what
+
+191
+00:06:37,899 --> 00:06:41,468
+are you use for that
+
+192
+00:06:38,589 --> 00:06:45,459
+yeah I use an app called to do its few
+
+193
+00:06:41,470 --> 00:06:47,590
+UX de UX oh okay that yeah yeah yes
+
+194
+00:06:45,459 --> 00:06:49,298
+really awesome I you know found out
+
+195
+00:06:47,589 --> 00:06:50,709
+about them probably the five or six
+
+196
+00:06:49,300 --> 00:06:51,219
+years ago and I've been using them ever
+
+197
+00:06:50,709 --> 00:06:54,007
+since
+
+198
+00:06:51,220 --> 00:06:56,888
+it is crazy simple it's when you open it
+
+199
+00:06:54,009 --> 00:06:59,739
+up on your web browser all you see are I
+
+200
+00:06:56,889 --> 00:07:01,978
+think it's five days of the week and
+
+201
+00:06:59,740 --> 00:07:04,810
+then it continually just shifts over and
+
+202
+00:07:01,978 --> 00:07:06,939
+if something's done you obviously check
+
+203
+00:07:04,810 --> 00:07:08,318
+it off and then it Gray's out and if you
+
+204
+00:07:06,939 --> 00:07:09,879
+haven't done it that day it'll just
+
+205
+00:07:08,319 --> 00:07:12,098
+automatically move to the next day so
+
+206
+00:07:09,879 --> 00:07:13,749
+it's like is it like Kanban is it's kind
+
+207
+00:07:12,098 --> 00:07:15,998
+of like sideways then it's not just a
+
+208
+00:07:13,750 --> 00:07:17,889
+straight-up list of tasks yeah it'll be
+
+209
+00:07:16,000 --> 00:07:19,740
+like yeah it'll be like you know Monday
+
+210
+00:07:17,889 --> 00:07:22,869
+Tuesday Wednesday Thursday Friday
+
+211
+00:07:19,740 --> 00:07:24,419
+basically each day so then I could also
+
+212
+00:07:22,870 --> 00:07:26,469
+like add things to my to do this video
+
+213
+00:07:24,418 --> 00:07:28,418
+I'm not gonna go to get that done today
+
+214
+00:07:26,468 --> 00:07:29,977
+I'll put it tomorrow or the next day I
+
+215
+00:07:28,418 --> 00:07:33,068
+think one of the biggest things for me
+
+216
+00:07:29,978 --> 00:07:35,258
+is making sure that I'm not overloading
+
+217
+00:07:33,069 --> 00:07:37,809
+my to-do list and I'm not doing too much
+
+218
+00:07:35,259 --> 00:07:39,969
+so I usually pick around two to three
+
+219
+00:07:37,810 --> 00:07:41,800
+really important tasks that I want to do
+
+220
+00:07:39,968 --> 00:07:43,988
+that day okay and when you're planning
+
+221
+00:07:41,800 --> 00:07:46,750
+out your day is it the night before is
+
+222
+00:07:43,990 --> 00:07:48,400
+it like a week in advance how are you
+
+223
+00:07:46,750 --> 00:07:51,1000
+planning out individual days yeah when
+
+224
+00:07:48,399 --> 00:07:55,658
+I'm planning my days it varies you know
+
+225
+00:07:52,000 --> 00:07:57,429
+I I'm pretty type-a okay but there
+
+226
+00:07:55,658 --> 00:07:59,678
+there's a part of me that's also kind of
+
+227
+00:07:57,430 --> 00:08:01,300
+flexible and needs to go with things in
+
+228
+00:07:59,680 --> 00:08:03,939
+the moment and like what I feel like
+
+229
+00:08:01,300 --> 00:08:06,580
+doing so I mean I could have a task that
+
+230
+00:08:03,939 --> 00:08:08,679
+says like right next week's video
+
+231
+00:08:06,579 --> 00:08:10,239
+but then when I wake up in the morning
+
+232
+00:08:08,680 --> 00:08:12,300
+like I try and I'm just like I just
+
+233
+00:08:10,240 --> 00:08:14,799
+don't like I'm not inspired right now
+
+234
+00:08:12,300 --> 00:08:17,679
+you know what I'd rather right now to
+
+235
+00:08:14,800 --> 00:08:19,538
+start like editing my video that's going
+
+236
+00:08:17,680 --> 00:08:21,159
+live this week and let me just work
+
+237
+00:08:19,538 --> 00:08:22,778
+through that a little bit to feel a
+
+238
+00:08:21,158 --> 00:08:25,149
+little bit productive to kind of build
+
+239
+00:08:22,778 --> 00:08:26,859
+that momentum of work it's still on my
+
+240
+00:08:25,149 --> 00:08:30,068
+to-do list and I'll probably get to it
+
+241
+00:08:26,860 --> 00:08:32,228
+but at least I could it's kind of I'm
+
+242
+00:08:30,069 --> 00:08:32,658
+willing to be flexible in the moment if
+
+243
+00:08:32,229 --> 00:08:34,519
+I have
+
+244
+00:08:32,659 --> 00:08:37,069
+- so what you're saying is as one of you
+
+245
+00:08:34,519 --> 00:08:39,379
+twos productivity gurus you don't stick
+
+246
+00:08:37,070 --> 00:08:40,038
+to your plan I don't no no no he's got
+
+247
+00:08:39,379 --> 00:08:42,559
+scandal
+
+248
+00:08:40,038 --> 00:08:44,659
+yeah a hundred percent you throw the
+
+249
+00:08:42,559 --> 00:08:46,039
+plane out the window like what once you
+
+250
+00:08:44,659 --> 00:08:47,418
+get everybody has a plan until you get
+
+251
+00:08:46,039 --> 00:08:50,479
+punched in the face I think Mike Tyson
+
+252
+00:08:47,419 --> 00:08:52,968
+said that yep so yeah actually Michael
+
+253
+00:08:50,480 --> 00:08:56,449
+Scott Michael Scott said that you know
+
+254
+00:08:52,970 --> 00:09:01,550
+yeah I was most of the time I would say
+
+255
+00:08:56,450 --> 00:09:04,450
+I stick to it I what I also do is I will
+
+256
+00:09:01,549 --> 00:09:06,739
+sometimes add my personal tasks to my
+
+257
+00:09:04,450 --> 00:09:08,360
+professional to-do list like a lot of
+
+258
+00:09:06,740 --> 00:09:09,980
+people talk about work-life balance so
+
+259
+00:09:08,360 --> 00:09:12,290
+do you usually keep them separate no I
+
+260
+00:09:09,980 --> 00:09:13,790
+don't so I kind of I always bring them
+
+261
+00:09:12,289 --> 00:09:15,619
+all together the kind of thing for me -
+
+262
+00:09:13,789 --> 00:09:17,148
+yeah and but it's not like I'm not
+
+263
+00:09:15,620 --> 00:09:19,940
+putting every single thing that I would
+
+264
+00:09:17,149 --> 00:09:22,879
+do personally on this list but it's like
+
+265
+00:09:19,940 --> 00:09:25,039
+the big things like I will put my the
+
+266
+00:09:22,879 --> 00:09:27,199
+workout or the exercise routine that I'm
+
+267
+00:09:25,039 --> 00:09:28,699
+doing for the gym okay one thing it's
+
+268
+00:09:27,200 --> 00:09:30,019
+actually surprisingly difficult to
+
+269
+00:09:28,700 --> 00:09:31,820
+remember when you're going to the gym
+
+270
+00:09:30,019 --> 00:09:34,009
+four or five days a week to remember did
+
+271
+00:09:31,820 --> 00:09:36,440
+I workout biceps yesterday or did I do
+
+272
+00:09:34,009 --> 00:09:38,598
+back or legs and like it's very easy to
+
+273
+00:09:36,440 --> 00:09:40,250
+kind of mix those up so that way I know
+
+274
+00:09:38,600 --> 00:09:42,140
+that it's there and I can also keep
+
+275
+00:09:40,250 --> 00:09:44,120
+track of what I'm working out but I will
+
+276
+00:09:42,139 --> 00:09:45,379
+also like there's actually a separate
+
+277
+00:09:44,120 --> 00:09:48,410
+section on the to-do list where you can
+
+278
+00:09:45,379 --> 00:09:50,449
+add groceries and other stuff so oh cool
+
+279
+00:09:48,409 --> 00:09:51,859
+yeah I will kind of I don't know that
+
+280
+00:09:50,450 --> 00:09:53,450
+people believe in this the work/life
+
+281
+00:09:51,860 --> 00:09:56,119
+balance that everything needs to be
+
+282
+00:09:53,450 --> 00:09:58,579
+separated but at least with the work I
+
+283
+00:09:56,120 --> 00:10:00,560
+do I feel like my life is so intertwined
+
+284
+00:09:58,580 --> 00:10:02,330
+with it like I really love my work I
+
+285
+00:10:00,559 --> 00:10:05,959
+wake up every morning really excited to
+
+286
+00:10:02,330 --> 00:10:08,360
+work yeah and so I I don't mind like
+
+287
+00:10:05,960 --> 00:10:08,660
+bringing my personal life together with
+
+288
+00:10:08,360 --> 00:10:09,980
+it
+
+289
+00:10:08,659 --> 00:10:11,629
+yeah and the way I see it unless the
+
+290
+00:10:09,980 --> 00:10:13,730
+corporation is forcing you to use a
+
+291
+00:10:11,629 --> 00:10:16,279
+specific tool like I don't know Outlook
+
+292
+00:10:13,730 --> 00:10:18,529
+or something for your job you know one
+
+293
+00:10:16,279 --> 00:10:19,729
+tool can kind of work for everything as
+
+294
+00:10:18,529 --> 00:10:21,649
+long as you know how to split things up
+
+295
+00:10:19,730 --> 00:10:22,310
+whether it be by labels or projects or
+
+296
+00:10:21,649 --> 00:10:25,488
+what-have-you
+
+297
+00:10:22,309 --> 00:10:28,188
+yeah that works pretty well yeah so you
+
+298
+00:10:25,490 --> 00:10:30,980
+use one to-do app mhm and do use like a
+
+299
+00:10:28,190 --> 00:10:32,869
+calendar app as well as a calendar app I
+
+300
+00:10:30,980 --> 00:10:36,409
+guess the regular Apple one I use Google
+
+301
+00:10:32,870 --> 00:10:38,719
+actually yeah I use Google calendars and
+
+302
+00:10:36,409 --> 00:10:43,128
+like within the calendar you would see
+
+303
+00:10:38,720 --> 00:10:46,010
+that I have I usually create like a day
+
+304
+00:10:43,129 --> 00:10:47,449
+then for each piece of content I'm gonna
+
+305
+00:10:46,009 --> 00:10:49,098
+create okay it's all under a different
+
+306
+00:10:47,450 --> 00:10:50,990
+calendar so has a different color label
+
+307
+00:10:49,100 --> 00:10:52,550
+so if I'm releasing a YouTube video that
+
+308
+00:10:50,990 --> 00:10:54,530
+would be yellow in the calendar if it's
+
+309
+00:10:52,549 --> 00:10:57,138
+a patreon exclusive video it would be
+
+310
+00:10:54,529 --> 00:10:59,149
+orange in the calendar and then my
+
+311
+00:10:57,139 --> 00:11:01,009
+podcast would be a separate color in the
+
+312
+00:10:59,149 --> 00:11:03,079
+calendar every Thursday and those are
+
+313
+00:11:01,009 --> 00:11:05,478
+like to me and actually what's
+
+314
+00:11:03,080 --> 00:11:07,010
+interesting about that or not to pin the
+
+315
+00:11:05,480 --> 00:11:08,660
+code I mean if you watch this far you'd
+
+316
+00:11:07,009 --> 00:11:10,549
+probably find this boring stuff
+
+317
+00:11:08,659 --> 00:11:12,349
+interesting but this is also how I
+
+318
+00:11:10,549 --> 00:11:14,029
+planned my videos into the future so
+
+319
+00:11:12,350 --> 00:11:16,430
+right now I'm kind of like crazy ahead
+
+320
+00:11:14,029 --> 00:11:19,279
+where I have three months ahead of video
+
+321
+00:11:16,429 --> 00:11:21,648
+ideas for every Tuesday markdown that's
+
+322
+00:11:19,279 --> 00:11:22,848
+awesome yeah so it's just the concept I
+
+323
+00:11:21,649 --> 00:11:25,249
+don't have these videos written or
+
+324
+00:11:22,850 --> 00:11:27,170
+scripted out or anything but I have a
+
+325
+00:11:25,250 --> 00:11:29,509
+general idea of where I want to go with
+
+326
+00:11:27,169 --> 00:11:32,329
+it and when I'm creating these videos
+
+327
+00:11:29,509 --> 00:11:33,709
+have a nice balance right so it's like
+
+328
+00:11:32,330 --> 00:11:35,240
+alright I haven't made a video about
+
+329
+00:11:33,710 --> 00:11:37,219
+minimalism in a while I think it'd be a
+
+330
+00:11:35,240 --> 00:11:38,900
+good time to kind of workshop an idea
+
+331
+00:11:37,220 --> 00:11:41,300
+that would fit that maybe I can do one
+
+332
+00:11:38,899 --> 00:11:43,759
+of habits this year I'm doing every
+
+333
+00:11:41,299 --> 00:11:45,379
+month 30-day challenge so that's always
+
+334
+00:11:43,759 --> 00:11:47,928
+rosy yeah so that one needs to be
+
+335
+00:11:45,379 --> 00:11:51,289
+slotted in at some point and I try to
+
+336
+00:11:47,929 --> 00:11:53,299
+figure out that balance there is part of
+
+337
+00:11:51,289 --> 00:11:55,789
+me that always feels like I should I
+
+338
+00:11:53,299 --> 00:11:56,899
+should do two videos this week okay now
+
+339
+00:11:55,789 --> 00:11:58,009
+that I have three months of ideas I'm
+
+340
+00:11:56,899 --> 00:11:59,568
+like all would be great to really put
+
+341
+00:11:58,009 --> 00:12:01,848
+out just a couple extra videos in there
+
+342
+00:11:59,570 --> 00:12:04,459
+but I try to release that temptation
+
+343
+00:12:01,850 --> 00:12:06,380
+because I just know that's the fastest
+
+344
+00:12:04,460 --> 00:12:08,660
+way to lead to burnout mm-hmm have you
+
+345
+00:12:06,379 --> 00:12:10,879
+tried in the past yes I did about two
+
+346
+00:12:08,659 --> 00:12:12,228
+months of two videos every week okay and
+
+347
+00:12:10,879 --> 00:12:14,448
+I just noticed that one of the videos
+
+348
+00:12:12,230 --> 00:12:16,100
+would always suffer in quality my
+
+349
+00:12:14,450 --> 00:12:18,560
+personal life would certainly suffer in
+
+350
+00:12:16,100 --> 00:12:19,939
+quality and it just wasn't worth it yeah
+
+351
+00:12:18,559 --> 00:12:21,679
+I definitely had weeks where there were
+
+352
+00:12:19,940 --> 00:12:23,630
+tight deadlines and I've gotten three
+
+353
+00:12:21,679 --> 00:12:25,759
+videos out in a week and then I start to
+
+354
+00:12:23,629 --> 00:12:26,959
+convince myself oh I could do three
+
+355
+00:12:25,759 --> 00:12:28,759
+videos a week just like all these other
+
+356
+00:12:26,960 --> 00:12:31,129
+big youtubers you know they're so
+
+357
+00:12:28,759 --> 00:12:33,379
+productive why can't I be but no that's
+
+358
+00:12:31,129 --> 00:12:34,939
+it's a recipe for burnout for sure
+
+359
+00:12:33,379 --> 00:12:36,258
+that's definitely where it comes from it
+
+360
+00:12:34,940 --> 00:12:37,910
+definitely comes from seeing other
+
+361
+00:12:36,259 --> 00:12:39,618
+people and other channels people who I
+
+362
+00:12:37,909 --> 00:12:41,719
+admire people who I really love their
+
+363
+00:12:39,620 --> 00:12:43,430
+content and I'm like how the hell are
+
+364
+00:12:41,720 --> 00:12:45,710
+they putting out three videos a week
+
+365
+00:12:43,429 --> 00:12:47,359
+like this is absurd the amount of time
+
+366
+00:12:45,710 --> 00:12:50,929
+and energy goes to make these videos and
+
+367
+00:12:47,360 --> 00:12:52,520
+like one you just never know what's
+
+368
+00:12:50,929 --> 00:12:54,438
+actually going on behind the scenes like
+
+369
+00:12:52,519 --> 00:12:55,759
+they could have a big team they also
+
+370
+00:12:54,440 --> 00:12:56,489
+could be really stressed out and it
+
+371
+00:12:55,759 --> 00:12:58,319
+could be over
+
+372
+00:12:56,490 --> 00:13:00,240
+it could be like not the best thing for
+
+373
+00:12:58,320 --> 00:13:03,030
+their own health yeah so I try not to
+
+374
+00:13:00,240 --> 00:13:04,470
+measure myself based on other metrics
+
+375
+00:13:03,029 --> 00:13:06,479
+whether it's the number of videos
+
+376
+00:13:04,470 --> 00:13:07,619
+somebody else is creating how much money
+
+377
+00:13:06,480 --> 00:13:09,629
+somebody else is making or how many
+
+378
+00:13:07,620 --> 00:13:11,610
+views they're making and I try to just
+
+379
+00:13:09,629 --> 00:13:14,548
+measure it based on am I happy do I feel
+
+380
+00:13:11,610 --> 00:13:16,610
+and am I happy with how the videos that
+
+381
+00:13:14,549 --> 00:13:19,648
+I'm making am i proud of what I'm making
+
+382
+00:13:16,610 --> 00:13:21,720
+intrinsic versus extrinsic it's hard to
+
+383
+00:13:19,649 --> 00:13:23,548
+do it's easier said than done but that's
+
+384
+00:13:21,720 --> 00:13:26,580
+kind of what I strive for gotcha
+
+385
+00:13:23,549 --> 00:13:28,919
+yeah I found that people on the internet
+
+386
+00:13:26,580 --> 00:13:31,679
+are sort of professionally good at
+
+387
+00:13:28,919 --> 00:13:33,808
+making it look like it's all easy hmm
+
+388
+00:13:31,679 --> 00:13:35,609
+and you may I know you put your video on
+
+389
+00:13:33,809 --> 00:13:38,099
+anxiety and a few other people have kind
+
+390
+00:13:35,610 --> 00:13:39,840
+of come clean with how stressed out they
+
+391
+00:13:38,100 --> 00:13:41,340
+are and being at VidCon you hear a lot
+
+392
+00:13:39,840 --> 00:13:44,639
+of just like oh yeah it's it's you know
+
+393
+00:13:41,340 --> 00:13:46,380
+it's a complete you know just absolute
+
+394
+00:13:44,639 --> 00:13:48,478
+disaster yeah and I'm always stressed
+
+395
+00:13:46,379 --> 00:13:50,099
+out but they make it look easy yeah and
+
+396
+00:13:48,480 --> 00:13:52,350
+I think that's that's something that I'm
+
+397
+00:13:50,100 --> 00:13:54,060
+trying to work on because a lot of my
+
+398
+00:13:52,350 --> 00:13:56,460
+videos like just at least my filmmaking
+
+399
+00:13:54,059 --> 00:13:58,198
+style it can be a very clean cut
+
+400
+00:13:56,460 --> 00:14:00,150
+type a it can look like I have
+
+401
+00:13:58,200 --> 00:14:02,039
+everything together and I did have like
+
+402
+00:14:00,149 --> 00:14:04,139
+Maddie H who we were talking about
+
+403
+00:14:02,039 --> 00:14:06,269
+another awesome youtuber like he
+
+404
+00:14:04,139 --> 00:14:07,319
+commented on my anxiety video and he's
+
+405
+00:14:06,269 --> 00:14:09,148
+like dude I never would have known that
+
+406
+00:14:07,320 --> 00:14:11,369
+you were going through this because like
+
+407
+00:14:09,149 --> 00:14:13,168
+it just looks like you're like somebody
+
+408
+00:14:11,370 --> 00:14:14,999
+who's just got his together that's
+
+409
+00:14:13,169 --> 00:14:15,809
+like I will say that a lot of times I do
+
+410
+00:14:15,000 --> 00:14:18,149
+have my together
+
+411
+00:14:15,809 --> 00:14:19,948
+but like we all have our lows and we all
+
+412
+00:14:18,149 --> 00:14:21,599
+have these really challenging periods of
+
+413
+00:14:19,950 --> 00:14:24,119
+our lives and it doesn't matter how many
+
+414
+00:14:21,600 --> 00:14:25,320
+subscribers you get or how much money
+
+415
+00:14:24,120 --> 00:14:26,789
+you're making you're always gonna have
+
+416
+00:14:25,320 --> 00:14:29,369
+these really difficult things to get
+
+417
+00:14:26,789 --> 00:14:30,869
+through yeah and I think it's like you
+
+418
+00:14:29,370 --> 00:14:32,999
+just try to be more open and honest
+
+419
+00:14:30,870 --> 00:14:34,019
+about that in each video you make it's
+
+420
+00:14:33,000 --> 00:14:36,660
+like I'm not gonna do a video about
+
+421
+00:14:34,019 --> 00:14:38,938
+anxiety every single day I still haven't
+
+422
+00:14:36,659 --> 00:14:41,248
+yeah exactly but it's here right still
+
+423
+00:14:38,940 --> 00:14:44,310
+going on but I think it's like it's it's
+
+424
+00:14:41,250 --> 00:14:45,780
+helpful to be real and authentic as much
+
+425
+00:14:44,309 --> 00:14:48,059
+as that word is thrown around these days
+
+426
+00:14:45,779 --> 00:14:49,979
+I think yeah real authenticity helps
+
+427
+00:14:48,059 --> 00:14:51,929
+yeah there's like a pressure to put on
+
+428
+00:14:49,980 --> 00:14:54,180
+this I don't know strong face on the
+
+429
+00:14:51,929 --> 00:14:55,409
+internet but I guess you know you've
+
+430
+00:14:54,179 --> 00:14:57,239
+discovered this I've discovered this
+
+431
+00:14:55,409 --> 00:14:58,918
+from my limited you know moments of
+
+432
+00:14:57,240 --> 00:15:00,539
+vulnerability when you do communicate
+
+433
+00:14:58,919 --> 00:15:03,329
+what you're going through it actually
+
+434
+00:15:00,539 --> 00:15:04,739
+helps people relate yeah because I think
+
+435
+00:15:03,330 --> 00:15:08,280
+that you know people especially in the
+
+436
+00:15:04,740 --> 00:15:10,140
+help itself helps to a space can run the
+
+437
+00:15:08,279 --> 00:15:11,368
+risk of making it seem
+
+438
+00:15:10,139 --> 00:15:12,359
+like everything's too easy for them or
+
+439
+00:15:11,370 --> 00:15:13,979
+that like they have everything together
+
+440
+00:15:12,360 --> 00:15:15,029
+and then people watching or like well
+
+441
+00:15:13,980 --> 00:15:17,460
+you know what's wrong with me
+
+442
+00:15:15,029 --> 00:15:18,928
+why can't I do that why I not feeling
+
+443
+00:15:17,460 --> 00:15:20,819
+you know nothing but pure bliss all the
+
+444
+00:15:18,929 --> 00:15:23,068
+time and then they get to see like oh
+
+445
+00:15:20,820 --> 00:15:24,959
+the people that I'm watching they also
+
+446
+00:15:23,070 --> 00:15:26,909
+go through the same exact human
+
+447
+00:15:24,960 --> 00:15:30,299
+struggles yeah that was a turning point
+
+448
+00:15:26,909 --> 00:15:33,029
+for me I would say probably last year at
+
+449
+00:15:30,299 --> 00:15:35,518
+the beginning of the year where I felt
+
+450
+00:15:33,029 --> 00:15:38,668
+like I was hitting a wall in terms of
+
+451
+00:15:35,519 --> 00:15:41,908
+what continent could create because I I
+
+452
+00:15:38,669 --> 00:15:44,279
+just was only talking about what I knew
+
+453
+00:15:41,909 --> 00:15:46,319
+and what I was an expert in yep and then
+
+454
+00:15:44,279 --> 00:15:48,448
+I was like this is I I only got two
+
+455
+00:15:46,320 --> 00:15:50,489
+things I've got filmmaking and I've got
+
+456
+00:15:48,450 --> 00:15:52,560
+minimalism and like that's like and like
+
+457
+00:15:50,490 --> 00:15:54,420
+the minimalism I'm like am I an expert
+
+458
+00:15:52,559 --> 00:15:56,159
+I'm not Marie Kondo but I'm like I know
+
+459
+00:15:54,419 --> 00:15:57,568
+enough to talk about it mm-hm and I'm
+
+460
+00:15:56,159 --> 00:15:59,308
+like okay but I need to branch out and
+
+461
+00:15:57,570 --> 00:16:00,989
+I'm getting a little bit bored talking
+
+462
+00:15:59,309 --> 00:16:02,608
+about these same things yeah so I was
+
+463
+00:16:00,990 --> 00:16:04,559
+like what if instead of being an expert
+
+464
+00:16:02,610 --> 00:16:05,880
+I was an experimenter what if I didn't
+
+465
+00:16:04,559 --> 00:16:07,349
+hook the box and I just started playing
+
+466
+00:16:05,879 --> 00:16:09,028
+around with things and I do that's where
+
+467
+00:16:07,350 --> 00:16:10,680
+the experiments came from like cold
+
+468
+00:16:09,029 --> 00:16:12,299
+showers for 30 days like I'm not an
+
+469
+00:16:10,679 --> 00:16:14,489
+expert in cold showers I don't know who
+
+470
+00:16:12,299 --> 00:16:15,868
+is I'm not wim HOF right but I can
+
+471
+00:16:14,490 --> 00:16:18,059
+actually explore this and I can learn
+
+472
+00:16:15,870 --> 00:16:19,590
+about it and I think that to me has made
+
+473
+00:16:18,059 --> 00:16:21,929
+the process more enjoyable and it's
+
+474
+00:16:19,590 --> 00:16:24,300
+again taking the pressure off to be like
+
+475
+00:16:21,929 --> 00:16:25,799
+the expert in everything yeah you're
+
+476
+00:16:24,299 --> 00:16:27,299
+learning along with the audience
+
+477
+00:16:25,799 --> 00:16:29,098
+essentially yeah I kind of hit the same
+
+478
+00:16:27,299 --> 00:16:31,019
+wall you know it how many times can you
+
+479
+00:16:29,100 --> 00:16:32,820
+make a video about to-do lists before
+
+480
+00:16:31,019 --> 00:16:34,289
+you said everything you want to say and
+
+481
+00:16:32,820 --> 00:16:37,050
+then I kind of had this realization like
+
+482
+00:16:34,289 --> 00:16:39,418
+you know the power of habit was written
+
+483
+00:16:37,049 --> 00:16:41,159
+by a journalist and he went out and he
+
+484
+00:16:39,419 --> 00:16:42,659
+dug to get a story and then that turned
+
+485
+00:16:41,159 --> 00:16:44,308
+into a book okay well maybe I need to be
+
+486
+00:16:42,659 --> 00:16:46,409
+a journalist and go ask questions again
+
+487
+00:16:44,309 --> 00:16:48,208
+go do interviews like this series yeah
+
+488
+00:16:46,409 --> 00:16:49,589
+and you know yeah you just can't you
+
+489
+00:16:48,210 --> 00:16:51,390
+can't talk about only what you know
+
+490
+00:16:49,590 --> 00:16:52,920
+forever especially when your job is
+
+491
+00:16:51,389 --> 00:16:54,929
+professional content creator yeah
+
+492
+00:16:52,919 --> 00:16:57,808
+because all of your time is invested in
+
+493
+00:16:54,929 --> 00:16:59,579
+that instead of yeah you know forget
+
+494
+00:16:57,809 --> 00:17:01,049
+about that people forget about the fact
+
+495
+00:16:59,580 --> 00:17:03,419
+that like the actual job is making
+
+496
+00:17:01,049 --> 00:17:07,198
+videos and they think that the job is
+
+497
+00:17:03,419 --> 00:17:08,337
+just knowing stuff I'm not sure yeah you
+
+498
+00:17:07,199 --> 00:17:09,958
+know eight hours a day I'm getting rid
+
+499
+00:17:08,338 --> 00:17:12,679
+of stuff yeah I used to think about that
+
+500
+00:17:09,959 --> 00:17:14,1000
+though - I tell my friend who's a
+
+501
+00:17:12,680 --> 00:17:16,380
+self-development life coach and I was
+
+502
+00:17:15,000 --> 00:17:18,990
+like man I'm like I envy you because
+
+503
+00:17:16,380 --> 00:17:20,399
+your job is to like work on yourself
+
+504
+00:17:18,990 --> 00:17:21,990
+and to like you know write about
+
+505
+00:17:20,400 --> 00:17:22,799
+self-development and always be learning
+
+506
+00:17:21,990 --> 00:17:25,769
+about that
+
+507
+00:17:22,799 --> 00:17:27,087
+and it is true that that's a great place
+
+508
+00:17:25,769 --> 00:17:28,588
+to be in but it's also true that that's
+
+509
+00:17:27,088 --> 00:17:30,088
+a hell of a lot of work yeah and there's
+
+510
+00:17:28,589 --> 00:17:31,888
+also twice as much work as you think
+
+511
+00:17:30,089 --> 00:17:33,419
+that is there yeah exactly
+
+512
+00:17:31,890 --> 00:17:36,120
+so I want to talk about your
+
+513
+00:17:33,420 --> 00:17:38,849
+organization essentially the space
+
+514
+00:17:36,119 --> 00:17:41,279
+you're in the files all that good stuff
+
+515
+00:17:38,849 --> 00:17:43,198
+and obviously the coolest thing is what
+
+516
+00:17:41,279 --> 00:17:45,298
+we're sitting right behind your closet
+
+517
+00:17:43,200 --> 00:17:47,640
+here so tell me a little bit about how
+
+518
+00:17:45,299 --> 00:17:48,868
+you got your camera gear organized I
+
+519
+00:17:47,640 --> 00:17:50,789
+love that you've got the coolest thing
+
+520
+00:17:48,869 --> 00:17:51,509
+as my closet dude it's like you're my
+
+521
+00:17:50,789 --> 00:17:53,579
+kind of guy
+
+522
+00:17:51,509 --> 00:17:56,278
+Natalie does not care about this at all
+
+523
+00:17:53,579 --> 00:17:58,258
+but I'm like this to me was a I'm super
+
+524
+00:17:56,279 --> 00:18:00,109
+proud of it it's a it's funny because I
+
+525
+00:17:58,259 --> 00:18:02,999
+don't know where all this stuff was
+
+526
+00:18:00,109 --> 00:18:04,349
+before I we moved into this new place we
+
+527
+00:18:03,000 --> 00:18:06,660
+just moved here a couple months ago and
+
+528
+00:18:04,349 --> 00:18:10,318
+this is the first time that I've had an
+
+529
+00:18:06,660 --> 00:18:11,879
+actual studio to work from that I can
+
+530
+00:18:10,319 --> 00:18:14,218
+have my gear organized in the way that I
+
+531
+00:18:11,880 --> 00:18:16,979
+want it yeah shoved under the bed shoved
+
+532
+00:18:14,220 --> 00:18:18,059
+in a closet somewhere and so I put a lot
+
+533
+00:18:16,980 --> 00:18:20,069
+of thought into it I'm like how do I
+
+534
+00:18:18,059 --> 00:18:24,118
+want this organized I kind of went with
+
+535
+00:18:20,069 --> 00:18:26,698
+this idea of what if I made my stuff be
+
+536
+00:18:24,119 --> 00:18:28,468
+like the decor mm-hm and it's kind of a
+
+537
+00:18:26,700 --> 00:18:30,300
+play on minimalism what if I just laid
+
+538
+00:18:28,470 --> 00:18:32,939
+out all my camera gear all my things on
+
+539
+00:18:30,299 --> 00:18:34,678
+a pegboard and then you know what if I
+
+540
+00:18:32,940 --> 00:18:36,180
+laid my lenses out pulling from
+
+541
+00:18:34,680 --> 00:18:38,370
+inspiration from other youtubers other
+
+542
+00:18:36,180 --> 00:18:40,649
+other videos that I've seen online but
+
+543
+00:18:38,369 --> 00:18:42,569
+also just trying to keep everything
+
+544
+00:18:40,650 --> 00:18:45,060
+organized and easy to go
+
+545
+00:18:42,569 --> 00:18:47,189
+having my battery station set up so I
+
+546
+00:18:45,059 --> 00:18:49,738
+can charge any battery for any device I
+
+547
+00:18:47,190 --> 00:18:51,900
+have yeah load it right out that saves
+
+548
+00:18:49,740 --> 00:18:53,309
+me a ton of time that's genius just yeah
+
+549
+00:18:51,900 --> 00:18:55,049
+because it's always plugged in and I'm
+
+550
+00:18:53,309 --> 00:18:57,328
+guessing you probably do like one of the
+
+551
+00:18:55,049 --> 00:18:59,039
+charger at all time so you have an extra
+
+552
+00:18:57,329 --> 00:19:00,358
+to go yeah so usually when I finish a
+
+553
+00:18:59,039 --> 00:19:01,769
+shoot I'll take all the batteries and
+
+554
+00:19:00,359 --> 00:19:04,258
+then I'll put them on the top shelf
+
+555
+00:19:01,769 --> 00:19:06,089
+there and then I'll load all the
+
+556
+00:19:04,259 --> 00:19:08,339
+batteries up there so be a few left over
+
+557
+00:19:06,089 --> 00:19:09,988
+that aren't charged I'll go through
+
+558
+00:19:08,339 --> 00:19:11,609
+charge all those maybe I'll come back a
+
+559
+00:19:09,990 --> 00:19:13,680
+couple hours later take them off put
+
+560
+00:19:11,609 --> 00:19:15,658
+them in where they're designated in like
+
+561
+00:19:13,680 --> 00:19:17,039
+the drawer below it yeah and then the
+
+562
+00:19:15,660 --> 00:19:18,269
+cube goes from there and I think the
+
+563
+00:19:17,039 --> 00:19:20,188
+batteries from the top and then I charge
+
+564
+00:19:18,269 --> 00:19:22,318
+those and then Ovation so then basically
+
+565
+00:19:20,190 --> 00:19:24,150
+no uncharged batteries go in that drawer
+
+566
+00:19:22,319 --> 00:19:26,189
+because that's a mess when you just look
+
+567
+00:19:24,150 --> 00:19:27,989
+at a stack of 20 batteries you know
+
+568
+00:19:26,190 --> 00:19:29,580
+which one of these is charged yeah isn't
+
+569
+00:19:27,990 --> 00:19:31,530
+it can be stressful and like you have to
+
+570
+00:19:29,579 --> 00:19:32,429
+go out and charge each one for me the
+
+571
+00:19:31,529 --> 00:19:33,868
+biggest thing when it comes to
+
+572
+00:19:32,430 --> 00:19:35,479
+organization when it comes to setting up
+
+573
+00:19:33,869 --> 00:19:38,208
+my workspace my desk my
+
+574
+00:19:35,480 --> 00:19:40,100
+space even setting my files online it's
+
+575
+00:19:38,210 --> 00:19:43,309
+like how can I reduce as much friction
+
+576
+00:19:40,099 --> 00:19:45,379
+as possible yeah so it's easy to get to
+
+577
+00:19:43,309 --> 00:19:48,469
+work even in setting up this desk right
+
+578
+00:19:45,380 --> 00:19:50,780
+here I originally had it kind of jutting
+
+579
+00:19:48,470 --> 00:19:53,029
+out into the room and it created a nook
+
+580
+00:19:50,779 --> 00:19:55,248
+behind it but I just felt myself like
+
+581
+00:19:53,029 --> 00:19:57,259
+this is gonna sound crazy but it's like
+
+582
+00:19:55,250 --> 00:19:58,459
+I was so much less likely to walk all
+
+583
+00:19:57,259 --> 00:20:00,169
+the way around I can walk around the
+
+584
+00:19:58,460 --> 00:20:02,839
+gear I had to get around the desk and
+
+585
+00:20:00,170 --> 00:20:04,849
+then sit down and I'm like I just want
+
+586
+00:20:02,839 --> 00:20:06,319
+my body because I sometimes we're just
+
+587
+00:20:04,849 --> 00:20:08,569
+on most of them were just on autopilot
+
+588
+00:20:06,319 --> 00:20:10,158
+so I'm like I just need the V straight
+
+589
+00:20:08,569 --> 00:20:12,379
+like or a straight line straight to my
+
+590
+00:20:10,160 --> 00:20:13,820
+desk and then boom I sit down and then I
+
+591
+00:20:12,380 --> 00:20:15,889
+get to work and I've noticed like it has
+
+592
+00:20:13,819 --> 00:20:17,419
+helped me out so much yeah so I try to
+
+593
+00:20:15,890 --> 00:20:19,189
+be thoughtful at every single thing in
+
+594
+00:20:17,420 --> 00:20:20,810
+the apartment to reduce that friction as
+
+595
+00:20:19,190 --> 00:20:22,940
+much as I can that was a big thing for
+
+596
+00:20:20,809 --> 00:20:24,858
+me and music when I got my new house I
+
+597
+00:20:22,940 --> 00:20:26,600
+built this really cool recording studio
+
+598
+00:20:24,859 --> 00:20:29,059
+upstairs and I realized like I'm not
+
+599
+00:20:26,599 --> 00:20:30,709
+going upstairs to grab the guitar and
+
+600
+00:20:29,059 --> 00:20:32,809
+mess around so I just moved it all
+
+601
+00:20:30,710 --> 00:20:33,830
+downstairs like the amp the guitars
+
+602
+00:20:32,809 --> 00:20:35,958
+everything is just out in the living
+
+603
+00:20:33,829 --> 00:20:38,329
+room yeah it's so easy just grab it play
+
+604
+00:20:35,960 --> 00:20:39,620
+it and that as a result like do yeah
+
+605
+00:20:38,329 --> 00:20:42,498
+that's one of those powerful things
+
+606
+00:20:39,619 --> 00:20:44,298
+about habit change is the the changing
+
+607
+00:20:42,500 --> 00:20:48,650
+of the environment something that I've
+
+608
+00:20:44,299 --> 00:20:50,749
+learned over the past year is when I
+
+609
+00:20:48,650 --> 00:20:52,040
+feel like I'm gonna forget a habit right
+
+610
+00:20:50,750 --> 00:20:53,509
+that's the hardest thing is like how am
+
+611
+00:20:52,039 --> 00:20:55,309
+I gonna remember every day to keep doing
+
+612
+00:20:53,509 --> 00:20:56,989
+this thing yeah so when I took cold
+
+613
+00:20:55,309 --> 00:20:59,179
+showers every day for 30 days I just
+
+614
+00:20:56,990 --> 00:21:00,680
+printed up a calendar and I put it right
+
+615
+00:20:59,180 --> 00:21:02,870
+next to the shower and I taped it there
+
+616
+00:21:00,680 --> 00:21:04,939
+with a permanent marker so then every
+
+617
+00:21:02,869 --> 00:21:06,979
+time I went to take a shower and I did
+
+618
+00:21:04,940 --> 00:21:09,020
+shower daily so that was an important
+
+619
+00:21:06,980 --> 00:21:10,220
+first step and I would just exit out and
+
+620
+00:21:09,019 --> 00:21:12,858
+then I would always see it I did that
+
+621
+00:21:10,220 --> 00:21:15,109
+for meditation for the gym I'll keep my
+
+622
+00:21:12,859 --> 00:21:17,359
+protein out on the counter to remember
+
+623
+00:21:15,109 --> 00:21:20,028
+see that oh yeah I got a really gym
+
+624
+00:21:17,359 --> 00:21:22,549
+today and I think those environmental
+
+625
+00:21:20,029 --> 00:21:23,868
+changes are yeah it's just about the
+
+626
+00:21:22,549 --> 00:21:25,968
+friction it's about making it easy for
+
+627
+00:21:23,869 --> 00:21:27,319
+yourself so do you use any kind of habit
+
+628
+00:21:25,970 --> 00:21:30,739
+tracking apps or anything like that I
+
+629
+00:21:27,319 --> 00:21:32,929
+don't know I'm envious of people who do
+
+630
+00:21:30,740 --> 00:21:34,639
+because I see the the bullet journals
+
+631
+00:21:32,930 --> 00:21:36,380
+and I'm like those things look so cool
+
+632
+00:21:34,640 --> 00:21:38,419
+and like you I mean I'm sure you've seen
+
+633
+00:21:36,380 --> 00:21:40,159
+them online like they're super artistic
+
+634
+00:21:38,420 --> 00:21:42,230
+and beautiful and like people have these
+
+635
+00:21:40,160 --> 00:21:44,150
+amazing illustrations but I'm like I
+
+636
+00:21:42,230 --> 00:21:47,180
+don't I don't have the time right now
+
+637
+00:21:44,150 --> 00:21:48,380
+to make my notebook creative like for me
+
+638
+00:21:47,180 --> 00:21:50,380
+that would actually be reverse
+
+639
+00:21:48,380 --> 00:21:53,839
+productive to like spend too much time
+
+640
+00:21:50,380 --> 00:21:56,120
+doing that I understand how habit
+
+641
+00:21:53,839 --> 00:21:57,769
+tracking can help people and I think I
+
+642
+00:21:56,119 --> 00:21:59,059
+might experiment with in the future and
+
+643
+00:21:57,769 --> 00:22:00,769
+just try to track certain things in my
+
+644
+00:21:59,059 --> 00:22:02,749
+life yeah when I'm doing 30-day
+
+645
+00:22:00,769 --> 00:22:05,089
+challenges I track things but I don't
+
+646
+00:22:02,750 --> 00:22:07,339
+have like a specific system for tracking
+
+647
+00:22:05,089 --> 00:22:08,899
+those habits in the long run I do do
+
+648
+00:22:07,339 --> 00:22:11,569
+something called the two day rule so
+
+649
+00:22:08,900 --> 00:22:14,239
+that's when I go to the basically for my
+
+650
+00:22:11,569 --> 00:22:15,889
+gym workout routine it's like kind of a
+
+651
+00:22:14,240 --> 00:22:17,930
+keystone habit for me it's one of the
+
+652
+00:22:15,890 --> 00:22:19,370
+most important habits because it
+
+653
+00:22:17,930 --> 00:22:21,320
+influences so many other things in my
+
+654
+00:22:19,369 --> 00:22:24,138
+life when I'm going to the gym five days
+
+655
+00:22:21,319 --> 00:22:25,729
+a week four days a week I am more likely
+
+656
+00:22:24,140 --> 00:22:29,390
+to have my protein shake I'm more likely
+
+657
+00:22:25,730 --> 00:22:31,069
+to drink more water I'm gonna be eating
+
+658
+00:22:29,390 --> 00:22:33,529
+healthier just because I feel motivated
+
+659
+00:22:31,069 --> 00:22:37,248
+and more energized and I don't want to
+
+660
+00:22:33,529 --> 00:22:39,139
+you know gain John junk food so that to
+
+661
+00:22:37,250 --> 00:22:41,269
+keep that gym habit is really important
+
+662
+00:22:39,140 --> 00:22:43,340
+to me so I enact a two day rule which is
+
+663
+00:22:41,269 --> 00:22:46,398
+basically I will not let myself take two
+
+664
+00:22:43,339 --> 00:22:48,348
+doll to two days off in a row okay so so
+
+665
+00:22:46,400 --> 00:22:49,730
+you could take a rest day any day yeah
+
+666
+00:22:48,349 --> 00:22:51,469
+but it's not planned and I got in the
+
+667
+00:22:49,730 --> 00:22:52,850
+next day you must go back yes and I have
+
+668
+00:22:51,470 --> 00:22:55,550
+multiple I could take multiple days off
+
+669
+00:22:52,849 --> 00:22:57,469
+in a week - okay and you know it's it's
+
+670
+00:22:55,549 --> 00:22:59,539
+important because like I am so much more
+
+671
+00:22:57,470 --> 00:23:01,280
+likely to miss a third day if I skip -
+
+672
+00:22:59,539 --> 00:23:02,418
+yeah I'm four and five and you should
+
+673
+00:23:01,279 --> 00:23:03,709
+get so far from it that's when you
+
+674
+00:23:02,420 --> 00:23:05,600
+forget you wait a minute was I trying to
+
+675
+00:23:03,710 --> 00:23:07,520
+be able to have it here but where did it
+
+676
+00:23:05,599 --> 00:23:08,239
+go so the two day rule has been
+
+677
+00:23:07,519 --> 00:23:10,608
+instrumental
+
+678
+00:23:08,240 --> 00:23:13,909
+I will caveat it by saying that like
+
+679
+00:23:10,609 --> 00:23:15,439
+it's I'm not super strict with it to the
+
+680
+00:23:13,910 --> 00:23:17,689
+point where I'm gonna like hurt myself
+
+681
+00:23:15,440 --> 00:23:19,909
+or I'm sick and I'm going to the gym I
+
+682
+00:23:17,690 --> 00:23:21,920
+will take a week off if I'm sick if I'm
+
+683
+00:23:19,910 --> 00:23:23,990
+traveling and I like feel like taking
+
+684
+00:23:21,920 --> 00:23:25,580
+off I might just travel for two weeks
+
+685
+00:23:23,990 --> 00:23:27,409
+and not work out but knowing that when I
+
+686
+00:23:25,579 --> 00:23:29,208
+come back to my normal routine the two
+
+687
+00:23:27,410 --> 00:23:31,039
+day of rolls back and it helps me get
+
+688
+00:23:29,210 --> 00:23:32,509
+right back and build a habit again that
+
+689
+00:23:31,039 --> 00:23:34,369
+helps yeah cuz like I think it's like
+
+690
+00:23:32,509 --> 00:23:35,928
+it's important to know that yeah it's
+
+691
+00:23:34,369 --> 00:23:36,949
+like you you put the two day row out
+
+692
+00:23:35,930 --> 00:23:37,849
+there and then people think that that's
+
+693
+00:23:36,950 --> 00:23:40,820
+what I'm doing
+
+694
+00:23:37,849 --> 00:23:43,068
+365 days a year and it's not I would
+
+695
+00:23:40,819 --> 00:23:45,109
+imagine that you're not doing most of
+
+696
+00:23:43,069 --> 00:23:47,929
+what you say all the time it's more just
+
+697
+00:23:45,109 --> 00:23:48,349
+like you know 90% is what we're shooting
+
+698
+00:23:47,930 --> 00:23:51,349
+for
+
+699
+00:23:48,349 --> 00:23:53,419
+yeah 100% yeah because like we're all
+
+700
+00:23:51,349 --> 00:23:55,818
+human and I mean we're all working and
+
+701
+00:23:53,420 --> 00:23:57,230
+challenging ourselves to overcome these
+
+702
+00:23:55,819 --> 00:23:57,529
+things to implement these systems into
+
+703
+00:23:57,230 --> 00:23:59,299
+our
+
+704
+00:23:57,529 --> 00:24:01,908
+yeah and it is like if I can do this
+
+705
+00:23:59,299 --> 00:24:03,978
+most the time if I'm on top of my to-do
+
+706
+00:24:01,910 --> 00:24:05,929
+list most of the time then I'll feel
+
+707
+00:24:03,980 --> 00:24:07,970
+good and yeah ninety percent of the time
+
+708
+00:24:05,930 --> 00:24:10,910
+is good enough for me and if you're
+
+709
+00:24:07,970 --> 00:24:11,930
+striving to be totally perfect I think
+
+710
+00:24:10,910 --> 00:24:13,880
+you're just gonna let yourself down
+
+711
+00:24:11,930 --> 00:24:18,680
+because nobody is yeah yeah absolutely
+
+712
+00:24:13,880 --> 00:24:20,719
+yeah what do you do when it's the middle
+
+713
+00:24:18,680 --> 00:24:22,249
+of the day and for me this is probably
+
+714
+00:24:20,720 --> 00:24:24,650
+two three o'clock I don't know what it
+
+715
+00:24:22,250 --> 00:24:26,839
+is for you mm-hmm you're just riddled
+
+716
+00:24:24,650 --> 00:24:29,510
+with brain fog and you can't motivate
+
+717
+00:24:26,839 --> 00:24:31,999
+yourself to do anything so I typically
+
+718
+00:24:29,509 --> 00:24:34,098
+go to the gym in the middle of the day
+
+719
+00:24:32,000 --> 00:24:36,139
+so you're not like a wake up go to the
+
+720
+00:24:34,099 --> 00:24:37,819
+gym first scene I did I did that for a
+
+721
+00:24:36,140 --> 00:24:40,760
+couple months this year and I liked it
+
+722
+00:24:37,819 --> 00:24:42,109
+okay so again it's like it might vary
+
+723
+00:24:40,759 --> 00:24:43,999
+and this is where I'm like not type-a
+
+724
+00:24:42,109 --> 00:24:45,559
+and I like I will kind of structure my
+
+725
+00:24:44,000 --> 00:24:47,600
+day differently at times just to see how
+
+726
+00:24:45,559 --> 00:24:48,978
+it feels but when I'm going to the gym
+
+727
+00:24:47,599 --> 00:24:51,349
+in the middle of the day I find that
+
+728
+00:24:48,980 --> 00:24:53,960
+like one it's a nice break like I can go
+
+729
+00:24:51,349 --> 00:24:56,118
+out get lunch have some Chipotle you do
+
+730
+00:24:53,960 --> 00:24:58,009
+a workout and then come back and I find
+
+731
+00:24:56,119 --> 00:24:59,869
+that especially if I'm doing cardio I'm
+
+732
+00:24:58,009 --> 00:25:03,558
+like getting that energy going again
+
+733
+00:24:59,869 --> 00:25:06,529
+yeah the one thing other than that which
+
+734
+00:25:03,559 --> 00:25:08,929
+gives me energy is doing different tasks
+
+735
+00:25:06,529 --> 00:25:11,059
+so I usually try to write first thing in
+
+736
+00:25:08,930 --> 00:25:12,979
+the morning okay guys that's typically
+
+737
+00:25:11,059 --> 00:25:16,429
+the hardest thing for me to know because
+
+738
+00:25:12,980 --> 00:25:17,720
+it's it's if I wait till the end of the
+
+739
+00:25:16,430 --> 00:25:19,459
+day like there's just a certain amount
+
+740
+00:25:17,720 --> 00:25:21,559
+of creative energy that I can get onto
+
+741
+00:25:19,460 --> 00:25:24,019
+the page that I can get into writing and
+
+742
+00:25:21,559 --> 00:25:26,358
+I cannot I couldn't spend eight hours
+
+743
+00:25:24,019 --> 00:25:27,979
+writing in a day I just couldn't I would
+
+744
+00:25:26,359 --> 00:25:29,299
+just I get after a couple hours I
+
+745
+00:25:27,980 --> 00:25:31,549
+usually get pretty tired and I get
+
+746
+00:25:29,299 --> 00:25:32,959
+enough done that I'm happy so I might
+
+747
+00:25:31,549 --> 00:25:35,989
+write for two to three hours in the
+
+748
+00:25:32,960 --> 00:25:38,089
+morning and then do editing I find that
+
+749
+00:25:35,990 --> 00:25:40,520
+editing from me is a little bit easier
+
+750
+00:25:38,089 --> 00:25:42,169
+to do when I'm kind of feeling a little
+
+751
+00:25:40,519 --> 00:25:45,379
+bit of brain fog when I'm feeling tired
+
+752
+00:25:42,170 --> 00:25:46,910
+I will give myself some breaks so I
+
+753
+00:25:45,380 --> 00:25:48,949
+won't just work for four hours straight
+
+754
+00:25:46,910 --> 00:25:51,709
+I'll work for an hour I might set a
+
+755
+00:25:48,950 --> 00:25:54,890
+timer to remind myself to stop working
+
+756
+00:25:51,710 --> 00:25:56,450
+an hour just to take 15 minutes off to
+
+757
+00:25:54,890 --> 00:25:58,430
+kind of get my eyes away from the
+
+758
+00:25:56,450 --> 00:26:00,950
+computer screen to take a lap around the
+
+759
+00:25:58,430 --> 00:26:03,109
+apartment to talk to Natalie or get a
+
+760
+00:26:00,950 --> 00:26:06,020
+glass of water and then come back to my
+
+761
+00:26:03,109 --> 00:26:07,868
+come back to my work okay
+
+762
+00:26:06,019 --> 00:26:10,719
+what time you wake up in the morning
+
+763
+00:26:07,869 --> 00:26:12,819
+do you have a specific yeah yeah I means
+
+764
+00:26:10,720 --> 00:26:15,399
+I know you did the was at 4:30 in the
+
+765
+00:26:12,819 --> 00:26:17,439
+morning about 5:30 5:30 yeah which was a
+
+766
+00:26:15,400 --> 00:26:20,079
+you know not far off from my normal
+
+767
+00:26:17,440 --> 00:26:23,109
+routine but far enough that it really
+
+768
+00:26:20,079 --> 00:26:24,489
+negatively affects my life and also so
+
+769
+00:26:23,109 --> 00:26:26,439
+strict I was like I'm gonna do it for 30
+
+770
+00:26:24,490 --> 00:26:27,519
+days straight yeah so that was part of
+
+771
+00:26:26,440 --> 00:26:30,219
+the problem is that I didn't allow
+
+772
+00:26:27,519 --> 00:26:32,379
+myself the flexibility of I didn't do
+
+773
+00:26:30,220 --> 00:26:34,750
+the 2-day rule I like it was like every
+
+774
+00:26:32,380 --> 00:26:37,389
+day when I'm traveling regardless time
+
+775
+00:26:34,750 --> 00:26:39,759
+zones tough time zone changes so that
+
+776
+00:26:37,390 --> 00:26:41,979
+was really difficult but typically I
+
+777
+00:26:39,759 --> 00:26:45,459
+wake up around 6:30 I would say on work
+
+778
+00:26:41,980 --> 00:26:47,140
+days okay if I if we had a late night or
+
+779
+00:26:45,460 --> 00:26:50,528
+something else then I'll sleep in till
+
+780
+00:26:47,140 --> 00:26:53,470
+7:00 I'm usually rarely in bed by 7:30
+
+781
+00:26:50,528 --> 00:26:55,989
+do you have a pretty strict bedtime or
+
+782
+00:26:53,470 --> 00:26:57,909
+as a disorder whatever you know when
+
+783
+00:26:55,990 --> 00:26:59,349
+Natalie had her full-time job it was
+
+784
+00:26:57,909 --> 00:27:00,880
+more strict because she would just be
+
+785
+00:26:59,349 --> 00:27:02,918
+like all right it's like 9 o'clock or
+
+786
+00:27:00,880 --> 00:27:04,480
+9:30 gotta get to bed cuz I gotta be up
+
+787
+00:27:02,919 --> 00:27:07,210
+she's not get to work and I got a
+
+788
+00:27:04,480 --> 00:27:09,999
+commute so yeah usually it was a little
+
+789
+00:27:07,210 --> 00:27:13,389
+bit a little bit more strict then now
+
+790
+00:27:10,000 --> 00:27:14,230
+we're still in bed by 10:00 p.m. okay so
+
+791
+00:27:13,390 --> 00:27:16,749
+that's so pretty early
+
+792
+00:27:14,230 --> 00:27:18,039
+yeah we're yeah we're pretty boring so
+
+793
+00:27:16,750 --> 00:27:20,140
+you're getting eight eight and a half
+
+794
+00:27:18,038 --> 00:27:21,879
+hours yep yeah yes pretty good amount
+
+795
+00:27:20,140 --> 00:27:23,229
+yeah I would say definitely eight hours
+
+796
+00:27:21,880 --> 00:27:26,019
+a night for sure
+
+797
+00:27:23,230 --> 00:27:29,049
+cool yeah well I think that might be
+
+798
+00:27:26,019 --> 00:27:31,118
+enough cuz we've done like 20 minutes of
+
+799
+00:27:29,048 --> 00:27:32,468
+footage yeah that was great dude yeah so
+
+800
+00:27:31,119 --> 00:27:34,658
+hopefully you guys enjoyed this
+
+801
+00:27:32,470 --> 00:27:37,029
+interview your channel is easy just
+
+802
+00:27:34,659 --> 00:27:38,889
+youtube.com slash Maddy Bella baby Bella
+
+803
+00:27:37,028 --> 00:27:40,718
+cool I'll have it on screen with my
+
+804
+00:27:38,890 --> 00:27:42,939
+After Effects magic go check his stuff
+
+805
+00:27:40,720 --> 00:27:45,849
+out it's better film than mine we're
+
+806
+00:27:42,940 --> 00:27:47,529
+using his cameras I'm lucky I love you
+
+807
+00:27:45,849 --> 00:27:49,268
+videos Dan thank you
+
+808
+00:27:47,528 --> 00:27:50,999
+and your videos are awesome as well like
+
+809
+00:27:49,269 --> 00:27:56,108
+interests a bunch of them this morning
+
+810
+00:27:51,000 --> 00:27:57,639
+breakfast burrito nice oh yes yeah
+
+811
+00:27:56,109 --> 00:28:00,307
+Matthew Mel and burritos that's like the
+
+812
+00:27:57,640 --> 00:28:02,580
+kids are doing good I'm gonna write that
+
+813
+00:28:00,308 --> 00:28:04,928
+down actually my to-do list
+
+814
+00:28:02,579 --> 00:28:08,258
+yeah dude thank you for coming on
+
+815
+00:28:04,929 --> 00:28:09,820
+whatever this show is and you all should
+
+816
+00:28:08,259 --> 00:28:11,798
+go and subscribe to Matt and start
+
+817
+00:28:09,819 --> 00:28:12,218
+watching his videos cool thanks brother
+
+818
+00:28:11,798 --> 00:28:15,839
+appreciate it
+
+819
+00:28:12,220 --> 00:28:15,840
+yep good stuff cool
+

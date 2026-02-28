@@ -1,0 +1,544 @@
+1
+00:00:00,160 --> 00:00:04,080
+should you take your notes on a computer
+
+2
+00:00:01,959 --> 00:00:03,440
+or should you stick to a paper notebook
+
+3
+00:00:04,240 --> 00:00:07,039
+if you're watching this video you're
+
+4
+00:00:05,400 --> 00:00:08,880
+probably looking for ways to take more
+
+5
+00:00:07,040 --> 00:00:11,280
+efficient notes in class and also make
+
+6
+00:00:08,880 --> 00:00:12,638
+those notes easier to study later so
+
+7
+00:00:11,279 --> 00:00:14,399
+which method is the best for both of
+
+8
+00:00:12,638 --> 00:00:16,838
+those on the one hand taking notes on a
+
+9
+00:00:14,400 --> 00:00:18,680
+computer is in most cases a lot faster
+
+10
+00:00:16,839 --> 00:00:20,638
+than writing them down by hand you can
+
+11
+00:00:18,679 --> 00:00:22,959
+also go back and add things to already
+
+12
+00:00:20,640 --> 00:00:24,760
+written notes reformat things easily and
+
+13
+00:00:22,960 --> 00:00:26,519
+as an added benefit you can sync things
+
+14
+00:00:24,760 --> 00:00:28,320
+to different devices if you're using an
+
+15
+00:00:26,518 --> 00:00:30,239
+app like Evernote that way you can study
+
+16
+00:00:28,320 --> 00:00:31,759
+notes on your phone or any other device
+
+17
+00:00:30,239 --> 00:00:33,199
+you have with you but on the other hand
+
+18
+00:00:31,759 --> 00:00:35,159
+when you take your notes on paper you
+
+19
+00:00:33,200 --> 00:00:37,200
+have a lot more flexibility you can draw
+
+20
+00:00:35,159 --> 00:00:39,199
+arrows and notes make symbols a lot
+
+21
+00:00:37,200 --> 00:00:40,999
+easier and for math notes it's hands
+
+22
+00:00:39,200 --> 00:00:42,719
+down a better method also there are some
+
+23
+00:00:41,000 --> 00:00:44,319
+research findings that actually speak in
+
+24
+00:00:42,719 --> 00:00:46,239
+favor of paper notes and those are what
+
+25
+00:00:44,320 --> 00:00:47,399
+I want to cover in this video the study
+
+26
+00:00:46,238 --> 00:00:48,718
+which you can read more about if you go
+
+27
+00:00:47,399 --> 00:00:50,399
+to the companion blog post for this
+
+28
+00:00:48,719 --> 00:00:52,399
+video found that students who take their
+
+29
+00:00:50,399 --> 00:00:55,198
+notes on a computer tend to write an
+
+30
+00:00:52,399 --> 00:00:56,839
+average of 310 words per lecture on the
+
+31
+00:00:55,198 --> 00:00:59,398
+other hand students who wrote on paper
+
+32
+00:00:56,840 --> 00:01:00,920
+took notes at an average of 173 words
+
+33
+00:00:59,399 --> 00:01:02,439
+the study also found that students who
+
+34
+00:01:00,920 --> 00:01:04,040
+took their notes on paper were more
+
+35
+00:01:02,439 --> 00:01:05,838
+readily able to recall what they had
+
+36
+00:01:04,040 --> 00:01:07,399
+learned about a half an hour after the
+
+37
+00:01:05,840 --> 00:01:09,080
+lecture and the conclusion that the
+
+38
+00:01:07,400 --> 00:01:10,799
+researchers came to was that students
+
+39
+00:01:09,079 --> 00:01:12,679
+who take their notes on laptops were
+
+40
+00:01:10,799 --> 00:01:14,319
+more apt to just record Verbatim what
+
+41
+00:01:12,680 --> 00:01:15,999
+was said in the lecture while students
+
+42
+00:01:14,319 --> 00:01:17,158
+who took their notes on paper were
+
+43
+00:01:16,000 --> 00:01:18,960
+actually recording what they were
+
+44
+00:01:17,159 --> 00:01:21,119
+learning and creating new conclusions on
+
+45
+00:01:18,959 --> 00:01:23,077
+the fly now my last video on notetaking
+
+46
+00:01:21,118 --> 00:01:24,879
+systems I talked about a system called
+
+47
+00:01:23,078 --> 00:01:26,399
+the flow method of not taking this
+
+48
+00:01:24,879 --> 00:01:27,879
+system was created by Scott young and
+
+49
+00:01:26,400 --> 00:01:29,1000
+it's based on a principle he created
+
+50
+00:01:27,879 --> 00:01:31,478
+called holistic learning and holistic
+
+51
+00:01:30,000 --> 00:01:33,439
+learning basically means taking points
+
+52
+00:01:31,478 --> 00:01:35,397
+of information that may be unrelated
+
+53
+00:01:33,438 --> 00:01:37,598
+making a giant web of them and making
+
+54
+00:01:35,399 --> 00:01:39,520
+new conclusions out of that information
+
+55
+00:01:37,599 --> 00:01:41,879
+the foundational idea behind holistic
+
+56
+00:01:39,519 --> 00:01:43,719
+learning is to learn it once learn the
+
+57
+00:01:41,879 --> 00:01:45,678
+lecture material while you're in class
+
+58
+00:01:43,719 --> 00:01:47,319
+by creating your own version of it in
+
+59
+00:01:45,680 --> 00:01:49,240
+your notes and this is the point I want
+
+60
+00:01:47,319 --> 00:01:50,598
+to get at in this video whether or not
+
+61
+00:01:49,239 --> 00:01:52,199
+you choose to take your notes on a
+
+62
+00:01:50,599 --> 00:01:54,358
+computer or paper you need to be
+
+63
+00:01:52,200 --> 00:01:56,320
+deliberate about learning as well as you
+
+64
+00:01:54,359 --> 00:01:58,238
+can in class through the way you take
+
+65
+00:01:56,319 --> 00:02:00,037
+your notes think of it this way when
+
+66
+00:01:58,239 --> 00:02:01,798
+your professor presents A New Concept
+
+67
+00:02:00,039 --> 00:02:04,640
+class your brain interprets the data in
+
+68
+00:02:01,799 --> 00:02:06,119
+two different ways it sees the syntax of
+
+69
+00:02:04,640 --> 00:02:07,759
+the phrase of the word that was said the
+
+70
+00:02:06,118 --> 00:02:09,919
+letters and the way the words are
+
+71
+00:02:07,759 --> 00:02:12,039
+arranged in the sentence but it also
+
+72
+00:02:09,919 --> 00:02:13,919
+sees the meaning behind it so if your
+
+73
+00:02:12,039 --> 00:02:15,878
+professor says that koalas eat
+
+74
+00:02:13,919 --> 00:02:17,718
+eucalyptus leaves your brain sees the
+
+75
+00:02:15,878 --> 00:02:19,719
+sentence and the letters that make it up
+
+76
+00:02:17,719 --> 00:02:21,799
+the syntax but it also sees two
+
+77
+00:02:19,719 --> 00:02:23,478
+different concepts eucalyptus leaves and
+
+78
+00:02:21,800 --> 00:02:24,639
+quala bears and connects them together
+
+79
+00:02:23,479 --> 00:02:26,598
+now when you're recording your notes on
+
+80
+00:02:24,639 --> 00:02:28,839
+a computer it can be really easy to just
+
+81
+00:02:26,598 --> 00:02:30,758
+slip into the mindset of recording every
+
+82
+00:02:28,840 --> 00:02:32,958
+single thing that was said and when you
+
+83
+00:02:30,759 --> 00:02:35,199
+do this you're only paying attention to
+
+84
+00:02:32,959 --> 00:02:37,560
+the syntax which means that later on you
+
+85
+00:02:35,199 --> 00:02:39,479
+have to go back and relearn the concepts
+
+86
+00:02:37,560 --> 00:02:41,238
+people who take notes on paper are more
+
+87
+00:02:39,479 --> 00:02:43,119
+apt to look at the concepts as they're
+
+88
+00:02:41,239 --> 00:02:44,800
+presented and learn them right away this
+
+89
+00:02:43,120 --> 00:02:46,640
+is because they're not using so much
+
+90
+00:02:44,800 --> 00:02:48,319
+brain power on recording every little
+
+91
+00:02:46,639 --> 00:02:49,918
+detail in the lecture so if you choose
+
+92
+00:02:48,318 --> 00:02:52,079
+to take your notes on a computer be
+
+93
+00:02:49,919 --> 00:02:53,919
+deliberate about learning the concepts
+
+94
+00:02:52,080 --> 00:02:55,878
+as they're presented don't be a
+
+95
+00:02:53,919 --> 00:02:57,358
+transcription machine or if you find
+
+96
+00:02:55,878 --> 00:02:58,878
+that the temptation to just mindlessly
+
+97
+00:02:57,360 --> 00:03:00,639
+record notes on your computer is too
+
+98
+00:02:58,878 --> 00:03:02,157
+great try switching to to paper after
+
+99
+00:03:00,639 --> 00:03:03,797
+you've taken some notes on paper you can
+
+100
+00:03:02,158 --> 00:03:05,517
+use an app on your phone to record them
+
+101
+00:03:03,799 --> 00:03:06,959
+and store them in Evernote not only will
+
+102
+00:03:05,519 --> 00:03:08,840
+this give you access to your notes
+
+103
+00:03:06,959 --> 00:03:10,798
+wherever you have your phone but it also
+
+104
+00:03:08,840 --> 00:03:12,400
+makes the text of your notes searchable
+
+105
+00:03:10,799 --> 00:03:14,040
+as long as your handwriting isn't crap
+
+106
+00:03:12,400 --> 00:03:15,400
+so that's it for this video the takeaway
+
+107
+00:03:14,039 --> 00:03:16,958
+here is just to be deliberate about
+
+108
+00:03:15,400 --> 00:03:18,920
+learning the concepts that are presented
+
+109
+00:03:16,959 --> 00:03:20,399
+in class as they're being presented
+
+110
+00:03:18,919 --> 00:03:21,919
+instead of just trying to record them
+
+111
+00:03:20,400 --> 00:03:23,560
+all if you don't do this you're just
+
+112
+00:03:21,919 --> 00:03:26,399
+creating a lot more study time for
+
+113
+00:03:23,560 --> 00:03:26,399
+yourself after
+
+114
+00:03:27,519 --> 00:03:31,679
+class hey thanks for watching my video
+
+115
+00:03:30,080 --> 00:03:33,200
+if you liked it share it with a friend
+
+116
+00:03:31,680 --> 00:03:36,199
+or give it a like you'll be making the
+
+117
+00:03:33,199 --> 00:03:38,998
+internet a better place by adding a
+
+118
+00:03:36,199 --> 00:03:40,317
+number to a picture of a thumb yeah if
+
+119
+00:03:39,000 --> 00:03:41,959
+you want to get more videos every single
+
+120
+00:03:40,318 --> 00:03:43,559
+week on being a better student becoming
+
+121
+00:03:41,959 --> 00:03:44,999
+more productive and hacking your studies
+
+122
+00:03:43,560 --> 00:03:48,279
+then hit the Subscribe button which I'll
+
+123
+00:03:45,000 --> 00:03:49,799
+point out right about now if you missed
+
+124
+00:03:48,280 --> 00:03:51,639
+last week's video it's over the best
+
+125
+00:03:49,799 --> 00:03:53,439
+note taking systems out there and click
+
+126
+00:03:51,639 --> 00:03:55,359
+the moving picture underneath that to
+
+127
+00:03:53,438 --> 00:03:56,999
+watch it if you want to get links to the
+
+128
+00:03:55,360 --> 00:03:58,679
+study I talked about in this video click
+
+129
+00:03:57,000 --> 00:04:00,599
+the orange logo to go to the companion
+
+130
+00:03:58,680 --> 00:04:01,840
+blog post for this episode
+
+131
+00:04:00,598 --> 00:04:03,359
+also if you want to get a free chapter
+
+132
+00:04:01,840 --> 00:04:05,119
+of my book when it comes out click that
+
+133
+00:04:03,360 --> 00:04:06,319
+button lastly if you've got ideas you
+
+134
+00:04:05,120 --> 00:04:07,959
+want to share for a new video or just
+
+135
+00:04:06,318 --> 00:04:11,237
+want to connect hit me up on Twitter or
+
+136
+00:04:07,959 --> 00:04:11,238
+leave a comment
+

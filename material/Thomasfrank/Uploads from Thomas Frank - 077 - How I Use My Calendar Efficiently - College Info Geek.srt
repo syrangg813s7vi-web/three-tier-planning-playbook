@@ -1,0 +1,784 @@
+1
+00:00:00,040 --> 00:00:03,040
+today we are talking about Google
+
+2
+00:00:01,480 --> 00:00:03,560
+Calendar because I've been getting a lot
+
+3
+00:00:03,080 --> 00:00:06,999
+of questions about how I use my calendar
+
+4
+00:00:05,040 --> 00:00:09,040
+personally and Google Calendar has been
+
+5
+00:00:07,000 --> 00:00:11,240
+my weapon of choice for the past five
+
+6
+00:00:09,039 --> 00:00:12,558
+six seven years almost at this point so
+
+7
+00:00:11,240 --> 00:00:14,320
+today in this video we're going to go
+
+8
+00:00:12,558 --> 00:00:16,038
+through how I use Google Calendar some
+
+9
+00:00:14,320 --> 00:00:18,079
+of the tips and tricks I use both on
+
+10
+00:00:16,039 --> 00:00:20,559
+desktop and mobile how I use it as a
+
+11
+00:00:18,079 --> 00:00:23,079
+student versus uh now as an incredibly
+
+12
+00:00:20,559 --> 00:00:24,999
+professional businessman and hey if you
+
+13
+00:00:23,079 --> 00:00:26,838
+guys use a different calendar most of
+
+14
+00:00:25,000 --> 00:00:28,640
+the stuff is going to apply not all of
+
+15
+00:00:26,839 --> 00:00:30,238
+it but for the vast majority of it it's
+
+16
+00:00:28,640 --> 00:00:33,120
+going to apply to any calendar you use
+
+17
+00:00:30,239 --> 00:00:35,078
+so IAL uh Outlook calendar I don't know
+
+18
+00:00:33,119 --> 00:00:36,918
+like a stone tablet on the ground that
+
+19
+00:00:35,079 --> 00:00:39,279
+one's going to be a bit of a stretch but
+
+20
+00:00:36,920 --> 00:00:41,238
+this will apply to almost any system for
+
+21
+00:00:39,280 --> 00:00:43,480
+the most part and the first thing I need
+
+22
+00:00:41,238 --> 00:00:45,598
+to stress here is that Google Calendar
+
+23
+00:00:43,479 --> 00:00:47,358
+is part of what I call my quick capture
+
+24
+00:00:45,600 --> 00:00:49,120
+system now I'm going to talk about this
+
+25
+00:00:47,359 --> 00:00:51,037
+concept a little bit more in a future V
+
+26
+00:00:49,119 --> 00:00:53,038
+video but essentially the gist of it is
+
+27
+00:00:51,039 --> 00:00:55,439
+that quick capture means you want to get
+
+28
+00:00:53,039 --> 00:00:57,519
+ideas of any kind out of your head as
+
+29
+00:00:55,439 --> 00:00:59,197
+immediately as possible and into a
+
+30
+00:00:57,520 --> 00:01:01,319
+system that you trust one that has
+
+31
+00:00:59,198 --> 00:01:03,077
+context one that's organized and one
+
+32
+00:01:01,320 --> 00:01:04,280
+that will either notify you when you
+
+33
+00:01:03,079 --> 00:01:06,280
+need to know about it again in the
+
+34
+00:01:04,280 --> 00:01:08,199
+future or that you trust yourself to
+
+35
+00:01:06,280 --> 00:01:09,199
+check regularly so with that being said
+
+36
+00:01:08,200 --> 00:01:10,959
+we're going to get into how I
+
+37
+00:01:09,200 --> 00:01:12,400
+specifically use Google Calendar in my
+
+38
+00:01:10,959 --> 00:01:14,358
+daily life and I need to split this
+
+39
+00:01:12,400 --> 00:01:16,158
+explanation in two because the way I use
+
+40
+00:01:14,359 --> 00:01:18,719
+it today is very different than how I
+
+41
+00:01:16,159 --> 00:01:20,319
+used it as a student as a student I had
+
+42
+00:01:18,719 --> 00:01:22,279
+my calendar split into multiple
+
+43
+00:01:20,319 --> 00:01:24,519
+different calendars because the concept
+
+44
+00:01:22,280 --> 00:01:26,438
+essentially for me was to split my life
+
+45
+00:01:24,519 --> 00:01:28,239
+into different components and then be
+
+46
+00:01:26,438 --> 00:01:30,398
+able to look at each component
+
+47
+00:01:28,239 --> 00:01:32,758
+individually so I had specific calendars
+
+48
+00:01:30,400 --> 00:01:34,959
+for classes for work for on campus
+
+49
+00:01:32,759 --> 00:01:36,360
+events I also had one for uh other stuff
+
+50
+00:01:34,959 --> 00:01:38,117
+just kind of things that didn't fit and
+
+51
+00:01:36,359 --> 00:01:39,478
+then I also had a professor office hours
+
+52
+00:01:38,118 --> 00:01:41,719
+calendar by the way guys if I sound like
+
+53
+00:01:39,478 --> 00:01:43,358
+a frog right now it's because I'm sick
+
+54
+00:01:41,719 --> 00:01:44,839
+sorry one last thing about how I use my
+
+55
+00:01:43,359 --> 00:01:46,438
+calendar as a student is that at the
+
+56
+00:01:44,840 --> 00:01:48,599
+beginning of every semester I would put
+
+57
+00:01:46,438 --> 00:01:49,999
+in all the important dates uh right away
+
+58
+00:01:48,599 --> 00:01:51,397
+so like the date when I need to sign up
+
+59
+00:01:50,000 --> 00:01:53,399
+for classes for the next semester that
+
+60
+00:01:51,399 --> 00:01:55,200
+would go in right away uh finals week
+
+61
+00:01:53,399 --> 00:01:56,520
+would go in there and that way I knew it
+
+62
+00:01:55,200 --> 00:01:58,200
+was all set up at the beginning of the
+
+63
+00:01:56,519 --> 00:02:00,278
+semester I wouldn't have to be worrying
+
+64
+00:01:58,200 --> 00:02:02,119
+about when do I sign up for class class
+
+65
+00:02:00,280 --> 00:02:04,119
+when do I start studying for finals it's
+
+66
+00:02:02,118 --> 00:02:06,358
+all set up initially and then I can just
+
+67
+00:02:04,118 --> 00:02:09,079
+react to it as it comes up on a week toe
+
+68
+00:02:06,359 --> 00:02:10,597
+basis so that brings us to today where I
+
+69
+00:02:09,080 --> 00:02:11,999
+use my calendar in a very different
+
+70
+00:02:10,598 --> 00:02:14,038
+Manner and that's because I'm no longer
+
+71
+00:02:12,000 --> 00:02:16,120
+a student and my time isn't dominated
+
+72
+00:02:14,039 --> 00:02:18,518
+mostly by events I'm a business owner
+
+73
+00:02:16,120 --> 00:02:20,360
+and most of my time is kind of free form
+
+74
+00:02:18,519 --> 00:02:22,719
+I can choose to work on whatever I want
+
+75
+00:02:20,360 --> 00:02:24,919
+to work on at any time as long as it
+
+76
+00:02:22,719 --> 00:02:27,518
+gets done I would say probably about 90%
+
+77
+00:02:24,919 --> 00:02:29,399
+of my time is like that the other 10% is
+
+78
+00:02:27,519 --> 00:02:31,080
+scheduled meetings for the most part
+
+79
+00:02:29,400 --> 00:02:32,640
+because as a podcaster I'm often
+
+80
+00:02:31,080 --> 00:02:34,238
+interviewing people or I'm being on
+
+81
+00:02:32,639 --> 00:02:36,119
+other people's shows the other main use
+
+82
+00:02:34,239 --> 00:02:37,598
+is for travel since I'm going to schools
+
+83
+00:02:36,120 --> 00:02:38,999
+to speak sometimes or I go to
+
+84
+00:02:37,598 --> 00:02:40,558
+conferences in different cities and
+
+85
+00:02:39,000 --> 00:02:42,680
+different states I'm often traveling and
+
+86
+00:02:40,560 --> 00:02:44,159
+when I travel I create all day events in
+
+87
+00:02:42,680 --> 00:02:46,239
+the calendar so they're not blocking up
+
+88
+00:02:44,158 --> 00:02:48,078
+the hourly slots and that way I just
+
+89
+00:02:46,239 --> 00:02:49,679
+know oh I'm in Denver these days I'm in
+
+90
+00:02:48,080 --> 00:02:51,120
+New York City these days and the last
+
+91
+00:02:49,680 --> 00:02:53,360
+main thing I use my calendar for these
+
+92
+00:02:51,120 --> 00:02:55,560
+days is for exercise because a lot of my
+
+93
+00:02:53,360 --> 00:02:57,919
+exercise is actually event driven like
+
+94
+00:02:55,560 --> 00:02:59,878
+my yoga class is 6:30 p.m. on Thursdays
+
+95
+00:02:57,919 --> 00:03:01,399
+so I got to be there on time and for for
+
+96
+00:02:59,878 --> 00:03:03,119
+ice skating practice it's only a very
+
+97
+00:03:01,400 --> 00:03:04,799
+limited window of time every day that I
+
+98
+00:03:03,120 --> 00:03:05,999
+can do it so I just schedule on the
+
+99
+00:03:04,799 --> 00:03:07,480
+calendar and then because I'm a
+
+100
+00:03:06,000 --> 00:03:08,919
+completionist I put my gym time on there
+
+101
+00:03:07,479 --> 00:03:10,439
+as well so with those explanations out
+
+102
+00:03:08,919 --> 00:03:12,878
+of the way I got a few more things to
+
+103
+00:03:10,439 --> 00:03:15,158
+talk about first of which is mobile now
+
+104
+00:03:12,878 --> 00:03:17,038
+I used to use Sunrise calendar on my
+
+105
+00:03:15,158 --> 00:03:18,759
+iPhone to manage Google Calendar because
+
+106
+00:03:17,039 --> 00:03:20,518
+it was free and it was beautiful and at
+
+107
+00:03:18,759 --> 00:03:22,318
+the time the Google Calendar app kind of
+
+108
+00:03:20,519 --> 00:03:23,999
+stunk in my opinion that is not the case
+
+109
+00:03:22,318 --> 00:03:26,598
+anymore I think the Google Calendar app
+
+110
+00:03:24,000 --> 00:03:28,280
+is pretty good however I don't use it
+
+111
+00:03:26,598 --> 00:03:30,318
+because now I use an app called
+
+112
+00:03:28,280 --> 00:03:32,959
+Fantastical and the reason I use
+
+113
+00:03:30,318 --> 00:03:34,838
+Fantastical is number one it is the best
+
+114
+00:03:32,959 --> 00:03:36,680
+calendar app that I have found for use
+
+115
+00:03:34,840 --> 00:03:38,319
+on the Apple watch right now because
+
+116
+00:03:36,680 --> 00:03:39,920
+it's the one that has glances so I can
+
+117
+00:03:38,318 --> 00:03:41,838
+just easily look at the watch swipe up
+
+118
+00:03:39,919 --> 00:03:44,318
+and see what my next event is and it
+
+119
+00:03:41,840 --> 00:03:46,958
+also has absolutely fantastic natural
+
+120
+00:03:44,318 --> 00:03:48,718
+language processing which means if I use
+
+121
+00:03:46,959 --> 00:03:51,119
+voice dictation to create an event which
+
+122
+00:03:48,719 --> 00:03:53,158
+is a really seamless frictionless way to
+
+123
+00:03:51,120 --> 00:03:55,639
+get it out of my brain and into my phone
+
+124
+00:03:53,158 --> 00:03:57,158
+then it will intelligently pick out the
+
+125
+00:03:55,639 --> 00:03:58,679
+uh parts of the event that need to be
+
+126
+00:03:57,158 --> 00:03:59,957
+put in different fields and that brings
+
+127
+00:03:58,680 --> 00:04:01,799
+me to the last thing we need to talk
+
+128
+00:03:59,959 --> 00:04:04,760
+about in this video which is scheduling
+
+129
+00:04:01,799 --> 00:04:07,239
+stuff because email tag is the worst
+
+130
+00:04:04,759 --> 00:04:08,678
+trust me I've got like 50 message long
+
+131
+00:04:07,239 --> 00:04:10,319
+threads from a few years ago where I'm
+
+132
+00:04:08,680 --> 00:04:11,680
+trying to be like yeah I'm available
+
+133
+00:04:10,318 --> 00:04:13,318
+this day oh you're not available that
+
+134
+00:04:11,680 --> 00:04:15,200
+day blah blah blah you can use
+
+135
+00:04:13,318 --> 00:04:16,838
+technology to make this much much
+
+136
+00:04:15,199 --> 00:04:18,679
+simpler now the app that I use on a
+
+137
+00:04:16,839 --> 00:04:19,918
+regular basis is called calendly and
+
+138
+00:04:18,680 --> 00:04:21,639
+this is an app that lets you define
+
+139
+00:04:19,918 --> 00:04:23,079
+certain dates and times on your weekly
+
+140
+00:04:21,639 --> 00:04:24,360
+schedule when people can basically
+
+141
+00:04:23,079 --> 00:04:25,998
+pencil in their own appointments with
+
+142
+00:04:24,360 --> 00:04:27,638
+you and this is really really useful for
+
+143
+00:04:26,000 --> 00:04:29,198
+people like me who are podcasters and
+
+144
+00:04:27,639 --> 00:04:31,240
+who have to schedule interviews a lot or
+
+145
+00:04:29,199 --> 00:04:33,159
+maybe people like tutors anyone who has
+
+146
+00:04:31,240 --> 00:04:34,800
+to open up big amounts of their schedule
+
+147
+00:04:33,160 --> 00:04:35,840
+and limited Windows to let people
+
+148
+00:04:34,800 --> 00:04:37,919
+basically pencil in their own
+
+149
+00:04:35,839 --> 00:04:39,758
+appointments but I don't think it's
+
+150
+00:04:37,918 --> 00:04:41,599
+super useful for students because you
+
+151
+00:04:39,759 --> 00:04:43,560
+guys usually have a lot of your schedule
+
+152
+00:04:41,600 --> 00:04:45,039
+already spoken for by classes and you're
+
+153
+00:04:43,560 --> 00:04:47,240
+generally just trying to schedule things
+
+154
+00:04:45,038 --> 00:04:48,879
+like uh group project work time now
+
+155
+00:04:47,240 --> 00:04:51,038
+Google Calendar has their own like find
+
+156
+00:04:48,879 --> 00:04:52,439
+a Time feature but what I found is most
+
+157
+00:04:51,038 --> 00:04:53,719
+students don't have their calendar game
+
+158
+00:04:52,439 --> 00:04:56,358
+unlock so you're going to be like the
+
+159
+00:04:53,720 --> 00:04:57,639
+only person who has everything really
+
+160
+00:04:56,360 --> 00:04:58,600
+nicely scheduled and everyone else is
+
+161
+00:04:57,639 --> 00:05:01,478
+going to be like yeah I don't know what
+
+162
+00:04:58,600 --> 00:05:03,439
+I'm doing next Tuesday so doodle is what
+
+163
+00:05:01,478 --> 00:05:05,599
+I recommend for you guys because doodle
+
+164
+00:05:03,439 --> 00:05:06,999
+basically lets you define a date range
+
+165
+00:05:05,600 --> 00:05:08,560
+and then everyone can vote on the times
+
+166
+00:05:07,000 --> 00:05:09,680
+that work for them and you can easily
+
+167
+00:05:08,560 --> 00:05:11,359
+see the column where everyone's
+
+168
+00:05:09,680 --> 00:05:12,439
+available so that about does it for this
+
+169
+00:05:11,360 --> 00:05:14,360
+video now if you've been paying
+
+170
+00:05:12,439 --> 00:05:15,718
+attention you are now a scheduling ninja
+
+171
+00:05:14,360 --> 00:05:17,638
+though do not put that in your Twitter
+
+172
+00:05:15,720 --> 00:05:19,199
+bio or I will find you and if you guys
+
+173
+00:05:17,639 --> 00:05:20,519
+have extra tips about how to use your
+
+174
+00:05:19,199 --> 00:05:22,319
+calendar that I didn't cover here I
+
+175
+00:05:20,519 --> 00:05:23,918
+would love to hear them otherwise thank
+
+176
+00:05:22,319 --> 00:05:25,198
+you so much for watching if you enjoyed
+
+177
+00:05:23,918 --> 00:05:27,279
+this video and you found it useful give
+
+178
+00:05:25,199 --> 00:05:28,840
+it a like to support this Channel and if
+
+179
+00:05:27,279 --> 00:05:30,078
+you want to get new tips on being a more
+
+180
+00:05:28,839 --> 00:05:31,278
+effective student every every single
+
+181
+00:05:30,079 --> 00:05:33,518
+week you can click that big red
+
+182
+00:05:31,279 --> 00:05:35,037
+subscribe button right down there also I
+
+183
+00:05:33,519 --> 00:05:36,317
+wrote a free book on how to earn better
+
+184
+00:05:35,038 --> 00:05:37,317
+grades so if you want to get a copy of
+
+185
+00:05:36,319 --> 00:05:39,799
+that you can click the book and I'll
+
+186
+00:05:37,319 --> 00:05:41,239
+send one to you and in last week's video
+
+187
+00:05:39,800 --> 00:05:42,520
+we talked about skipping classes and
+
+188
+00:05:41,240 --> 00:05:43,759
+whether or not it's worth it so check it
+
+189
+00:05:42,519 --> 00:05:45,358
+out if you missed it also if you want to
+
+190
+00:05:43,759 --> 00:05:46,960
+get the full article for this video
+
+191
+00:05:45,360 --> 00:05:48,360
+along with links to all the resources we
+
+192
+00:05:46,959 --> 00:05:49,918
+talked about click the orange button
+
+193
+00:05:48,360 --> 00:05:51,638
+right there and lastly if you want to
+
+194
+00:05:49,918 --> 00:05:52,958
+connect I'm Tom frankley on Instagram
+
+195
+00:05:51,639 --> 00:05:56,999
+and Twitter or you can leave a comment
+
+196
+00:05:52,959 --> 00:05:56,999
+down below thanks for watching
+

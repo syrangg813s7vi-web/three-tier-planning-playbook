@@ -1,0 +1,980 @@
+1
+00:00:00,080 --> 00:00:03,759
+hey what's going on guys so I got a few
+
+2
+00:00:01,879 --> 00:00:03,399
+questions lately about how to stop being
+
+3
+00:00:03,839 --> 00:00:07,039
+late to things and I thought this would
+
+4
+00:00:05,278 --> 00:00:09,119
+be a good topic to cover because some of
+
+5
+00:00:07,040 --> 00:00:11,320
+us do have problems getting ourselves to
+
+6
+00:00:09,119 --> 00:00:13,359
+things on time even if we're not jerks
+
+7
+00:00:11,320 --> 00:00:15,440
+who don't respect the time of others we
+
+8
+00:00:13,359 --> 00:00:18,158
+simply have other problems little brain
+
+9
+00:00:15,439 --> 00:00:19,679
+bugs that cause us to be habitually late
+
+10
+00:00:18,160 --> 00:00:21,199
+so in today's video I've got five
+
+11
+00:00:19,679 --> 00:00:22,998
+specific tips that can hopefully help
+
+12
+00:00:21,199 --> 00:00:24,760
+you become the most punctual person in
+
+13
+00:00:23,000 --> 00:00:26,198
+your friend group and the first couple
+
+14
+00:00:24,760 --> 00:00:27,880
+are going to tackle what I think is the
+
+15
+00:00:26,199 --> 00:00:30,439
+main problem that makes people so late
+
+16
+00:00:27,879 --> 00:00:32,798
+which is that we as humans are very bad
+
+17
+00:00:30,439 --> 00:00:34,280
+at making accurate time estimates and we
+
+18
+00:00:32,799 --> 00:00:36,238
+are susceptible to something called the
+
+19
+00:00:34,280 --> 00:00:39,159
+planning fallacy which describes how
+
+20
+00:00:36,238 --> 00:00:40,678
+basically we are over optimistic in our
+
+21
+00:00:39,159 --> 00:00:41,918
+estimations and the first thing you can
+
+22
+00:00:40,679 --> 00:00:44,159
+start doing to fight against this
+
+23
+00:00:41,920 --> 00:00:45,960
+planning fallacy is to start envisioning
+
+24
+00:00:44,159 --> 00:00:47,438
+the entire sequence of steps it's going
+
+25
+00:00:45,960 --> 00:00:50,198
+to take to get you from whatever you're
+
+26
+00:00:47,439 --> 00:00:52,078
+doing right now to your next scheduled
+
+27
+00:00:50,198 --> 00:00:53,519
+event and the reason you should do this
+
+28
+00:00:52,079 --> 00:00:55,840
+is because it puts you on the right side
+
+29
+00:00:53,520 --> 00:00:57,399
+of What's called the segmentation effect
+
+30
+00:00:55,840 --> 00:00:59,359
+and this effect basically describes how
+
+31
+00:00:57,399 --> 00:01:01,120
+people make shorter time estimations for
+
+32
+00:00:59,359 --> 00:01:03,198
+an entire task then their time
+
+33
+00:01:01,119 --> 00:01:05,399
+estimations for the sum total of all the
+
+34
+00:01:03,198 --> 00:01:07,279
+subtasks were they to break that task
+
+35
+00:01:05,400 --> 00:01:08,960
+down and the reason this happens is
+
+36
+00:01:07,280 --> 00:01:10,478
+because we tend to fixate on the most
+
+37
+00:01:08,959 --> 00:01:12,999
+important part or the part that's going
+
+38
+00:01:10,478 --> 00:01:14,718
+to take the longest a perfect example is
+
+39
+00:01:13,000 --> 00:01:16,399
+Transit time if I need to get somewhere
+
+40
+00:01:14,719 --> 00:01:17,758
+my brain tends to naturally fixate on
+
+41
+00:01:16,400 --> 00:01:19,199
+how long it's going to take to get there
+
+42
+00:01:17,759 --> 00:01:20,679
+so I might think oh I need to get to a
+
+43
+00:01:19,200 --> 00:01:22,920
+coffee shop in the next town over it's
+
+44
+00:01:20,680 --> 00:01:24,758
+going to take 25 minutes to drive there
+
+45
+00:01:22,920 --> 00:01:26,719
+and if I were to actually write down all
+
+46
+00:01:24,759 --> 00:01:28,439
+the steps involved in getting up from my
+
+47
+00:01:26,719 --> 00:01:30,999
+desk and getting myself into the
+
+48
+00:01:28,438 --> 00:01:33,077
+building which I actually did I can find
+
+49
+00:01:31,000 --> 00:01:34,758
+out that this is actually a 16-step
+
+50
+00:01:33,078 --> 00:01:37,158
+process and there's about 8 minutes of
+
+51
+00:01:34,759 --> 00:01:38,999
+extra steps involved so instead of
+
+52
+00:01:37,159 --> 00:01:42,119
+budgeting 25 minutes to get there I
+
+53
+00:01:39,000 --> 00:01:44,040
+should budget 34 and in reality this is
+
+54
+00:01:42,118 --> 00:01:45,558
+actually not enough time because like I
+
+55
+00:01:44,040 --> 00:01:47,399
+said the planning fallacy has a pretty
+
+56
+00:01:45,560 --> 00:01:49,560
+tight grip on our brains and we are over
+
+57
+00:01:47,399 --> 00:01:51,520
+optimistic in our time estimations and
+
+58
+00:01:49,560 --> 00:01:53,280
+this is a natural brain bug in fact
+
+59
+00:01:51,519 --> 00:01:55,438
+researchers at the University of waterl
+
+60
+00:01:53,280 --> 00:01:56,880
+in Canada found this out by asking
+
+61
+00:01:55,438 --> 00:01:59,118
+people to make two different types of
+
+62
+00:01:56,879 --> 00:02:00,919
+time estimations for completing a task
+
+63
+00:01:59,118 --> 00:02:02,839
+they asked people for for best guess
+
+64
+00:02:00,920 --> 00:02:04,839
+scenarios basically like the everyday
+
+65
+00:02:02,840 --> 00:02:07,479
+run-of-the-mill average case and they
+
+66
+00:02:04,840 --> 00:02:09,920
+also ask people for hopeful ideal best
+
+67
+00:02:07,478 --> 00:02:12,199
+case scenario guesses and the results
+
+68
+00:02:09,919 --> 00:02:14,279
+were virtually identical for both cases
+
+69
+00:02:12,199 --> 00:02:16,279
+which indicates that we only see the
+
+70
+00:02:14,280 --> 00:02:17,958
+ideal scenario when we try to plan how
+
+71
+00:02:16,280 --> 00:02:19,400
+long it's going to take to do something
+
+72
+00:02:17,959 --> 00:02:20,919
+we don't think about the grandma that's
+
+73
+00:02:19,400 --> 00:02:22,199
+going to be driving 5 miles an hour in
+
+74
+00:02:20,919 --> 00:02:23,958
+front of us we don't think about the
+
+75
+00:02:22,199 --> 00:02:25,517
+ninjas that are going to attack us on
+
+76
+00:02:23,959 --> 00:02:27,359
+our way to school and these things
+
+77
+00:02:25,519 --> 00:02:29,160
+happen right we don't plan for the
+
+78
+00:02:27,360 --> 00:02:31,480
+things that will go wrong but there's a
+
+79
+00:02:29,159 --> 00:02:33,479
+natural distribution of outcomes for any
+
+80
+00:02:31,479 --> 00:02:34,999
+event both good and bad and our brains
+
+81
+00:02:33,479 --> 00:02:36,918
+just tend to fixate on that perfect
+
+82
+00:02:35,000 --> 00:02:38,799
+ideal tiny little end of the bell curve
+
+83
+00:02:36,919 --> 00:02:40,798
+where everything goes right and very
+
+84
+00:02:38,800 --> 00:02:42,518
+rarely is that actually going to be what
+
+85
+00:02:40,800 --> 00:02:44,400
+happens now with a lot of practice and
+
+86
+00:02:42,519 --> 00:02:45,760
+experience I found that it is possible
+
+87
+00:02:44,400 --> 00:02:47,959
+to get over this tendency to be
+
+88
+00:02:45,759 --> 00:02:50,039
+overoptimistic but an interim solution
+
+89
+00:02:47,959 --> 00:02:51,318
+is to use what's called a fudge ratio
+
+90
+00:02:50,039 --> 00:02:53,079
+and this is a concept that was created
+
+91
+00:02:51,318 --> 00:02:54,237
+by the writer and blogger Steve pavina
+
+92
+00:02:53,080 --> 00:02:56,040
+and it's basically the difference
+
+93
+00:02:54,239 --> 00:02:58,119
+between your time estimate for something
+
+94
+00:02:56,039 --> 00:02:59,719
+and the actual time it takes so for
+
+95
+00:02:58,120 --> 00:03:01,280
+example if you thought it would take 30
+
+96
+00:02:59,719 --> 00:03:03,078
+30 minutes to go to the store and it
+
+97
+00:03:01,280 --> 00:03:05,640
+actually takes you 45 then your fudge
+
+98
+00:03:03,080 --> 00:03:07,440
+ratio is 1.5 and what he recommends you
+
+99
+00:03:05,639 --> 00:03:09,158
+do is to keep this number in mind and
+
+100
+00:03:07,439 --> 00:03:10,838
+apply it as like a second step in your
+
+101
+00:03:09,158 --> 00:03:13,199
+brain like a revision step to all your
+
+102
+00:03:10,840 --> 00:03:14,440
+future time estimates for similar tasks
+
+103
+00:03:13,199 --> 00:03:15,517
+now with the third tip I've got for you
+
+104
+00:03:14,439 --> 00:03:17,278
+guys we're going to attack the problem
+
+105
+00:03:15,519 --> 00:03:18,999
+from a different angle tips one and two
+
+106
+00:03:17,280 --> 00:03:20,958
+were about estimating more accurately
+
+107
+00:03:19,000 --> 00:03:23,040
+and trying to Envision all the steps and
+
+108
+00:03:20,959 --> 00:03:25,279
+tip number three is to Simply remove
+
+109
+00:03:23,039 --> 00:03:26,598
+steps by doing stuff in advance if you
+
+110
+00:03:25,280 --> 00:03:27,879
+pack your bag the night before when you
+
+111
+00:03:26,598 --> 00:03:29,318
+go to bed or you lay out all your
+
+112
+00:03:27,878 --> 00:03:30,918
+clothes in advance or maybe you like
+
+113
+00:03:29,318 --> 00:03:32,559
+bulk cook your meals so you can just
+
+114
+00:03:30,919 --> 00:03:33,999
+wake up and microwave them then you've
+
+115
+00:03:32,560 --> 00:03:35,359
+got less to do in the morning or
+
+116
+00:03:34,000 --> 00:03:36,519
+whenever you need to start doing stuff
+
+117
+00:03:35,360 --> 00:03:38,040
+and the less steps that you have to go
+
+118
+00:03:36,519 --> 00:03:39,360
+through in any process the easier it's
+
+119
+00:03:38,039 --> 00:03:41,719
+going to be to estimate how long it'll
+
+120
+00:03:39,360 --> 00:03:43,480
+take but more importantly the fewer
+
+121
+00:03:41,719 --> 00:03:45,759
+instances there are for things to go
+
+122
+00:03:43,479 --> 00:03:47,559
+wrong right a simpler process has fewer
+
+123
+00:03:45,759 --> 00:03:48,437
+points of failure than a complicated one
+
+124
+00:03:47,560 --> 00:03:49,640
+all right so now that we've moved
+
+125
+00:03:48,438 --> 00:03:51,199
+through tips for making your time
+
+126
+00:03:49,639 --> 00:03:53,398
+estimates more accurate and for making
+
+127
+00:03:51,199 --> 00:03:55,639
+your processes simpler my penultimate
+
+128
+00:03:53,400 --> 00:03:57,319
+tip or fourth tip for you guys is to
+
+129
+00:03:55,639 --> 00:03:58,998
+schedule an end time to the task that
+
+130
+00:03:57,318 --> 00:04:00,878
+you're currently doing and the reasons
+
+131
+00:03:59,000 --> 00:04:02,040
+that we want to do this are number one
+
+132
+00:04:00,878 --> 00:04:03,479
+sometimes we just get caught up in our
+
+133
+00:04:02,039 --> 00:04:05,559
+work and we don't realize we need to get
+
+134
+00:04:03,479 --> 00:04:06,878
+going to our next thing and number two
+
+135
+00:04:05,560 --> 00:04:08,479
+sometimes we do know we need to get
+
+136
+00:04:06,878 --> 00:04:10,157
+going to the next thing but our brains
+
+137
+00:04:08,479 --> 00:04:11,438
+are kind of like being rewarded for
+
+138
+00:04:10,158 --> 00:04:12,919
+whatever we're doing right now maybe
+
+139
+00:04:11,438 --> 00:04:14,518
+we're on Facebook or maybe we're like
+
+140
+00:04:12,919 --> 00:04:17,159
+really into the work we're doing or
+
+141
+00:04:14,519 --> 00:04:18,439
+we're playing a video game and the you
+
+142
+00:04:17,160 --> 00:04:20,280
+know the old part of your brain the
+
+143
+00:04:18,439 --> 00:04:21,878
+limpic system that's kind of getting all
+
+144
+00:04:20,279 --> 00:04:23,678
+the dopamine hits is basically like a
+
+145
+00:04:21,879 --> 00:04:25,278
+little kid petitioning its mom saying
+
+146
+00:04:23,680 --> 00:04:27,360
+like just one more minute just one more
+
+147
+00:04:25,279 --> 00:04:28,959
+minute right and your preferential
+
+148
+00:04:27,360 --> 00:04:30,799
+cortex you know the more controlly part
+
+149
+00:04:28,959 --> 00:04:32,798
+of your brain has to be the mom and say
+
+150
+00:04:30,800 --> 00:04:34,599
+no it's bedtime turn off the freaking
+
+151
+00:04:32,800 --> 00:04:37,038
+video games turn off the Yu-Gi-Oh it's
+
+152
+00:04:34,600 --> 00:04:38,1000
+time to go to bed and bed is probably
+
+153
+00:04:37,038 --> 00:04:41,079
+class but you know what I found is that
+
+154
+00:04:39,000 --> 00:04:42,720
+an external system is much better at
+
+155
+00:04:41,079 --> 00:04:45,838
+being a mom for the old part of your
+
+156
+00:04:42,720 --> 00:04:47,800
+brain than your PFC is so use an alarm
+
+157
+00:04:45,839 --> 00:04:49,799
+maybe use a promodoro session that ends
+
+158
+00:04:47,800 --> 00:04:51,599
+5 minutes before your next task needs to
+
+159
+00:04:49,800 --> 00:04:53,320
+begin or maybe just have an alarm on
+
+160
+00:04:51,600 --> 00:04:55,519
+your phone that says it's time to start
+
+161
+00:04:53,319 --> 00:04:57,519
+winding down that way your brain is
+
+162
+00:04:55,519 --> 00:04:58,999
+going to be able to kind of boot itself
+
+163
+00:04:57,519 --> 00:05:00,999
+out of whatever you're doing right now
+
+164
+00:04:59,000 --> 00:05:03,198
+and start doing the next thing when it
+
+165
+00:05:01,000 --> 00:05:04,479
+actually needs to do it and finally my
+
+166
+00:05:03,199 --> 00:05:06,719
+last tip is for any of you guys that
+
+167
+00:05:04,478 --> 00:05:08,519
+find yourselves forgetting events either
+
+168
+00:05:06,720 --> 00:05:10,519
+forgetting them entirely and completely
+
+169
+00:05:08,519 --> 00:05:11,798
+missing them or forgetting them until
+
+170
+00:05:10,519 --> 00:05:13,838
+like 5 minutes before they're going to
+
+171
+00:05:11,800 --> 00:05:15,840
+start which results in a panic attack
+
+172
+00:05:13,839 --> 00:05:18,037
+right neither is a good situation and
+
+173
+00:05:15,839 --> 00:05:20,239
+luckily both can be completely rectified
+
+174
+00:05:18,038 --> 00:05:22,119
+just by using a calendar efficiently
+
+175
+00:05:20,240 --> 00:05:24,919
+like the productivity Guru David Allen
+
+176
+00:05:22,120 --> 00:05:27,038
+once said your brain is for having ideas
+
+177
+00:05:24,918 --> 00:05:28,638
+not storing them this is true even if
+
+178
+00:05:27,038 --> 00:05:30,518
+you have some weird genius brain that
+
+179
+00:05:28,639 --> 00:05:32,240
+could remember 99 % of all the events
+
+180
+00:05:30,519 --> 00:05:34,317
+that you have to go to and I can tell
+
+181
+00:05:32,240 --> 00:05:36,799
+you mine is not like that I can probably
+
+182
+00:05:34,319 --> 00:05:39,160
+remember maybe 75% and usually those are
+
+183
+00:05:36,800 --> 00:05:41,160
+only the fun ones but my calendar is
+
+184
+00:05:39,160 --> 00:05:42,720
+always going to remember 100% of
+
+185
+00:05:41,160 --> 00:05:44,639
+everything that I put into it unless
+
+186
+00:05:42,720 --> 00:05:46,880
+evil hackers somehow get into it and
+
+187
+00:05:44,639 --> 00:05:48,519
+I've got pretty strong passwords so get
+
+188
+00:05:46,879 --> 00:05:50,238
+into the habit of putting events into
+
+189
+00:05:48,519 --> 00:05:52,038
+your calendar the moment they come up on
+
+190
+00:05:50,240 --> 00:05:54,199
+your schedule get them out of your brain
+
+191
+00:05:52,038 --> 00:05:56,478
+and into a quick capture system I like
+
+192
+00:05:54,199 --> 00:05:58,119
+to call it so it's basically in a steel
+
+193
+00:05:56,478 --> 00:05:59,518
+trap that you trust and I'd also
+
+194
+00:05:58,120 --> 00:06:01,639
+recommend setting up reminder noic
+
+195
+00:05:59,519 --> 00:06:03,119
+ifications for your events now part of
+
+196
+00:06:01,639 --> 00:06:04,918
+my morning routine is to wake up and
+
+197
+00:06:03,120 --> 00:06:06,840
+immediately check my calendar so I know
+
+198
+00:06:04,918 --> 00:06:08,798
+exactly what's going to happen that day
+
+199
+00:06:06,839 --> 00:06:10,399
+but for certain events I want to make
+
+200
+00:06:08,800 --> 00:06:12,360
+darn sure that I'm going to get to them
+
+201
+00:06:10,399 --> 00:06:14,037
+on time so I'll use Google Calendar's
+
+202
+00:06:12,360 --> 00:06:15,880
+reminder feature to set maybe like an
+
+203
+00:06:14,038 --> 00:06:17,399
+hour before notification to come to my
+
+204
+00:06:15,879 --> 00:06:18,718
+phone all right so those are the tips
+
+205
+00:06:17,399 --> 00:06:20,079
+I've got for you in this video and if
+
+206
+00:06:18,720 --> 00:06:21,720
+you're able to implement them all into
+
+207
+00:06:20,079 --> 00:06:23,679
+your life you are likely to become the
+
+208
+00:06:21,720 --> 00:06:25,559
+most punctual person in your group of
+
+209
+00:06:23,680 --> 00:06:27,119
+friends which will give you the honor
+
+210
+00:06:25,560 --> 00:06:28,879
+and privilege of being annoyed at all
+
+211
+00:06:27,120 --> 00:06:29,918
+the friends who are perpetually late now
+
+212
+00:06:28,879 --> 00:06:31,079
+that you aren't
+
+213
+00:06:29,918 --> 00:06:32,918
+but hey you could just send them this
+
+214
+00:06:31,079 --> 00:06:34,239
+video right so hopefully you found this
+
+215
+00:06:32,918 --> 00:06:35,317
+helpful if you got additional tips I
+
+216
+00:06:34,240 --> 00:06:36,639
+would love to hear about them down in
+
+217
+00:06:35,319 --> 00:06:38,080
+the comments and you can also check out
+
+218
+00:06:36,639 --> 00:06:39,960
+the blog post for this video which has
+
+219
+00:06:38,079 --> 00:06:41,679
+got some extra details and links to some
+
+220
+00:06:39,959 --> 00:06:44,197
+cool scientific studies about why our
+
+221
+00:06:41,680 --> 00:06:45,439
+brains are broken and overoptimistic if
+
+222
+00:06:44,199 --> 00:06:46,1000
+you enjoyed this video you can give it a
+
+223
+00:06:45,439 --> 00:06:48,318
+thumbs up to support this Channel and if
+
+224
+00:06:47,000 --> 00:06:49,758
+you want to get new tips every single
+
+225
+00:06:48,319 --> 00:06:51,080
+week on being a more effective student
+
+226
+00:06:49,759 --> 00:06:52,839
+you can click that big red subscribe
+
+227
+00:06:51,079 --> 00:06:54,317
+button down there you can also get a
+
+228
+00:06:52,839 --> 00:06:55,718
+free copy of the book I wrote on earning
+
+229
+00:06:54,319 --> 00:06:57,080
+better grades by clicking the picture of
+
+230
+00:06:55,720 --> 00:06:58,759
+said book right over there and if you
+
+231
+00:06:57,079 --> 00:07:00,358
+missed last week's video I was about how
+
+232
+00:06:58,759 --> 00:07:01,479
+to wake up early so if that's something
+
+233
+00:07:00,360 --> 00:07:02,799
+you want to do and you missed it check
+
+234
+00:07:01,478 --> 00:07:04,159
+it out right there once again if you
+
+235
+00:07:02,800 --> 00:07:05,800
+want to check out that companion article
+
+236
+00:07:04,160 --> 00:07:06,959
+which has extra details and resource
+
+237
+00:07:05,800 --> 00:07:08,119
+links you can click the button right
+
+238
+00:07:06,959 --> 00:07:09,478
+there and if you'd like to connect with
+
+239
+00:07:08,120 --> 00:07:11,439
+me well you're probably going to need a
+
+240
+00:07:09,478 --> 00:07:12,839
+rooftop and a spotlight because all I'm
+
+241
+00:07:11,439 --> 00:07:15,318
+saying is have you ever seen Batman and
+
+242
+00:07:12,839 --> 00:07:16,839
+me in the same room at the same time
+
+243
+00:07:15,319 --> 00:07:18,960
+anyway thank you so much for watching
+
+244
+00:07:16,839 --> 00:07:21,959
+and I will see you in the next
+
+245
+00:07:18,959 --> 00:07:21,959
+video
+

@@ -1,0 +1,1028 @@
+1
+00:00:00,030 --> 00:00:04,080
+you've probably heard that multitasking
+
+2
+00:00:01,709 --> 00:00:04,681
+isn't good for your productivity but do
+
+3
+00:00:04,110 --> 00:00:08,249
+you know why that is today we're going
+
+4
+00:00:06,389 --> 00:00:09,359
+to explore the reasons and by the end of
+
+5
+00:00:08,250 --> 00:00:10,919
+this video you're gonna have a good
+
+6
+00:00:09,359 --> 00:00:13,079
+understanding of exactly why
+
+7
+00:00:10,919 --> 00:00:15,508
+multitasking is attempting yet
+
+8
+00:00:13,080 --> 00:00:16,528
+ultimately ineffective strategy in most
+
+9
+00:00:15,509 --> 00:00:18,029
+situations
+
+10
+00:00:16,528 --> 00:00:19,889
+I'll also be recommending some tools and
+
+11
+00:00:18,028 --> 00:00:22,287
+strategies to reduce the temptation to
+
+12
+00:00:19,890 --> 00:00:23,789
+multitask which is no small feat given
+
+13
+00:00:22,289 --> 00:00:25,349
+the sheer amount of tasks we all have to
+
+14
+00:00:23,789 --> 00:00:26,910
+deal with on a daily basis and the
+
+15
+00:00:25,350 --> 00:00:30,090
+availability of technology that makes
+
+16
+00:00:26,910 --> 00:00:34,230
+multitasking so easy what's the price of
+
+17
+00:00:30,089 --> 00:00:36,449
+go buy it tell my mom that I'm coming
+
+18
+00:00:34,229 --> 00:00:41,429
+Wednesday sorry nicer thing actually
+
+19
+00:00:36,450 --> 00:00:42,930
+October ok finally and possibly contrary
+
+20
+00:00:41,429 --> 00:00:44,578
+to your expectations we'll be talking
+
+21
+00:00:42,929 --> 00:00:46,919
+about the times at which multitasking
+
+22
+00:00:44,579 --> 00:00:48,779
+does make sense that's right it turns
+
+23
+00:00:46,920 --> 00:00:50,489
+out that multitasking doesn't entirely
+
+24
+00:00:48,780 --> 00:00:52,170
+deserve the bad rap it's gotten from
+
+25
+00:00:50,488 --> 00:00:53,488
+people like productivity bloggers and
+
+26
+00:00:52,170 --> 00:00:55,558
+management consultants who often say
+
+27
+00:00:53,488 --> 00:00:58,377
+that multitasking doesn't exist
+
+28
+00:00:55,558 --> 00:01:01,319
+multitasking does exist what doesn't
+
+29
+00:00:58,378 --> 00:01:03,478
+exist is multi focus think of your brain
+
+30
+00:01:01,320 --> 00:01:05,518
+like a computer or to be more precise a
+
+31
+00:01:03,479 --> 00:01:07,048
+very specific kind of computer and one
+
+32
+00:01:05,519 --> 00:01:09,539
+that we haven't seen in probably 10 or
+
+33
+00:01:07,049 --> 00:01:11,999
+15 years a computer with a single core
+
+34
+00:01:09,540 --> 00:01:14,009
+processor now most modern computers have
+
+35
+00:01:12,000 --> 00:01:16,139
+multi-core processors the current lineup
+
+36
+00:01:14,010 --> 00:01:17,938
+of 15-inch MacBook Pros have quad-core
+
+37
+00:01:16,140 --> 00:01:20,819
+processors meaning processors with 4
+
+38
+00:01:17,938 --> 00:01:22,888
+cores and even my aging iPhone 6s has a
+
+39
+00:01:20,819 --> 00:01:24,569
+processor with 2 cores with multiple
+
+40
+00:01:22,890 --> 00:01:27,090
+cores comes the ability to truly
+
+41
+00:01:24,569 --> 00:01:29,519
+multitask each core could run operations
+
+42
+00:01:27,090 --> 00:01:31,740
+independently however within each core
+
+43
+00:01:29,519 --> 00:01:33,839
+only one calculation can be executed at
+
+44
+00:01:31,739 --> 00:01:35,878
+any given time so how are you still able
+
+45
+00:01:33,840 --> 00:01:36,840
+to run multiple programs at once how was
+
+46
+00:01:35,879 --> 00:01:38,789
+it that you could be playing runescape
+
+47
+00:01:36,840 --> 00:01:40,739
+in one window talking to a friend and
+
+48
+00:01:38,790 --> 00:01:42,390
+MSN Messenger in another and in still
+
+49
+00:01:40,739 --> 00:01:43,859
+another be writing a video script full
+
+50
+00:01:42,390 --> 00:01:45,720
+references that show everyone just how
+
+51
+00:01:43,859 --> 00:01:47,908
+much of an old man you've truly become
+
+52
+00:01:45,719 --> 00:01:49,319
+how do you do fellow kids well it's
+
+53
+00:01:47,909 --> 00:01:51,478
+pretty simple the processor switched
+
+54
+00:01:49,319 --> 00:01:53,249
+back and forth between multiple tasks
+
+55
+00:01:51,478 --> 00:01:54,989
+but since they could manage millions of
+
+56
+00:01:53,250 --> 00:01:57,119
+instructions per second they created the
+
+57
+00:01:54,989 --> 00:01:59,309
+illusion of true multitasking now
+
+58
+00:01:57,118 --> 00:02:00,629
+unfortunately the human brain was not
+
+59
+00:01:59,310 --> 00:02:02,669
+designed to switch back and forth
+
+60
+00:02:00,629 --> 00:02:04,468
+between tasks quickly it takes a little
+
+61
+00:02:02,670 --> 00:02:05,939
+while for your brain to truly lock on to
+
+62
+00:02:04,468 --> 00:02:08,037
+any task that requires a high level of
+
+63
+00:02:05,938 --> 00:02:09,329
+concentration or active attention so
+
+64
+00:02:08,038 --> 00:02:11,248
+when you switch your attention away to
+
+65
+00:02:09,330 --> 00:02:13,080
+something else you incur what's called a
+
+66
+00:02:11,250 --> 00:02:14,549
+cognitive switching penalty
+
+67
+00:02:13,080 --> 00:02:16,080
+not only do you lose the time that it
+
+68
+00:02:14,550 --> 00:02:18,090
+takes to switch from one task to the
+
+69
+00:02:16,080 --> 00:02:20,070
+other and then back again later you also
+
+70
+00:02:18,090 --> 00:02:22,020
+lose a lot more time while your brain
+
+71
+00:02:20,069 --> 00:02:23,609
+tries to get itself back into the flow
+
+72
+00:02:22,020 --> 00:02:25,620
+state and if you're switching tasks
+
+73
+00:02:23,610 --> 00:02:27,600
+often your brain forever stays in the
+
+74
+00:02:25,620 --> 00:02:29,010
+shallow end of the focus pool multiple
+
+75
+00:02:27,599 --> 00:02:30,268
+studies over the past few decades had
+
+76
+00:02:29,009 --> 00:02:32,218
+demonstrated this inconvenient
+
+77
+00:02:30,270 --> 00:02:34,409
+biological truth and what's more they've
+
+78
+00:02:32,219 --> 00:02:36,268
+also demonstrated that multitaskers make
+
+79
+00:02:34,409 --> 00:02:38,219
+more mistakes which is something that I
+
+80
+00:02:36,270 --> 00:02:39,540
+was reminded of just last night when I
+
+81
+00:02:38,219 --> 00:02:41,939
+decided to stream some enter the gungeon
+
+82
+00:02:39,539 --> 00:02:44,098
+on Twitch I have put over a hundred
+
+83
+00:02:41,939 --> 00:02:45,389
+hours into that game but because I was
+
+84
+00:02:44,099 --> 00:02:46,949
+simultaneously trying to answer
+
+85
+00:02:45,389 --> 00:02:48,958
+questions and be entertaining on the
+
+86
+00:02:46,949 --> 00:02:51,418
+stream my skill level dropped like a
+
+87
+00:02:48,960 --> 00:02:53,250
+rock so the science is clear and it's
+
+88
+00:02:51,419 --> 00:02:55,588
+backed up by experience committing to a
+
+89
+00:02:53,250 --> 00:02:57,389
+single target of focus will make you far
+
+90
+00:02:55,590 --> 00:02:58,920
+more effective in the long run once you
+
+91
+00:02:57,389 --> 00:03:00,418
+enter the flow state on that single task
+
+92
+00:02:58,919 --> 00:03:01,979
+you'll work more quickly and you're
+
+93
+00:03:00,419 --> 00:03:04,198
+creative and logical abilities will be
+
+94
+00:03:01,979 --> 00:03:07,259
+fully unlocked so with all that being
+
+95
+00:03:04,199 --> 00:03:08,939
+said how can you avoid the temptation to
+
+96
+00:03:07,259 --> 00:03:10,649
+multitask well one thing that's been
+
+97
+00:03:08,939 --> 00:03:12,659
+helping me a lot lately is doing all my
+
+98
+00:03:10,650 --> 00:03:14,069
+writing and my research on this iPad pro
+
+99
+00:03:12,659 --> 00:03:15,779
+when I first got it a couple of weeks
+
+100
+00:03:14,069 --> 00:03:17,218
+ago I was initially annoyed that it
+
+101
+00:03:15,780 --> 00:03:19,199
+wasn't quite as good at doing a lot of
+
+102
+00:03:17,219 --> 00:03:21,089
+things that I already did my MacBook Pro
+
+103
+00:03:19,199 --> 00:03:22,768
+copying and pasting was a lot slower a
+
+104
+00:03:21,090 --> 00:03:24,360
+lot of the keyboard shortcuts I normally
+
+105
+00:03:22,769 --> 00:03:26,309
+used didn't work I mean I could complain
+
+106
+00:03:24,360 --> 00:03:28,610
+for hours but then I saw these
+
+107
+00:03:26,310 --> 00:03:32,340
+inconveniences for what they truly are
+
+108
+00:03:28,610 --> 00:03:34,169
+useful restrictions yes my iPad sucks
+
+109
+00:03:32,340 --> 00:03:35,730
+for answering emails and it sucks for
+
+110
+00:03:34,169 --> 00:03:38,518
+editing video and it sucks for lots of
+
+111
+00:03:35,729 --> 00:03:40,169
+things but it is very good for writing
+
+112
+00:03:38,519 --> 00:03:41,880
+which is the most important work that I
+
+113
+00:03:40,169 --> 00:03:43,948
+do and it's the work that I'm most
+
+114
+00:03:41,879 --> 00:03:46,319
+resistant to doing because writing is
+
+115
+00:03:43,949 --> 00:03:48,149
+hard so now every single morning I take
+
+116
+00:03:46,319 --> 00:03:50,189
+my iPad to the coffee shop and I leave
+
+117
+00:03:48,150 --> 00:03:52,319
+my MacBook at home and there I do at
+
+118
+00:03:50,189 --> 00:03:54,358
+least one full Pomodoro of writing and
+
+119
+00:03:52,319 --> 00:03:55,589
+I'll show you my setup right now on 3/4
+
+120
+00:03:54,360 --> 00:03:56,880
+of the screen I have Evernote and I
+
+121
+00:03:55,590 --> 00:03:58,560
+basically write whatever comes to mind
+
+122
+00:03:56,879 --> 00:04:00,419
+and on the other quarter of the screen I
+
+123
+00:03:58,560 --> 00:04:01,950
+have an app called tide which functions
+
+124
+00:04:00,419 --> 00:04:03,899
+as my opponent or timer now you
+
+125
+00:04:01,949 --> 00:04:05,669
+definitely don't need an expensive iPad
+
+126
+00:04:03,900 --> 00:04:07,109
+to get the same benefits my friend
+
+127
+00:04:05,669 --> 00:04:09,028
+Martin back in college actually did the
+
+128
+00:04:07,110 --> 00:04:10,619
+exact same thing with an old iPod Touch
+
+129
+00:04:09,030 --> 00:04:12,239
+and a little stand and a Bluetooth
+
+130
+00:04:10,620 --> 00:04:13,890
+keyboard and of course you can do the
+
+131
+00:04:12,239 --> 00:04:15,540
+exact same thing with a notebook and a
+
+132
+00:04:13,889 --> 00:04:17,069
+pen as well as long as your handwriting
+
+133
+00:04:15,539 --> 00:04:18,297
+muscles have an atrophied if you do have
+
+134
+00:04:17,069 --> 00:04:20,218
+to use a computer you could use an app
+
+135
+00:04:18,298 --> 00:04:21,718
+like cold turkey writer which locks down
+
+136
+00:04:20,220 --> 00:04:23,309
+your computer and lets you do nothing
+
+137
+00:04:21,720 --> 00:04:24,990
+but write until you've hit a word count
+
+138
+00:04:23,310 --> 00:04:25,410
+goal or you could use apps like freedom
+
+139
+00:04:24,990 --> 00:04:27,240
+or
+
+140
+00:04:25,410 --> 00:04:29,340
+filter to block websites that you find
+
+141
+00:04:27,240 --> 00:04:32,039
+distracting whatever you use the key is
+
+142
+00:04:29,339 --> 00:04:33,869
+to lock down your options with all that
+
+143
+00:04:32,040 --> 00:04:36,270
+being said there are times when
+
+144
+00:04:33,870 --> 00:04:38,219
+multitasking it can be useful and I want
+
+145
+00:04:36,269 --> 00:04:40,199
+to give you two examples the first is
+
+146
+00:04:38,220 --> 00:04:41,460
+any situation where neither the tasks
+
+147
+00:04:40,199 --> 00:04:43,408
+that you're doing requires intense
+
+148
+00:04:41,459 --> 00:04:44,519
+concentration and we're one or more of
+
+149
+00:04:43,410 --> 00:04:45,869
+them is something that you've mastered
+
+150
+00:04:44,519 --> 00:04:47,849
+to the point where it's essentially
+
+151
+00:04:45,870 --> 00:04:49,320
+become muscle memory cooking is a great
+
+152
+00:04:47,850 --> 00:04:51,149
+example your practice I've memorized
+
+153
+00:04:49,319 --> 00:04:52,678
+several recipes and I've gotten pretty
+
+154
+00:04:51,149 --> 00:04:54,479
+good at a lot of the basic techniques
+
+155
+00:04:52,680 --> 00:04:55,800
+like cutting vegetables with proper
+
+156
+00:04:54,480 --> 00:04:57,870
+guide hand technique of course and
+
+157
+00:04:55,800 --> 00:04:58,889
+sauteing onions this means that at least
+
+158
+00:04:57,870 --> 00:05:00,539
+when I'm cooking your recipe I'm
+
+159
+00:04:58,889 --> 00:05:02,518
+familiar with I can easily handle
+
+160
+00:05:00,540 --> 00:05:03,990
+multiple things going on at once I can
+
+161
+00:05:02,519 --> 00:05:05,489
+have the onions on the stove I could be
+
+162
+00:05:03,990 --> 00:05:06,720
+chopping kale I can keep the timing for
+
+163
+00:05:05,490 --> 00:05:09,240
+the garlic bread in the back of my head
+
+164
+00:05:06,720 --> 00:05:10,920
+and I can also easily listen to audio
+
+165
+00:05:09,240 --> 00:05:12,869
+books while I do it all but if I'm
+
+166
+00:05:10,920 --> 00:05:14,460
+making a new recipe I can't listen to
+
+167
+00:05:12,870 --> 00:05:16,260
+audio books and I'm not nearly as good
+
+168
+00:05:14,459 --> 00:05:18,209
+at managing multiple dishes at once
+
+169
+00:05:16,259 --> 00:05:19,709
+the moment that an unfamiliar process or
+
+170
+00:05:18,209 --> 00:05:21,809
+a new technique enters the equation it
+
+171
+00:05:19,709 --> 00:05:23,728
+is back to single-tasking for me now
+
+172
+00:05:21,810 --> 00:05:25,709
+aside from that the one other situation
+
+173
+00:05:23,730 --> 00:05:27,210
+where it can be useful to multitask is
+
+174
+00:05:25,709 --> 00:05:29,189
+when you want to background process
+
+175
+00:05:27,209 --> 00:05:30,508
+something in your head as dr. Barbara
+
+176
+00:05:29,189 --> 00:05:32,159
+Oakley points out in her book a mind for
+
+177
+00:05:30,509 --> 00:05:34,259
+numbers your brain has two different
+
+178
+00:05:32,160 --> 00:05:35,910
+modes of processing the focused mode and
+
+179
+00:05:34,259 --> 00:05:37,589
+the diffused mode when you walk away
+
+180
+00:05:35,910 --> 00:05:38,820
+from a project after focusing on it for
+
+181
+00:05:37,589 --> 00:05:40,289
+a while and kind of just let it simmer
+
+182
+00:05:38,819 --> 00:05:42,089
+in the background you're entering the
+
+183
+00:05:40,290 --> 00:05:43,740
+diffuse mode and when you do this new
+
+184
+00:05:42,089 --> 00:05:45,149
+insights can pop up that wouldn't have
+
+185
+00:05:43,740 --> 00:05:46,740
+otherwise popped up if you remained
+
+186
+00:05:45,149 --> 00:05:47,789
+focused my friend Martin actually
+
+187
+00:05:46,740 --> 00:05:49,440
+brought this point up to me while I was
+
+188
+00:05:47,790 --> 00:05:50,939
+writing this video because right now
+
+189
+00:05:49,439 --> 00:05:52,289
+he's designing an algorithm that will
+
+190
+00:05:50,939 --> 00:05:53,789
+suggest articles to people on our
+
+191
+00:05:52,290 --> 00:05:55,680
+website and he mentioned that after
+
+192
+00:05:53,790 --> 00:05:57,660
+working on it intensely for a while he
+
+193
+00:05:55,680 --> 00:06:00,149
+took a break to go fight an easy monster
+
+194
+00:05:57,660 --> 00:06:01,650
+in Monster Hunter at which point so new
+
+195
+00:06:00,149 --> 00:06:03,899
+insights popped up into the back of his
+
+196
+00:06:01,649 --> 00:06:05,548
+head about how to improve it so to recap
+
+197
+00:06:03,899 --> 00:06:07,559
+all this when you're faced with a task
+
+198
+00:06:05,550 --> 00:06:09,870
+that requires careful attention focus
+
+199
+00:06:07,560 --> 00:06:11,819
+only on that task boy the temptation to
+
+200
+00:06:09,870 --> 00:06:13,649
+multitask and if it's helpful choose
+
+201
+00:06:11,819 --> 00:06:15,539
+tools that restrict your options and cut
+
+202
+00:06:13,649 --> 00:06:17,339
+down on that temptation like website
+
+203
+00:06:15,540 --> 00:06:19,260
+blockers or less capable computers
+
+204
+00:06:17,339 --> 00:06:20,519
+finally at other times like when you
+
+205
+00:06:19,259 --> 00:06:21,779
+want to save time on tasks you've
+
+206
+00:06:20,519 --> 00:06:23,219
+already mastered or when you want to
+
+207
+00:06:21,779 --> 00:06:25,259
+take advantage of that diffuse mode of
+
+208
+00:06:23,220 --> 00:06:27,500
+thinking use multitasking as the
+
+209
+00:06:25,259 --> 00:06:29,879
+context-specific tool that it is
+
+210
+00:06:27,500 --> 00:06:31,319
+speaking and mastering skills you should
+
+211
+00:06:29,879 --> 00:06:32,758
+check out skill share if you want to
+
+212
+00:06:31,319 --> 00:06:35,249
+improve your mastery and web development
+
+213
+00:06:32,759 --> 00:06:36,538
+graphic design presentations or really
+
+214
+00:06:35,250 --> 00:06:38,040
+any other skill that you want to learn
+
+215
+00:06:36,540 --> 00:06:38,560
+skills share is an online learning
+
+216
+00:06:38,040 --> 00:06:40,810
+platform
+
+217
+00:06:38,560 --> 00:06:42,310
+with over 17,000 courses in a ton of
+
+218
+00:06:40,810 --> 00:06:43,930
+different areas including the ones I
+
+219
+00:06:42,310 --> 00:06:46,359
+just mentioned plus digital animation
+
+220
+00:06:43,930 --> 00:06:47,860
+marketing photography and audio
+
+221
+00:06:46,360 --> 00:06:49,090
+production which is actually a skill
+
+222
+00:06:47,860 --> 00:06:50,800
+that I've been trying to learn a bit
+
+223
+00:06:49,089 --> 00:06:52,839
+about lately and effort to improve the
+
+224
+00:06:50,800 --> 00:06:54,130
+background music in my videos if that's
+
+225
+00:06:52,839 --> 00:06:55,689
+something that interests you as well you
+
+226
+00:06:54,129 --> 00:06:57,579
+should definitely check out young gurus
+
+227
+00:06:55,689 --> 00:06:58,988
+class on learning to mix music in
+
+228
+00:06:57,579 --> 00:07:00,398
+addition to videos going over techniques
+
+229
+00:06:58,990 --> 00:07:02,289
+like EQ and compression
+
+230
+00:07:00,399 --> 00:07:03,428
+there's also sample project files that
+
+231
+00:07:02,290 --> 00:07:04,780
+you can download so you can start
+
+232
+00:07:03,430 --> 00:07:06,820
+applying what you've learned right away
+
+233
+00:07:04,779 --> 00:07:08,288
+Skillshare is also more affordable than
+
+234
+00:07:06,819 --> 00:07:09,578
+most other online learning platforms at
+
+235
+00:07:08,290 --> 00:07:11,950
+less than ten bucks a month for their
+
+236
+00:07:09,579 --> 00:07:13,088
+annual subscription and the first 1,000
+
+237
+00:07:11,949 --> 00:07:14,768
+people that sign up with link in the
+
+238
+00:07:13,089 --> 00:07:16,689
+description down below are gonna get two
+
+239
+00:07:14,769 --> 00:07:18,728
+months of premium unlimited access for
+
+240
+00:07:16,689 --> 00:07:20,258
+just 99 cents I want to give a huge
+
+241
+00:07:18,728 --> 00:07:21,668
+thanks to Skillshare for sponsoring this
+
+242
+00:07:20,259 --> 00:07:23,768
+video and once again supporting this
+
+243
+00:07:21,668 --> 00:07:25,418
+channel and as always guys thank you so
+
+244
+00:07:23,769 --> 00:07:26,648
+much for watching hopefully you learned
+
+245
+00:07:25,418 --> 00:07:28,179
+something from this video and if you
+
+246
+00:07:26,649 --> 00:07:29,769
+found it useful definitely hit that like
+
+247
+00:07:28,180 --> 00:07:31,030
+button down below you can also click
+
+248
+00:07:29,769 --> 00:07:32,289
+right there to subscribe to this channel
+
+249
+00:07:31,029 --> 00:07:34,089
+so you don't miss out on any future
+
+250
+00:07:32,290 --> 00:07:35,589
+videos and click right there if you want
+
+251
+00:07:34,089 --> 00:07:36,698
+to get a free copy of my book on how to
+
+252
+00:07:35,589 --> 00:07:38,109
+earn better grades
+
+253
+00:07:36,699 --> 00:07:39,219
+lastly you can get one more video on
+
+254
+00:07:38,110 --> 00:07:40,989
+this channel if you want to keep
+
+255
+00:07:39,220 --> 00:07:43,479
+watching by clicking right there and I
+
+256
+00:07:40,990 --> 00:07:45,869
+will see you in the next video thanks
+
+257
+00:07:43,478 --> 00:07:45,869
+for watching
+

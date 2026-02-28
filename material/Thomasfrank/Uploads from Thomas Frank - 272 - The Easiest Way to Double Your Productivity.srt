@@ -1,0 +1,1104 @@
+1
+00:00:00,160 --> 00:00:03,600
+most of the advice you hear in the realm
+
+2
+00:00:01,520 --> 00:00:04,719
+of productivity boils down to work more
+
+3
+00:00:03,759 --> 00:00:04,400
+intensely and get rid of distractions
+
+4
+00:00:06,240 --> 00:00:10,320
+but amongst all that more pedestrian
+
+5
+00:00:08,160 --> 00:00:12,160
+advice there is actually one technique
+
+6
+00:00:10,320 --> 00:00:14,400
+that can truly help you get more on your
+
+7
+00:00:12,160 --> 00:00:16,959
+to-do list done in a lot less time with
+
+8
+00:00:14,400 --> 00:00:18,159
+barely any additional effort in fact it
+
+9
+00:00:16,960 --> 00:00:20,719
+might actually make your work quite a
+
+10
+00:00:18,160 --> 00:00:22,079
+bit easier all it requires is some good
+
+11
+00:00:20,719 --> 00:00:24,078
+planning today i'm going to teach you
+
+12
+00:00:22,079 --> 00:00:26,079
+all about that technique but first let's
+
+13
+00:00:24,079 --> 00:00:28,079
+start things off with a story more than
+
+14
+00:00:26,079 --> 00:00:29,038
+a hundred years ago henry ford adopted a
+
+15
+00:00:28,079 --> 00:00:32,237
+technique that would change
+
+16
+00:00:29,039 --> 00:00:33,760
+manufacturing forever the assembly line
+
+17
+00:00:32,238 --> 00:00:36,077
+taking a cue from meatpacking plants
+
+18
+00:00:33,759 --> 00:00:37,839
+from places like chicago and cincinnati
+
+19
+00:00:36,079 --> 00:00:39,680
+ford placed workers in stationary
+
+20
+00:00:37,840 --> 00:00:42,479
+positions and then brought pieces of the
+
+21
+00:00:39,679 --> 00:00:44,717
+car to them along a moving line and the
+
+22
+00:00:42,479 --> 00:00:45,838
+results were incredible when ford
+
+23
+00:00:44,719 --> 00:00:47,920
+applied this technique to the building
+
+24
+00:00:45,840 --> 00:00:49,759
+of the chassis for the model t workers
+
+25
+00:00:47,920 --> 00:00:51,920
+went from taking more than 12 hours to
+
+26
+00:00:49,759 --> 00:00:54,398
+assemble a single chassis down to just
+
+27
+00:00:51,920 --> 00:00:56,719
+93 minutes allowing cars to not only be
+
+28
+00:00:54,399 --> 00:00:58,960
+produced much more quickly but at a much
+
+29
+00:00:56,719 --> 00:01:00,558
+lower cost as well and while ford
+
+30
+00:00:58,960 --> 00:01:02,960
+certainly didn't invent the assembly
+
+31
+00:01:00,558 --> 00:01:05,518
+line he did popularize it and what he
+
+32
+00:01:02,960 --> 00:01:07,360
+also did was give us a tangible nuts and
+
+33
+00:01:05,519 --> 00:01:09,679
+bolts example of a technique that we can
+
+34
+00:01:07,359 --> 00:01:11,437
+actually apply to virtually any kind of
+
+35
+00:01:09,680 --> 00:01:13,680
+work would ford's assembly line really
+
+36
+00:01:11,438 --> 00:01:15,358
+leveraged was task batching task
+
+37
+00:01:13,680 --> 00:01:17,758
+batching means organizing your tasks
+
+38
+00:01:15,359 --> 00:01:19,918
+into groups or batches so that you can
+
+39
+00:01:17,759 --> 00:01:21,600
+work more efficiently and get more done
+
+40
+00:01:19,920 --> 00:01:23,040
+in less time batching similar tasks
+
+41
+00:01:21,599 --> 00:01:24,797
+together saves you time first by
+
+42
+00:01:23,040 --> 00:01:27,040
+bundling the startup and the cleanup
+
+43
+00:01:24,799 --> 00:01:29,039
+costs associated with each task see
+
+44
+00:01:27,040 --> 00:01:31,118
+almost anything you do requires some
+
+45
+00:01:29,040 --> 00:01:32,560
+kind of setup time a startup cost you
+
+46
+00:01:31,118 --> 00:01:34,158
+have to get out the correct tools you
+
+47
+00:01:32,560 --> 00:01:35,520
+have to set up your workspace sometimes
+
+48
+00:01:34,159 --> 00:01:37,520
+you even have to get yourself to the
+
+49
+00:01:35,519 --> 00:01:39,039
+correct location in the first place for
+
+50
+00:01:37,519 --> 00:01:40,478
+example when i'm filming a video i often
+
+51
+00:01:39,040 --> 00:01:42,560
+have a list of shots that i have to get
+
+52
+00:01:40,478 --> 00:01:44,478
+that goes over the a-roll this talking
+
+53
+00:01:42,560 --> 00:01:46,560
+head portion so it's more interesting to
+
+54
+00:01:44,478 --> 00:01:48,397
+watch the video and i could film all
+
+55
+00:01:46,560 --> 00:01:49,600
+these shots in their chronological order
+
+56
+00:01:48,399 --> 00:01:51,839
+the way that you'd see them in the final
+
+57
+00:01:49,599 --> 00:01:53,518
+video but a better way to do it is
+
+58
+00:01:51,840 --> 00:01:55,599
+actually to figure out first what
+
+59
+00:01:53,519 --> 00:01:57,839
+location each shot needs to be in and
+
+60
+00:01:55,599 --> 00:01:59,679
+then film all those shots in one big
+
+61
+00:01:57,840 --> 00:02:01,520
+batch batching also has a couple of less
+
+62
+00:01:59,680 --> 00:02:03,200
+obvious benefits one being that when you
+
+63
+00:02:01,519 --> 00:02:05,039
+batch similar tasks together you deal
+
+64
+00:02:03,200 --> 00:02:06,398
+with less cognitive switching now if
+
+65
+00:02:05,040 --> 00:02:07,919
+you've seen any of my videos on how
+
+66
+00:02:06,399 --> 00:02:09,1000
+focus works you probably know that when
+
+67
+00:02:07,920 --> 00:02:11,759
+you switch tasks you get this cognitive
+
+68
+00:02:10,000 --> 00:02:13,439
+switching penalty where your brain takes
+
+69
+00:02:11,759 --> 00:02:14,638
+a while to really sink into the next
+
+70
+00:02:13,439 --> 00:02:16,639
+task and you're a little bit less
+
+71
+00:02:14,639 --> 00:02:18,317
+productive for at least a few minutes
+
+72
+00:02:16,639 --> 00:02:19,918
+and i've absolutely experienced this
+
+73
+00:02:18,318 --> 00:02:20,878
+even when filming videos from the times
+
+74
+00:02:19,919 --> 00:02:22,718
+that i've been gathering shots for a
+
+75
+00:02:20,878 --> 00:02:24,079
+video and i was too lazy to batch them i
+
+76
+00:02:22,719 --> 00:02:25,439
+remember getting a shout out to with my
+
+77
+00:02:24,080 --> 00:02:27,359
+camera and then going over to the
+
+78
+00:02:25,439 --> 00:02:28,718
+computer to take a screen recording but
+
+79
+00:02:27,360 --> 00:02:30,639
+of course i couldn't help checking
+
+80
+00:02:28,719 --> 00:02:32,318
+twitter for a few minutes first and when
+
+81
+00:02:30,639 --> 00:02:34,398
+i batch everything together i gave
+
+82
+00:02:32,318 --> 00:02:36,159
+myself far fewer opportunities to get
+
+83
+00:02:34,400 --> 00:02:38,560
+distracted like that another interesting
+
+84
+00:02:36,159 --> 00:02:40,237
+benefit comes when you batch by time so
+
+85
+00:02:38,560 --> 00:02:42,878
+say you decide to process your email at
+
+86
+00:02:40,239 --> 00:02:44,800
+9am every single day by setting a time
+
+87
+00:02:42,878 --> 00:02:47,038
+for that task you're also implicitly
+
+88
+00:02:44,800 --> 00:02:49,120
+defining when you don't check your email
+
+89
+00:02:47,039 --> 00:02:50,878
+so how do you start batching your tasks
+
+90
+00:02:49,120 --> 00:02:53,360
+well the first step is to find different
+
+91
+00:02:50,878 --> 00:02:54,878
+contexts for your work a context defines
+
+92
+00:02:53,360 --> 00:02:56,239
+different aspects of a task and there
+
+93
+00:02:54,878 --> 00:02:58,317
+are all sorts of different contexts that
+
+94
+00:02:56,239 --> 00:03:00,319
+we could use but for now i just want to
+
+95
+00:02:58,318 --> 00:03:02,638
+cover some of the most useful ones first
+
+96
+00:03:00,318 --> 00:03:04,318
+there is energy some tasks require a
+
+97
+00:03:02,639 --> 00:03:06,957
+huge amount of mental energy while
+
+98
+00:03:04,318 --> 00:03:08,558
+others are a bit more low energy for me
+
+99
+00:03:06,959 --> 00:03:10,159
+writing is probably the highest energy
+
+100
+00:03:08,560 --> 00:03:12,159
+task that i do while something like
+
+101
+00:03:10,158 --> 00:03:14,398
+doing my bookkeeping is a much lower
+
+102
+00:03:12,158 --> 00:03:15,839
+energy task and by batching my tasks by
+
+103
+00:03:14,400 --> 00:03:17,360
+energy level i can be a bit more
+
+104
+00:03:15,840 --> 00:03:19,279
+efficient and batching task taskbar
+
+105
+00:03:17,360 --> 00:03:21,360
+entry level is especially useful if you
+
+106
+00:03:19,280 --> 00:03:22,719
+know your biological prime time which is
+
+107
+00:03:21,360 --> 00:03:24,639
+a term from chris bailey's book the
+
+108
+00:03:22,719 --> 00:03:25,759
+productivity project like most people
+
+109
+00:03:24,639 --> 00:03:27,438
+you probably have a window of time
+
+110
+00:03:25,759 --> 00:03:29,919
+during the day where you feel the most
+
+111
+00:03:27,439 --> 00:03:31,759
+on the most focused so if you can figure
+
+112
+00:03:29,919 --> 00:03:33,919
+out what that window is you can do your
+
+113
+00:03:31,759 --> 00:03:35,598
+high energy tasks then and save the low
+
+114
+00:03:33,919 --> 00:03:38,079
+energy tasks for later another great
+
+115
+00:03:35,598 --> 00:03:40,399
+context is location where you have to do
+
+116
+00:03:38,080 --> 00:03:42,158
+the task like i need to be right here on
+
+117
+00:03:40,400 --> 00:03:43,360
+set to film these videos while i can be
+
+118
+00:03:42,158 --> 00:03:45,198
+almost anywhere where i can get an
+
+119
+00:03:43,360 --> 00:03:47,119
+internet connection to research or write
+
+120
+00:03:45,199 --> 00:03:48,798
+the scripts for them tools required is a
+
+121
+00:03:47,120 --> 00:03:50,559
+similar one for some tasks i need a
+
+122
+00:03:48,799 --> 00:03:52,158
+camera and lights like here on the set
+
+123
+00:03:50,560 --> 00:03:54,238
+for others i need my computer and for
+
+124
+00:03:52,158 --> 00:03:55,839
+some i might even need a power drill and
+
+125
+00:03:54,239 --> 00:03:57,920
+finally i'm going to mention social
+
+126
+00:03:55,840 --> 00:04:00,158
+interaction when i'm writing i'm almost
+
+127
+00:03:57,919 --> 00:04:01,838
+always in total isolation but for other
+
+128
+00:04:00,158 --> 00:04:03,359
+things like answering my emails or
+
+129
+00:04:01,840 --> 00:04:04,879
+checking with my team i have to be in a
+
+130
+00:04:03,360 --> 00:04:07,119
+more social frame of mind so it's good
+
+131
+00:04:04,878 --> 00:04:08,797
+to match things that way as well editing
+
+132
+00:04:07,120 --> 00:04:10,318
+tom here and realize there was one
+
+133
+00:04:08,799 --> 00:04:11,839
+additional context that i didn't want to
+
+134
+00:04:10,318 --> 00:04:13,758
+leave out of the video and that is
+
+135
+00:04:11,840 --> 00:04:14,879
+batching work that does require the
+
+136
+00:04:13,759 --> 00:04:17,358
+internet
+
+137
+00:04:14,878 --> 00:04:19,278
+and work that doesn't remember that your
+
+138
+00:04:17,358 --> 00:04:20,958
+environment is a huge factor in your
+
+139
+00:04:19,279 --> 00:04:23,198
+ability to focus on your work so if you
+
+140
+00:04:20,959 --> 00:04:25,758
+can batch your tasks and get rid of the
+
+141
+00:04:23,199 --> 00:04:26,800
+worst influencing factor on your ability
+
+142
+00:04:25,759 --> 00:04:28,719
+to focus
+
+143
+00:04:26,800 --> 00:04:30,478
+all the better you can actually use
+
+144
+00:04:28,720 --> 00:04:32,880
+these contexts by applying them as a
+
+145
+00:04:30,478 --> 00:04:34,638
+label on each of your tasks todoist even
+
+146
+00:04:32,879 --> 00:04:36,399
+lets you do this by default you can
+
+147
+00:04:34,639 --> 00:04:38,478
+create labels you can apply them to each
+
+148
+00:04:36,399 --> 00:04:40,559
+task and then you can view each label to
+
+149
+00:04:38,478 --> 00:04:41,518
+see your task batches really easily next
+
+150
+00:04:40,560 --> 00:04:43,520
+you want to decide when you're going to
+
+151
+00:04:41,519 --> 00:04:44,878
+take care of the tasks in each context
+
+152
+00:04:43,519 --> 00:04:46,559
+there are a couple of good ways to do
+
+153
+00:04:44,879 --> 00:04:48,238
+this first you can set up a specific
+
+154
+00:04:46,560 --> 00:04:50,960
+time like processing all of your email
+
+155
+00:04:48,240 --> 00:04:52,400
+at 9am each day or even simpler you can
+
+156
+00:04:50,959 --> 00:04:54,559
+just decide the order in which you're
+
+157
+00:04:52,399 --> 00:04:55,758
+going to tackle each context and to give
+
+158
+00:04:54,560 --> 00:04:57,520
+you an example that let's actually go
+
+159
+00:04:55,759 --> 00:04:59,120
+back to how i batch the different shots
+
+160
+00:04:57,519 --> 00:05:01,119
+for my videos and i actually want to
+
+161
+00:04:59,120 --> 00:05:03,999
+show you the system that i have set up
+
+162
+00:05:01,120 --> 00:05:06,479
+to do this inside a notion so here is a
+
+163
+00:05:04,000 --> 00:05:08,879
+video project for the tmc's video we did
+
+164
+00:05:06,478 --> 00:05:10,319
+last year here in our notion setup and
+
+165
+00:05:08,879 --> 00:05:12,238
+we've got a whole lot of stuff here in
+
+166
+00:05:10,319 --> 00:05:13,678
+the project area we've got project tasks
+
+167
+00:05:12,240 --> 00:05:15,440
+we've got an area for our script and
+
+168
+00:05:13,680 --> 00:05:17,360
+research but what i want to show you is
+
+169
+00:05:15,439 --> 00:05:19,519
+this little area called b-roll this is
+
+170
+00:05:17,360 --> 00:05:22,560
+where we create ideas for all the
+
+171
+00:05:19,519 --> 00:05:24,559
+different b-roll shots animations little
+
+172
+00:05:22,560 --> 00:05:26,479
+on-screen text pop-ups anything that
+
+173
+00:05:24,560 --> 00:05:28,319
+isn't just me talking straight to the
+
+174
+00:05:26,478 --> 00:05:30,079
+camera and you will notice i can make
+
+175
+00:05:28,319 --> 00:05:32,399
+this bigger here that we have a
+
+176
+00:05:30,079 --> 00:05:33,838
+chronological ordering based on the
+
+177
+00:05:32,399 --> 00:05:35,359
+timestamp in which it's going to go in
+
+178
+00:05:33,839 --> 00:05:36,799
+the video this is actually great for my
+
+179
+00:05:35,360 --> 00:05:38,400
+editor tony because once we have all the
+
+180
+00:05:36,800 --> 00:05:40,559
+b-roll gathered he can just go on down
+
+181
+00:05:38,399 --> 00:05:42,477
+the timeline and drag and drop things on
+
+182
+00:05:40,560 --> 00:05:45,039
+in chronological order it's fantastic
+
+183
+00:05:42,478 --> 00:05:46,718
+for that purpose but again it's not so
+
+184
+00:05:45,038 --> 00:05:48,239
+great for actually gathering the
+
+185
+00:05:46,720 --> 00:05:49,759
+different shots because sometimes we
+
+186
+00:05:48,240 --> 00:05:51,280
+need to film things sometimes we need to
+
+187
+00:05:49,759 --> 00:05:53,279
+take screen recordings sometimes we need
+
+188
+00:05:51,279 --> 00:05:54,558
+to develop animations what have you so
+
+189
+00:05:53,279 --> 00:05:56,799
+what we actually do is take about five
+
+190
+00:05:54,560 --> 00:05:58,399
+minutes before we start gathering to tag
+
+191
+00:05:56,800 --> 00:06:01,439
+each of these ideas with things like
+
+192
+00:05:58,399 --> 00:06:03,198
+film or overhead whiteboard archive for
+
+193
+00:06:01,439 --> 00:06:04,559
+pulling stuff from our server stock
+
+194
+00:06:03,199 --> 00:06:06,719
+footage from different stock footage
+
+195
+00:06:04,560 --> 00:06:08,638
+websites like story blocks and then we
+
+196
+00:06:06,720 --> 00:06:10,478
+can actually create a different view
+
+197
+00:06:08,639 --> 00:06:13,280
+with a different sort criteria so note
+
+198
+00:06:10,478 --> 00:06:15,359
+that this chrono view is sorted
+
+199
+00:06:13,279 --> 00:06:17,037
+by timestamp first but when it's time to
+
+200
+00:06:15,360 --> 00:06:19,840
+actually gather that b-roll we switch
+
+201
+00:06:17,038 --> 00:06:22,238
+over to our gather view and this view as
+
+202
+00:06:19,839 --> 00:06:24,159
+you can see is sorted by the tags so we
+
+203
+00:06:22,240 --> 00:06:26,560
+have a sort criteria where tags our
+
+204
+00:06:24,160 --> 00:06:28,400
+first and then location is second and by
+
+205
+00:06:26,560 --> 00:06:30,880
+doing it this way i can see everything i
+
+206
+00:06:28,399 --> 00:06:32,477
+need to film in one big batch and i can
+
+207
+00:06:30,879 --> 00:06:34,158
+even break it down further so for this
+
+208
+00:06:32,478 --> 00:06:36,159
+video we had several different locations
+
+209
+00:06:34,160 --> 00:06:37,519
+uh one being the office so here are all
+
+210
+00:06:36,160 --> 00:06:38,959
+different things we had to film in the
+
+211
+00:06:37,519 --> 00:06:41,119
+office and then i can move over to the
+
+212
+00:06:38,959 --> 00:06:43,439
+edit bay into the studio and then move
+
+213
+00:06:41,120 --> 00:06:45,039
+on to other action types overhead shots
+
+214
+00:06:43,439 --> 00:06:47,197
+whiteboard shots things we're going to
+
+215
+00:06:45,038 --> 00:06:48,638
+pull as archival footage from the server
+
+216
+00:06:47,199 --> 00:06:50,638
+and by batching we were able to gather
+
+217
+00:06:48,639 --> 00:06:51,1000
+this stuff much more quickly now you
+
+218
+00:06:50,639 --> 00:06:53,1000
+probably noticed that like the video
+
+219
+00:06:52,000 --> 00:06:55,919
+project we just looked at in notion this
+
+220
+00:06:54,000 --> 00:06:57,758
+video also contained a lot of that
+
+221
+00:06:55,918 --> 00:06:58,798
+b-roll i was talking about and some of
+
+222
+00:06:57,759 --> 00:07:00,638
+it was b-roll that we did shoot
+
+223
+00:06:58,800 --> 00:07:02,478
+ourselves but we were also able to get a
+
+224
+00:07:00,639 --> 00:07:04,240
+lot of it from storyblocks which is a
+
+225
+00:07:02,478 --> 00:07:05,839
+service that i've been using for years
+
+226
+00:07:04,240 --> 00:07:07,679
+and who have been kind enough to sponsor
+
+227
+00:07:05,839 --> 00:07:09,519
+this video if you're a creator you
+
+228
+00:07:07,680 --> 00:07:11,199
+definitely want to check out storyblocks
+
+229
+00:07:09,519 --> 00:07:13,999
+they let you download unlimited creative
+
+230
+00:07:11,199 --> 00:07:15,679
+assets stock footage sound effects music
+
+231
+00:07:14,000 --> 00:07:17,839
+after effects templates from a library
+
+232
+00:07:15,680 --> 00:07:19,360
+of more than one million assets to
+
+233
+00:07:17,839 --> 00:07:21,359
+choose from so if there's a shot that
+
+234
+00:07:19,360 --> 00:07:23,199
+you just can't get for a video project
+
+235
+00:07:21,360 --> 00:07:25,119
+they probably have something you can use
+
+236
+00:07:23,199 --> 00:07:27,199
+for just one example back in 2020 we
+
+237
+00:07:25,120 --> 00:07:29,039
+shot this video that i am insanely proud
+
+238
+00:07:27,199 --> 00:07:31,119
+of called the skill you are slowly
+
+239
+00:07:29,038 --> 00:07:32,719
+losing but one shot that i couldn't get
+
+240
+00:07:31,120 --> 00:07:34,479
+while i was there that i really wanted
+
+241
+00:07:32,720 --> 00:07:35,840
+was an aerial shot of all the trees in
+
+242
+00:07:34,478 --> 00:07:37,279
+the mountain area i couldn't get that
+
+243
+00:07:35,839 --> 00:07:39,118
+because number one i don't have a drone
+
+244
+00:07:37,279 --> 00:07:40,477
+license and number two a lot of the
+
+245
+00:07:39,120 --> 00:07:42,160
+mountains in colorado are actually
+
+246
+00:07:40,478 --> 00:07:44,239
+illegal to use drones in because they're
+
+247
+00:07:42,160 --> 00:07:46,079
+state parks so story blocks to the
+
+248
+00:07:44,240 --> 00:07:47,759
+rescue i found this great shot that fit
+
+249
+00:07:46,079 --> 00:07:49,279
+in perfectly with the video with just a
+
+250
+00:07:47,759 --> 00:07:50,960
+little bit of extra color grading and it
+
+251
+00:07:49,279 --> 00:07:52,158
+made the video so much better and in
+
+252
+00:07:50,959 --> 00:07:53,757
+addition to getting you shots that you
+
+253
+00:07:52,160 --> 00:07:55,439
+just couldn't get on your own storybox
+
+254
+00:07:53,759 --> 00:07:57,120
+can also simply help you save time in
+
+255
+00:07:55,439 --> 00:07:59,119
+the production process they have this
+
+256
+00:07:57,120 --> 00:08:01,599
+diverse ever-growing library of assets
+
+257
+00:07:59,120 --> 00:08:02,639
+for nearly any purpose and the best part
+
+258
+00:08:01,598 --> 00:08:04,558
+is that they have subscriptions that
+
+259
+00:08:02,639 --> 00:08:05,1000
+will fit any budget so whether you're
+
+260
+00:08:04,560 --> 00:08:07,520
+just getting started as an indie creator
+
+261
+00:08:06,000 --> 00:08:09,198
+or you're running a small team like we
+
+262
+00:08:07,519 --> 00:08:11,119
+are or even if you're looking for
+
+263
+00:08:09,199 --> 00:08:13,199
+enterprise licensing for a bigger team
+
+264
+00:08:11,120 --> 00:08:14,318
+they've got a plan for you so if you
+
+265
+00:08:13,199 --> 00:08:15,759
+want to check out their library and
+
+266
+00:08:14,319 --> 00:08:18,400
+start producing better content head on
+
+267
+00:08:15,759 --> 00:08:19,919
+over to storyblocks.com thomas and sign
+
+268
+00:08:18,399 --> 00:08:20,959
+up if you found this video helpful hit
+
+269
+00:08:19,918 --> 00:08:22,719
+that like button for the youtube
+
+270
+00:08:20,959 --> 00:08:24,478
+algorithm and if you're looking to learn
+
+271
+00:08:22,720 --> 00:08:25,759
+even more check out this video right
+
+272
+00:08:24,478 --> 00:08:27,518
+here which is the ultimate guide to
+
+273
+00:08:25,759 --> 00:08:29,120
+managing your calendar or here's that
+
+274
+00:08:27,519 --> 00:08:30,878
+one we just looked at on my notion setup
+
+275
+00:08:29,120 --> 00:08:33,759
+on how to optimize your workspace for
+
+276
+00:08:30,879 --> 00:08:33,758
+better productivity
+

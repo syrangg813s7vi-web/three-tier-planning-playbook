@@ -1,0 +1,1528 @@
+1
+00:00:01,439 --> 00:00:03,359
+so you've probably heard about mnemonics
+
+2
+00:00:03,439 --> 00:00:06,399
+at some point in your life
+
+3
+00:00:04,799 --> 00:00:08,319
+if you haven't they're basically mental
+
+4
+00:00:06,399 --> 00:00:09,439
+devices that allow you to access hard to
+
+5
+00:00:08,320 --> 00:00:11,598
+remember information
+
+6
+00:00:09,439 --> 00:00:12,959
+in a sort of roundabout way take the
+
+7
+00:00:11,599 --> 00:00:15,039
+acronym roy g biv
+
+8
+00:00:12,960 --> 00:00:16,719
+for example this silly sounding name
+
+9
+00:00:15,039 --> 00:00:18,159
+allows us to easily remember the order
+
+10
+00:00:16,719 --> 00:00:18,879
+of the colors in the visible light
+
+11
+00:00:18,160 --> 00:00:22,320
+spectrum
+
+12
+00:00:18,879 --> 00:00:23,999
+red orange yellow green blue indigo
+
+13
+00:00:22,320 --> 00:00:25,598
+and violet our brains aren't really
+
+14
+00:00:24,000 --> 00:00:27,439
+wired in way that makes remembering the
+
+15
+00:00:25,599 --> 00:00:30,079
+order of arbitrary words easy
+
+16
+00:00:27,439 --> 00:00:31,039
+but they do easily latch onto silly
+
+17
+00:00:30,079 --> 00:00:33,438
+sounding names
+
+18
+00:00:31,039 --> 00:00:35,279
+so essentially this acronym provides a
+
+19
+00:00:33,439 --> 00:00:36,077
+pathway to a specific piece of
+
+20
+00:00:35,280 --> 00:00:37,520
+information
+
+21
+00:00:36,079 --> 00:00:39,280
+information that does exist in your
+
+22
+00:00:37,520 --> 00:00:40,799
+brain even if it's hard to access
+
+23
+00:00:39,280 --> 00:00:42,639
+directly but building these sorts of
+
+24
+00:00:40,799 --> 00:00:44,398
+mental pathways isn't just useful for
+
+25
+00:00:42,640 --> 00:00:45,200
+accessing information that's already up
+
+26
+00:00:44,399 --> 00:00:47,120
+in your head
+
+27
+00:00:45,200 --> 00:00:48,320
+you can also build them to easily access
+
+28
+00:00:47,119 --> 00:00:50,319
+information that you
+
+29
+00:00:48,320 --> 00:00:52,558
+don't know and in doing so you can
+
+30
+00:00:50,320 --> 00:00:53,1000
+greatly expand your brain's capabilities
+
+31
+00:00:52,558 --> 00:00:56,319
+someone who understood this concept
+
+32
+00:00:54,000 --> 00:00:58,238
+exceptionally well was henry iv
+
+33
+00:00:56,320 --> 00:00:59,759
+i have row of electric push buttons on
+
+34
+00:00:58,238 --> 00:01:01,278
+my desk he once said
+
+35
+00:00:59,759 --> 00:01:03,118
+and by pushing the right button i can
+
+36
+00:01:01,280 --> 00:01:04,558
+summon to my aid men who can answer any
+
+37
+00:01:03,119 --> 00:01:06,398
+question i desire concerning the
+
+38
+00:01:04,558 --> 00:01:06,879
+business which i am devoting most of my
+
+39
+00:01:06,400 --> 00:01:09,040
+efforts
+
+40
+00:01:06,879 --> 00:01:10,559
+in other words ford didn't know all the
+
+41
+00:01:09,040 --> 00:01:12,959
+information that he needed to run his
+
+42
+00:01:10,560 --> 00:01:15,199
+business himself but he did know how to
+
+43
+00:01:12,959 --> 00:01:15,599
+quickly get any answer to any question
+
+44
+00:01:15,200 --> 00:01:17,519
+that
+
+45
+00:01:15,599 --> 00:01:19,199
+needed now today there are entire
+
+46
+00:01:17,519 --> 00:01:20,797
+businesses that provide the access to
+
+47
+00:01:19,200 --> 00:01:22,079
+experts like the ones that fore relied
+
+48
+00:01:20,799 --> 00:01:23,520
+upon back in his day
+
+49
+00:01:22,079 --> 00:01:24,797
+they're called expert networks and
+
+50
+00:01:23,519 --> 00:01:25,999
+actually learned all about them back in
+
+51
+00:01:24,799 --> 00:01:28,080
+my mis program
+
+52
+00:01:26,000 --> 00:01:29,119
+in college other businesses like hedge
+
+53
+00:01:28,079 --> 00:01:31,358
+funds especially
+
+54
+00:01:29,118 --> 00:01:33,839
+often pay huge sums of money for yearly
+
+55
+00:01:31,359 --> 00:01:35,918
+subscriptions to these types of networks
+
+56
+00:01:33,840 --> 00:01:37,920
+but of course we have another tool at
+
+57
+00:01:35,920 --> 00:01:39,118
+our fingertips which is called google
+
+58
+00:01:37,920 --> 00:01:41,679
+and what's more
+
+59
+00:01:39,118 --> 00:01:42,638
+it's free so with such a useful tool at
+
+60
+00:01:41,680 --> 00:01:44,559
+our fingertips
+
+61
+00:01:42,640 --> 00:01:46,159
+why even make a video about this well
+
+62
+00:01:44,560 --> 00:01:48,560
+here's the thing google is
+
+63
+00:01:46,159 --> 00:01:50,880
+incredibly useful yes but it does have
+
+64
+00:01:48,560 --> 00:01:52,640
+some limitations the main one being that
+
+65
+00:01:50,879 --> 00:01:54,559
+it's a search engine which means that it
+
+66
+00:01:52,640 --> 00:01:55,999
+can only return results based on the
+
+67
+00:01:54,560 --> 00:01:57,680
+terms that you feed it
+
+68
+00:01:56,000 --> 00:01:58,960
+and sometimes you don't really know what
+
+69
+00:01:57,680 --> 00:01:59,200
+you're looking for well enough to give
+
+70
+00:01:58,959 --> 00:02:01,199
+it
+
+71
+00:01:59,200 --> 00:02:02,719
+the accurate terms but there's another
+
+72
+00:02:01,200 --> 00:02:04,320
+problem as well it's the one that i want
+
+73
+00:02:02,718 --> 00:02:06,638
+to focus on in this video
+
+74
+00:02:04,319 --> 00:02:07,999
+it's the problem of re-access how many
+
+75
+00:02:06,640 --> 00:02:10,079
+times have you stumbled across a really
+
+76
+00:02:08,000 --> 00:02:11,680
+useful article or video only to be
+
+77
+00:02:10,080 --> 00:02:13,439
+unable to find it again
+
+78
+00:02:11,680 --> 00:02:15,119
+later it's just like putting new
+
+79
+00:02:13,439 --> 00:02:16,878
+information up in your brain
+
+80
+00:02:15,120 --> 00:02:18,959
+if you can't access it again when you
+
+81
+00:02:16,878 --> 00:02:20,798
+need it then what good is it
+
+82
+00:02:18,959 --> 00:02:22,479
+fortunately google is not the only tool
+
+83
+00:02:20,800 --> 00:02:23,920
+out there so today what i want to do is
+
+84
+00:02:22,479 --> 00:02:26,159
+share some of the other tools and
+
+85
+00:02:23,919 --> 00:02:28,478
+methods that i use to easily re-access
+
+86
+00:02:26,159 --> 00:02:30,559
+information think of them as modern day
+
+87
+00:02:28,479 --> 00:02:32,799
+breadcrumbs to follow except that these
+
+88
+00:02:30,560 --> 00:02:34,720
+breadcrumbs don't get eaten by birds so
+
+89
+00:02:32,800 --> 00:02:35,920
+you don't get eaten alive by a witch and
+
+90
+00:02:34,719 --> 00:02:37,839
+really at the end of the day isn't that
+
+91
+00:02:35,919 --> 00:02:39,678
+what my entire channel is all about
+
+92
+00:02:37,840 --> 00:02:41,199
+so since we are on youtube the first one
+
+93
+00:02:39,680 --> 00:02:42,640
+that i'm gonna mention is youtube
+
+94
+00:02:41,199 --> 00:02:43,919
+playlists if you go to my channel and
+
+95
+00:02:42,639 --> 00:02:45,598
+you go to the playlist tab you're gonna
+
+96
+00:02:43,919 --> 00:02:47,518
+see many publicly available playlists
+
+97
+00:02:45,598 --> 00:02:48,957
+that i've made of my own videos but
+
+98
+00:02:47,519 --> 00:02:49,360
+hidden underneath the surface there are
+
+99
+00:02:48,959 --> 00:02:51,599
+also
+
+100
+00:02:49,360 --> 00:02:53,279
+dozens of unlisted playlists that i make
+
+101
+00:02:51,598 --> 00:02:54,877
+for basically any topic that i'm
+
+102
+00:02:53,280 --> 00:02:56,319
+interested in and with these playlists
+
+103
+00:02:54,878 --> 00:02:58,398
+i'm able to easily save anything that i
+
+104
+00:02:56,318 --> 00:03:00,079
+want to access later on so whatever i'm
+
+105
+00:02:58,400 --> 00:03:01,920
+interested in be it rock climbing or
+
+106
+00:03:00,080 --> 00:03:03,680
+guitar pedals and signal chains or
+
+107
+00:03:01,919 --> 00:03:05,358
+making better videos i will make a
+
+108
+00:03:03,680 --> 00:03:07,599
+playlist for that topic and then i'll
+
+109
+00:03:05,360 --> 00:03:09,040
+save stuff to it as i come across it
+
+110
+00:03:07,598 --> 00:03:11,038
+now that feature is useful for anything
+
+111
+00:03:09,039 --> 00:03:11,918
+on youtube but what about the rest of
+
+112
+00:03:11,039 --> 00:03:14,478
+the internet
+
+113
+00:03:11,919 --> 00:03:16,157
+well for that there is pocket and pocket
+
+114
+00:03:14,479 --> 00:03:17,838
+is basically a browser extension and
+
+115
+00:03:16,158 --> 00:03:18,479
+also a set of mobile apps that allows
+
+116
+00:03:17,840 --> 00:03:20,800
+you to save
+
+117
+00:03:18,479 --> 00:03:22,318
+any web page you want for later reading
+
+118
+00:03:20,800 --> 00:03:23,840
+and one of the nice things about pocket
+
+119
+00:03:22,318 --> 00:03:25,198
+is that it's very similar to the reader
+
+120
+00:03:23,840 --> 00:03:26,480
+mode on the iphone
+
+121
+00:03:25,199 --> 00:03:27,998
+it actually strips out a lot of the
+
+122
+00:03:26,479 --> 00:03:29,598
+extraneous elements of the website that
+
+123
+00:03:28,000 --> 00:03:31,680
+you're on and just gives you a nice
+
+124
+00:03:29,598 --> 00:03:33,439
+article view which is very distraction
+
+125
+00:03:31,680 --> 00:03:34,878
+free additionally on their mobile apps
+
+126
+00:03:33,439 --> 00:03:35,597
+pocket gives you the option of saving
+
+127
+00:03:34,878 --> 00:03:37,679
+articles for
+
+128
+00:03:35,598 --> 00:03:39,439
+offline access so anytime i have a
+
+129
+00:03:37,680 --> 00:03:40,799
+flight i often go and download a lot of
+
+130
+00:03:39,439 --> 00:03:42,559
+the articles that i've saved for later
+
+131
+00:03:40,799 --> 00:03:44,080
+reading so i can access them while i'm
+
+132
+00:03:42,560 --> 00:03:45,680
+on the plane now i know several people
+
+133
+00:03:44,080 --> 00:03:47,200
+who actually delete articles out of
+
+134
+00:03:45,680 --> 00:03:48,958
+their pocket once they're done reading
+
+135
+00:03:47,199 --> 00:03:49,279
+them but that isn't the way that i use
+
+136
+00:03:48,959 --> 00:03:51,280
+it
+
+137
+00:03:49,280 --> 00:03:52,879
+essentially for me pocket is a way of
+
+138
+00:03:51,280 --> 00:03:54,639
+saving anything i come across on the
+
+139
+00:03:52,878 --> 00:03:56,479
+internet whether i've read it already or
+
+140
+00:03:54,639 --> 00:03:58,639
+whether i want to access it in
+
+141
+00:03:56,479 --> 00:04:00,157
+the future it's basically my main way of
+
+142
+00:03:58,639 --> 00:04:01,279
+laying out these bread crumbs and i
+
+143
+00:04:00,158 --> 00:04:02,479
+don't worry about keeping things
+
+144
+00:04:01,280 --> 00:04:04,239
+organized i don't use the tagging
+
+145
+00:04:02,479 --> 00:04:06,398
+feature very often i don't delete things
+
+146
+00:04:04,239 --> 00:04:07,518
+i just make very liberal use of that
+
+147
+00:04:06,400 --> 00:04:09,920
+save the pocket button
+
+148
+00:04:07,519 --> 00:04:11,759
+in my chrome browser and that way i know
+
+149
+00:04:09,919 --> 00:04:13,518
+if i find something useful i'm gonna be
+
+150
+00:04:11,759 --> 00:04:15,038
+able to find it again even if i forget
+
+151
+00:04:13,519 --> 00:04:16,239
+the search terms that might bring it to
+
+152
+00:04:15,039 --> 00:04:17,999
+me in a google search
+
+153
+00:04:16,238 --> 00:04:19,758
+now there is one place in particular on
+
+154
+00:04:18,000 --> 00:04:20,798
+the internet besides youtube where i
+
+155
+00:04:19,759 --> 00:04:23,360
+don't tend to use
+
+156
+00:04:20,798 --> 00:04:25,038
+pocket to save things and that is reddit
+
+157
+00:04:23,360 --> 00:04:26,799
+i will often save reddit comments
+
+158
+00:04:25,040 --> 00:04:28,160
+directly to my reddit account
+
+159
+00:04:26,800 --> 00:04:29,840
+over the past couple years i have found
+
+160
+00:04:28,160 --> 00:04:31,840
+that reddit is often a better source of
+
+161
+00:04:29,839 --> 00:04:33,839
+information for certain purposes
+
+162
+00:04:31,839 --> 00:04:35,359
+than blogs or videos and this is true
+
+163
+00:04:33,839 --> 00:04:37,198
+for a couple of different reasons first
+
+164
+00:04:35,360 --> 00:04:39,040
+and foremost reddit like many other
+
+165
+00:04:37,199 --> 00:04:41,199
+social media sites has a very low
+
+166
+00:04:39,040 --> 00:04:42,560
+barrier of entry to post people don't
+
+167
+00:04:41,199 --> 00:04:43,840
+need to buy a camera like they do on
+
+168
+00:04:42,560 --> 00:04:44,720
+youtube people don't need to learn how
+
+169
+00:04:43,839 --> 00:04:46,079
+to set up a blog
+
+170
+00:04:44,720 --> 00:04:47,840
+they just need to make an account and
+
+171
+00:04:46,079 --> 00:04:49,119
+they can write to their heart's content
+
+172
+00:04:47,839 --> 00:04:50,879
+and because of this you often get a
+
+173
+00:04:49,120 --> 00:04:52,240
+larger and much more diverse group of
+
+174
+00:04:50,879 --> 00:04:53,839
+people sharing their knowledge
+
+175
+00:04:52,240 --> 00:04:55,679
+plus you usually also get multiple
+
+176
+00:04:53,839 --> 00:04:57,439
+answers in each thread these are coming
+
+177
+00:04:55,680 --> 00:04:59,519
+from multiple different voices
+
+178
+00:04:57,439 --> 00:05:01,679
+and because it has a conversation style
+
+179
+00:04:59,519 --> 00:05:03,679
+setup reddit encourages discussion
+
+180
+00:05:01,680 --> 00:05:05,680
+encourages debate and i often find the
+
+181
+00:05:03,680 --> 00:05:08,239
+best answers several levels deep
+
+182
+00:05:05,680 --> 00:05:09,680
+nested beneath the original comment so
+
+183
+00:05:08,240 --> 00:05:11,280
+sometimes this debate is really really
+
+184
+00:05:09,680 --> 00:05:13,039
+useful now i know that i could easily
+
+185
+00:05:11,279 --> 00:05:14,078
+save reddit pages to pocket just like
+
+186
+00:05:13,038 --> 00:05:15,758
+any other article
+
+187
+00:05:14,079 --> 00:05:17,838
+but usually i'm interested in saving a
+
+188
+00:05:15,759 --> 00:05:19,120
+specific comment rather than the entire
+
+189
+00:05:17,839 --> 00:05:20,637
+thread that it's from
+
+190
+00:05:19,120 --> 00:05:22,479
+and yes i could click the permalink
+
+191
+00:05:20,639 --> 00:05:24,079
+button and save that in pockets but
+
+192
+00:05:22,478 --> 00:05:25,839
+usually saving things to my reddit
+
+193
+00:05:24,079 --> 00:05:27,038
+account makes things easier because
+
+194
+00:05:25,839 --> 00:05:28,799
+if i'm looking for something in the
+
+195
+00:05:27,038 --> 00:05:30,239
+future i usually at least know whether
+
+196
+00:05:28,800 --> 00:05:31,1000
+it was from reddit comment or from a
+
+197
+00:05:30,240 --> 00:05:33,519
+blog post and it was from a reddit
+
+198
+00:05:32,000 --> 00:05:35,279
+comment i know that i could start from
+
+199
+00:05:33,519 --> 00:05:35,838
+my profile instead of digging through
+
+200
+00:05:35,279 --> 00:05:37,037
+pocket
+
+201
+00:05:35,839 --> 00:05:39,118
+alright so we talked about youtube
+
+202
+00:05:37,038 --> 00:05:39,917
+playlists pocket and reddit the next one
+
+203
+00:05:39,120 --> 00:05:42,559
+i want to talk about
+
+204
+00:05:39,918 --> 00:05:44,398
+is screenshots i take a lot of
+
+205
+00:05:42,560 --> 00:05:45,359
+screenshots especially when i'm watching
+
+206
+00:05:44,399 --> 00:05:46,718
+youtube videos
+
+207
+00:05:45,360 --> 00:05:48,638
+saving an entire video to one of my
+
+208
+00:05:46,720 --> 00:05:50,079
+playlists can be very useful but
+
+209
+00:05:48,639 --> 00:05:52,320
+sometimes i just want
+
+210
+00:05:50,079 --> 00:05:53,998
+one frame for later reference for
+
+211
+00:05:52,319 --> 00:05:55,758
+example i was recently watching a video
+
+212
+00:05:54,000 --> 00:05:56,638
+about how to set up a specific order of
+
+213
+00:05:55,759 --> 00:05:58,319
+guitar pedals
+
+214
+00:05:56,639 --> 00:06:00,159
+they had this diagram of the signal
+
+215
+00:05:58,319 --> 00:06:00,479
+chain in the video so i screenshotted
+
+216
+00:06:00,160 --> 00:06:02,160
+that
+
+217
+00:06:00,478 --> 00:06:04,079
+in case i need to reference it later on
+
+218
+00:06:02,160 --> 00:06:05,680
+now basically every computer operating
+
+219
+00:06:04,079 --> 00:06:07,998
+system out there has a built-in
+
+220
+00:06:05,680 --> 00:06:09,119
+screenshot program and i am here to tell
+
+221
+00:06:08,000 --> 00:06:11,680
+you that it is
+
+222
+00:06:09,120 --> 00:06:13,360
+not good enough that you can do better
+
+223
+00:06:11,680 --> 00:06:13,840
+so the program that i personally use is
+
+224
+00:06:13,360 --> 00:06:15,1000
+called
+
+225
+00:06:13,839 --> 00:06:18,079
+green shot it's open source and free on
+
+226
+00:06:16,000 --> 00:06:20,000
+windows and incredibly full featured and
+
+227
+00:06:18,079 --> 00:06:21,518
+then it also exists on the mac but it
+
+228
+00:06:20,000 --> 00:06:23,520
+costs about two bucks and doesn't have
+
+229
+00:06:21,519 --> 00:06:25,197
+quite as many features though that being
+
+230
+00:06:23,519 --> 00:06:26,638
+said i still use it just because i like
+
+231
+00:06:25,199 --> 00:06:28,960
+to use the same programs on
+
+232
+00:06:26,639 --> 00:06:30,240
+each operating system if i can the main
+
+233
+00:06:28,959 --> 00:06:31,757
+thing that i like about green shot is
+
+234
+00:06:30,240 --> 00:06:34,079
+that allows me to set up multiple
+
+235
+00:06:31,759 --> 00:06:36,400
+destinations for my screenshots for
+
+236
+00:06:34,079 --> 00:06:38,079
+example i have mine set up to not only
+
+237
+00:06:36,399 --> 00:06:39,918
+save each screenshot to a specific
+
+238
+00:06:38,079 --> 00:06:41,918
+folder that's in my google drive so i
+
+239
+00:06:39,918 --> 00:06:44,078
+can access it from anywhere but it also
+
+240
+00:06:41,918 --> 00:06:45,679
+saves screenshots to my clipboard so i
+
+241
+00:06:44,079 --> 00:06:46,799
+can easily paste them into photoshop if
+
+242
+00:06:45,680 --> 00:06:48,478
+i need them for a video
+
+243
+00:06:46,800 --> 00:06:50,239
+or i could paste them into notion or
+
+244
+00:06:48,478 --> 00:06:51,679
+evernote for note-taking purposes
+
+245
+00:06:50,240 --> 00:06:53,119
+and in addition to that feature i also
+
+246
+00:06:51,680 --> 00:06:54,880
+like that allows me to set up different
+
+247
+00:06:53,120 --> 00:06:57,198
+shortcuts for taking a screenshot of the
+
+248
+00:06:54,879 --> 00:06:59,037
+entire screen as well as also drawing a
+
+249
+00:06:57,199 --> 00:06:59,598
+box around a specific region that i want
+
+250
+00:06:59,038 --> 00:07:01,598
+to capture
+
+251
+00:06:59,598 --> 00:07:03,118
+now green shot is by no means the only
+
+252
+00:07:01,598 --> 00:07:04,638
+screenshot program out there so if
+
+253
+00:07:03,120 --> 00:07:04,960
+you're looking for an alternative there
+
+254
+00:07:04,639 --> 00:07:07,440
+is
+
+255
+00:07:04,959 --> 00:07:09,758
+share x on windows sketch for mac and
+
+256
+00:07:07,439 --> 00:07:11,119
+then mono snap for both platforms
+
+257
+00:07:09,759 --> 00:07:12,560
+and that just leaves us with one more
+
+258
+00:07:11,120 --> 00:07:12,880
+method that i want to talk about which
+
+259
+00:07:12,560 --> 00:07:15,758
+is
+
+260
+00:07:12,879 --> 00:07:16,879
+trusty old notebooks and note taking so
+
+261
+00:07:15,759 --> 00:07:18,319
+in addition to taking notes on
+
+262
+00:07:16,879 --> 00:07:19,999
+individual books i'll often create
+
+263
+00:07:18,319 --> 00:07:20,960
+specific notes and evernote on things
+
+264
+00:07:20,000 --> 00:07:22,960
+i'm trying to learn
+
+265
+00:07:20,959 --> 00:07:24,478
+as well and if it's a current interest i
+
+266
+00:07:22,959 --> 00:07:26,398
+usually bookmark those notes and add
+
+267
+00:07:24,478 --> 00:07:28,398
+them to my shortcuts bar a few examples
+
+268
+00:07:26,399 --> 00:07:29,678
+include my japanese notes my after
+
+269
+00:07:28,399 --> 00:07:31,119
+effects notes which have different
+
+270
+00:07:29,680 --> 00:07:32,240
+scripts that i use occasionally and
+
+271
+00:07:31,120 --> 00:07:33,840
+different shortcuts that i like to
+
+272
+00:07:32,240 --> 00:07:34,880
+reference and can't always remember off
+
+273
+00:07:33,839 --> 00:07:37,037
+the top of my head
+
+274
+00:07:34,879 --> 00:07:38,478
+and my notes for my live setup which i'm
+
+275
+00:07:37,038 --> 00:07:40,159
+trying to build right now which has a
+
+276
+00:07:38,478 --> 00:07:41,917
+lot of very complicated gear that has to
+
+277
+00:07:40,160 --> 00:07:43,680
+go in a specific order and aside from
+
+278
+00:07:41,918 --> 00:07:43,998
+just typing notes i also make extensive
+
+279
+00:07:43,680 --> 00:07:45,680
+use
+
+280
+00:07:44,000 --> 00:07:47,120
+of the camera feature in evernote as
+
+281
+00:07:45,680 --> 00:07:48,720
+well i've got like a specific
+
+282
+00:07:47,120 --> 00:07:49,280
+configuration of things or anything
+
+283
+00:07:48,720 --> 00:07:51,119
+where just
+
+284
+00:07:49,279 --> 00:07:52,799
+a visual reference would make much more
+
+285
+00:07:51,120 --> 00:07:53,680
+sense than typing things out for a long
+
+286
+00:07:52,800 --> 00:07:54,960
+period of time
+
+287
+00:07:53,680 --> 00:07:56,400
+take a picture of it i'll shove it into
+
+288
+00:07:54,959 --> 00:07:57,999
+evernote and that way i can easily
+
+289
+00:07:56,399 --> 00:07:59,678
+access it just as i can with
+
+290
+00:07:58,000 --> 00:08:01,279
+text now the one odd thing about my
+
+291
+00:07:59,680 --> 00:08:02,800
+evernote setup is that i don't tend to
+
+292
+00:08:01,279 --> 00:08:04,477
+use the web clipper function which is
+
+293
+00:08:02,800 --> 00:08:05,199
+essentially this browser extension that
+
+294
+00:08:04,478 --> 00:08:07,518
+you can use
+
+295
+00:08:05,199 --> 00:08:09,359
+to save articles and basically anything
+
+296
+00:08:07,519 --> 00:08:09,838
+you want to your evernote just like you
+
+297
+00:08:09,360 --> 00:08:11,759
+can
+
+298
+00:08:09,839 --> 00:08:13,359
+with pocket and i know my friend martin
+
+299
+00:08:11,759 --> 00:08:14,400
+uses that all the time especially for
+
+300
+00:08:13,360 --> 00:08:16,400
+things like recipes
+
+301
+00:08:14,399 --> 00:08:17,519
+but i tend to keep articles and things
+
+302
+00:08:16,399 --> 00:08:19,838
+like that in pocket
+
+303
+00:08:17,519 --> 00:08:21,519
+and things that i kind of create myself
+
+304
+00:08:19,839 --> 00:08:22,158
+in evernote but you kind of have to use
+
+305
+00:08:21,519 --> 00:08:24,079
+what works
+
+306
+00:08:22,160 --> 00:08:25,360
+for you now one last way that i made
+
+307
+00:08:24,079 --> 00:08:25,998
+sure that i can easily re-access
+
+308
+00:08:25,360 --> 00:08:28,719
+information
+
+309
+00:08:26,000 --> 00:08:30,639
+is by building a library or rather
+
+310
+00:08:28,720 --> 00:08:32,159
+several libraries i have a physical one
+
+311
+00:08:30,639 --> 00:08:33,1000
+sitting on the bookshelf behind me
+
+312
+00:08:32,158 --> 00:08:35,359
+a digital one in my kindle app and
+
+313
+00:08:34,000 --> 00:08:37,120
+another one made up of
+
+314
+00:08:35,360 --> 00:08:38,799
+audiobooks now you might think that it'd
+
+315
+00:08:37,120 --> 00:08:39,999
+be hard to re-access specific
+
+316
+00:08:38,799 --> 00:08:41,999
+information in an audiobook
+
+317
+00:08:40,000 --> 00:08:43,278
+that's hours long but that's not a
+
+318
+00:08:42,000 --> 00:08:44,799
+problem if you're listening through
+
+319
+00:08:43,278 --> 00:08:45,199
+audible since their app actually lets
+
+320
+00:08:44,799 --> 00:08:47,118
+you set
+
+321
+00:08:45,200 --> 00:08:48,398
+specific bookmarks at timestamps and
+
+322
+00:08:47,120 --> 00:08:50,559
+even add notes to them
+
+323
+00:08:48,399 --> 00:08:52,319
+audible is also simply the best place to
+
+324
+00:08:50,559 --> 00:08:54,559
+get audiobooks ranging from the
+
+325
+00:08:52,320 --> 00:08:56,640
+bestsellers to more obscure titles on
+
+326
+00:08:54,559 --> 00:08:58,398
+botany and music theory i use audible
+
+327
+00:08:56,639 --> 00:09:00,078
+almost every single day especially now
+
+328
+00:08:58,399 --> 00:09:01,439
+that it's warm and i can bike more often
+
+329
+00:09:00,080 --> 00:09:03,439
+and if you'd like to give it a try as
+
+330
+00:09:01,440 --> 00:09:06,239
+well you can go over to audible.com
+
+331
+00:09:03,440 --> 00:09:08,480
+thomas or text thomas to 500 500 on your
+
+332
+00:09:06,240 --> 00:09:10,159
+phone to get a 30 day free trial that
+
+333
+00:09:08,480 --> 00:09:11,440
+trial also comes with a free audiobook
+
+334
+00:09:10,159 --> 00:09:12,719
+download of your choice
+
+335
+00:09:11,440 --> 00:09:15,040
+and this month i'm going to recommend
+
+336
+00:09:12,720 --> 00:09:15,760
+bill bryson's excellent a short history
+
+337
+00:09:15,039 --> 00:09:17,679
+of nearly
+
+338
+00:09:15,759 --> 00:09:19,359
+everything this is one of my favorite
+
+339
+00:09:17,679 --> 00:09:21,038
+non-fiction books of all time
+
+340
+00:09:19,360 --> 00:09:22,719
+and even though it's not on my list of
+
+341
+00:09:21,039 --> 00:09:23,438
+essential books on my website since it
+
+342
+00:09:22,720 --> 00:09:25,279
+doesn't deal with
+
+343
+00:09:23,440 --> 00:09:27,040
+productivity or academics i do think
+
+344
+00:09:25,278 --> 00:09:27,838
+that everyone should read it it is a
+
+345
+00:09:27,039 --> 00:09:30,318
+fantastic
+
+346
+00:09:27,839 --> 00:09:31,920
+introduction to basically all fields of
+
+347
+00:09:30,320 --> 00:09:33,759
+science now of course you could go and
+
+348
+00:09:31,919 --> 00:09:34,879
+get any other audiobook that you want
+
+349
+00:09:33,759 --> 00:09:36,479
+and once you're a member you're going to
+
+350
+00:09:34,879 --> 00:09:38,079
+get one new credit every single month
+
+351
+00:09:36,480 --> 00:09:40,160
+for another audio book plus
+
+352
+00:09:38,080 --> 00:09:41,439
+access to two audible originals every
+
+353
+00:09:40,159 --> 00:09:43,359
+single month that you cannot get
+
+354
+00:09:41,440 --> 00:09:45,518
+anywhere else and a library of audio
+
+355
+00:09:43,360 --> 00:09:47,518
+workout and meditation programs to boot
+
+356
+00:09:45,519 --> 00:09:48,880
+so once again to get a free 30-day trial
+
+357
+00:09:47,519 --> 00:09:50,800
+of audible service along with a free
+
+358
+00:09:48,879 --> 00:09:52,559
+audiobook download of your choice and
+
+359
+00:09:50,799 --> 00:09:53,919
+two free audible originals go over to
+
+360
+00:09:52,559 --> 00:09:56,799
+audible.com
+
+361
+00:09:53,919 --> 00:09:57,119
+thomas or text thomas to 500 500 on your
+
+362
+00:09:56,799 --> 00:09:58,718
+phone
+
+363
+00:09:57,120 --> 00:09:59,838
+big thanks as always to audible for
+
+364
+00:09:58,720 --> 00:10:01,039
+sponsoring this video and being a
+
+365
+00:09:59,839 --> 00:10:03,359
+supporter of my channel
+
+366
+00:10:01,039 --> 00:10:04,878
+and thank you as always for watching as
+
+367
+00:10:03,360 --> 00:10:06,239
+well if you enjoyed this video hit that
+
+368
+00:10:04,879 --> 00:10:07,599
+like button and also get subscribed
+
+369
+00:10:06,240 --> 00:10:08,480
+right there so you don't miss new videos
+
+370
+00:10:07,600 --> 00:10:09,760
+when they come out
+
+371
+00:10:08,480 --> 00:10:11,278
+and also click right there to get a free
+
+372
+00:10:09,759 --> 00:10:13,038
+copy of my book on how to earn better
+
+373
+00:10:11,278 --> 00:10:14,559
+grades if you haven't done so already
+
+374
+00:10:13,039 --> 00:10:15,918
+last but not least you can check out one
+
+375
+00:10:14,559 --> 00:10:17,438
+more video on this channel by clicking
+
+376
+00:10:15,919 --> 00:10:17,999
+right over here or check out our latest
+
+377
+00:10:17,440 --> 00:10:19,759
+podcast
+
+378
+00:10:18,000 --> 00:10:21,040
+episode right over here and if you
+
+379
+00:10:19,759 --> 00:10:22,719
+haven't subscribed to that podcast
+
+380
+00:10:21,039 --> 00:10:24,318
+channel you should probably do that
+
+381
+00:10:22,720 --> 00:10:28,800
+as well thanks again for watching and i
+
+382
+00:10:24,320 --> 00:10:28,800
+will see you in the next video
+

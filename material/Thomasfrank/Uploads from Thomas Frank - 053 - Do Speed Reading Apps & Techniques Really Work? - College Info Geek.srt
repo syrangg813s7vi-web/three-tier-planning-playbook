@@ -1,0 +1,984 @@
+1
+00:00:00,120 --> 00:00:03,318
+what's up guys welcome to the second
+
+2
+00:00:01,760 --> 00:00:02,879
+video in my little series on speed
+
+3
+00:00:03,439 --> 00:00:06,200
+reading now if you missed the first
+
+4
+00:00:04,639 --> 00:00:07,518
+video you can watch it right there but
+
+5
+00:00:06,200 --> 00:00:09,719
+that one went over the science of how
+
+6
+00:00:07,519 --> 00:00:12,078
+the reading process actually works both
+
+7
+00:00:09,718 --> 00:00:14,279
+how our eyes move and fixate on text and
+
+8
+00:00:12,080 --> 00:00:15,999
+how our brain constantly pauses to
+
+9
+00:00:14,279 --> 00:00:17,519
+process that incoming information now
+
+10
+00:00:16,000 --> 00:00:19,119
+for this video I want to take a look at
+
+11
+00:00:17,519 --> 00:00:20,398
+three commonly touted speed reading
+
+12
+00:00:19,118 --> 00:00:22,558
+techniques that all claim they can
+
+13
+00:00:20,399 --> 00:00:23,758
+circumvent or augment some part of this
+
+14
+00:00:22,559 --> 00:00:25,038
+process in order to increase your
+
+15
+00:00:23,760 --> 00:00:27,038
+reading speeds and these three
+
+16
+00:00:25,039 --> 00:00:28,840
+techniques include number one enlarging
+
+17
+00:00:27,039 --> 00:00:30,479
+the area of your fixations essentially
+
+18
+00:00:28,839 --> 00:00:32,557
+allowing yourself to read text in your
+
+19
+00:00:30,480 --> 00:00:34,600
+peripheral vision number two eliminating
+
+20
+00:00:32,558 --> 00:00:36,238
+sub vocalization suppressing that voice
+
+21
+00:00:34,600 --> 00:00:37,680
+inside your head that speaks when you're
+
+22
+00:00:36,238 --> 00:00:39,799
+reading and number three what's called
+
+23
+00:00:37,679 --> 00:00:41,438
+rapid serial visual processing showing
+
+24
+00:00:39,799 --> 00:00:43,359
+each word in succession in the same
+
+25
+00:00:41,439 --> 00:00:45,479
+exact spot the question is do any of
+
+26
+00:00:43,359 --> 00:00:46,718
+these techniques actually work let's
+
+27
+00:00:45,479 --> 00:00:48,558
+start with the claim that some speed
+
+28
+00:00:46,719 --> 00:00:50,078
+readers can fixate on larger areas of
+
+29
+00:00:48,558 --> 00:00:51,279
+the page there's actually some speed
+
+30
+00:00:50,079 --> 00:00:54,039
+readers who even claim that they can
+
+31
+00:00:51,280 --> 00:00:56,039
+take a single mental snapshot of a page
+
+32
+00:00:54,039 --> 00:00:58,359
+and process the entire Page's text
+
+33
+00:00:56,039 --> 00:01:00,800
+inside their head all at once similarly
+
+34
+00:00:58,359 --> 00:01:02,920
+a 1962 study CED somebody who could read
+
+35
+00:01:00,799 --> 00:01:05,039
+it 10,000 words per minute by making
+
+36
+00:01:02,920 --> 00:01:06,560
+only six fixations per page and the
+
+37
+00:01:05,040 --> 00:01:07,839
+weird part here is this person claimed
+
+38
+00:01:06,560 --> 00:01:09,999
+they made the fixations in a
+
+39
+00:01:07,840 --> 00:01:11,560
+counterclockwise motion going around the
+
+40
+00:01:10,000 --> 00:01:13,279
+edges of the page they didn't follow the
+
+41
+00:01:11,560 --> 00:01:14,680
+lines of the text at all however the
+
+42
+00:01:13,280 --> 00:01:16,400
+problem with that study is there was no
+
+43
+00:01:14,680 --> 00:01:17,920
+formal measure of comprehension so it
+
+44
+00:01:16,400 --> 00:01:19,479
+wasn't really clear what this person was
+
+45
+00:01:17,920 --> 00:01:20,839
+remembering from their reading at all
+
+46
+00:01:19,478 --> 00:01:22,478
+additionally further Studies have shown
+
+47
+00:01:20,840 --> 00:01:24,719
+that good reading comprehension can only
+
+48
+00:01:22,478 --> 00:01:27,077
+be had when people follow the lines go
+
+49
+00:01:24,719 --> 00:01:28,999
+figure and here's the kicker you can't
+
+50
+00:01:27,078 --> 00:01:30,558
+read text and understand it if it's in
+
+51
+00:01:29,000 --> 00:01:32,839
+your peripheral vision it has to be
+
+52
+00:01:30,560 --> 00:01:35,359
+within that fval range or just outside
+
+53
+00:01:32,840 --> 00:01:37,320
+of it in fact a 1987 research paper on
+
+54
+00:01:35,359 --> 00:01:39,238
+speed reading reported only one correct
+
+55
+00:01:37,319 --> 00:01:40,959
+answer out of 30 test cases where a
+
+56
+00:01:39,239 --> 00:01:42,959
+reader was tested on information that
+
+57
+00:01:40,959 --> 00:01:44,639
+was three letter spaces or more from an
+
+58
+00:01:42,959 --> 00:01:45,919
+area they had fixated on add these
+
+59
+00:01:44,640 --> 00:01:47,640
+findings to what we already know about
+
+60
+00:01:45,920 --> 00:01:49,718
+the I fial range and the results are
+
+61
+00:01:47,640 --> 00:01:51,398
+clear fixations are very small and we
+
+62
+00:01:49,718 --> 00:01:53,438
+can't comprehend text that doesn't fall
+
+63
+00:01:51,399 --> 00:01:55,559
+within or very very near them but what
+
+64
+00:01:53,438 --> 00:01:57,078
+about eliminating subvocalization some
+
+65
+00:01:55,560 --> 00:01:58,640
+speed reading courses agree that you do
+
+66
+00:01:57,078 --> 00:02:00,639
+need to fixate on text in order to
+
+67
+00:01:58,640 --> 00:02:02,680
+comprehend it but they also o claim that
+
+68
+00:02:00,640 --> 00:02:04,880
+subvocalization essentially your brain
+
+69
+00:02:02,680 --> 00:02:07,119
+speaking the things you're reading aloud
+
+70
+00:02:04,879 --> 00:02:08,158
+inside of your head is slowing you down
+
+71
+00:02:07,118 --> 00:02:09,877
+if you could jettison that
+
+72
+00:02:08,159 --> 00:02:11,159
+subvocalization or suppress it in some
+
+73
+00:02:09,878 --> 00:02:13,237
+way could you increase your reading
+
+74
+00:02:11,159 --> 00:02:15,078
+speeds again research shows that this is
+
+75
+00:02:13,239 --> 00:02:16,719
+a tactic that's unlikely to work
+
+76
+00:02:15,080 --> 00:02:18,040
+according to Elizabeth shter who is the
+
+77
+00:02:16,719 --> 00:02:19,719
+author of some of the most recent
+
+78
+00:02:18,039 --> 00:02:21,317
+research on speed reading there's a lot
+
+79
+00:02:19,719 --> 00:02:23,719
+of evidence that when people recognize
+
+80
+00:02:21,318 --> 00:02:25,598
+words visually they access the sounds of
+
+81
+00:02:23,719 --> 00:02:26,957
+those words to understand them even if
+
+82
+00:02:25,598 --> 00:02:28,957
+you're not reading aloud your brain
+
+83
+00:02:26,959 --> 00:02:31,119
+sends signals to your vocal cords as you
+
+84
+00:02:28,959 --> 00:02:32,800
+read Nas scientists even developed a
+
+85
+00:02:31,120 --> 00:02:34,360
+computer program to detect these signals
+
+86
+00:02:32,800 --> 00:02:35,639
+and measure them scientists have done
+
+87
+00:02:34,360 --> 00:02:37,879
+studies where they try to have readers
+
+88
+00:02:35,639 --> 00:02:39,518
+suppress subvocalization in some by
+
+89
+00:02:37,878 --> 00:02:41,398
+playing a tone whenever these signals
+
+90
+00:02:39,519 --> 00:02:43,200
+are detected by the computer program and
+
+91
+00:02:41,400 --> 00:02:45,319
+in others by having readers try to hum
+
+92
+00:02:43,199 --> 00:02:47,237
+aloud while they read in each case
+
+93
+00:02:45,318 --> 00:02:49,119
+comprehension went way down it seems
+
+94
+00:02:47,239 --> 00:02:50,480
+that reading is inextricably tied to our
+
+95
+00:02:49,120 --> 00:02:52,200
+auditory language processing
+
+96
+00:02:50,479 --> 00:02:54,398
+capabilities and trying to separate the
+
+97
+00:02:52,199 --> 00:02:55,799
+two does more harm than good so let's
+
+98
+00:02:54,400 --> 00:02:57,158
+move on to our third method and this is
+
+99
+00:02:55,800 --> 00:02:58,679
+the one that you guys requested I talk
+
+100
+00:02:57,158 --> 00:03:01,398
+about the most it's the technique
+
+101
+00:02:58,680 --> 00:03:02,958
+utilized by apps like Spritz spreer read
+
+102
+00:03:01,400 --> 00:03:05,120
+quick on the iPad and others and the
+
+103
+00:03:02,959 --> 00:03:06,878
+name for it is rapid serial visual
+
+104
+00:03:05,120 --> 00:03:08,479
+processing these apps work by showing
+
+105
+00:03:06,878 --> 00:03:10,439
+each word in a reading by itself and
+
+106
+00:03:08,479 --> 00:03:12,439
+Rapid succession the words are fixed in
+
+107
+00:03:10,439 --> 00:03:13,838
+place which eliminates the need for sads
+
+108
+00:03:12,439 --> 00:03:15,718
+because your eyes can remain fixed in
+
+109
+00:03:13,840 --> 00:03:16,879
+the same spot as the words change that's
+
+110
+00:03:15,719 --> 00:03:18,238
+where the words you see on the screen
+
+111
+00:03:16,878 --> 00:03:19,639
+right now are doing though since they're
+
+112
+00:03:18,239 --> 00:03:21,319
+following the pace of my voice they're
+
+113
+00:03:19,639 --> 00:03:23,078
+going very very slowly as a
+
+114
+00:03:21,318 --> 00:03:26,069
+demonstration here's the next segment of
+
+115
+00:03:23,080 --> 00:03:39,558
+the script going at 500 words per minute
+
+116
+00:03:26,069 --> 00:03:39,558
+[Music]
+
+117
+00:03:42,039 --> 00:03:45,518
+now in case you didn't catch any of that
+
+118
+00:03:43,479 --> 00:03:47,237
+let me go ahead and restate it the RSVP
+
+119
+00:03:45,519 --> 00:03:48,878
+technique Finds Its origins in a device
+
+120
+00:03:47,239 --> 00:03:50,1000
+called a tachistoscope which uses a
+
+121
+00:03:48,878 --> 00:03:52,518
+slide projector to flash images in Rapid
+
+122
+00:03:51,000 --> 00:03:54,480
+succession which is supposed to help
+
+123
+00:03:52,519 --> 00:03:56,200
+people improve their recognition speeds
+
+124
+00:03:54,479 --> 00:03:57,999
+teist Scopes were used during World War
+
+125
+00:03:56,199 --> 00:03:59,517
+II to train fighter pilots to recognize
+
+126
+00:03:58,000 --> 00:04:01,798
+other aircraft as Friend or Foe more
+
+127
+00:03:59,519 --> 00:04:03,360
+quick L and then in the 1960s some
+
+128
+00:04:01,799 --> 00:04:04,560
+schools started using them to try to
+
+129
+00:04:03,360 --> 00:04:06,639
+increase the reading speeds of their
+
+130
+00:04:04,560 --> 00:04:08,439
+students many modern RSVP apps have
+
+131
+00:04:06,639 --> 00:04:10,639
+their own unique features for example
+
+132
+00:04:08,438 --> 00:04:12,479
+spreer lets you set multiple words to be
+
+133
+00:04:10,639 --> 00:04:14,797
+flashed instead of just one at a time
+
+134
+00:04:12,479 --> 00:04:16,599
+and Spritz tries to move the position of
+
+135
+00:04:14,799 --> 00:04:18,840
+each word in order to help your eye more
+
+136
+00:04:16,600 --> 00:04:20,840
+quickly reach its optimal recognition
+
+137
+00:04:18,839 --> 00:04:22,999
+point for all these cool features though
+
+138
+00:04:20,839 --> 00:04:24,999
+research shows that RSVP systems in
+
+139
+00:04:23,000 --> 00:04:26,758
+general don't really work that well one
+
+140
+00:04:25,000 --> 00:04:28,040
+of the main problems with RSVP systems
+
+141
+00:04:26,759 --> 00:04:29,880
+is that they present every single word
+
+142
+00:04:28,040 --> 00:04:31,839
+in a reading requiring your brain to try
+
+143
+00:04:29,879 --> 00:04:33,399
+to process them all as we learned in the
+
+144
+00:04:31,839 --> 00:04:35,319
+first video in the series people don't
+
+145
+00:04:33,399 --> 00:04:36,838
+fixate on every single word in a reading
+
+146
+00:04:35,319 --> 00:04:38,477
+they tend to skip a lot of the content
+
+147
+00:04:36,839 --> 00:04:40,598
+and they do it in intelligent way they
+
+148
+00:04:38,478 --> 00:04:42,678
+tend to fixate more on content words and
+
+149
+00:04:40,600 --> 00:04:44,519
+less on the function words in fact that
+
+150
+00:04:42,680 --> 00:04:46,199
+1987 speed reading study revealed
+
+151
+00:04:44,519 --> 00:04:48,079
+something pretty interesting for normal
+
+152
+00:04:46,199 --> 00:04:49,880
+readers it's not just the length of the
+
+153
+00:04:48,079 --> 00:04:51,719
+words that explains why content words
+
+154
+00:04:49,879 --> 00:04:53,079
+are fixated upon more often even in
+
+155
+00:04:51,720 --> 00:04:54,759
+Reading tests where all the content
+
+156
+00:04:53,079 --> 00:04:56,559
+words were only three letters long for
+
+157
+00:04:54,759 --> 00:04:58,400
+normal readers they were able to fixate
+
+158
+00:04:56,560 --> 00:05:00,240
+more often on those content words for
+
+159
+00:04:58,399 --> 00:05:02,079
+skimmers and speed readers however the
+
+160
+00:05:00,240 --> 00:05:04,079
+proportion of content words fixated upon
+
+161
+00:05:02,079 --> 00:05:05,719
+to function words was about even this
+
+162
+00:05:04,079 --> 00:05:07,119
+reveals that at least at normal reading
+
+163
+00:05:05,720 --> 00:05:08,918
+speeds our brains are able to
+
+164
+00:05:07,120 --> 00:05:10,519
+intelligently fixate upon the most
+
+165
+00:05:08,918 --> 00:05:13,158
+important words in the text but with
+
+166
+00:05:10,519 --> 00:05:15,318
+RSVP we don't get this ability because
+
+167
+00:05:13,160 --> 00:05:16,800
+every single word is presented one after
+
+168
+00:05:15,319 --> 00:05:18,439
+another this makes your working memory
+
+169
+00:05:16,800 --> 00:05:20,199
+the bottleneck it strains to keep up
+
+170
+00:05:18,439 --> 00:05:22,318
+while all the text is flooding in at one
+
+171
+00:05:20,199 --> 00:05:23,960
+constant rate my own informal test using
+
+172
+00:05:22,319 --> 00:05:25,919
+these apps confirms this I find it
+
+173
+00:05:23,959 --> 00:05:27,798
+really exhausting to read this way and
+
+174
+00:05:25,918 --> 00:05:29,159
+after about 30 seconds of doing so I
+
+175
+00:05:27,800 --> 00:05:30,1000
+find that it's really hard to remember
+
+176
+00:05:29,160 --> 00:05:32,840
+the detail of what I just read an
+
+177
+00:05:31,000 --> 00:05:34,560
+additional strike against RSVP apps is
+
+178
+00:05:32,839 --> 00:05:36,359
+that they don't allow for regressions
+
+179
+00:05:34,560 --> 00:05:38,120
+going back to reread over sections that
+
+180
+00:05:36,360 --> 00:05:39,520
+you've already read before Elizabeth
+
+181
+00:05:38,120 --> 00:05:41,639
+shter conducted another study that
+
+182
+00:05:39,519 --> 00:05:43,757
+looked at RSVP systems in detail back in
+
+183
+00:05:41,639 --> 00:05:45,680
+2014 and the conclusion of this study
+
+184
+00:05:43,759 --> 00:05:46,799
+was that this is a big problem as it
+
+185
+00:05:45,680 --> 00:05:48,519
+turns out the ability to make
+
+186
+00:05:46,800 --> 00:05:49,960
+regressions is integral to having high
+
+187
+00:05:48,519 --> 00:05:51,478
+comprehension levels when you read and
+
+188
+00:05:49,959 --> 00:05:53,718
+the problem with this software is it
+
+189
+00:05:51,478 --> 00:05:55,559
+can't accurately predict at what points
+
+190
+00:05:53,720 --> 00:05:57,559
+your brain needs to go back and read
+
+191
+00:05:55,560 --> 00:05:59,198
+something again so in my eyes at least
+
+192
+00:05:57,560 --> 00:06:00,839
+for the case of reading for Learning and
+
+193
+00:05:59,199 --> 00:06:02,638
+comprehens attention all three of these
+
+194
+00:06:00,839 --> 00:06:04,519
+systems have been thoroughly debunked
+
+195
+00:06:02,639 --> 00:06:06,159
+does that mean they're entirely useless
+
+196
+00:06:04,519 --> 00:06:07,878
+well maybe not some of them could be
+
+197
+00:06:06,160 --> 00:06:09,880
+useful for scanning over text quickly
+
+198
+00:06:07,879 --> 00:06:11,439
+maybe reading a text message or an email
+
+199
+00:06:09,879 --> 00:06:12,678
+or trying to find the gist of something
+
+200
+00:06:11,439 --> 00:06:14,079
+but if you're doing an in-depth reading
+
+201
+00:06:12,680 --> 00:06:15,639
+of a textbook or you're trying to read a
+
+202
+00:06:14,079 --> 00:06:17,239
+book to learn something I don't think
+
+203
+00:06:15,639 --> 00:06:18,440
+they're really that useful to be using
+
+204
+00:06:17,240 --> 00:06:19,720
+now there are definitely other speed
+
+205
+00:06:18,439 --> 00:06:21,318
+reading techniques out there that I
+
+206
+00:06:19,720 --> 00:06:22,680
+didn't mention in this video one in
+
+207
+00:06:21,319 --> 00:06:24,319
+particular that I'm currently interested
+
+208
+00:06:22,680 --> 00:06:25,918
+in is called beine there's not a whole
+
+209
+00:06:24,319 --> 00:06:27,520
+lot of research on it so if you know
+
+210
+00:06:25,918 --> 00:06:28,757
+something please tell me and I'm sure
+
+211
+00:06:27,519 --> 00:06:30,197
+people will let me know about other
+
+212
+00:06:28,759 --> 00:06:31,598
+techniques down in the comments comments
+
+213
+00:06:30,199 --> 00:06:33,119
+also in the interest of time I had to
+
+214
+00:06:31,598 --> 00:06:34,758
+leave a lot of the nuance and detail
+
+215
+00:06:33,120 --> 00:06:36,720
+about these techniques in particular out
+
+216
+00:06:34,759 --> 00:06:38,360
+of the video but I did link to all the
+
+217
+00:06:36,720 --> 00:06:39,999
+studies and articles that I use to
+
+218
+00:06:38,360 --> 00:06:41,520
+research this video in the companion
+
+219
+00:06:40,000 --> 00:06:42,638
+blog post so you can click the card
+
+220
+00:06:41,519 --> 00:06:44,119
+right now or the link down in the
+
+221
+00:06:42,639 --> 00:06:45,400
+description to read them so that's it
+
+222
+00:06:44,120 --> 00:06:46,959
+for this video in the next one we'll
+
+223
+00:06:45,399 --> 00:06:48,637
+wrap up this little miniseries on speed
+
+224
+00:06:46,959 --> 00:06:51,558
+reading with a discussion on how you can
+
+225
+00:06:48,639 --> 00:06:53,639
+actually increase your reading
+
+226
+00:06:51,560 --> 00:06:55,039
+speeds hey guys thanks so much for
+
+227
+00:06:53,639 --> 00:06:56,478
+watching this video If you enjoyed it
+
+228
+00:06:55,038 --> 00:06:57,799
+giving it a like will help support this
+
+229
+00:06:56,478 --> 00:06:59,038
+Channel and if you'd like to get new
+
+230
+00:06:57,800 --> 00:07:00,520
+tips on how to be a more effective
+
+231
+00:06:59,038 --> 00:07:02,038
+student every every single week click
+
+232
+00:07:00,519 --> 00:07:03,638
+that big red subscribe button right
+
+233
+00:07:02,038 --> 00:07:05,239
+there also if you'd like to get a free
+
+234
+00:07:03,639 --> 00:07:06,360
+copy of my book on earning better grades
+
+235
+00:07:05,240 --> 00:07:08,240
+click the picture of the book and I will
+
+236
+00:07:06,360 --> 00:07:10,159
+get one to you and like I said links to
+
+237
+00:07:08,240 --> 00:07:11,440
+all the research resources that I use
+
+238
+00:07:10,160 --> 00:07:13,160
+for this video can be found in the
+
+239
+00:07:11,439 --> 00:07:14,798
+companion blog post which you can access
+
+240
+00:07:13,160 --> 00:07:16,478
+by clicking the orange logo right there
+
+241
+00:07:14,800 --> 00:07:18,239
+last week's video went over how I set up
+
+242
+00:07:16,478 --> 00:07:19,478
+my iPhone to be more productive so check
+
+243
+00:07:18,240 --> 00:07:21,240
+that out if you haven't seen it and if
+
+244
+00:07:19,478 --> 00:07:22,958
+you'd like to connect I'm on Twitter at
+
+245
+00:07:21,240 --> 00:07:26,839
+tomf Frankle or you can leave a comment
+
+246
+00:07:22,959 --> 00:07:26,838
+below thanks for watching
+

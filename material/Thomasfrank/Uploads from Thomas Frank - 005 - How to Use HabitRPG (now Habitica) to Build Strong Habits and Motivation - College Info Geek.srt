@@ -1,0 +1,732 @@
+1
+00:00:01,280 --> 00:00:04,759
+this is a hobbit but we're not talking
+
+2
+00:00:03,879 --> 00:00:07,720
+about Hobbits today we are talking about
+
+3
+00:00:06,040 --> 00:00:09,799
+habits now you may have heard the old
+
+4
+00:00:07,719 --> 00:00:11,598
+adage that it takes 21 days to form a
+
+5
+00:00:09,800 --> 00:00:13,280
+new habit but you might be interested to
+
+6
+00:00:11,599 --> 00:00:14,878
+learn that there are some researchers at
+
+7
+00:00:13,279 --> 00:00:16,638
+the University College of London who
+
+8
+00:00:14,878 --> 00:00:19,639
+figured out in their studies that the
+
+9
+00:00:16,640 --> 00:00:21,920
+average participant took 66 days to form
+
+10
+00:00:19,640 --> 00:00:24,399
+a new habit concretely now whether the
+
+11
+00:00:21,920 --> 00:00:26,279
+actual number is 21 days 66 days or
+
+12
+00:00:24,399 --> 00:00:28,358
+something else the gist of it is this
+
+13
+00:00:26,278 --> 00:00:29,677
+building a new habit is difficult and
+
+14
+00:00:28,359 --> 00:00:30,1000
+you probably know this yourself if
+
+15
+00:00:29,678 --> 00:00:32,919
+you've ever tried to get into the habit
+
+16
+00:00:31,000 --> 00:00:35,360
+of running every day or getting into a
+
+17
+00:00:32,920 --> 00:00:37,360
+reading habit or anything of the sort
+
+18
+00:00:35,359 --> 00:00:38,878
+building habits is hard and when it
+
+19
+00:00:37,359 --> 00:00:40,798
+comes to building them we could use all
+
+20
+00:00:38,878 --> 00:00:42,479
+the help we can get so today I'm going
+
+21
+00:00:40,799 --> 00:00:44,238
+to show you a tool that I've been using
+
+22
+00:00:42,479 --> 00:00:45,758
+that can help you build really really
+
+23
+00:00:44,238 --> 00:00:48,638
+strong habits and have a lot of fun
+
+24
+00:00:45,759 --> 00:00:50,438
+doing it the tool is called habit RPG
+
+25
+00:00:48,640 --> 00:00:52,199
+and it's a web app that helps you get
+
+26
+00:00:50,439 --> 00:00:54,878
+the motivation to build habits and get
+
+27
+00:00:52,198 --> 00:00:58,558
+things done by taking Concepts from
+
+28
+00:00:54,878 --> 00:01:00,599
+video games specifically RPGs now maybe
+
+29
+00:00:58,558 --> 00:01:02,599
+you're wondering how can Concepts from
+
+30
+00:01:00,600 --> 00:01:04,720
+role playing games applied to the real
+
+31
+00:01:02,600 --> 00:01:07,239
+world well let me give you an example as
+
+32
+00:01:04,719 --> 00:01:09,199
+a kid my absolute favorite RPG was
+
+33
+00:01:07,239 --> 00:01:11,078
+Pokémon Red for the Game Boy now I know
+
+34
+00:01:09,200 --> 00:01:13,039
+this wasn't a typical RPG since you make
+
+35
+00:01:11,079 --> 00:01:14,679
+these little critters fight gain levels
+
+36
+00:01:13,040 --> 00:01:17,280
+and take performance- enhancing drugs
+
+37
+00:01:14,680 --> 00:01:18,1000
+instead of doing the work yourself but
+
+38
+00:01:17,280 --> 00:01:21,039
+deal with
+
+39
+00:01:19,000 --> 00:01:23,078
+it aside from that one little
+
+40
+00:01:21,040 --> 00:01:24,200
+distinction the mechanics are all there
+
+41
+00:01:23,078 --> 00:01:25,758
+you've got your ultimate goal of
+
+42
+00:01:24,200 --> 00:01:26,920
+becoming the Pokémon League champ and
+
+43
+00:01:25,759 --> 00:01:28,520
+you've got to get into the habit of
+
+44
+00:01:26,920 --> 00:01:30,118
+finding countless battles against all
+
+45
+00:01:28,519 --> 00:01:33,559
+manner of weird looking things to get
+
+46
+00:01:30,118 --> 00:01:35,398
+there seriously what is this thing the
+
+47
+00:01:33,560 --> 00:01:36,959
+game does a fantastic job of motivating
+
+48
+00:01:35,399 --> 00:01:38,439
+you to keep this habit up by providing
+
+49
+00:01:36,959 --> 00:01:40,358
+your Pokémon with experience points for
+
+50
+00:01:38,438 --> 00:01:43,117
+each battle one eventually they'll gain
+
+51
+00:01:40,359 --> 00:01:44,319
+levels get stat boosts and even evolve
+
+52
+00:01:43,118 --> 00:01:46,279
+all the while you're getting other
+
+53
+00:01:44,319 --> 00:01:48,198
+rewards like a bicycle new powers that
+
+54
+00:01:46,280 --> 00:01:49,679
+let you explore new places and a
+
+55
+00:01:48,200 --> 00:01:51,999
+complimentary gambling
+
+56
+00:01:49,680 --> 00:01:53,640
+addiction it all comes together into one
+
+57
+00:01:52,000 --> 00:01:55,399
+fantastically engineered package
+
+58
+00:01:53,640 --> 00:01:56,840
+designed to keep kids from ever knowing
+
+59
+00:01:55,399 --> 00:01:58,718
+the layout of the areas their parents
+
+60
+00:01:56,840 --> 00:02:00,279
+drive them through throughout dozens and
+
+61
+00:01:58,718 --> 00:02:01,999
+dozens of hours you put into the game in
+
+62
+00:02:00,280 --> 00:02:04,520
+order to reach the end you almost never
+
+63
+00:02:02,000 --> 00:02:05,960
+feel your motivation waning battle after
+
+64
+00:02:04,519 --> 00:02:07,878
+battle is fought without draining an
+
+65
+00:02:05,959 --> 00:02:10,117
+ounce of the willpower to go on and this
+
+66
+00:02:07,879 --> 00:02:13,119
+can be attributed to two main factors
+
+67
+00:02:10,118 --> 00:02:14,999
+number one the game is just damn fun but
+
+68
+00:02:13,120 --> 00:02:17,318
+number two the makers designed smart
+
+69
+00:02:15,000 --> 00:02:18,959
+reward mechanisms to keep you going
+
+70
+00:02:17,318 --> 00:02:20,718
+these reward mechanisms experience
+
+71
+00:02:18,959 --> 00:02:22,560
+points leveling gear upgrades they're
+
+72
+00:02:20,719 --> 00:02:23,719
+all built right into habit RPG the only
+
+73
+00:02:22,560 --> 00:02:25,439
+difference is that you have to practice
+
+74
+00:02:23,719 --> 00:02:27,399
+your daily habits and get things done to
+
+75
+00:02:25,439 --> 00:02:30,358
+earn them rather than telling a small
+
+76
+00:02:27,400 --> 00:02:31,999
+Mouse to shoot lightning at a turtle
+
+77
+00:02:30,360 --> 00:02:32,1000
+so let's go through the main features of
+
+78
+00:02:32,000 --> 00:02:35,680
+the
+
+79
+00:02:33,000 --> 00:02:37,080
+app once you sign in to Habit RPG you'll
+
+80
+00:02:35,680 --> 00:02:39,200
+be graded with an interface consisting
+
+81
+00:02:37,080 --> 00:02:40,919
+of a few key features first and foremost
+
+82
+00:02:39,199 --> 00:02:42,759
+is your character you'll notice that
+
+83
+00:02:40,919 --> 00:02:44,439
+he's got a couple of bars right now one
+
+84
+00:02:42,759 --> 00:02:46,198
+of them is for experience and the other
+
+85
+00:02:44,439 --> 00:02:49,517
+one is for health below that you'll find
+
+86
+00:02:46,199 --> 00:02:52,279
+four different columns habits dailies
+
+87
+00:02:49,519 --> 00:02:53,599
+to-dos and rewards the habits column
+
+88
+00:02:52,280 --> 00:02:55,879
+lets you track habits that you're trying
+
+89
+00:02:53,598 --> 00:02:57,199
+to build or break when you create a new
+
+90
+00:02:55,878 --> 00:02:59,958
+one you can decide whether it's a
+
+91
+00:02:57,199 --> 00:03:01,439
+positive habit a negative one or both if
+
+92
+00:02:59,959 --> 00:03:03,238
+you want to eat more vegetables for
+
+93
+00:03:01,439 --> 00:03:04,958
+example you'd make a positive one and if
+
+94
+00:03:03,239 --> 00:03:06,440
+you're trying to stop drinking soda then
+
+95
+00:03:04,959 --> 00:03:07,919
+that' be a negative one the Daily's
+
+96
+00:03:06,439 --> 00:03:10,079
+column is for tracking habits that you
+
+97
+00:03:07,919 --> 00:03:11,718
+want to practice at least once per day
+
+98
+00:03:10,080 --> 00:03:13,839
+for me this is the main attraction of
+
+99
+00:03:11,719 --> 00:03:15,399
+habit RPG I have my entire morning
+
+100
+00:03:13,840 --> 00:03:17,080
+ritual here along with several other
+
+101
+00:03:15,400 --> 00:03:19,120
+habits and that ritual helps me get a
+
+102
+00:03:17,080 --> 00:03:20,560
+productive start to each and every day
+
+103
+00:03:19,120 --> 00:03:22,159
+by the way if you'd like to learn about
+
+104
+00:03:20,560 --> 00:03:23,640
+how I build my morning ritual and go
+
+105
+00:03:22,158 --> 00:03:25,798
+about it then the description will have
+
+106
+00:03:23,639 --> 00:03:27,478
+a link to my blog post on the subject
+
+107
+00:03:25,799 --> 00:03:29,400
+the to-dos column lets you track one-off
+
+108
+00:03:27,479 --> 00:03:31,719
+tasks so you can actually use habit RPG
+
+109
+00:03:29,400 --> 00:03:33,840
+as a task manager as well if you like
+
+110
+00:03:31,719 --> 00:03:34,957
+and finally there's the rewards column
+
+111
+00:03:33,840 --> 00:03:36,598
+this column is a place where you can
+
+112
+00:03:34,959 --> 00:03:38,919
+reward yourself for consistently good
+
+113
+00:03:36,598 --> 00:03:40,478
+behavior at first you only see custom
+
+114
+00:03:38,919 --> 00:03:42,278
+rewards things you can create for
+
+115
+00:03:40,479 --> 00:03:43,999
+yourself like watch an episode of Game
+
+116
+00:03:42,280 --> 00:03:45,438
+of Thrones but eventually you'll find
+
+117
+00:03:44,000 --> 00:03:47,959
+gear and spells for your character here
+
+118
+00:03:45,438 --> 00:03:49,878
+as well rewards are paid for with money
+
+119
+00:03:47,959 --> 00:03:52,720
+and unless you're getting money from
+
+120
+00:03:49,878 --> 00:03:54,999
+Obama or or the Tooth Fairy then usually
+
+121
+00:03:52,719 --> 00:03:56,719
+you got to work for it and in habit RPG
+
+122
+00:03:55,000 --> 00:03:58,120
+that's the case every time you practice
+
+123
+00:03:56,719 --> 00:04:00,279
+a habit and check it off your list
+
+124
+00:03:58,120 --> 00:04:01,840
+you'll gain two things experience and
+
+125
+00:04:00,280 --> 00:04:03,559
+money with the money you can buy
+
+126
+00:04:01,840 --> 00:04:05,400
+upgrades gear for your character and
+
+127
+00:04:03,560 --> 00:04:06,919
+lots of other things and the experience
+
+128
+00:04:05,400 --> 00:04:08,719
+will eventually let you level up which
+
+129
+00:04:06,919 --> 00:04:10,518
+unlocks more things and lets you pick
+
+130
+00:04:08,719 --> 00:04:12,437
+things like classes and other Advanced
+
+131
+00:04:10,519 --> 00:04:13,798
+features down the line eventually you'll
+
+132
+00:04:12,438 --> 00:04:16,159
+be able to join parties with other
+
+133
+00:04:13,799 --> 00:04:19,079
+players and for me this is the reason
+
+134
+00:04:16,160 --> 00:04:20,400
+that habit RPG is such a motivating tool
+
+135
+00:04:19,079 --> 00:04:22,320
+when you're party with somebody else and
+
+136
+00:04:20,399 --> 00:04:24,559
+you go on a quest your actions have
+
+137
+00:04:22,319 --> 00:04:26,198
+consequences that affect both you and
+
+138
+00:04:24,560 --> 00:04:28,319
+the other people in your party that
+
+139
+00:04:26,199 --> 00:04:30,719
+means if you don't do it daily not only
+
+140
+00:04:28,319 --> 00:04:32,559
+will you lose health but your friends
+
+141
+00:04:30,720 --> 00:04:34,079
+will lose Health as well and if they
+
+142
+00:04:32,560 --> 00:04:35,520
+lose all their health and die they'll
+
+143
+00:04:34,079 --> 00:04:37,438
+actually lose a level and a piece of
+
+144
+00:04:35,519 --> 00:04:38,559
+gear so if you don't do your dailies
+
+145
+00:04:37,439 --> 00:04:40,637
+you're going to be hearing about it from
+
+146
+00:04:38,560 --> 00:04:42,1000
+your friends this entire process is
+
+147
+00:04:40,639 --> 00:04:45,079
+called gamification and for me gamifying
+
+148
+00:04:43,000 --> 00:04:46,520
+my habits has been incredibly useful
+
+149
+00:04:45,079 --> 00:04:48,319
+especially since I'm held accountable to
+
+150
+00:04:46,519 --> 00:04:49,798
+my roommate and will actually harm his
+
+151
+00:04:48,319 --> 00:04:51,399
+character if I don't do my dailies every
+
+152
+00:04:49,800 --> 00:04:52,840
+day the apps not just for desktop
+
+153
+00:04:51,399 --> 00:04:55,278
+browsers either you'll find apps for
+
+154
+00:04:52,839 --> 00:04:56,399
+both the iPhone and Android platforms so
+
+155
+00:04:55,279 --> 00:04:57,839
+if you're looking for a new tool that
+
+156
+00:04:56,399 --> 00:05:00,439
+can amplify your habit building
+
+157
+00:04:57,839 --> 00:05:01,637
+abilities then give habit RPG a try also
+
+158
+00:05:00,439 --> 00:05:03,038
+if you're interested I'm going to be
+
+159
+00:05:01,639 --> 00:05:04,1000
+setting up a guild for college infog
+
+160
+00:05:03,038 --> 00:05:06,319
+geek readers on habit RPG so if you
+
+161
+00:05:05,000 --> 00:05:08,240
+check the link in the description below
+
+162
+00:05:06,319 --> 00:05:10,118
+you'll find the companion blog post for
+
+163
+00:05:08,240 --> 00:05:13,360
+this video and there you'll find the
+
+164
+00:05:10,120 --> 00:05:13,360
+link to the guild once it's
+
+165
+00:05:13,720 --> 00:05:18,199
+up hey there thanks for watching my
+
+166
+00:05:16,079 --> 00:05:19,958
+video tutorial on using habit RPG if you
+
+167
+00:05:18,199 --> 00:05:21,119
+found it useful I'd absolutely love it
+
+168
+00:05:19,959 --> 00:05:23,038
+if you can give the video a like and
+
+169
+00:05:21,120 --> 00:05:24,318
+share it with a friend if you want to
+
+170
+00:05:23,038 --> 00:05:25,879
+get more videos on being awesome at
+
+171
+00:05:24,319 --> 00:05:29,080
+College every single week click the
+
+172
+00:05:25,879 --> 00:05:30,598
+Subscribe button yeah that one below
+
+173
+00:05:29,079 --> 00:05:32,159
+that you'll find week's video so check
+
+174
+00:05:30,600 --> 00:05:33,720
+it out if you haven't seen it yet you
+
+175
+00:05:32,160 --> 00:05:34,759
+can also find notes and links that go
+
+176
+00:05:33,720 --> 00:05:36,280
+with this video by clicking on the
+
+177
+00:05:34,759 --> 00:05:37,679
+orange logo right over there and if
+
+178
+00:05:36,279 --> 00:05:38,879
+you're interested you can also get a
+
+179
+00:05:37,680 --> 00:05:40,840
+free chapter of my book hacking
+
+180
+00:05:38,879 --> 00:05:42,637
+productivity by clicking to cover if you
+
+181
+00:05:40,839 --> 00:05:44,198
+want to connect ask questions or suggest
+
+182
+00:05:42,639 --> 00:05:48,680
+a topic for a future video leave a
+
+183
+00:05:44,199 --> 00:05:48,679
+comment or you can connect me on Twitter
+

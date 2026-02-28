@@ -1,0 +1,768 @@
+1
+00:00:00,080 --> 00:00:03,879
+the Great American writer Mark Twain
+
+2
+00:00:01,800 --> 00:00:03,999
+once said to never put off till tomorrow
+
+3
+00:00:03,959 --> 00:00:07,318
+what may be done the day after tomorrow
+
+4
+00:00:05,799 --> 00:00:08,1000
+just as well of course when we live by
+
+5
+00:00:07,318 --> 00:00:11,159
+that advice sometimes we find ourselves
+
+6
+00:00:09,000 --> 00:00:12,798
+chugging concentrated coffee at 2 a.m.
+
+7
+00:00:11,160 --> 00:00:15,160
+in a valiant attempt to stay up and
+
+8
+00:00:12,798 --> 00:00:16,639
+finish a project that's due in 6 hours
+
+9
+00:00:15,160 --> 00:00:19,079
+I've been there as productive as I'd
+
+10
+00:00:16,640 --> 00:00:20,720
+like to think I am I have been there and
+
+11
+00:00:19,079 --> 00:00:23,038
+if you've been there as well or maybe if
+
+12
+00:00:20,719 --> 00:00:24,319
+you're there right now this video is for
+
+13
+00:00:23,039 --> 00:00:26,039
+you now we're going to look at some
+
+14
+00:00:24,320 --> 00:00:27,880
+specific concepts related to planning
+
+15
+00:00:26,039 --> 00:00:30,199
+and willpower in a minute namely the
+
+16
+00:00:27,879 --> 00:00:31,479
+impact effort Matrix and ego depletion
+
+17
+00:00:30,199 --> 00:00:33,879
+but first I want to talk about the
+
+18
+00:00:31,480 --> 00:00:35,160
+foundation here location selection I
+
+19
+00:00:33,878 --> 00:00:36,237
+think your location is incredibly
+
+20
+00:00:35,159 --> 00:00:37,958
+important when you're working under
+
+21
+00:00:36,238 --> 00:00:40,398
+pressure and personally I like to pick
+
+22
+00:00:37,960 --> 00:00:42,078
+my locations for studying based on vibe
+
+23
+00:00:40,399 --> 00:00:44,039
+that is what's going on around me I tend
+
+24
+00:00:42,079 --> 00:00:45,800
+to favor coffee shops and libraries in
+
+25
+00:00:44,039 --> 00:00:47,320
+fact I still go to my university library
+
+26
+00:00:45,799 --> 00:00:48,718
+at times even though I've graduated
+
+27
+00:00:47,320 --> 00:00:50,280
+because I like to be in an environment
+
+28
+00:00:48,719 --> 00:00:52,199
+where the people around me are also
+
+29
+00:00:50,280 --> 00:00:54,398
+working it motivates me also close
+
+30
+00:00:52,198 --> 00:00:55,839
+proximity to caffeine does help the most
+
+31
+00:00:54,399 --> 00:00:57,479
+important part of location selection
+
+32
+00:00:55,840 --> 00:00:58,1000
+though is avoiding the call of the
+
+33
+00:00:57,479 --> 00:01:00,439
+pillow when you're working under a time
+
+34
+00:00:59,000 --> 00:01:01,839
+crunch it's likely going to be working
+
+35
+00:01:00,439 --> 00:01:03,398
+late into the night so you want to pick
+
+36
+00:01:01,840 --> 00:01:05,560
+a location that's as far away from your
+
+37
+00:01:03,399 --> 00:01:07,240
+bed as possible call up James Cameron go
+
+38
+00:01:05,560 --> 00:01:08,758
+study at the bottom of the Marana trench
+
+39
+00:01:07,239 --> 00:01:10,239
+or go to the summit of Mount Everest
+
+40
+00:01:08,759 --> 00:01:11,799
+don't worry about the lack of oxygen
+
+41
+00:01:10,239 --> 00:01:12,959
+that's not a big deal seriously though
+
+42
+00:01:11,799 --> 00:01:14,640
+the later it gets the more you're going
+
+43
+00:01:12,959 --> 00:01:15,599
+to start rationalizing how good a nap
+
+44
+00:01:14,640 --> 00:01:17,119
+might be and the more you're going to
+
+45
+00:01:15,599 --> 00:01:18,679
+start deciding that certain aspects of
+
+46
+00:01:17,118 --> 00:01:20,198
+your project maybe aren't all that
+
+47
+00:01:18,680 --> 00:01:21,599
+important so just make sure you pick a
+
+48
+00:01:20,200 --> 00:01:23,119
+study location where it would be more
+
+49
+00:01:21,599 --> 00:01:24,639
+effort to go to bed than it would be to
+
+50
+00:01:23,118 --> 00:01:25,839
+just finish your project now with that
+
+51
+00:01:24,640 --> 00:01:27,399
+piece of business taken care of it's
+
+52
+00:01:25,840 --> 00:01:28,960
+time to plan your efforts before you
+
+53
+00:01:27,400 --> 00:01:30,279
+start working it's a good idea to look
+
+54
+00:01:28,959 --> 00:01:32,278
+at your workload and break break it down
+
+55
+00:01:30,280 --> 00:01:33,880
+into individual components and then to
+
+56
+00:01:32,280 --> 00:01:35,438
+assess those components to figure out
+
+57
+00:01:33,879 --> 00:01:36,999
+which ones deserve the bulk of your
+
+58
+00:01:35,438 --> 00:01:38,559
+attention Dwight Eisenhower often
+
+59
+00:01:37,000 --> 00:01:40,560
+remarked that what is important is
+
+60
+00:01:38,560 --> 00:01:42,720
+seldom urgent and what is urgent is
+
+61
+00:01:40,560 --> 00:01:44,600
+seldom important in the book The Seven
+
+62
+00:01:42,719 --> 00:01:46,797
+Habits of Highly Effective People Steven
+
+63
+00:01:44,599 --> 00:01:48,879
+cvy popularized the isenhower decision
+
+64
+00:01:46,799 --> 00:01:50,640
+Matrix which is based on this principle
+
+65
+00:01:48,879 --> 00:01:51,919
+within that Matrix tasks are categorized
+
+66
+00:01:50,640 --> 00:01:53,919
+based on their importance and their
+
+67
+00:01:51,920 --> 00:01:55,479
+urgency and that Matrix is used in a lot
+
+68
+00:01:53,920 --> 00:01:57,279
+of time management systems but when
+
+69
+00:01:55,478 --> 00:01:58,998
+you're studying under a time crunch
+
+70
+00:01:57,280 --> 00:02:00,119
+everything can seem urgent because of
+
+71
+00:01:59,000 --> 00:02:01,758
+that the main factor you should be
+
+72
+00:02:00,118 --> 00:02:03,198
+focusing on is importance and to that
+
+73
+00:02:01,759 --> 00:02:04,920
+end we're going to use a similar but
+
+74
+00:02:03,200 --> 00:02:07,398
+more fitting tool which is called the
+
+75
+00:02:04,920 --> 00:02:09,118
+impact effort Matrix here tasks are
+
+76
+00:02:07,399 --> 00:02:10,839
+given scores based on their impact to
+
+77
+00:02:09,118 --> 00:02:12,198
+the overall success of the project and
+
+78
+00:02:10,840 --> 00:02:13,840
+the effort that it's going to take to
+
+79
+00:02:12,199 --> 00:02:15,279
+implement them to give an example of
+
+80
+00:02:13,840 --> 00:02:17,080
+this when I was a senior in college one
+
+81
+00:02:15,280 --> 00:02:18,760
+of my final projects was to build a web
+
+82
+00:02:17,080 --> 00:02:20,519
+app and my idea was to build something I
+
+83
+00:02:18,759 --> 00:02:22,038
+called am Panic it was an app where
+
+84
+00:02:20,519 --> 00:02:23,519
+you'd have to log in before a certain
+
+85
+00:02:22,039 --> 00:02:25,039
+time each morning and tell the app you
+
+86
+00:02:23,519 --> 00:02:26,399
+were awake otherwise it would send an
+
+87
+00:02:25,039 --> 00:02:28,079
+embarrassing email to someone like your
+
+88
+00:02:26,400 --> 00:02:29,679
+mom this app idea was actually the
+
+89
+00:02:28,080 --> 00:02:31,680
+precursor to the early wakeup system I
+
+90
+00:02:29,680 --> 00:02:33,119
+us now which I detailed in this video
+
+91
+00:02:31,680 --> 00:02:35,039
+but when I was working on it I found
+
+92
+00:02:33,120 --> 00:02:36,680
+myself in a time crunch so to help me
+
+93
+00:02:35,039 --> 00:02:38,279
+finish it on time I broke the project
+
+94
+00:02:36,680 --> 00:02:40,318
+down to the individual sections I needed
+
+95
+00:02:38,280 --> 00:02:42,640
+to code and then prioritize them based
+
+96
+00:02:40,318 --> 00:02:43,958
+on this impact effort Matrix the core
+
+97
+00:02:42,639 --> 00:02:45,598
+functions the code that ran the
+
+98
+00:02:43,959 --> 00:02:47,080
+scheduling and email delivery systems
+
+99
+00:02:45,598 --> 00:02:48,759
+and the code that let the user tell the
+
+100
+00:02:47,080 --> 00:02:50,280
+system they were awake those things took
+
+101
+00:02:48,759 --> 00:02:52,517
+a lot of effort to build but they were
+
+102
+00:02:50,280 --> 00:02:54,199
+also the most high impact parts of the
+
+103
+00:02:52,519 --> 00:02:56,239
+project on the other hand some parts of
+
+104
+00:02:54,199 --> 00:02:58,598
+the site like the about page the FAQ
+
+105
+00:02:56,239 --> 00:03:00,399
+page the contact page those things were
+
+106
+00:02:58,598 --> 00:03:01,839
+lower impact but they were also really
+
+107
+00:03:00,400 --> 00:03:03,719
+easy to implement they didn't take much
+
+108
+00:03:01,840 --> 00:03:05,239
+time and because of that I made sure to
+
+109
+00:03:03,719 --> 00:03:06,679
+include them to make the project seem
+
+110
+00:03:05,239 --> 00:03:08,360
+more complete the main element of the
+
+111
+00:03:06,680 --> 00:03:10,360
+site I chose not to focus on as much was
+
+112
+00:03:08,360 --> 00:03:12,080
+the registration and login system a good
+
+113
+00:03:10,360 --> 00:03:14,158
+one should have functionality to reset
+
+114
+00:03:12,080 --> 00:03:16,599
+passwords but I felt that I didn't have
+
+115
+00:03:14,158 --> 00:03:18,518
+time to do everything so I focused more
+
+116
+00:03:16,598 --> 00:03:20,318
+of my time on the alarm functions
+
+117
+00:03:18,519 --> 00:03:22,599
+because that was rather the point of the
+
+118
+00:03:20,318 --> 00:03:24,278
+project and I just grabbed old code from
+
+119
+00:03:22,598 --> 00:03:26,318
+a previous project for registration and
+
+120
+00:03:24,280 --> 00:03:27,920
+login and this decision did pay off the
+
+121
+00:03:26,318 --> 00:03:29,358
+code that ran the alarm portion of the
+
+122
+00:03:27,919 --> 00:03:30,878
+system was more advanced than most the
+
+123
+00:03:29,360 --> 00:03:32,679
+other projects in the class so I ended
+
+124
+00:03:30,878 --> 00:03:34,639
+up getting an a taking this back to you
+
+125
+00:03:32,680 --> 00:03:36,479
+to assign impact and effort scores to
+
+126
+00:03:34,639 --> 00:03:37,518
+each component of your project or to
+
+127
+00:03:36,479 --> 00:03:39,758
+each assignment if you're juggling
+
+128
+00:03:37,519 --> 00:03:41,280
+multiple consider the following factors
+
+129
+00:03:39,759 --> 00:03:43,038
+what the core deliverables are the
+
+130
+00:03:41,280 --> 00:03:44,920
+grading criteria for the project which
+
+131
+00:03:43,039 --> 00:03:46,317
+components count for the most points
+
+132
+00:03:44,919 --> 00:03:48,518
+what percentage of your grade each
+
+133
+00:03:46,318 --> 00:03:49,999
+assignment counts for overall and how
+
+134
+00:03:48,519 --> 00:03:51,640
+much each component will contribute to
+
+135
+00:03:50,000 --> 00:03:53,599
+the knowledge you need to have for tests
+
+136
+00:03:51,639 --> 00:03:54,759
+which usually impact your grade the most
+
+137
+00:03:53,598 --> 00:03:56,238
+once you've assigned a score to each
+
+138
+00:03:54,759 --> 00:03:57,558
+component of the project I think it's a
+
+139
+00:03:56,239 --> 00:03:59,400
+good idea to tackle the ones that are
+
+140
+00:03:57,560 --> 00:04:01,479
+the highest impact but also the highest
+
+141
+00:03:59,400 --> 00:04:03,239
+effort first this is due to something
+
+142
+00:04:01,479 --> 00:04:04,679
+called ego depletion a phenomenon
+
+143
+00:04:03,239 --> 00:04:06,598
+described in Daniel comet's book
+
+144
+00:04:04,680 --> 00:04:08,400
+Thinking Fast and Slow citing research
+
+145
+00:04:06,598 --> 00:04:10,038
+from the psychologist Roy bow Meister he
+
+146
+00:04:08,400 --> 00:04:11,959
+reveals that an effort of will or
+
+147
+00:04:10,039 --> 00:04:13,518
+self-control is tiring if you have to
+
+148
+00:04:11,959 --> 00:04:15,399
+force yourself to do something you're
+
+149
+00:04:13,519 --> 00:04:16,759
+less willing or less able to exert
+
+150
+00:04:15,400 --> 00:04:18,319
+self-control when the next challenge
+
+151
+00:04:16,759 --> 00:04:19,1000
+comes around so use the bulk of your
+
+152
+00:04:18,319 --> 00:04:22,158
+willpower to deal with those high impact
+
+153
+00:04:20,000 --> 00:04:24,000
+High effort tasks first that way later
+
+154
+00:04:22,160 --> 00:04:25,360
+on you'll only have the high impact low
+
+155
+00:04:24,000 --> 00:04:27,040
+effort tasks to tackle when you're
+
+156
+00:04:25,360 --> 00:04:28,440
+feeling drained and that is where we're
+
+157
+00:04:27,040 --> 00:04:30,479
+going to wrap this video If you select
+
+158
+00:04:28,439 --> 00:04:32,519
+your location wisely plan based on
+
+159
+00:04:30,478 --> 00:04:34,398
+impact and effort and Tackle your tasks
+
+160
+00:04:32,519 --> 00:04:35,878
+in an order that utilizes your willpower
+
+161
+00:04:34,399 --> 00:04:37,718
+effectively you're going to get through
+
+162
+00:04:35,879 --> 00:04:39,037
+this time crunch in one piece if you
+
+163
+00:04:37,720 --> 00:04:40,199
+enjoyed this video and found it helpful
+
+164
+00:04:39,038 --> 00:04:41,558
+then give it a like to support this
+
+165
+00:04:40,199 --> 00:04:43,038
+Channel and I would love to hear any
+
+166
+00:04:41,560 --> 00:04:44,560
+additional tips you have down in the
+
+167
+00:04:43,038 --> 00:04:46,279
+comments and of course we will cover
+
+168
+00:04:44,560 --> 00:04:47,959
+additional strategies in the future
+
+169
+00:04:46,279 --> 00:04:49,558
+especially regarding how to deal with
+
+170
+00:04:47,959 --> 00:04:51,079
+procrastination well that's all I got
+
+171
+00:04:49,560 --> 00:04:53,880
+for you guys so as always thanks for
+
+172
+00:04:51,079 --> 00:04:55,798
+watching and I will see you next
+
+173
+00:04:53,879 --> 00:04:56,999
+week hey guys thanks so much for
+
+174
+00:04:55,800 --> 00:04:58,360
+watching this video If you want to get
+
+175
+00:04:57,000 --> 00:05:00,359
+new ones on being a more effective
+
+176
+00:04:58,360 --> 00:05:02,320
+student every single week click that big
+
+177
+00:05:00,360 --> 00:05:03,638
+red subscribe button right there I also
+
+178
+00:05:02,319 --> 00:05:04,959
+wrote a full length book on earning
+
+179
+00:05:03,639 --> 00:05:06,199
+better grades and if you'd like to get a
+
+180
+00:05:04,959 --> 00:05:07,559
+free copy of it you can click the
+
+181
+00:05:06,199 --> 00:05:08,880
+picture of the book to get one you can
+
+182
+00:05:07,560 --> 00:05:10,560
+also find a summary in additional
+
+183
+00:05:08,879 --> 00:05:11,758
+resources at the companion blog post
+
+184
+00:05:10,560 --> 00:05:13,520
+which you'll find by clicking the orange
+
+185
+00:05:11,759 --> 00:05:15,120
+logo right there and in last week's
+
+186
+00:05:13,519 --> 00:05:16,638
+video we talked about what to do if you
+
+187
+00:05:15,120 --> 00:05:18,600
+feel you have too many interests and
+
+188
+00:05:16,639 --> 00:05:20,159
+need to prioritize your time so check it
+
+189
+00:05:18,600 --> 00:05:21,840
+out if you didn't see it lastly if you
+
+190
+00:05:20,160 --> 00:05:23,680
+want to connect or ask questions I'm Tom
+
+191
+00:05:21,839 --> 00:05:27,558
+frankley on both Twitter and Instagram
+
+192
+00:05:23,680 --> 00:05:27,559
+or you can leave a comment below
+

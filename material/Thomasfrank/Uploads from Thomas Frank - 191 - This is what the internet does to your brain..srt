@@ -1,0 +1,2116 @@
+1
+00:00:00,970 --> 00:00:04,788
+[Music]
+
+2
+00:00:03,740 --> 00:00:04,710
+remember when our parents used to tell
+
+3
+00:00:05,759 --> 00:00:10,709
+us that video games would rot our brains
+
+4
+00:00:08,449 --> 00:00:12,538
+well turns out they were wrong about
+
+5
+00:00:10,710 --> 00:00:14,519
+that video games won't rot your brain
+
+6
+00:00:12,539 --> 00:00:16,649
+and in some cases it can actually be
+
+7
+00:00:14,519 --> 00:00:18,538
+beneficial to play them however if your
+
+8
+00:00:16,649 --> 00:00:20,998
+particular set of parental units happen
+
+9
+00:00:18,539 --> 00:00:22,410
+to use the term warp your brain well
+
+10
+00:00:21,000 --> 00:00:24,180
+then they might have been on the right
+
+11
+00:00:22,410 --> 00:00:25,410
+track in the last few decades brain
+
+12
+00:00:24,179 --> 00:00:27,388
+scientists have learned a lot about
+
+13
+00:00:25,410 --> 00:00:29,640
+something called neuroplasticity
+
+14
+00:00:27,390 --> 00:00:31,890
+essentially the brain changes its
+
+15
+00:00:29,640 --> 00:00:33,779
+physical configuration in response to
+
+16
+00:00:31,890 --> 00:00:35,280
+the tasks you give it and the stimuli
+
+17
+00:00:33,780 --> 00:00:37,139
+you expose it to this can include
+
+18
+00:00:35,280 --> 00:00:39,600
+something as simple as using a clock to
+
+19
+00:00:37,140 --> 00:00:42,689
+something as complex as playing a video
+
+20
+00:00:39,600 --> 00:00:44,968
+game and it can also include using the
+
+21
+00:00:42,689 --> 00:00:46,738
+internet over the past few years I've
+
+22
+00:00:44,969 --> 00:00:48,509
+had this sneaking suspicion that my
+
+23
+00:00:46,738 --> 00:00:51,089
+daily internet use was having subtle
+
+24
+00:00:48,509 --> 00:00:52,648
+effects on the way that I think I used
+
+25
+00:00:51,090 --> 00:00:55,649
+to be able to sit and immerse myself in
+
+26
+00:00:52,649 --> 00:00:57,719
+a book for hours but now that task is a
+
+27
+00:00:55,649 --> 00:00:59,969
+lot harder often daydreamer get caught
+
+28
+00:00:57,719 --> 00:01:02,909
+being distracted and I seem to remember
+
+29
+00:00:59,969 --> 00:01:04,949
+being bored a lot when I was a kid but
+
+30
+00:01:02,909 --> 00:01:06,509
+now boredom almost never creeps into my
+
+31
+00:01:04,948 --> 00:01:08,908
+life there's always something grabbing
+
+32
+00:01:06,510 --> 00:01:11,670
+for my attention and it turns out that
+
+33
+00:01:08,909 --> 00:01:13,470
+this suspicion wasn't misplaced like the
+
+34
+00:01:11,670 --> 00:01:15,449
+clock in the videogame and countless
+
+35
+00:01:13,469 --> 00:01:17,518
+other technologies the internet quietly
+
+36
+00:01:15,450 --> 00:01:20,158
+changes the structure of our brains as
+
+37
+00:01:17,519 --> 00:01:22,019
+we use it and not always in ways that
+
+38
+00:01:20,159 --> 00:01:24,479
+are positive the brains process of
+
+39
+00:01:22,019 --> 00:01:26,669
+rewiring itself works a bit like taping
+
+40
+00:01:24,478 --> 00:01:28,349
+over a VHS tape as the psychiatrist
+
+41
+00:01:26,670 --> 00:01:30,449
+Norman Doidge puts it if we stop
+
+42
+00:01:28,349 --> 00:01:33,089
+exercising our mental skills we do not
+
+43
+00:01:30,450 --> 00:01:35,070
+just forget them the brain nap space for
+
+44
+00:01:33,090 --> 00:01:37,049
+those skills such as deep book reading
+
+45
+00:01:35,069 --> 00:01:39,658
+is turned over to the skills we practice
+
+46
+00:01:37,049 --> 00:01:42,659
+instead such as browsing endless pages
+
+47
+00:01:39,659 --> 00:01:44,578
+of the bank estimates so today let's
+
+48
+00:01:42,659 --> 00:01:47,130
+explore just how the internet affects
+
+49
+00:01:44,578 --> 00:01:51,078
+our brains and how we can prevent or at
+
+50
+00:01:47,129 --> 00:01:51,077
+least reverse its most harmful changes
+
+51
+00:01:52,129 --> 00:01:56,449
+in the late 1800s the philosopher
+
+52
+00:01:54,709 --> 00:01:58,429
+friedrich nietzsche's eyesight began to
+
+53
+00:01:56,450 --> 00:02:00,320
+fail him and this brought with it a
+
+54
+00:01:58,430 --> 00:02:03,140
+terrible consequence it made it almost
+
+55
+00:02:00,319 --> 00:02:04,819
+impossible for him to write the act of
+
+56
+00:02:03,140 --> 00:02:06,680
+focusing his eyes on a page gave him
+
+57
+00:02:04,819 --> 00:02:07,879
+terrible headaches and he worried that
+
+58
+00:02:06,680 --> 00:02:10,130
+he would have to give up a practice all
+
+59
+00:02:07,879 --> 00:02:11,957
+together but something saved him and
+
+60
+00:02:10,129 --> 00:02:14,298
+that something was called the mulling
+
+61
+00:02:11,959 --> 00:02:16,220
+hansen writing ball now as weird as this
+
+62
+00:02:14,300 --> 00:02:17,659
+thing looks it was actually the fastest
+
+63
+00:02:16,219 --> 00:02:19,788
+typewriter ever built back when it was
+
+64
+00:02:17,659 --> 00:02:21,409
+released and it also saved Nietzsche's
+
+65
+00:02:19,789 --> 00:02:23,179
+writing career once he learned a touch
+
+66
+00:02:21,409 --> 00:02:25,369
+type with it he could write once more
+
+67
+00:02:23,180 --> 00:02:26,749
+albeit now with his eyes closed the
+
+68
+00:02:25,370 --> 00:02:28,700
+writing ball didn't just rescue
+
+69
+00:02:26,750 --> 00:02:31,068
+Nietzsche's ability to write though it
+
+70
+00:02:28,699 --> 00:02:32,419
+also changed the character of his output
+
+71
+00:02:31,068 --> 00:02:33,889
+one of his close friend at the time
+
+72
+00:02:32,419 --> 00:02:36,229
+noted that Nietzsche's writing took on a
+
+73
+00:02:33,889 --> 00:02:38,957
+new forcefulness that it became tighter
+
+74
+00:02:36,229 --> 00:02:40,788
+and nietzsche himself agreed writing you
+
+75
+00:02:38,959 --> 00:02:42,859
+are right our writing equipment takes
+
+76
+00:02:40,789 --> 00:02:45,199
+part in the forming of our thoughts and
+
+77
+00:02:42,860 --> 00:02:47,238
+it's not just our writing equipment that
+
+78
+00:02:45,199 --> 00:02:48,498
+does this in the book the shallows what
+
+79
+00:02:47,239 --> 00:02:50,179
+the internet is doing to our brains
+
+80
+00:02:48,500 --> 00:02:52,009
+which was actually the primary source
+
+81
+00:02:50,180 --> 00:02:53,568
+for this video the author Nicholas Carr
+
+82
+00:02:52,009 --> 00:02:55,517
+demonstrates how nearly all the
+
+83
+00:02:53,568 --> 00:02:57,919
+technology we use can cause real
+
+84
+00:02:55,519 --> 00:02:59,360
+physical changes within our brains for
+
+85
+00:02:57,919 --> 00:03:01,099
+example one experiment that was done on
+
+86
+00:02:59,360 --> 00:03:02,690
+violin players showed that the area of
+
+87
+00:03:01,099 --> 00:03:04,429
+their sensory cortex is that controlled
+
+88
+00:03:02,689 --> 00:03:06,139
+their fingering hands was actually much
+
+89
+00:03:04,430 --> 00:03:07,070
+larger than that of control group who
+
+90
+00:03:06,139 --> 00:03:10,038
+had never played a musical instrument
+
+91
+00:03:07,069 --> 00:03:11,448
+before but it's not just the physical
+
+92
+00:03:10,039 --> 00:03:14,418
+use of tools that can cause these
+
+93
+00:03:11,449 --> 00:03:16,968
+changes even purely mental activity and
+
+94
+00:03:14,419 --> 00:03:18,258
+Tony can you like make a hammer float
+
+95
+00:03:16,969 --> 00:03:19,488
+here in the air with you know your
+
+96
+00:03:18,259 --> 00:03:21,858
+editing skills alright let's try it
+
+97
+00:03:19,489 --> 00:03:23,599
+again even purely mental activity shaped
+
+98
+00:03:21,859 --> 00:03:25,339
+by technology can do the same thing
+
+99
+00:03:23,599 --> 00:03:27,378
+another experiment done on London cab
+
+100
+00:03:25,340 --> 00:03:28,699
+drivers found that compared to control
+
+101
+00:03:27,379 --> 00:03:30,708
+group the area of the drivers brains
+
+102
+00:03:28,699 --> 00:03:32,929
+called the posterior hippocampus was
+
+103
+00:03:30,709 --> 00:03:34,519
+much larger than normal and as you might
+
+104
+00:03:32,930 --> 00:03:35,870
+expect this is an area of the brain that
+
+105
+00:03:34,519 --> 00:03:38,030
+plays a huge part in helping us
+
+106
+00:03:35,870 --> 00:03:39,649
+understand our physical surroundings now
+
+107
+00:03:38,030 --> 00:03:41,780
+if you wouldn't be wrong to point out
+
+108
+00:03:39,650 --> 00:03:43,040
+that it's no big surprise a cab drivers
+
+109
+00:03:41,780 --> 00:03:44,900
+brain would adapt to the task of
+
+110
+00:03:43,039 --> 00:03:46,818
+navigating a complex web of city streets
+
+111
+00:03:44,900 --> 00:03:49,190
+when that's what they spend all day long
+
+112
+00:03:46,819 --> 00:03:51,529
+doing but other technologies have far
+
+113
+00:03:49,189 --> 00:03:53,839
+subtler and further reaching effects
+
+114
+00:03:51,530 --> 00:03:55,579
+before the invention of the clock people
+
+115
+00:03:53,840 --> 00:03:58,069
+perceive time in a very different way
+
+116
+00:03:55,579 --> 00:03:59,870
+than we do today to them time flowed
+
+117
+00:03:58,068 --> 00:04:01,398
+like a stream of water and the
+
+118
+00:03:59,870 --> 00:04:03,948
+transition from one moment to the next
+
+119
+00:04:01,400 --> 00:04:05,598
+was seamless and imperceptible once we
+
+120
+00:04:03,949 --> 00:04:07,369
+started tracking time though
+
+121
+00:04:05,598 --> 00:04:09,437
+that all changed when we ended the first
+
+122
+00:04:07,370 --> 00:04:12,019
+time keeping devices we changed our
+
+123
+00:04:09,438 --> 00:04:13,907
+conception of time itself instead of
+
+124
+00:04:12,019 --> 00:04:16,608
+being an unbroken stream time became a
+
+125
+00:04:13,908 --> 00:04:18,648
+series of discrete individual units and
+
+126
+00:04:16,608 --> 00:04:20,928
+as clocks became more and more accurate
+
+127
+00:04:18,649 --> 00:04:22,788
+those units got smaller and more precise
+
+128
+00:04:20,930 --> 00:04:25,279
+suddenly we were thinking in terms of
+
+129
+00:04:22,788 --> 00:04:27,469
+hours and then minutes and eventually
+
+130
+00:04:25,279 --> 00:04:29,689
+seconds and we also became fixated on
+
+131
+00:04:27,470 --> 00:04:32,689
+productivity how much time did we spend
+
+132
+00:04:29,689 --> 00:04:34,908
+how much time have we wasted but there
+
+133
+00:04:32,689 --> 00:04:36,858
+was a larger effect as well once we
+
+134
+00:04:34,910 --> 00:04:38,689
+started looking at time as a construct
+
+135
+00:04:36,860 --> 00:04:41,060
+made up of small parts that thinking got
+
+136
+00:04:38,689 --> 00:04:43,097
+extended to everything else as car
+
+137
+00:04:41,060 --> 00:04:44,780
+rights once the clock had redefined time
+
+138
+00:04:43,098 --> 00:04:46,879
+as a series of units of equal duration
+
+139
+00:04:44,779 --> 00:04:49,309
+our minds began to stress the methodical
+
+140
+00:04:46,879 --> 00:04:51,197
+mental work of division and measurement
+
+141
+00:04:49,310 --> 00:04:53,569
+we began to see in all things and
+
+142
+00:04:51,199 --> 00:04:55,519
+phenomena the pieces that composed the
+
+143
+00:04:53,569 --> 00:04:57,379
+whole the clocks methodical ticking
+
+144
+00:04:55,519 --> 00:05:00,618
+helped bring into being the scientific
+
+145
+00:04:57,379 --> 00:05:02,119
+mind and the scientific man and if the
+
+146
+00:05:00,620 --> 00:05:04,160
+clock made a big change the way that we
+
+147
+00:05:02,120 --> 00:05:06,050
+think then writing made and even a
+
+148
+00:05:04,160 --> 00:05:07,309
+bigger one now this technology took
+
+149
+00:05:06,050 --> 00:05:09,469
+thousands of years to progress through
+
+150
+00:05:07,310 --> 00:05:11,180
+the necessary stages the shift from
+
+151
+00:05:09,470 --> 00:05:12,829
+local graphic characters to phonetic
+
+152
+00:05:11,180 --> 00:05:14,509
+alphabets the addition of spacing
+
+153
+00:05:12,829 --> 00:05:16,369
+between words and the invention of the
+
+154
+00:05:14,509 --> 00:05:18,770
+Gutenberg press just to name a few but
+
+155
+00:05:16,370 --> 00:05:20,900
+eventually this technology caused huge
+
+156
+00:05:18,769 --> 00:05:23,118
+shifts in our behavior once the general
+
+157
+00:05:20,899 --> 00:05:25,939
+population became literate they started
+
+158
+00:05:23,120 --> 00:05:27,770
+to read what's your rating for and not
+
+159
+00:05:25,939 --> 00:05:30,498
+just that they started to read silently
+
+160
+00:05:27,769 --> 00:05:32,238
+for long periods of time and this is a
+
+161
+00:05:30,500 --> 00:05:34,129
+bigger deal than you might think car
+
+162
+00:05:32,240 --> 00:05:36,589
+rights to read a book was to practice an
+
+163
+00:05:34,129 --> 00:05:38,928
+unnatural process of thought one that
+
+164
+00:05:36,589 --> 00:05:42,079
+demanded sustained unbroken attention to
+
+165
+00:05:38,930 --> 00:05:43,638
+a single static object and for people to
+
+166
+00:05:42,079 --> 00:05:45,038
+do this they had to forge neural
+
+167
+00:05:43,639 --> 00:05:47,900
+pathways that would allow them to apply
+
+168
+00:05:45,038 --> 00:05:49,339
+top-down control over their attention
+
+169
+00:05:47,899 --> 00:05:51,407
+top-down control is something that has
+
+170
+00:05:49,339 --> 00:05:53,657
+to be learned and practiced naturally
+
+171
+00:05:51,408 --> 00:05:55,279
+we're wired for bottom-up attention our
+
+172
+00:05:53,658 --> 00:05:56,959
+senses are finely tuned to pick up
+
+173
+00:05:55,279 --> 00:05:58,787
+changes in our environment and our
+
+174
+00:05:56,959 --> 00:06:01,008
+attention naturally drifts to them it's
+
+175
+00:05:58,788 --> 00:06:02,898
+constantly shifting now this is great
+
+176
+00:06:01,009 --> 00:06:05,449
+for noticing a lurking tiger or a
+
+177
+00:06:02,899 --> 00:06:07,488
+potential source of food but it's not so
+
+178
+00:06:05,449 --> 00:06:09,050
+great for deep analytical reading it
+
+179
+00:06:07,490 --> 00:06:11,478
+just doesn't allow for that type of
+
+180
+00:06:09,050 --> 00:06:14,059
+prolonged intense concentration that's
+
+181
+00:06:11,478 --> 00:06:16,428
+necessary for parsing complex ideas and
+
+182
+00:06:14,060 --> 00:06:17,160
+through the act of reading we developed
+
+183
+00:06:16,430 --> 00:06:19,110
+a new
+
+184
+00:06:17,160 --> 00:06:22,560
+of attentional control one that was far
+
+185
+00:06:19,110 --> 00:06:24,239
+better suited to that task but now it
+
+186
+00:06:22,560 --> 00:06:30,390
+seems like we're starting to lose that
+
+187
+00:06:24,240 --> 00:06:31,919
+ability so let's revisit that experiment
+
+188
+00:06:30,389 --> 00:06:33,629
+with London cab drivers again for a
+
+189
+00:06:31,920 --> 00:06:35,549
+second because there's something that I
+
+190
+00:06:33,629 --> 00:06:37,079
+didn't mention in addition to the
+
+191
+00:06:35,550 --> 00:06:39,360
+enlargement of the posterior hippocampus
+
+192
+00:06:37,079 --> 00:06:42,088
+the researchers also found a change in
+
+193
+00:06:39,360 --> 00:06:43,980
+the anterior hippocampus it shrank and
+
+194
+00:06:42,089 --> 00:06:45,658
+in further tests they found that that
+
+195
+00:06:43,980 --> 00:06:47,580
+shrinking may have actually harmed the
+
+196
+00:06:45,660 --> 00:06:49,590
+cab drivers ability to perform on other
+
+197
+00:06:47,579 --> 00:06:51,358
+memorization tasks Norman do I just
+
+198
+00:06:49,589 --> 00:06:53,279
+words come back to mind here when we
+
+199
+00:06:51,360 --> 00:06:55,199
+stop using a certain skill the neural
+
+200
+00:06:53,279 --> 00:06:56,759
+pathways that used to support it get
+
+201
+00:06:55,199 --> 00:06:59,218
+reconfigured to enhance the skills that
+
+202
+00:06:56,759 --> 00:07:01,648
+we do use as the psychiatrist Jeffery
+
+203
+00:06:59,220 --> 00:07:03,809
+Schwartz puts it it's survival of the
+
+204
+00:07:01,649 --> 00:07:04,439
+busiest and I'm sure you can see where
+
+205
+00:07:03,810 --> 00:07:06,240
+this is going
+
+206
+00:07:04,439 --> 00:07:07,588
+unless of course you've already gotten
+
+207
+00:07:06,240 --> 00:07:09,809
+distracted and clicked away from this
+
+208
+00:07:07,589 --> 00:07:12,029
+video which just makes you an example of
+
+209
+00:07:09,810 --> 00:07:13,770
+my next point the technology that we now
+
+210
+00:07:12,029 --> 00:07:15,719
+spend most of our time using the
+
+211
+00:07:13,769 --> 00:07:17,128
+internet definitely doesn't do anything
+
+212
+00:07:15,720 --> 00:07:18,690
+to encourage the use of the neural
+
+213
+00:07:17,129 --> 00:07:20,428
+pathways that are devoted to top-down
+
+214
+00:07:18,689 --> 00:07:23,038
+attentional control and long-term
+
+215
+00:07:20,430 --> 00:07:25,170
+concentration on a single source as car
+
+216
+00:07:23,040 --> 00:07:27,629
+puts it our use of the Internet involves
+
+217
+00:07:25,170 --> 00:07:29,400
+many paradoxes but the one that promises
+
+218
+00:07:27,629 --> 00:07:31,859
+to have the greatest long-term influence
+
+219
+00:07:29,399 --> 00:07:34,439
+over how we think is this one the net
+
+220
+00:07:31,860 --> 00:07:36,449
+seizes our attention only to scatter it
+
+221
+00:07:34,439 --> 00:07:38,668
+in other words the Internet promotes
+
+222
+00:07:36,449 --> 00:07:40,498
+distracted nough sand multitasking at
+
+223
+00:07:38,668 --> 00:07:42,659
+almost all times we are surrounded by
+
+224
+00:07:40,500 --> 00:07:44,610
+multiple internet connected devices and
+
+225
+00:07:42,660 --> 00:07:46,740
+even on a single computer you can be
+
+226
+00:07:44,610 --> 00:07:48,690
+watching a video have 18 different tabs
+
+227
+00:07:46,740 --> 00:07:50,249
+open at the same time be playing Spotify
+
+228
+00:07:48,689 --> 00:07:52,079
+in the background and beginning messages
+
+229
+00:07:50,250 --> 00:07:53,970
+on iMessage and slack at the same time
+
+230
+00:07:52,079 --> 00:07:55,228
+oh and also playing over watching the
+
+231
+00:07:53,970 --> 00:07:57,269
+other monitor can't forget about that
+
+232
+00:07:55,230 --> 00:07:59,249
+one moreover the internet rewards this
+
+233
+00:07:57,269 --> 00:08:01,079
+type of distracted behavior it's not
+
+234
+00:07:59,250 --> 00:08:02,819
+just our frequent use of this technology
+
+235
+00:08:01,079 --> 00:08:04,949
+that gives it such a powerful ability to
+
+236
+00:08:02,819 --> 00:08:07,078
+shape our neural pathways it's also the
+
+237
+00:08:04,949 --> 00:08:09,118
+fact that offers constant quick dopamine
+
+238
+00:08:07,079 --> 00:08:10,918
+hits it constantly stimulates the reward
+
+239
+00:08:09,120 --> 00:08:12,510
+loop inside our heads the result is that
+
+240
+00:08:10,918 --> 00:08:14,579
+the internet promotes the return to our
+
+241
+00:08:12,509 --> 00:08:16,348
+natural bottom-up state of attentional
+
+242
+00:08:14,579 --> 00:08:17,849
+control there's always something new
+
+243
+00:08:16,350 --> 00:08:19,919
+happening somewhere else to shift your
+
+244
+00:08:17,850 --> 00:08:21,810
+focus and just like with those London
+
+245
+00:08:19,918 --> 00:08:23,789
+cab drivers the brain has to give
+
+246
+00:08:21,810 --> 00:08:25,680
+something up the more time you allow the
+
+247
+00:08:23,790 --> 00:08:27,120
+internet to promote this distracted
+
+248
+00:08:25,680 --> 00:08:29,160
+frenzy style of consuming information
+
+249
+00:08:27,120 --> 00:08:30,450
+the less time you spend deeply
+
+250
+00:08:29,160 --> 00:08:33,329
+concentrated unseen
+
+251
+00:08:30,449 --> 00:08:35,159
+tasks and as a result less able you are
+
+252
+00:08:33,330 --> 00:08:37,679
+to call up that deep concentration when
+
+253
+00:08:35,159 --> 00:08:38,308
+you really need it so what can we do
+
+254
+00:08:37,679 --> 00:08:40,018
+about this
+
+255
+00:08:38,309 --> 00:08:41,818
+are we just stuck in a downward spiral
+
+256
+00:08:40,019 --> 00:08:44,269
+doomed to end up like the people in
+
+257
+00:08:41,820 --> 00:08:51,390
+idiocracy
+
+258
+00:08:44,269 --> 00:08:53,458
+or can we reverse this trend we been
+
+259
+00:08:51,389 --> 00:08:55,228
+botties man why wouldn't you at the
+
+260
+00:08:53,460 --> 00:08:58,710
+match your elf was saving you a seat to
+
+261
+00:08:55,230 --> 00:09:01,020
+being Don oils oh there's more the video
+
+262
+00:08:58,710 --> 00:09:02,009
+I thought we were done okay I guess
+
+263
+00:09:01,019 --> 00:09:04,139
+we're at the part of the video where I
+
+264
+00:09:02,009 --> 00:09:05,669
+give you ten ideas for reclaiming your
+
+265
+00:09:04,139 --> 00:09:07,409
+attention yeah I did write that part in
+
+266
+00:09:05,669 --> 00:09:09,838
+the script okay before we get into this
+
+267
+00:09:07,409 --> 00:09:12,239
+remember it is survival of the busiest
+
+268
+00:09:09,840 --> 00:09:14,309
+the key isn't to just stop using the
+
+269
+00:09:12,240 --> 00:09:16,320
+Internet which as it turns out a pretty
+
+270
+00:09:14,309 --> 00:09:17,849
+useful invention instead it's to reduce
+
+271
+00:09:16,320 --> 00:09:20,339
+the activities that cause the
+
+272
+00:09:17,850 --> 00:09:21,780
+undesirable changes and to replace them
+
+273
+00:09:20,340 --> 00:09:23,070
+with activities that promote the
+
+274
+00:09:21,779 --> 00:09:25,019
+neurological changes that you actually
+
+275
+00:09:23,070 --> 00:09:26,250
+want to see and this could mean that you
+
+276
+00:09:25,019 --> 00:09:27,838
+don't even have to reduce the amount of
+
+277
+00:09:26,250 --> 00:09:29,640
+time you spend on the Internet at all
+
+278
+00:09:27,840 --> 00:09:31,230
+after all there's plenty of long-form
+
+279
+00:09:29,639 --> 00:09:33,089
+content on the internet there's long
+
+280
+00:09:31,230 --> 00:09:34,620
+articles there's long video essays like
+
+281
+00:09:33,090 --> 00:09:36,840
+this one and plenty of other deep
+
+282
+00:09:34,620 --> 00:09:38,430
+content Plus with apps like Kindle Cloud
+
+283
+00:09:36,840 --> 00:09:40,679
+Reader and projects like the Gutenberg
+
+284
+00:09:38,429 --> 00:09:42,509
+press you can literally read millions of
+
+285
+00:09:40,679 --> 00:09:45,358
+books from any internet-connected device
+
+286
+00:09:42,509 --> 00:09:47,549
+but there is a caveat here remember the
+
+287
+00:09:45,360 --> 00:09:49,020
+brain seeks out rewards and that the
+
+288
+00:09:47,549 --> 00:09:50,848
+internet tends to dole out the ones that
+
+289
+00:09:49,019 --> 00:09:52,199
+promote distracted thinking if you're
+
+290
+00:09:50,850 --> 00:09:53,790
+reading a print book with your phone in
+
+291
+00:09:52,200 --> 00:09:55,470
+the other room it's pretty easy to
+
+292
+00:09:53,789 --> 00:09:57,329
+resist the temptation to send a tweet or
+
+293
+00:09:55,470 --> 00:09:58,559
+check your email but it's a very
+
+294
+00:09:57,330 --> 00:10:00,660
+different story if you're reading the
+
+295
+00:09:58,559 --> 00:10:03,238
+exact same book on an Internet connected
+
+296
+00:10:00,659 --> 00:10:05,639
+iPad so we need to do two different
+
+297
+00:10:03,240 --> 00:10:07,050
+things number one promote the healthy
+
+298
+00:10:05,639 --> 00:10:10,379
+activities that build that top-down
+
+299
+00:10:07,049 --> 00:10:11,999
+attentional control and number two make
+
+300
+00:10:10,379 --> 00:10:14,218
+some environmental changes that make it
+
+301
+00:10:12,000 --> 00:10:15,990
+easier to shake our bad internet habits
+
+302
+00:10:14,220 --> 00:10:18,809
+so here are some ideas for mission
+
+303
+00:10:15,990 --> 00:10:20,610
+number one to start first just read more
+
+304
+00:10:18,809 --> 00:10:21,779
+books and yeah there's gonna be people
+
+305
+00:10:20,610 --> 00:10:23,429
+out there who make the argument that
+
+306
+00:10:21,779 --> 00:10:24,839
+books are full of filler they're waste
+
+307
+00:10:23,429 --> 00:10:26,669
+of time and you could get the same
+
+308
+00:10:24,840 --> 00:10:28,320
+salient points by going over to Google
+
+309
+00:10:26,669 --> 00:10:29,968
+and finding a well-written summary but
+
+310
+00:10:28,320 --> 00:10:32,219
+that argument isn't relevant right now
+
+311
+00:10:29,970 --> 00:10:34,260
+because in this case the goal of reading
+
+312
+00:10:32,220 --> 00:10:36,599
+a book is to promote deep long-term
+
+313
+00:10:34,259 --> 00:10:38,879
+concentration on one singular task
+
+314
+00:10:36,600 --> 00:10:40,949
+second spend time working with
+
+315
+00:10:38,879 --> 00:10:42,658
+out the internet and yes I know you feel
+
+316
+00:10:40,950 --> 00:10:44,579
+like you need the internet but honestly
+
+317
+00:10:42,659 --> 00:10:46,798
+a lot of my best research has come from
+
+318
+00:10:44,580 --> 00:10:48,450
+finding books in the library and if I'm
+
+319
+00:10:46,799 --> 00:10:50,549
+being even more honest with myself a lot
+
+320
+00:10:48,450 --> 00:10:52,260
+of my work especially writing once I
+
+321
+00:10:50,549 --> 00:10:54,118
+have all my research material and video
+
+322
+00:10:52,259 --> 00:10:56,638
+editing doesn't require the internet at
+
+323
+00:10:54,120 --> 00:10:58,770
+all now my brain tells me that it does
+
+324
+00:10:56,639 --> 00:11:01,228
+but this is actually a sign that I've
+
+325
+00:10:58,769 --> 00:11:02,999
+become dependent on the internet and if
+
+326
+00:11:01,230 --> 00:11:04,649
+anything I should take it as a sign that
+
+327
+00:11:03,000 --> 00:11:07,559
+I need to let that neural pattern fade
+
+328
+00:11:04,649 --> 00:11:09,208
+of it 3 have more in depth in person
+
+329
+00:11:07,559 --> 00:11:11,219
+conversations go out to dinner with your
+
+330
+00:11:09,210 --> 00:11:12,989
+friends more often and when you do do
+
+331
+00:11:11,220 --> 00:11:14,550
+not put your phone on the table keep it
+
+332
+00:11:12,990 --> 00:11:16,800
+in your pocket or don't bring it at all
+
+333
+00:11:14,549 --> 00:11:18,598
+or watch more movies and this has the
+
+334
+00:11:16,799 --> 00:11:20,489
+exact same goal as reading books you're
+
+335
+00:11:18,600 --> 00:11:22,439
+paying attention to one piece of cinema
+
+336
+00:11:20,490 --> 00:11:24,059
+for about two hours and again don't
+
+337
+00:11:22,440 --> 00:11:25,350
+bring your phone into the experience you
+
+338
+00:11:24,059 --> 00:11:27,809
+don't need to live tweet Lord of the
+
+339
+00:11:25,350 --> 00:11:29,909
+Rings finally number 5 commit to longer
+
+340
+00:11:27,809 --> 00:11:31,769
+periods of time doing one thing go
+
+341
+00:11:29,909 --> 00:11:33,899
+outside and ride your bike for a full
+
+342
+00:11:31,769 --> 00:11:35,788
+hour or practice an instrument for 30
+
+343
+00:11:33,899 --> 00:11:37,829
+full minutes now if you're like a lot of
+
+344
+00:11:35,789 --> 00:11:39,269
+people you probably feel too guilty to
+
+345
+00:11:37,830 --> 00:11:40,649
+let yourself do these things because you
+
+346
+00:11:39,269 --> 00:11:42,478
+feel like you have a lot of work to do
+
+347
+00:11:40,649 --> 00:11:44,428
+and if you're in that boat I've got a
+
+348
+00:11:42,480 --> 00:11:46,170
+suggestion for you install a program on
+
+349
+00:11:44,429 --> 00:11:47,638
+your computer called rescue time this
+
+350
+00:11:46,169 --> 00:11:49,619
+will track the time that you spend on
+
+351
+00:11:47,639 --> 00:11:51,449
+different apps and websites and I bet
+
+352
+00:11:49,620 --> 00:11:53,070
+after a few days of data gathering
+
+353
+00:11:51,450 --> 00:11:54,659
+you're gonna see that all your little
+
+354
+00:11:53,070 --> 00:11:56,070
+trips to Twitter and Instagram and all
+
+355
+00:11:54,659 --> 00:11:58,018
+your other little distracting websites
+
+356
+00:11:56,070 --> 00:11:59,820
+actually add up to more time throughout
+
+357
+00:11:58,019 --> 00:12:01,559
+the day then that hour you would have
+
+358
+00:11:59,820 --> 00:12:03,179
+spent on the bike and that just leaves
+
+359
+00:12:01,559 --> 00:12:05,578
+us with mission number 2 those
+
+360
+00:12:03,179 --> 00:12:08,009
+environmental changes and the first one
+
+361
+00:12:05,580 --> 00:12:10,230
+is going to deal with naturally YouTube
+
+362
+00:12:08,009 --> 00:12:11,939
+since we are on YouTube right now when
+
+363
+00:12:10,230 --> 00:12:15,090
+you're watching videos on YouTube watch
+
+364
+00:12:11,940 --> 00:12:17,819
+them in full screen now for almost my
+
+365
+00:12:15,090 --> 00:12:19,830
+entire youtube viewing life I never did
+
+366
+00:12:17,820 --> 00:12:21,210
+this and it doesn't really make sense on
+
+367
+00:12:19,830 --> 00:12:22,950
+the surface right because if you put a
+
+368
+00:12:21,210 --> 00:12:24,600
+video on full screen it looks better it
+
+369
+00:12:22,950 --> 00:12:26,070
+takes up the entire monitor but the
+
+370
+00:12:24,600 --> 00:12:27,930
+reason becomes pretty clear once you
+
+371
+00:12:26,070 --> 00:12:29,1000
+understand neuroplasticity and our
+
+372
+00:12:27,929 --> 00:12:32,669
+reward seeking behavior and the way that
+
+373
+00:12:30,000 --> 00:12:33,990
+YouTube is designed though I'm Austan so
+
+374
+00:12:32,669 --> 00:12:35,968
+I'll be watching the video i clicked on
+
+375
+00:12:33,990 --> 00:12:37,499
+part of my brain is also itching to
+
+376
+00:12:35,970 --> 00:12:39,450
+click on something else that i see over
+
+377
+00:12:37,500 --> 00:12:41,639
+in the sidebar and going into full
+
+378
+00:12:39,450 --> 00:12:43,380
+screen well that would take away my very
+
+379
+00:12:41,639 --> 00:12:44,579
+interesting links now you can go even
+
+380
+00:12:43,379 --> 00:12:45,869
+further with this and i'm not going to
+
+381
+00:12:44,580 --> 00:12:47,310
+talk too much about it but in the
+
+382
+00:12:45,870 --> 00:12:49,079
+description down below i have linked to
+
+383
+00:12:47,309 --> 00:12:50,878
+a little snippet of CSS that you can use
+
+384
+00:12:49,080 --> 00:12:52,600
+to actually blur out all the videos in
+
+385
+00:12:50,879 --> 00:12:54,099
+the YouTube homepage and the site
+
+386
+00:12:52,600 --> 00:12:56,079
+so if you don't want to use fullscreen
+
+387
+00:12:54,100 --> 00:12:57,818
+you could try that trick as well but to
+
+388
+00:12:56,078 --> 00:13:00,278
+move on to item number two here read
+
+389
+00:12:57,818 --> 00:13:01,869
+articles in reader mode the fact of the
+
+390
+00:13:00,278 --> 00:13:03,398
+matter is that most websites today are
+
+391
+00:13:01,870 --> 00:13:05,528
+designed with lots of distracting UI
+
+392
+00:13:03,399 --> 00:13:06,818
+elements like pop-ups and sidebars and
+
+393
+00:13:05,528 --> 00:13:08,708
+all kinds of other stuff that is
+
+394
+00:13:06,818 --> 00:13:11,138
+designed to keep you clicking from page
+
+395
+00:13:08,708 --> 00:13:13,658
+to page but you can get rid of all these
+
+396
+00:13:11,139 --> 00:13:15,698
+elements by using reader mode now Safari
+
+397
+00:13:13,659 --> 00:13:17,647
+on iOS and Chrome for Android both have
+
+398
+00:13:15,698 --> 00:13:19,359
+built-in reader modes which just isolate
+
+399
+00:13:17,649 --> 00:13:21,129
+all the content and let you see just
+
+400
+00:13:19,360 --> 00:13:23,319
+what you came to read and on the desktop
+
+401
+00:13:21,129 --> 00:13:25,298
+front Firefox Microsoft edge and Safari
+
+402
+00:13:23,318 --> 00:13:27,818
+I've had them built in for years and as
+
+403
+00:13:25,299 --> 00:13:29,017
+of this week chrome has one as well
+
+404
+00:13:27,818 --> 00:13:31,508
+you're gonna want to make sure you're
+
+405
+00:13:29,019 --> 00:13:33,310
+updated to the latest version chrome 75
+
+406
+00:13:31,509 --> 00:13:35,110
+at least you're also gonna have to go
+
+407
+00:13:33,309 --> 00:13:36,728
+into the experimental Flags section to
+
+408
+00:13:35,110 --> 00:13:38,409
+turn it on once you have done that it is
+
+409
+00:13:36,730 --> 00:13:39,939
+time to move on to item number three
+
+410
+00:13:38,409 --> 00:13:41,888
+which is to limit the time that you
+
+411
+00:13:39,940 --> 00:13:44,050
+spend on distraction heavy parts of the
+
+412
+00:13:41,889 --> 00:13:46,240
+Internet to a certain window during the
+
+413
+00:13:44,049 --> 00:13:48,489
+day so instead of making frequent trips
+
+414
+00:13:46,240 --> 00:13:49,659
+to Twitter or Instagram or deviantART or
+
+415
+00:13:48,490 --> 00:13:51,909
+whatever you like to go to during the
+
+416
+00:13:49,659 --> 00:13:54,248
+day restrict it and compress it into
+
+417
+00:13:51,909 --> 00:13:56,197
+maybe just a one hour period and this is
+
+418
+00:13:54,250 --> 00:13:58,089
+actually pretty easy to accomplish now
+
+419
+00:13:56,198 --> 00:13:59,827
+you could just unplug your Ethernet
+
+420
+00:13:58,089 --> 00:14:01,448
+cable or disable your Wi-Fi while you're
+
+421
+00:13:59,828 --> 00:14:02,919
+not using those sites but you could also
+
+422
+00:14:01,448 --> 00:14:05,169
+get a little more subtle a little more
+
+423
+00:14:02,919 --> 00:14:06,789
+control over the process by using a web
+
+424
+00:14:05,169 --> 00:14:08,979
+site blocking app like freedom or
+
+425
+00:14:06,789 --> 00:14:10,688
+culture and additionally item number
+
+426
+00:14:08,980 --> 00:14:12,519
+four here there are other tools you can
+
+427
+00:14:10,688 --> 00:14:14,409
+use to make social media sites less
+
+428
+00:14:12,519 --> 00:14:16,479
+distracting for example I've been using
+
+429
+00:14:14,409 --> 00:14:18,968
+a plug-in called News Feed Eradicator to
+
+430
+00:14:16,480 --> 00:14:21,249
+destroy my news feed on Facebook for a
+
+431
+00:14:18,970 --> 00:14:23,138
+long time and for tweeting there are
+
+432
+00:14:21,250 --> 00:14:24,370
+free tweet scheduling apps like buffer
+
+433
+00:14:23,139 --> 00:14:26,170
+which will allow you to tweet to your
+
+434
+00:14:24,370 --> 00:14:27,910
+heart's content without actually opening
+
+435
+00:14:26,169 --> 00:14:30,249
+twitter app and getting sucked into the
+
+436
+00:14:27,909 --> 00:14:32,588
+feed there finally number five hide the
+
+437
+00:14:30,250 --> 00:14:33,910
+visual clutter on your desktop if you're
+
+438
+00:14:32,589 --> 00:14:36,670
+anything like me you probably have a
+
+439
+00:14:33,909 --> 00:14:38,349
+bookmarks bar extension icons and an OS
+
+440
+00:14:36,669 --> 00:14:40,447
+taskbar that are just cluttering up your
+
+441
+00:14:38,350 --> 00:14:42,040
+screen and all these things can be
+
+442
+00:14:40,448 --> 00:14:43,809
+hidden if you need them they're probably
+
+443
+00:14:42,039 --> 00:14:45,548
+keyboard shortcuts to bring them back or
+
+444
+00:14:43,809 --> 00:14:47,257
+you can hover somewhere but for the most
+
+445
+00:14:45,549 --> 00:14:48,908
+part you don't need them and it would be
+
+446
+00:14:47,259 --> 00:14:50,560
+a lot better to have a distraction free
+
+447
+00:14:48,909 --> 00:14:53,077
+view of the content that you're trying
+
+448
+00:14:50,559 --> 00:14:54,398
+to read now these are tactical changes
+
+449
+00:14:53,078 --> 00:14:56,018
+and they're not gonna wing your brain
+
+450
+00:14:54,399 --> 00:14:58,209
+off it's internet addicted habits on
+
+451
+00:14:56,019 --> 00:15:00,278
+their own but they will go a long way to
+
+452
+00:14:58,208 --> 00:15:02,379
+helping you do that a lot more easily
+
+453
+00:15:00,278 --> 00:15:04,018
+still remember the process of changing
+
+454
+00:15:02,379 --> 00:15:06,267
+your brains most frequently accessed
+
+455
+00:15:04,019 --> 00:15:08,398
+pathways is a slow one that's gonna
+
+456
+00:15:06,269 --> 00:15:10,559
+require a lot of discipline and first so
+
+457
+00:15:08,399 --> 00:15:12,119
+once you tell these things up focus more
+
+458
+00:15:10,558 --> 00:15:14,008
+on those positive habits we discussed
+
+459
+00:15:12,119 --> 00:15:16,769
+earlier reading more books having more
+
+460
+00:15:14,009 --> 00:15:18,989
+in-depth conversations and soon in time
+
+461
+00:15:16,769 --> 00:15:21,419
+that ability to focus deeply will come
+
+462
+00:15:18,989 --> 00:15:22,949
+back but while we can change the degree
+
+463
+00:15:21,419 --> 00:15:25,169
+to which the internet affects our brains
+
+464
+00:15:22,948 --> 00:15:27,207
+one thing that we can't change so easily
+
+465
+00:15:25,169 --> 00:15:29,008
+is just how much our lives are run
+
+466
+00:15:27,208 --> 00:15:31,438
+through it now we do our banking online
+
+467
+00:15:29,009 --> 00:15:33,568
+we pay rent online we store our files up
+
+468
+00:15:31,438 --> 00:15:35,548
+in the cloud and that means if you're
+
+469
+00:15:33,568 --> 00:15:37,498
+anything like me you have dozens if not
+
+470
+00:15:35,548 --> 00:15:39,719
+hundreds of online accounts to manage
+
+471
+00:15:37,499 --> 00:15:41,850
+and to keep secure that's why I
+
+472
+00:15:39,720 --> 00:15:43,049
+recommend using dashlane instead of
+
+473
+00:15:41,850 --> 00:15:45,359
+using the same password for every
+
+474
+00:15:43,048 --> 00:15:46,827
+account which is a terrible idea
+
+475
+00:15:45,360 --> 00:15:49,409
+you can use dashlane to generate a
+
+476
+00:15:46,828 --> 00:15:51,448
+strong and unique password for every
+
+477
+00:15:49,409 --> 00:15:53,067
+online account you have all them are
+
+478
+00:15:51,448 --> 00:15:54,838
+stored in a secure vault that uses very
+
+479
+00:15:53,068 --> 00:15:56,909
+strong encryption meaning that you are
+
+480
+00:15:54,839 --> 00:15:58,559
+the only person who ever has access to
+
+481
+00:15:56,909 --> 00:16:00,118
+it and it'll even let you know if any of
+
+482
+00:15:58,558 --> 00:16:01,888
+your passwords are weak or if they've
+
+483
+00:16:00,119 --> 00:16:02,789
+been compromised in a data breach or if
+
+484
+00:16:01,889 --> 00:16:04,409
+you're using them across multiple
+
+485
+00:16:02,789 --> 00:16:06,208
+accounts and when any of those things
+
+486
+00:16:04,409 --> 00:16:08,008
+happens you can easily change that
+
+487
+00:16:06,208 --> 00:16:09,688
+password to a much stronger one with
+
+488
+00:16:08,009 --> 00:16:11,159
+just the click of a button you don't
+
+489
+00:16:09,688 --> 00:16:13,168
+have to log into the website to do it
+
+490
+00:16:11,159 --> 00:16:14,638
+which is a pretty sweet feature plus -
+
+491
+00:16:13,169 --> 00:16:17,128
+lien can instantly log you into websites
+
+492
+00:16:14,639 --> 00:16:19,438
+and autofill long forms which makes
+
+493
+00:16:17,129 --> 00:16:20,819
+browsing a heck of a lot faster and with
+
+494
+00:16:19,438 --> 00:16:22,739
+a built-in VPN that keeps your browsing
+
+495
+00:16:20,818 --> 00:16:24,628
+private dark web monitoring for all of
+
+496
+00:16:22,740 --> 00:16:26,850
+your personal information and apps for
+
+497
+00:16:24,629 --> 00:16:28,528
+all of your devices - Lane is seriously
+
+498
+00:16:26,850 --> 00:16:30,869
+the one tool that you need to keep your
+
+499
+00:16:28,528 --> 00:16:32,638
+online life secure and as a result since
+
+500
+00:16:30,869 --> 00:16:34,619
+you're not using multiple tools it saves
+
+501
+00:16:32,639 --> 00:16:35,699
+you money too - Lane has a basic free
+
+502
+00:16:34,619 --> 00:16:37,259
+version that you get started with
+
+503
+00:16:35,698 --> 00:16:38,698
+there's also a premium version that gets
+
+504
+00:16:37,259 --> 00:16:40,018
+you access to all the features I just
+
+505
+00:16:38,698 --> 00:16:41,338
+mentioned and if you're one of the first
+
+506
+00:16:40,019 --> 00:16:42,929
+200 people to use link in the
+
+507
+00:16:41,339 --> 00:16:44,758
+description down below to sign up you're
+
+508
+00:16:42,928 --> 00:16:46,528
+gonna get a free 30-day trial of that
+
+509
+00:16:44,759 --> 00:16:48,509
+premium subscription and help to support
+
+510
+00:16:46,528 --> 00:16:50,068
+my channel as well huge thanks as always
+
+511
+00:16:48,509 --> 00:16:51,388
+goes out to dashlane for sponsoring this
+
+512
+00:16:50,068 --> 00:16:53,338
+video and being a big supporter of my
+
+513
+00:16:51,389 --> 00:16:54,509
+channel and thank you for watching as
+
+514
+00:16:53,339 --> 00:16:56,249
+well hopefully you found something
+
+515
+00:16:54,509 --> 00:16:57,839
+useful in this video that you can use to
+
+516
+00:16:56,249 --> 00:16:59,729
+start building healthier habits making
+
+517
+00:16:57,839 --> 00:17:00,899
+those positive neurological changes and
+
+518
+00:16:59,730 --> 00:17:02,100
+if you did enjoy it consider hitting
+
+519
+00:17:00,899 --> 00:17:03,869
+that like button to support the channel
+
+520
+00:17:02,100 --> 00:17:05,459
+and also subscribing right there to get
+
+521
+00:17:03,869 --> 00:17:06,898
+new videos when they come out you can
+
+522
+00:17:05,459 --> 00:17:08,068
+also click right around here to get a
+
+523
+00:17:06,898 --> 00:17:09,688
+free copy of my book on how to earn
+
+524
+00:17:08,068 --> 00:17:10,947
+better grades or click wherever I'm
+
+525
+00:17:09,689 --> 00:17:12,879
+doing jazz hands to watch some more
+
+526
+00:17:10,949 --> 00:17:13,989
+videos here on this channel though
+
+527
+00:17:12,880 --> 00:17:16,089
+if you want to make those positive
+
+528
+00:17:13,990 --> 00:17:18,688
+neurological changes then maybe you
+
+529
+00:17:16,088 --> 00:17:18,688
+should go read the book
+

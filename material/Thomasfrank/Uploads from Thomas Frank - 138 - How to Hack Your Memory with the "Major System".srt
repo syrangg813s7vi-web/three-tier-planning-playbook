@@ -1,0 +1,1156 @@
+1
+00:00:00,030 --> 00:00:03,029
+it's no secret that our brains remember
+
+2
+00:00:01,620 --> 00:00:03,299
+different types of information with
+
+3
+00:00:03,060 --> 00:00:06,060
+differing levels of strength if you're
+
+4
+00:00:04,919 --> 00:00:07,528
+walking down the street one day and a
+
+5
+00:00:06,059 --> 00:00:09,478
+grizzly bear pops out and starts chasing
+
+6
+00:00:07,528 --> 00:00:11,609
+you you are gonna remember that for the
+
+7
+00:00:09,480 --> 00:00:13,138
+rest of your life no study needed and
+
+8
+00:00:11,609 --> 00:00:15,569
+that is gonna happen because your brain
+
+9
+00:00:13,138 --> 00:00:18,569
+is hardwired to keep information like
+
+10
+00:00:15,570 --> 00:00:20,879
+that up in its archives forever but what
+
+11
+00:00:18,570 --> 00:00:23,698
+about more mundane information what
+
+12
+00:00:20,879 --> 00:00:25,379
+about a string of random numbers well I
+
+13
+00:00:23,699 --> 00:00:27,389
+generated this string of random numbers
+
+14
+00:00:25,379 --> 00:00:29,188
+on random org just a couple of days ago
+
+15
+00:00:27,390 --> 00:00:31,949
+and even though I've only looked at at
+
+16
+00:00:29,189 --> 00:00:34,860
+once since then I know by heart that it
+
+17
+00:00:31,949 --> 00:00:36,689
+reads five one seven one nine nine two
+
+18
+00:00:34,859 --> 00:00:38,158
+eight four nine if you were paying close
+
+19
+00:00:36,689 --> 00:00:39,778
+enough attention there you might have
+
+20
+00:00:38,159 --> 00:00:42,327
+noticed that there were ten digits on
+
+21
+00:00:39,780 --> 00:00:43,980
+that piece of paper and 10 is exactly
+
+22
+00:00:42,329 --> 00:00:45,869
+the number of digits in a phone number
+
+23
+00:00:43,979 --> 00:00:47,487
+at least a phone number in the United
+
+24
+00:00:45,869 --> 00:00:48,779
+States in other countries there are
+
+25
+00:00:47,488 --> 00:00:50,218
+different numbers of digits and
+
+26
+00:00:48,780 --> 00:00:52,230
+different formatting but what is
+
+27
+00:00:50,219 --> 00:00:54,780
+universal is the way that most people
+
+28
+00:00:52,229 --> 00:00:56,307
+try to memorize phone numbers unless
+
+29
+00:00:54,780 --> 00:00:57,869
+you're already privy to certain memory
+
+30
+00:00:56,308 --> 00:00:59,429
+techniques you probably try to remember
+
+31
+00:00:57,869 --> 00:01:01,139
+a phone number the same way that I've
+
+32
+00:00:59,429 --> 00:01:03,357
+always done it through rote memorization
+
+33
+00:01:01,140 --> 00:01:05,609
+and this as you are probably already
+
+34
+00:01:03,359 --> 00:01:07,710
+aware is not a very good way to remember
+
+35
+00:01:05,609 --> 00:01:08,968
+things I mean yes your brain does have
+
+36
+00:01:07,709 --> 00:01:11,429
+to recall things on a pretty regular
+
+37
+00:01:08,969 --> 00:01:13,618
+basis to build strong memories but rote
+
+38
+00:01:11,430 --> 00:01:16,170
+memorization alone is a very inefficient
+
+39
+00:01:13,618 --> 00:01:18,058
+study technique especially for numbers
+
+40
+00:01:16,170 --> 00:01:20,880
+see even if you really want to remember
+
+41
+00:01:18,060 --> 00:01:22,649
+that phone number because it's the ROC's
+
+42
+00:01:20,879 --> 00:01:24,657
+phone number most of your brain
+
+43
+00:01:22,650 --> 00:01:27,239
+perceives that phone number as what it
+
+44
+00:01:24,659 --> 00:01:29,548
+really is a symbolic representation of
+
+45
+00:01:27,239 --> 00:01:31,349
+quantity and that's not nearly as
+
+46
+00:01:29,549 --> 00:01:32,879
+interesting to your brain as a grizzly
+
+47
+00:01:31,349 --> 00:01:34,858
+bear chasing you down the street but
+
+48
+00:01:32,879 --> 00:01:36,959
+fortunately there is a method out there
+
+49
+00:01:34,859 --> 00:01:38,339
+for easily remembering any number that
+
+50
+00:01:36,959 --> 00:01:41,069
+you want to keep up in your cranium
+
+51
+00:01:38,340 --> 00:01:42,719
+including this one which is incidentally
+
+52
+00:01:41,069 --> 00:01:44,789
+not the rock's number I lied about that
+
+53
+00:01:42,719 --> 00:01:46,589
+but the method is called the major
+
+54
+00:01:44,790 --> 00:01:46,829
+system and today I'm gonna teach it to
+
+55
+00:01:46,590 --> 00:01:48,899
+you
+
+56
+00:01:46,828 --> 00:01:50,458
+this method of memorization has probably
+
+57
+00:01:48,899 --> 00:01:52,859
+been around in one form or another for
+
+58
+00:01:50,459 --> 00:01:54,598
+thousands of years but it was most
+
+59
+00:01:52,859 --> 00:01:56,519
+prominently explained by the popular
+
+60
+00:01:54,599 --> 00:01:58,828
+mathematics writer Martin Gardner in his
+
+61
+00:01:56,519 --> 00:02:00,959
+book hexaflexagons probability paradoxes
+
+62
+00:01:58,828 --> 00:02:03,629
+and the Tower of Hanoi and it works in
+
+63
+00:02:00,959 --> 00:02:04,919
+three distinct stages first you take
+
+64
+00:02:03,629 --> 00:02:06,298
+each digit of the sequence that you're
+
+65
+00:02:04,920 --> 00:02:08,520
+trying to memorize and you encode it as
+
+66
+00:02:06,299 --> 00:02:10,020
+a specific consonant using a table of
+
+67
+00:02:08,520 --> 00:02:11,600
+phonetic pairings which I'm going to
+
+68
+00:02:10,020 --> 00:02:13,459
+explain in a second and which is up
+
+69
+00:02:11,599 --> 00:02:14,539
+heart of the major system next you take
+
+70
+00:02:13,460 --> 00:02:16,279
+these consonants that you've just
+
+71
+00:02:14,539 --> 00:02:17,779
+generated and you smash them together to
+
+72
+00:02:16,280 --> 00:02:19,460
+create words I'm not talking about
+
+73
+00:02:17,780 --> 00:02:20,869
+gibberish words here these are real
+
+74
+00:02:19,460 --> 00:02:23,120
+words that you would use in everyday
+
+75
+00:02:20,870 --> 00:02:25,249
+speech and finally you take those words
+
+76
+00:02:23,120 --> 00:02:27,469
+and you encode them as visually striking
+
+77
+00:02:25,250 --> 00:02:29,750
+interesting images that as you're going
+
+78
+00:02:27,469 --> 00:02:31,909
+to find out are much easier to recall
+
+79
+00:02:29,750 --> 00:02:33,799
+than random numbers now we're gonna do a
+
+80
+00:02:31,909 --> 00:02:35,928
+couple of examples here in a second but
+
+81
+00:02:33,800 --> 00:02:37,670
+first I do need to explain that table of
+
+82
+00:02:35,930 --> 00:02:40,279
+phonetic pairings within the major
+
+83
+00:02:37,669 --> 00:02:42,109
+system every digit from 0 to 9 is paired
+
+84
+00:02:40,280 --> 00:02:43,849
+with a specific sound that we make in
+
+85
+00:02:42,110 --> 00:02:45,650
+human speech and this makes the major
+
+86
+00:02:43,849 --> 00:02:47,809
+system very flexible because there are
+
+87
+00:02:45,650 --> 00:02:49,669
+multiple consonants that can be bound to
+
+88
+00:02:47,810 --> 00:02:51,290
+certain digits for example as you can
+
+89
+00:02:49,669 --> 00:02:53,688
+see in the table here one can be encoded
+
+90
+00:02:51,289 --> 00:02:55,399
+as either D or T because both of these
+
+91
+00:02:53,689 --> 00:02:57,799
+have a single down stroke and when you
+
+92
+00:02:55,400 --> 00:02:59,869
+say D and T they sound quite similar
+
+93
+00:02:57,800 --> 00:03:01,309
+numbers like 6 are even more flexible
+
+94
+00:02:59,870 --> 00:03:03,980
+and have even more consonant pairings
+
+95
+00:03:01,310 --> 00:03:04,939
+well numbers like 4 have only 1 now I'm
+
+96
+00:03:03,979 --> 00:03:06,378
+not going to go through every single
+
+97
+00:03:04,939 --> 00:03:07,758
+pairing here in the video because you
+
+98
+00:03:06,379 --> 00:03:09,379
+can just pause it and look at it and I
+
+99
+00:03:07,759 --> 00:03:11,149
+am gonna have a web version linked in
+
+100
+00:03:09,379 --> 00:03:12,649
+the description below but I do want to
+
+101
+00:03:11,150 --> 00:03:14,150
+note that not every letter in the
+
+102
+00:03:12,650 --> 00:03:16,520
+alphabet is paired with a number in this
+
+103
+00:03:14,150 --> 00:03:18,110
+system and all of the vowels are omitted
+
+104
+00:03:16,520 --> 00:03:20,240
+because these are going to be used for
+
+105
+00:03:18,110 --> 00:03:22,040
+forming words once you do have your
+
+106
+00:03:20,240 --> 00:03:23,900
+encoded continents alright enough
+
+107
+00:03:22,039 --> 00:03:25,608
+fooling around let's do an example so
+
+108
+00:03:23,900 --> 00:03:27,049
+you can see the system in action so a
+
+109
+00:03:25,610 --> 00:03:28,489
+couple of days ago I went to the coffee
+
+110
+00:03:27,050 --> 00:03:29,929
+shop near me to do a little bit of
+
+111
+00:03:28,490 --> 00:03:32,210
+reading and I started reading this book
+
+112
+00:03:29,930 --> 00:03:34,699
+called the dip by Seth Godin now this
+
+113
+00:03:32,210 --> 00:03:36,440
+book is only about 75 pages but I wasn't
+
+114
+00:03:34,699 --> 00:03:38,809
+able to finish it in the coffee shop I
+
+115
+00:03:36,439 --> 00:03:40,218
+got to about page 48 and once I got
+
+116
+00:03:38,810 --> 00:03:42,319
+there and I was ready to stop reading I
+
+117
+00:03:40,219 --> 00:03:43,909
+realized that I didn't bring a bookmark
+
+118
+00:03:42,319 --> 00:03:45,499
+with me and because I don't like to dog
+
+119
+00:03:43,909 --> 00:03:47,179
+here the pages in my books that meant
+
+120
+00:03:45,500 --> 00:03:49,220
+that I was going to have to memorize the
+
+121
+00:03:47,180 --> 00:03:50,809
+page that I stopped on so let's use the
+
+122
+00:03:49,219 --> 00:03:52,638
+major system to do this I've got the
+
+123
+00:03:50,810 --> 00:03:54,410
+number 48 they need to memorize that
+
+124
+00:03:52,639 --> 00:03:56,029
+means I'm working with the digits 4 and
+
+125
+00:03:54,409 --> 00:03:57,618
+8 and if we pull up our handy little
+
+126
+00:03:56,030 --> 00:04:00,560
+table here we can see that those get
+
+127
+00:03:57,620 --> 00:04:01,789
+encoded as R and V respectively with
+
+128
+00:04:00,560 --> 00:04:03,500
+those two letters in mind we've got a
+
+129
+00:04:01,789 --> 00:04:04,849
+bunch of different choices for words we
+
+130
+00:04:03,500 --> 00:04:07,460
+could go with ray if we could go with
+
+131
+00:04:04,849 --> 00:04:09,499
+Ref but I am just going to go with our V
+
+132
+00:04:07,460 --> 00:04:11,870
+so that means that our V is the word
+
+133
+00:04:09,500 --> 00:04:13,129
+that's going to get me back to 48 so all
+
+134
+00:04:11,870 --> 00:04:14,899
+I need to do now is come up with a
+
+135
+00:04:13,129 --> 00:04:16,758
+visually striking scenario in my head
+
+136
+00:04:14,900 --> 00:04:18,799
+that helps me easily remember that word
+
+137
+00:04:16,759 --> 00:04:20,209
+RV when you're doing this part it can be
+
+138
+00:04:18,798 --> 00:04:22,278
+really helpful to also come up with a
+
+139
+00:04:20,209 --> 00:04:24,199
+word that represents the context of the
+
+140
+00:04:22,279 --> 00:04:25,788
+situation in this case the book that
+
+141
+00:04:24,199 --> 00:04:27,799
+reading and since this book was written
+
+142
+00:04:25,790 --> 00:04:29,720
+by Seth Godin and since I'd know what he
+
+143
+00:04:27,800 --> 00:04:31,670
+looks like I'm just going to use him as
+
+144
+00:04:29,720 --> 00:04:33,079
+the secondary image so to match those
+
+145
+00:04:31,670 --> 00:04:34,790
+two things together I came up with a
+
+146
+00:04:33,079 --> 00:04:36,259
+scenario where Seth Godin was hanging
+
+147
+00:04:34,790 --> 00:04:38,240
+out in that space RV from the movie
+
+148
+00:04:36,259 --> 00:04:40,608
+space balls with barf and Lone Star and
+
+149
+00:04:38,240 --> 00:04:42,770
+yes that is absolutely ridiculous but as
+
+150
+00:04:40,610 --> 00:04:44,659
+you might know your brain remembers odd
+
+151
+00:04:42,769 --> 00:04:46,969
+and ridiculous things a lot more easily
+
+152
+00:04:44,660 --> 00:04:48,890
+than it recalls dull things so now I've
+
+153
+00:04:46,970 --> 00:04:50,329
+got this really easy to remember image
+
+154
+00:04:48,889 --> 00:04:52,429
+and all I need to do to get back to my
+
+155
+00:04:50,329 --> 00:04:54,918
+number is work backwards seth godin
+
+156
+00:04:52,430 --> 00:04:56,599
+chillin in the RV okay RV is my word
+
+157
+00:04:54,920 --> 00:04:58,549
+which means that R and V are my
+
+158
+00:04:56,600 --> 00:05:00,920
+consonants translate those two four and
+
+159
+00:04:58,550 --> 00:05:03,290
+eight boom 48 now at this point you
+
+160
+00:05:00,920 --> 00:05:05,479
+might be thinking okay Tom that was two
+
+161
+00:05:03,290 --> 00:05:06,740
+digits that's super-easy what about that
+
+162
+00:05:05,480 --> 00:05:08,509
+phone number you showed at the beginning
+
+163
+00:05:06,740 --> 00:05:10,249
+of the video that was ten digits what
+
+164
+00:05:08,509 --> 00:05:11,989
+happens when we have a lot more digits
+
+165
+00:05:10,250 --> 00:05:13,730
+to memorize this is the point where you
+
+166
+00:05:11,990 --> 00:05:15,860
+want to combine the major system with
+
+167
+00:05:13,730 --> 00:05:17,660
+other memorization systems and the first
+
+168
+00:05:15,860 --> 00:05:19,100
+step to doing that is to chunk the
+
+169
+00:05:17,660 --> 00:05:20,840
+digits you're trying to memorize which
+
+170
+00:05:19,100 --> 00:05:23,149
+means to break them down into smaller
+
+171
+00:05:20,839 --> 00:05:25,188
+groups technically you could use chunks
+
+172
+00:05:23,149 --> 00:05:27,318
+of any size but remember you are
+
+173
+00:05:25,189 --> 00:05:29,419
+translating these digits into consonants
+
+174
+00:05:27,319 --> 00:05:31,189
+so the bigger your chunks are the harder
+
+175
+00:05:29,420 --> 00:05:32,660
+it's gonna be to find a word that
+
+176
+00:05:31,189 --> 00:05:34,608
+represents them all because they all
+
+177
+00:05:32,660 --> 00:05:36,019
+have to remain in order because of that
+
+178
+00:05:34,610 --> 00:05:38,150
+I think it's good to work with chunks of
+
+179
+00:05:36,019 --> 00:05:40,099
+two digits if we go that route with our
+
+180
+00:05:38,149 --> 00:05:42,799
+ten digit phone number we get five one
+
+181
+00:05:40,100 --> 00:05:44,899
+seven one nine nine two eight and four
+
+182
+00:05:42,800 --> 00:05:46,699
+nine then just like before we translate
+
+183
+00:05:44,899 --> 00:05:48,499
+those digits into consonants and create
+
+184
+00:05:46,699 --> 00:05:50,419
+words out of them in this case I went
+
+185
+00:05:48,500 --> 00:05:51,919
+with these and now comes the part where
+
+186
+00:05:50,420 --> 00:05:53,719
+you combine the major system with
+
+187
+00:05:51,920 --> 00:05:55,790
+another memory system because now you
+
+188
+00:05:53,720 --> 00:05:58,370
+need to remember this list of words in
+
+189
+00:05:55,790 --> 00:05:59,450
+its exact order now there are a ton of
+
+190
+00:05:58,370 --> 00:06:00,950
+different techniques out there that you
+
+191
+00:05:59,449 --> 00:06:03,049
+could use to do this one of them being
+
+192
+00:06:00,949 --> 00:06:05,088
+the method of loci also known as the
+
+193
+00:06:03,050 --> 00:06:06,259
+memory palace which has you associating
+
+194
+00:06:05,089 --> 00:06:08,689
+the information you want to remember
+
+195
+00:06:06,259 --> 00:06:10,789
+with specific locations inside a place
+
+196
+00:06:08,689 --> 00:06:12,468
+like your house but the method of loci
+
+197
+00:06:10,790 --> 00:06:14,809
+is pretty complicated and I should
+
+198
+00:06:12,470 --> 00:06:16,609
+probably do an entire video on it so I'm
+
+199
+00:06:14,810 --> 00:06:18,470
+going to do that pretty soon and in this
+
+200
+00:06:16,610 --> 00:06:20,090
+case I'm going to make up a story using
+
+201
+00:06:18,470 --> 00:06:21,829
+my words instead one of the really
+
+202
+00:06:20,089 --> 00:06:23,779
+powerful things about creating story is
+
+203
+00:06:21,829 --> 00:06:25,939
+that our brains naturally latch onto
+
+204
+00:06:23,779 --> 00:06:27,589
+stories because stories are linear we
+
+205
+00:06:25,939 --> 00:06:29,599
+understand the order in which events
+
+206
+00:06:27,589 --> 00:06:31,309
+happen so the words are easy to pull out
+
+207
+00:06:29,600 --> 00:06:33,290
+in order as well and just like with my
+
+208
+00:06:31,310 --> 00:06:35,449
+crazy Spaceballs story from before the
+
+209
+00:06:33,290 --> 00:06:36,249
+more outlandish and odd your story is
+
+210
+00:06:35,449 --> 00:06:37,448
+the
+
+211
+00:06:36,249 --> 00:06:39,458
+your time your brain is gonna have
+
+212
+00:06:37,449 --> 00:06:41,288
+remembering it so there you have it
+
+213
+00:06:39,459 --> 00:06:43,028
+translate your digits into consonants
+
+214
+00:06:41,288 --> 00:06:44,558
+create words endless consonants and then
+
+215
+00:06:43,028 --> 00:06:46,298
+create crazy stories that help you
+
+216
+00:06:44,559 --> 00:06:47,889
+remember those words and then work
+
+217
+00:06:46,298 --> 00:06:48,967
+backwards from there to get back to
+
+218
+00:06:47,889 --> 00:06:50,648
+those numbers that you wanted to
+
+219
+00:06:48,968 --> 00:06:51,847
+remember at this point you now know how
+
+220
+00:06:50,649 --> 00:06:54,668
+that one weird kid in your school
+
+221
+00:06:51,848 --> 00:06:57,487
+managed to memorize PI to 347 digits and
+
+222
+00:06:54,668 --> 00:06:59,498
+maybe just maybe you can go challenge
+
+223
+00:06:57,488 --> 00:07:00,758
+him now now there are a lot of other
+
+224
+00:06:59,499 --> 00:07:02,528
+techniques out there that can help you
+
+225
+00:07:00,759 --> 00:07:03,939
+improve your memorization skills and
+
+226
+00:07:02,528 --> 00:07:05,168
+like I said earlier in the video we're
+
+227
+00:07:03,939 --> 00:07:07,119
+gonna be going over some of them in
+
+228
+00:07:05,168 --> 00:07:09,427
+future videos including the method of
+
+229
+00:07:07,119 --> 00:07:12,399
+loci but it's also important to note
+
+230
+00:07:09,428 --> 00:07:13,777
+that memorization is only one skill and
+
+231
+00:07:12,399 --> 00:07:15,639
+if you want to be a top performer in
+
+232
+00:07:13,778 --> 00:07:17,347
+school or in your work then you need to
+
+233
+00:07:15,639 --> 00:07:18,938
+complement it with other skills like
+
+234
+00:07:17,348 --> 00:07:20,888
+critical thinking and problem solving
+
+235
+00:07:18,939 --> 00:07:22,838
+you also need to be able to build mental
+
+236
+00:07:20,889 --> 00:07:24,159
+models that link concepts together so
+
+237
+00:07:22,838 --> 00:07:25,898
+you can understand how they all affect
+
+238
+00:07:24,158 --> 00:07:27,158
+the bigger picture and if you're looking
+
+239
+00:07:25,899 --> 00:07:29,048
+for a resource that will stretch your
+
+240
+00:07:27,158 --> 00:07:30,517
+capabilities in those areas check out
+
+241
+00:07:29,048 --> 00:07:32,318
+brilliant a learning platform that helps
+
+242
+00:07:30,519 --> 00:07:34,179
+people effectively learn math science
+
+243
+00:07:32,319 --> 00:07:36,069
+and computer science although building
+
+244
+00:07:34,178 --> 00:07:38,077
+strong and universally applicable
+
+245
+00:07:36,069 --> 00:07:39,578
+cognitive skills along the way within
+
+246
+00:07:38,079 --> 00:07:41,288
+brilliance library you'll find courses
+
+247
+00:07:39,579 --> 00:07:42,610
+and topics like calculus in linear
+
+248
+00:07:41,288 --> 00:07:44,258
+algebra and on math and applies to
+
+249
+00:07:42,610 --> 00:07:46,058
+trading and Finance you also find
+
+250
+00:07:44,259 --> 00:07:48,158
+courses on gravitational physics and
+
+251
+00:07:46,059 --> 00:07:49,809
+astronomy machine learning and soon even
+
+252
+00:07:48,158 --> 00:07:51,548
+of course on automotive engineering
+
+253
+00:07:49,809 --> 00:07:52,809
+which I am personally pretty excited
+
+254
+00:07:51,548 --> 00:07:54,458
+about throughout all other courses
+
+255
+00:07:52,809 --> 00:07:55,958
+brilliant takes an extremely active
+
+256
+00:07:54,459 --> 00:07:57,459
+approach to learning throwing you
+
+257
+00:07:55,959 --> 00:07:59,409
+straight into challenging problems that
+
+258
+00:07:57,459 --> 00:08:00,968
+give you an immediate reason to want to
+
+259
+00:07:59,408 --> 00:08:02,827
+learn and they back this up with
+
+260
+00:08:00,968 --> 00:08:04,028
+extensively detailed wiki which you can
+
+261
+00:08:02,829 --> 00:08:05,769
+use to flesh out your knowledge and any
+
+262
+00:08:04,028 --> 00:08:07,537
+problems you're stuck on and a community
+
+263
+00:08:05,769 --> 00:08:09,309
+full of thousands of active learners who
+
+264
+00:08:07,538 --> 00:08:11,138
+are constantly helping and challenging
+
+265
+00:08:09,309 --> 00:08:12,398
+each other I'm a huge fan of brilliance
+
+266
+00:08:11,139 --> 00:08:13,839
+approach to learning and I highly
+
+267
+00:08:12,399 --> 00:08:15,369
+recommend that you guys give them a try
+
+268
+00:08:13,838 --> 00:08:17,257
+you can sign up and start learning for
+
+269
+00:08:15,369 --> 00:08:19,869
+free today at brilliant dot org slash
+
+270
+00:08:17,259 --> 00:08:22,178
+Thomas Frank and the first 83 people who
+
+271
+00:08:19,869 --> 00:08:23,469
+sign up will also get 20% off their
+
+272
+00:08:22,178 --> 00:08:25,057
+annual subscription I want to give a
+
+273
+00:08:23,468 --> 00:08:26,408
+huge thanks to brilliant for sponsoring
+
+274
+00:08:25,059 --> 00:08:28,659
+this video and helping to support this
+
+275
+00:08:26,408 --> 00:08:30,398
+channel and as always guys thank you so
+
+276
+00:08:28,658 --> 00:08:31,568
+much for watching if you like this video
+
+277
+00:08:30,399 --> 00:08:33,430
+you can hit that like button down below
+
+278
+00:08:31,569 --> 00:08:34,778
+and also get subscribed right there so
+
+279
+00:08:33,429 --> 00:08:36,308
+you don't miss out on any future videos
+
+280
+00:08:34,778 --> 00:08:37,688
+and you also might want to grab a free
+
+281
+00:08:36,308 --> 00:08:39,877
+copy of my book on earning better grades
+
+282
+00:08:37,688 --> 00:08:41,648
+right there lastly you might also want
+
+283
+00:08:39,879 --> 00:08:43,088
+to follow me over on Instagram I said
+
+284
+00:08:41,649 --> 00:08:44,889
+doing daily stories now and I'm also
+
+285
+00:08:43,089 --> 00:08:46,239
+doing regular live streams and if you
+
+286
+00:08:44,889 --> 00:08:47,659
+want to catch those I will have the link
+
+287
+00:08:46,240 --> 00:08:49,249
+in the description down
+
+288
+00:08:47,659 --> 00:08:52,447
+thanks for watching and I will see you
+
+289
+00:08:49,250 --> 00:08:52,448
+in the next video
+

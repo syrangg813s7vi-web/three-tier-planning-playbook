@@ -1,0 +1,1848 @@
+1
+00:00:00,160 --> 00:00:03,439
+i have a central tenant that i follow
+
+2
+00:00:01,919 --> 00:00:03,600
+for any kind of work that i'm doing and
+
+3
+00:00:03,600 --> 00:00:07,439
+it's this if i find myself doing
+
+4
+00:00:05,519 --> 00:00:09,199
+something repeatedly there is a process
+
+5
+00:00:07,440 --> 00:00:11,199
+i have to follow all the time over and
+
+6
+00:00:09,199 --> 00:00:12,879
+over again then anything i can do to
+
+7
+00:00:11,199 --> 00:00:15,118
+make that process more efficient either
+
+8
+00:00:12,880 --> 00:00:17,198
+by making it faster removing steps or
+
+9
+00:00:15,119 --> 00:00:18,799
+automating steps i should do and it's
+
+10
+00:00:17,199 --> 00:00:20,400
+with that idea in mind that today i
+
+11
+00:00:18,800 --> 00:00:22,800
+would like to share with you my top 10
+
+12
+00:00:20,399 --> 00:00:24,639
+favorite productivity apps specifically
+
+13
+00:00:22,800 --> 00:00:25,840
+for windows now i've got a couple of
+
+14
+00:00:24,640 --> 00:00:27,840
+friends who have done these kind of app
+
+15
+00:00:25,839 --> 00:00:30,159
+roundup lists for the mac and i do use
+
+16
+00:00:27,839 --> 00:00:32,398
+mac os i use a lot of those apps but i
+
+17
+00:00:30,160 --> 00:00:34,480
+actually use windows more often i prefer
+
+18
+00:00:32,399 --> 00:00:36,639
+on the desktop platforms and i haven't
+
+19
+00:00:34,479 --> 00:00:38,398
+seen a whole lot of these videos for us
+
+20
+00:00:36,640 --> 00:00:40,718
+windows folk so today i'm going to be
+
+21
+00:00:38,399 --> 00:00:42,319
+breaking down my top 10 including the
+
+22
+00:00:40,719 --> 00:00:44,480
+one that i think is probably going to be
+
+23
+00:00:42,320 --> 00:00:46,078
+the most interesting for you
+
+24
+00:00:44,479 --> 00:00:48,159
+my surprise pick one that you're
+
+25
+00:00:46,079 --> 00:00:49,840
+probably not expecting a pair that work
+
+26
+00:00:48,159 --> 00:00:51,598
+insanely well together they're the ones
+
+27
+00:00:49,840 --> 00:00:53,360
+that i'm most excited to share with you
+
+28
+00:00:51,600 --> 00:00:56,718
+in this video and finally the one that
+
+29
+00:00:53,359 --> 00:00:58,799
+is objectively the most useful app on
+
+30
+00:00:56,719 --> 00:01:01,119
+this list one other great thing about
+
+31
+00:00:58,799 --> 00:01:03,438
+this list is that every app on it is
+
+32
+00:01:01,119 --> 00:01:04,958
+actually free so let's get into this
+
+33
+00:01:03,439 --> 00:01:07,039
+list starting with the one that i think
+
+34
+00:01:04,959 --> 00:01:09,758
+you might find most interesting which is
+
+35
+00:01:07,040 --> 00:01:11,1000
+an app called sharix sharex is a
+
+36
+00:01:09,760 --> 00:01:14,319
+screenshot tool for windows it's free
+
+37
+00:01:12,000 --> 00:01:16,158
+it's open source and i use the heck out
+
+38
+00:01:14,319 --> 00:01:17,678
+of it because i take a ton of
+
+39
+00:01:16,159 --> 00:01:19,199
+screenshots in my work and i do this for
+
+40
+00:01:17,680 --> 00:01:20,640
+multiple different purposes i do it for
+
+41
+00:01:19,200 --> 00:01:22,320
+content creation if you've seen any of
+
+42
+00:01:20,640 --> 00:01:23,438
+my written notion tutorials over on my
+
+43
+00:01:22,319 --> 00:01:25,678
+website you've probably seen my
+
+44
+00:01:23,438 --> 00:01:27,758
+screenshots and animated gifs but i also
+
+45
+00:01:25,680 --> 00:01:29,680
+use it to communicate more efficiently
+
+46
+00:01:27,759 --> 00:01:31,279
+with my team for instance the other day
+
+47
+00:01:29,680 --> 00:01:33,039
+my personal website had a bug on it and
+
+48
+00:01:31,280 --> 00:01:35,119
+i was able to just take screenshots of
+
+49
+00:01:33,040 --> 00:01:36,560
+the bug and send them in slack to my
+
+50
+00:01:35,118 --> 00:01:38,158
+developer martin to show him exactly
+
+51
+00:01:36,560 --> 00:01:39,600
+what was going on it's a lot more
+
+52
+00:01:38,159 --> 00:01:42,159
+efficient than trying to type up a long
+
+53
+00:01:39,599 --> 00:01:43,599
+description but sharex has a trick up a
+
+54
+00:01:42,159 --> 00:01:45,679
+sleeve that a lot of other screenshot
+
+55
+00:01:43,599 --> 00:01:47,839
+apps do not have which is optical
+
+56
+00:01:45,680 --> 00:01:50,079
+character recognition you can actually
+
+57
+00:01:47,840 --> 00:01:52,078
+take a screenshot of some text within a
+
+58
+00:01:50,078 --> 00:01:53,758
+picture or a youtube video and it will
+
+59
+00:01:52,078 --> 00:01:55,518
+pull that text out and put it right on
+
+60
+00:01:53,759 --> 00:01:57,279
+your clipboard so you can then paste it
+
+61
+00:01:55,519 --> 00:01:59,039
+into your note-taking application now i
+
+62
+00:01:57,280 --> 00:02:00,719
+should mention that there is a built-in
+
+63
+00:01:59,040 --> 00:02:02,479
+screenshot tool within windows called
+
+64
+00:02:00,718 --> 00:02:03,758
+snip and sketch and it's honestly very
+
+65
+00:02:02,478 --> 00:02:05,679
+capable you can use it by hitting
+
+66
+00:02:03,759 --> 00:02:07,199
+windows key shift s you can take
+
+67
+00:02:05,680 --> 00:02:09,439
+screenshots put them on your clipboard
+
+68
+00:02:07,200 --> 00:02:11,839
+draw on them but the editor that comes
+
+69
+00:02:09,439 --> 00:02:13,198
+within sharex is just vastly more
+
+70
+00:02:11,840 --> 00:02:15,520
+powerful and lets you do things like
+
+71
+00:02:13,199 --> 00:02:17,359
+adding boxes drawing arrows adding
+
+72
+00:02:15,520 --> 00:02:19,598
+pixelation and blurring for sensitive
+
+73
+00:02:17,360 --> 00:02:21,520
+info it's just overall a lot better and
+
+74
+00:02:19,598 --> 00:02:23,199
+that's why i personally like using it
+
+75
+00:02:21,520 --> 00:02:24,959
+over snip and sketch now there are a
+
+76
+00:02:23,199 --> 00:02:26,558
+couple of little tweaks that i add to
+
+77
+00:02:24,959 --> 00:02:28,560
+share x to make it a little bit better
+
+78
+00:02:26,560 --> 00:02:30,399
+first i add multiple hotkeys for
+
+79
+00:02:28,560 --> 00:02:32,560
+different jobs so i like to use ctrl
+
+80
+00:02:30,400 --> 00:02:35,440
+shift f to add a screenshot directly to
+
+81
+00:02:32,560 --> 00:02:37,359
+my clipboard or ctrl shift c to open up
+
+82
+00:02:35,439 --> 00:02:39,039
+the editor so i can make boxes or arrows
+
+83
+00:02:37,360 --> 00:02:40,639
+or what have you and then i use ctrl
+
+84
+00:02:39,039 --> 00:02:42,478
+shift alt c if i want to use that
+
+85
+00:02:40,639 --> 00:02:44,398
+optical character recognition and pull
+
+86
+00:02:42,479 --> 00:02:46,559
+text out of an image and i also
+
+87
+00:02:44,400 --> 00:02:48,560
+configure my default screenshots folder
+
+88
+00:02:46,560 --> 00:02:50,080
+to live inside of google drive so all my
+
+89
+00:02:48,560 --> 00:02:52,160
+screenshots are available to me across
+
+90
+00:02:50,080 --> 00:02:54,080
+all my different devices app number two
+
+91
+00:02:52,159 --> 00:02:55,839
+on this list is called quick look and if
+
+92
+00:02:54,080 --> 00:02:57,599
+you've ever used mac os you probably
+
+93
+00:02:55,840 --> 00:02:59,360
+know there is a function built into the
+
+94
+00:02:57,598 --> 00:03:03,038
+operating system called quick look which
+
+95
+00:02:59,360 --> 00:03:05,119
+is sadly absent on windows well this app
+
+96
+00:03:03,039 --> 00:03:06,639
+brings it in there now on mac os quick
+
+97
+00:03:05,120 --> 00:03:08,959
+look is a function in finder where you
+
+98
+00:03:06,639 --> 00:03:10,719
+can basically click on a file without
+
+99
+00:03:08,959 --> 00:03:12,800
+opening it and see information about
+
+100
+00:03:10,719 --> 00:03:14,558
+that file in the sidebar you can see an
+
+101
+00:03:12,800 --> 00:03:16,639
+image preview if it's an image you can
+
+102
+00:03:14,560 --> 00:03:18,080
+see text inside of a text file and the
+
+103
+00:03:16,639 --> 00:03:20,639
+quick look app instead of the microsoft
+
+104
+00:03:18,080 --> 00:03:22,719
+windows store adds this to windows you
+
+105
+00:03:20,639 --> 00:03:24,317
+can click on a file and without opening
+
+106
+00:03:22,719 --> 00:03:26,719
+it you can just hit the space bar to
+
+107
+00:03:24,318 --> 00:03:29,119
+preview it now this is less useful for
+
+108
+00:03:26,719 --> 00:03:31,438
+really simple file types like images or
+
+109
+00:03:29,120 --> 00:03:33,519
+text because notepad and the windows
+
+110
+00:03:31,439 --> 00:03:35,839
+photo viewer open pretty quickly but
+
+111
+00:03:33,519 --> 00:03:37,519
+this also works on photoshop files so i
+
+112
+00:03:35,840 --> 00:03:39,679
+can preview photoshop files in a very
+
+113
+00:03:37,519 --> 00:03:42,158
+big window without opening up photoshop
+
+114
+00:03:39,680 --> 00:03:43,920
+i can open up animated gifs or videos
+
+115
+00:03:42,158 --> 00:03:45,919
+and preview them without launching a
+
+116
+00:03:43,919 --> 00:03:47,678
+dedicated app for it so overall really
+
+117
+00:03:45,919 --> 00:03:49,597
+useful tool and i love that it has a
+
+118
+00:03:47,680 --> 00:03:51,439
+button that will let me make the preview
+
+119
+00:03:49,598 --> 00:03:53,598
+stay on top of other windows as i
+
+120
+00:03:51,439 --> 00:03:55,358
+sometimes want to say take a screenshot
+
+121
+00:03:53,598 --> 00:03:56,957
+and make sure it floats on top of
+
+122
+00:03:55,360 --> 00:03:59,119
+something else just so i can reference
+
+123
+00:03:56,959 --> 00:04:01,359
+it app number three on this list and you
+
+124
+00:03:59,120 --> 00:04:02,798
+probably saw this coming is notion i
+
+125
+00:04:01,360 --> 00:04:04,799
+can't make this list complete without
+
+126
+00:04:02,799 --> 00:04:06,560
+notion because i use it every single day
+
+127
+00:04:04,799 --> 00:04:08,158
+and there is in fact desktop app so i
+
+128
+00:04:06,560 --> 00:04:10,080
+can use it directly on windows which
+
+129
+00:04:08,158 --> 00:04:12,318
+means i'm not breaking the rules of this
+
+130
+00:04:10,080 --> 00:04:15,120
+list now i do have a confession to make
+
+131
+00:04:12,318 --> 00:04:17,119
+which is that i think that mac os has a
+
+132
+00:04:15,120 --> 00:04:19,120
+greater number of top-tier note-taking
+
+133
+00:04:17,120 --> 00:04:21,600
+applications than windows does it has
+
+134
+00:04:19,120 --> 00:04:23,759
+ulysses it has bear it has apple notes
+
+135
+00:04:21,600 --> 00:04:24,959
+which is frankly fantastic but at this
+
+136
+00:04:23,759 --> 00:04:26,799
+point notion has made enough
+
+137
+00:04:24,959 --> 00:04:28,238
+improvements both in its speed and
+
+138
+00:04:26,800 --> 00:04:29,1000
+fixing some of the annoyances i used to
+
+139
+00:04:28,240 --> 00:04:32,079
+have with it that it is now my favorite
+
+140
+00:04:30,000 --> 00:04:34,400
+note-taking application in particular
+
+141
+00:04:32,079 --> 00:04:36,559
+just recently they fixed the bug where
+
+142
+00:04:34,399 --> 00:04:39,038
+you couldn't select text precisely
+
+143
+00:04:36,560 --> 00:04:40,800
+across blocks which was actually kind of
+
+144
+00:04:39,040 --> 00:04:42,479
+a bug in pretty much all block-based
+
+145
+00:04:40,800 --> 00:04:43,1000
+text editors i think whimsical was the
+
+146
+00:04:42,478 --> 00:04:46,239
+first one to really fix it at least that
+
+147
+00:04:44,000 --> 00:04:48,400
+i noticed but now notion is done as well
+
+148
+00:04:46,240 --> 00:04:50,639
+which means that i can select text like
+
+149
+00:04:48,399 --> 00:04:52,559
+i could in a regular word processor like
+
+150
+00:04:50,639 --> 00:04:54,959
+google docs and that means i can write
+
+151
+00:04:52,560 --> 00:04:57,279
+and i can edit precisely inside of
+
+152
+00:04:54,959 --> 00:04:59,119
+notion and notion runs a lot more than
+
+153
+00:04:57,279 --> 00:05:01,519
+just my note taking in fact i run my
+
+154
+00:04:59,120 --> 00:05:03,679
+entire content creation process inside
+
+155
+00:05:01,519 --> 00:05:05,119
+of notion we capture ideas there we run
+
+156
+00:05:03,680 --> 00:05:07,039
+the entire content pipeline in there
+
+157
+00:05:05,120 --> 00:05:08,800
+from research to scripting to editing
+
+158
+00:05:07,038 --> 00:05:10,477
+and we even have a library of all of our
+
+159
+00:05:08,800 --> 00:05:12,239
+past videos so we can pull information
+
+160
+00:05:10,478 --> 00:05:13,518
+from them when we need it that system is
+
+161
+00:05:12,240 --> 00:05:14,880
+called creators companion i've actually
+
+162
+00:05:13,519 --> 00:05:17,278
+turned it into a template and you can
+
+163
+00:05:14,879 --> 00:05:19,197
+check it out over at thomasjfrank.com
+
+164
+00:05:17,279 --> 00:05:20,718
+cc and for personal productivity i like
+
+165
+00:05:19,199 --> 00:05:22,159
+to manage my tasks in notion i have a
+
+166
+00:05:20,720 --> 00:05:24,079
+full template for that i do my note
+
+167
+00:05:22,160 --> 00:05:25,680
+taking a notion but what i've really
+
+168
+00:05:24,079 --> 00:05:27,918
+wanted ever since i discovered this app
+
+169
+00:05:25,680 --> 00:05:29,519
+is a full-on second brain template
+
+170
+00:05:27,918 --> 00:05:31,599
+something that would marry tasks and
+
+171
+00:05:29,519 --> 00:05:33,438
+projects and notes and goals and have
+
+172
+00:05:31,600 --> 00:05:34,959
+them all work in harmony but kicking
+
+173
+00:05:33,439 --> 00:05:37,038
+around this design in my head for a very
+
+174
+00:05:34,959 --> 00:05:39,598
+long time it's very tough to get right
+
+175
+00:05:37,038 --> 00:05:41,839
+to get the ux to be easily usable so it
+
+176
+00:05:39,600 --> 00:05:43,600
+won't turn into a mess later on but i
+
+177
+00:05:41,839 --> 00:05:44,879
+think i'm just about done designing this
+
+178
+00:05:43,600 --> 00:05:46,399
+template and i've got a second channel
+
+179
+00:05:44,879 --> 00:05:48,238
+called thomas frank explains that's all
+
+180
+00:05:46,399 --> 00:05:50,079
+about notion build guides and tutorials
+
+181
+00:05:48,240 --> 00:05:51,599
+so if you are interested in that kind of
+
+182
+00:05:50,079 --> 00:05:53,198
+thing check that channel out i'll have a
+
+183
+00:05:51,600 --> 00:05:55,439
+link to the description down below and
+
+184
+00:05:53,199 --> 00:05:57,359
+let's move on to our fourth app in this
+
+185
+00:05:55,439 --> 00:05:59,757
+list which actually takes our word for
+
+186
+00:05:57,360 --> 00:06:02,560
+the most surprising app on the list and
+
+187
+00:05:59,759 --> 00:06:05,039
+it's actually microsoft edge the browser
+
+188
+00:06:02,560 --> 00:06:06,720
+that comes built into windows yes i've
+
+189
+00:06:05,038 --> 00:06:08,159
+had microsoft popping up little things
+
+190
+00:06:06,720 --> 00:06:10,079
+telling me to switch over from chrome to
+
+191
+00:06:08,160 --> 00:06:12,959
+edge for years now but i've always
+
+192
+00:06:10,079 --> 00:06:14,478
+ignored it until i looked up some stats
+
+193
+00:06:12,959 --> 00:06:16,398
+and found out that edge is actually a
+
+194
+00:06:14,478 --> 00:06:18,159
+faster browser than chrome i was getting
+
+195
+00:06:16,399 --> 00:06:19,999
+kind of tired of chrome just hogging up
+
+196
+00:06:18,160 --> 00:06:21,840
+tons of resources on my system so i
+
+197
+00:06:20,000 --> 00:06:24,160
+decided to give edge a try and what do
+
+198
+00:06:21,839 --> 00:06:25,839
+you know it's actually kind of great at
+
+199
+00:06:24,160 --> 00:06:27,280
+this point it's built on top of chromium
+
+200
+00:06:25,839 --> 00:06:28,879
+which is the engine that chrome is built
+
+201
+00:06:27,279 --> 00:06:30,799
+on so it's very familiar all the
+
+202
+00:06:28,879 --> 00:06:33,518
+keyboard shortcuts are the same and
+
+203
+00:06:30,800 --> 00:06:36,080
+crucially you can install extensions
+
+204
+00:06:33,519 --> 00:06:37,358
+from the chrome web store into edge
+
+205
+00:06:36,079 --> 00:06:39,358
+pretty much any extension that works
+
+206
+00:06:37,360 --> 00:06:41,119
+inside of chrome now works in edge which
+
+207
+00:06:39,360 --> 00:06:43,119
+means that i'm not losing anything by
+
+208
+00:06:41,120 --> 00:06:45,600
+making the switch and i'm gaining quite
+
+209
+00:06:43,120 --> 00:06:47,039
+a few things number one edge does feel
+
+210
+00:06:45,600 --> 00:06:48,959
+snappier and it feels like it takes up
+
+211
+00:06:47,038 --> 00:06:50,879
+less resources than chrome does there's
+
+212
+00:06:48,959 --> 00:06:53,279
+even a built-in feature that will put
+
+213
+00:06:50,879 --> 00:06:54,798
+tabs to sleep after two hours by default
+
+214
+00:06:53,279 --> 00:06:56,799
+if you're not using them which frees up
+
+215
+00:06:54,800 --> 00:06:58,400
+system resources even more but maybe my
+
+216
+00:06:56,800 --> 00:07:00,159
+favorite feature in edge is if you go up
+
+217
+00:06:58,399 --> 00:07:02,318
+to your tab bar and right click you can
+
+218
+00:07:00,160 --> 00:07:03,918
+turn on vertical tabs which will move
+
+219
+00:07:02,319 --> 00:07:05,919
+your tabs from being a horizontal list
+
+220
+00:07:03,918 --> 00:07:08,477
+across the top of the bar to a vertical
+
+221
+00:07:05,918 --> 00:07:10,719
+list on the side which means that even
+
+222
+00:07:08,478 --> 00:07:13,758
+if you are a tab hoarder like i am you
+
+223
+00:07:10,720 --> 00:07:15,1000
+can still see the names of all your tabs
+
+224
+00:07:13,759 --> 00:07:17,919
+which you cannot do in chrome without a
+
+225
+00:07:16,000 --> 00:07:19,198
+third party extension app number five on
+
+226
+00:07:17,918 --> 00:07:20,958
+our list is actually one that is built
+
+227
+00:07:19,199 --> 00:07:22,719
+right into windows and it's the windows
+
+228
+00:07:20,959 --> 00:07:24,238
+clipboard manager so if you've ever used
+
+229
+00:07:22,720 --> 00:07:25,519
+a clipboard before you've ever copied
+
+230
+00:07:24,240 --> 00:07:26,880
+and pasted you probably know the
+
+231
+00:07:25,519 --> 00:07:29,918
+clipboard is one of the most useful
+
+232
+00:07:26,879 --> 00:07:31,917
+functions in any operating system but by
+
+233
+00:07:29,918 --> 00:07:33,918
+default it has one major limitation it
+
+234
+00:07:31,918 --> 00:07:35,519
+only remembers the last thing you copied
+
+235
+00:07:33,918 --> 00:07:37,119
+it's a lot more useful if you have
+
+236
+00:07:35,519 --> 00:07:38,878
+clipboard history turned on so you can
+
+237
+00:07:37,120 --> 00:07:40,959
+see everything you've copied and you can
+
+238
+00:07:38,879 --> 00:07:42,718
+go back and paste something old and that
+
+239
+00:07:40,959 --> 00:07:44,559
+is exactly what the clipboard history
+
+240
+00:07:42,720 --> 00:07:46,720
+feature does so if you want to turn it
+
+241
+00:07:44,560 --> 00:07:48,479
+on all you got to do is hit windows key
+
+242
+00:07:46,720 --> 00:07:49,918
+v it will ask you if you want to turn it
+
+243
+00:07:48,478 --> 00:07:52,317
+on and then you can even sync your
+
+244
+00:07:49,918 --> 00:07:53,918
+clipboard history across devices if you
+
+245
+00:07:52,319 --> 00:07:55,279
+want to i don't do that because i put
+
+246
+00:07:53,918 --> 00:07:57,119
+passwords on my clipboard and i don't
+
+247
+00:07:55,279 --> 00:07:59,118
+really like the idea of having it
+
+248
+00:07:57,120 --> 00:08:01,440
+transmitted across anything that isn't
+
+249
+00:07:59,120 --> 00:08:02,878
+my password manager but it is an option
+
+250
+00:08:01,439 --> 00:08:04,959
+if you want to use it and that brings us
+
+251
+00:08:02,879 --> 00:08:06,399
+to one of two apps that i am personally
+
+252
+00:08:04,959 --> 00:08:08,637
+most excited to share with you in this
+
+253
+00:08:06,399 --> 00:08:11,198
+video these two apps work really well as
+
+254
+00:08:08,639 --> 00:08:13,520
+a pair so that first app is called flow
+
+255
+00:08:11,199 --> 00:08:15,519
+launcher and all full launcher does is
+
+256
+00:08:13,519 --> 00:08:17,278
+bring up a small text window on your
+
+257
+00:08:15,519 --> 00:08:19,519
+computer when you hit a key command by
+
+258
+00:08:17,279 --> 00:08:21,279
+default alt space but once it's there
+
+259
+00:08:19,519 --> 00:08:23,197
+you can type commands to do pretty much
+
+260
+00:08:21,279 --> 00:08:24,638
+anything on your computer quite a bit
+
+261
+00:08:23,199 --> 00:08:26,079
+faster than you would by doing it
+
+262
+00:08:24,639 --> 00:08:28,799
+normally again we're going back to that
+
+263
+00:08:26,079 --> 00:08:31,037
+concept of taking repeat processes and
+
+264
+00:08:28,800 --> 00:08:33,038
+making them more efficient so with flow
+
+265
+00:08:31,038 --> 00:08:35,038
+launcher i can launch websites i can do
+
+266
+00:08:33,038 --> 00:08:37,198
+google searches i can bring up files or
+
+267
+00:08:35,038 --> 00:08:38,879
+directories on my computer i can even do
+
+268
+00:08:37,200 --> 00:08:41,518
+calculations quite a bit faster than i
+
+269
+00:08:38,879 --> 00:08:44,319
+would with the stock calculator app and
+
+270
+00:08:41,519 --> 00:08:46,160
+i can even control spotify i can type sp
+
+271
+00:08:44,320 --> 00:08:47,839
+in the name of a playlist or a song and
+
+272
+00:08:46,159 --> 00:08:49,598
+i can start playing it i can turn on
+
+273
+00:08:47,839 --> 00:08:52,319
+shuffle i can do all kinds of cool stuff
+
+274
+00:08:49,600 --> 00:08:54,239
+i absolutely love flow launcher and you
+
+275
+00:08:52,320 --> 00:08:55,920
+can customize the heck out of it to just
+
+276
+00:08:54,240 --> 00:08:57,279
+bring up this little thing and do stuff
+
+277
+00:08:55,919 --> 00:08:58,479
+quite a bit faster and i'm just gonna
+
+278
+00:08:57,278 --> 00:09:00,879
+roll right to the seventh app on the
+
+279
+00:08:58,480 --> 00:09:02,720
+list which is called espanzo and espanzo
+
+280
+00:09:00,879 --> 00:09:04,238
+is a text expander app which you'll find
+
+281
+00:09:02,720 --> 00:09:06,639
+very useful if you often find yourself
+
+282
+00:09:04,240 --> 00:09:09,119
+typing the same long strings of text
+
+283
+00:09:06,639 --> 00:09:10,639
+like your email address or common urls
+
+284
+00:09:09,120 --> 00:09:12,640
+or if you do customer support or
+
+285
+00:09:10,639 --> 00:09:14,719
+something the same exact response to
+
+286
+00:09:12,639 --> 00:09:16,719
+customers you can define these very
+
+287
+00:09:14,720 --> 00:09:18,559
+short key snippets that when you type
+
+288
+00:09:16,720 --> 00:09:20,800
+they automatically expand into that
+
+289
+00:09:18,559 --> 00:09:23,517
+longer snippet of text so for instance i
+
+290
+00:09:20,799 --> 00:09:26,638
+can type emt to auto expand my email
+
+291
+00:09:23,519 --> 00:09:28,160
+address i can type pwf to auto expand my
+
+292
+00:09:26,639 --> 00:09:30,319
+notion fundamentals url which i'm
+
+293
+00:09:28,159 --> 00:09:32,078
+constantly pasting inside of comments i
+
+294
+00:09:30,320 --> 00:09:33,839
+can even expand really really long
+
+295
+00:09:32,080 --> 00:09:36,398
+strings of text as well and i personally
+
+296
+00:09:33,839 --> 00:09:37,759
+love espanzo more than say auto hotkey
+
+297
+00:09:36,399 --> 00:09:39,680
+which i used to use for this purpose
+
+298
+00:09:37,759 --> 00:09:41,198
+because espanzo also comes with a search
+
+299
+00:09:39,679 --> 00:09:42,879
+bar that you can bring up very similar
+
+300
+00:09:41,200 --> 00:09:44,800
+to flow launchers but you can search
+
+301
+00:09:42,879 --> 00:09:46,238
+your snippets and then automatically
+
+302
+00:09:44,799 --> 00:09:48,319
+paste them without having to type the
+
+303
+00:09:46,240 --> 00:09:50,079
+entire thing which is really really nice
+
+304
+00:09:48,320 --> 00:09:53,039
+and i'm putting flow launcher and
+
+305
+00:09:50,080 --> 00:09:55,919
+espanol together because in my workflow
+
+306
+00:09:53,039 --> 00:09:57,359
+they work very well in tandem personally
+
+307
+00:09:55,919 --> 00:09:59,198
+i have to bring up a lot of different
+
+308
+00:09:57,360 --> 00:10:00,959
+directories on my computer very often
+
+309
+00:09:59,200 --> 00:10:02,639
+i've got one for video thumbnails i've
+
+310
+00:10:00,958 --> 00:10:04,078
+got one for current projects being
+
+311
+00:10:02,639 --> 00:10:05,998
+edited i've got one for my second
+
+312
+00:10:04,078 --> 00:10:08,879
+channel so i've defined little key
+
+313
+00:10:06,000 --> 00:10:11,120
+snippets in espanzo that i can type into
+
+314
+00:10:08,879 --> 00:10:13,438
+flow launcher to automatically launch
+
+315
+00:10:11,120 --> 00:10:14,959
+those directories way quicker than i
+
+316
+00:10:13,440 --> 00:10:17,440
+would get to them if i was navigating
+
+317
+00:10:14,958 --> 00:10:19,198
+normally and to continue my complaints
+
+318
+00:10:17,440 --> 00:10:21,440
+about windows explorer we're gonna move
+
+319
+00:10:19,200 --> 00:10:23,518
+on to app number eight which is called
+
+320
+00:10:21,440 --> 00:10:25,760
+everything and everything is a simple
+
+321
+00:10:23,519 --> 00:10:28,078
+utility lets you search your files and
+
+322
+00:10:25,759 --> 00:10:29,517
+folders in windows because windows
+
+323
+00:10:28,078 --> 00:10:31,759
+folder search and file search is
+
+324
+00:10:29,519 --> 00:10:33,759
+famously slow it takes forever and for
+
+325
+00:10:31,759 --> 00:10:35,837
+whatever reason everything indexes your
+
+326
+00:10:33,759 --> 00:10:37,837
+hard drive and lets you search pretty
+
+327
+00:10:35,839 --> 00:10:39,359
+much instantly now there was also an
+
+328
+00:10:37,839 --> 00:10:40,799
+everything plug-in for flow launcher so
+
+329
+00:10:39,360 --> 00:10:42,560
+you can actually use flow launcher to
+
+330
+00:10:40,799 --> 00:10:43,919
+search your computer pretty well but
+
+331
+00:10:42,559 --> 00:10:45,599
+sometimes you're looking for a file and
+
+332
+00:10:43,919 --> 00:10:46,879
+you want to be able to browse a lot more
+
+333
+00:10:45,600 --> 00:10:48,560
+on your screen than flow launcher will
+
+334
+00:10:46,879 --> 00:10:50,479
+show you so i also recommend having
+
+335
+00:10:48,559 --> 00:10:52,559
+everything installed by default so you
+
+336
+00:10:50,480 --> 00:10:54,800
+can use it when you need it app number
+
+337
+00:10:52,559 --> 00:10:56,398
+nine on this list is good old google
+
+338
+00:10:54,799 --> 00:10:58,238
+drive i don't think this list will be
+
+339
+00:10:56,399 --> 00:11:00,160
+complete without an app that gets files
+
+340
+00:10:58,240 --> 00:11:01,760
+off of your computer and syncs them to
+
+341
+00:11:00,159 --> 00:11:04,878
+another destination so they are backed
+
+342
+00:11:01,759 --> 00:11:06,879
+up and also available on other devices
+
+343
+00:11:04,879 --> 00:11:08,398
+as well google drive i think is the best
+
+344
+00:11:06,879 --> 00:11:10,238
+option still even though there is also
+
+345
+00:11:08,399 --> 00:11:12,879
+dropbox and onedrive and other options
+
+346
+00:11:10,240 --> 00:11:14,560
+because for free they give you the most
+
+347
+00:11:12,879 --> 00:11:16,957
+storage space they give you 15 gigs
+
+348
+00:11:14,559 --> 00:11:20,078
+versus one drives five and dropbox is
+
+349
+00:11:16,958 --> 00:11:22,559
+paltry two and my tip for using google
+
+350
+00:11:20,078 --> 00:11:24,719
+drive efficiently is to ignore the
+
+351
+00:11:22,559 --> 00:11:26,318
+documents pictures music all those
+
+352
+00:11:24,720 --> 00:11:29,359
+different directories on your computer
+
+353
+00:11:26,320 --> 00:11:31,760
+and instead create a sort of root file
+
+354
+00:11:29,360 --> 00:11:33,440
+system within your google drive folder
+
+355
+00:11:31,759 --> 00:11:35,198
+that way you're going to have a single
+
+356
+00:11:33,440 --> 00:11:37,279
+place that you know to go to to start
+
+357
+00:11:35,200 --> 00:11:39,600
+looking for files if you're not choosing
+
+358
+00:11:37,278 --> 00:11:41,359
+to search for them using say everything
+
+359
+00:11:39,600 --> 00:11:43,680
+and that brings us to our final app on
+
+360
+00:11:41,360 --> 00:11:45,839
+this list which is probably objectively
+
+361
+00:11:43,679 --> 00:11:49,358
+the most useful app out of any that i've
+
+362
+00:11:45,839 --> 00:11:50,959
+covered here and that is flux or maybe f
+
+363
+00:11:49,360 --> 00:11:53,360
+lux if you want to pronounce it that way
+
+364
+00:11:50,958 --> 00:11:56,559
+this is a very small tiny utility that
+
+365
+00:11:53,360 --> 00:11:59,039
+does one thing as it gets closer to dark
+
+366
+00:11:56,559 --> 00:12:01,039
+to your bedtime it dims your screen and
+
+367
+00:11:59,039 --> 00:12:03,918
+it makes it warmer and the reason it
+
+368
+00:12:01,039 --> 00:12:06,239
+does this is that light be it artificial
+
+369
+00:12:03,919 --> 00:12:08,159
+light or sunlight messes with our
+
+370
+00:12:06,240 --> 00:12:09,839
+circadian rhythms there's a little part
+
+371
+00:12:08,159 --> 00:12:12,878
+of your brain called the suprachiasmatic
+
+372
+00:12:09,839 --> 00:12:14,800
+nucleus that is connected to your eyes
+
+373
+00:12:12,879 --> 00:12:16,479
+and when your eyes intake light waves it
+
+374
+00:12:14,799 --> 00:12:17,999
+essentially adjusts your circadian
+
+375
+00:12:16,480 --> 00:12:19,680
+rhythm and can make it harder to fall
+
+376
+00:12:18,000 --> 00:12:21,519
+asleep or to get quality sleep if you're
+
+377
+00:12:19,679 --> 00:12:24,318
+exposed to artificial light late at
+
+378
+00:12:21,519 --> 00:12:26,639
+night and as it turns out blue light
+
+379
+00:12:24,320 --> 00:12:29,360
+affects this more than other types of
+
+380
+00:12:26,639 --> 00:12:31,039
+visible light so the idea behind flux
+
+381
+00:12:29,360 --> 00:12:33,040
+and the idea behind those blue blocker
+
+382
+00:12:31,039 --> 00:12:35,199
+glasses you probably heard about is it
+
+383
+00:12:33,039 --> 00:12:36,958
+gets rid of some of that blue light and
+
+384
+00:12:35,200 --> 00:12:39,200
+possibly makes it easier for you to fall
+
+385
+00:12:36,958 --> 00:12:40,958
+asleep or to have better quality sleep
+
+386
+00:12:39,200 --> 00:12:42,639
+so if you find yourself on the computer
+
+387
+00:12:40,958 --> 00:12:44,799
+late at night or on your phone late at
+
+388
+00:12:42,639 --> 00:12:46,559
+night using something like flux may
+
+389
+00:12:44,799 --> 00:12:47,759
+actually help you sleep better and as
+
+390
+00:12:46,559 --> 00:12:49,837
+we've talked about in many different
+
+391
+00:12:47,759 --> 00:12:51,439
+videos sleep is one of the three pillars
+
+392
+00:12:49,839 --> 00:12:53,759
+of health but the other two being your
+
+393
+00:12:51,440 --> 00:12:55,440
+nutrition and your exercise that really
+
+394
+00:12:53,759 --> 00:12:57,678
+form the foundation of your ability to
+
+395
+00:12:55,440 --> 00:12:59,839
+get things done so all these other tools
+
+396
+00:12:57,679 --> 00:13:02,159
+we've talked about are kind of just you
+
+397
+00:12:59,839 --> 00:13:03,680
+know extra icing on the cake flux may
+
+398
+00:13:02,159 --> 00:13:05,918
+actually help you live a more healthy
+
+399
+00:13:03,679 --> 00:13:07,679
+life and hence a more productive one now
+
+400
+00:13:05,919 --> 00:13:09,039
+earlier i talked about how notion was my
+
+401
+00:13:07,679 --> 00:13:10,478
+constant companion for my video
+
+402
+00:13:09,039 --> 00:13:12,159
+production process one of my most
+
+403
+00:13:10,480 --> 00:13:14,239
+essential tools for getting these videos
+
+404
+00:13:12,159 --> 00:13:15,679
+done and done more efficiently let me
+
+405
+00:13:14,240 --> 00:13:17,279
+share one additional resource that
+
+406
+00:13:15,679 --> 00:13:19,679
+really helps my video production process
+
+407
+00:13:17,278 --> 00:13:21,678
+as well and that is storyblocks who have
+
+408
+00:13:19,679 --> 00:13:23,518
+kindly sponsored this video if you are a
+
+409
+00:13:21,679 --> 00:13:25,278
+creator if you make videos like i do you
+
+410
+00:13:23,519 --> 00:13:26,800
+definitely want to check out storyblocks
+
+411
+00:13:25,278 --> 00:13:28,559
+because they give you access to a
+
+412
+00:13:26,799 --> 00:13:30,238
+library of more than one million
+
+413
+00:13:28,559 --> 00:13:32,478
+creative assets that you get unlimited
+
+414
+00:13:30,240 --> 00:13:34,720
+access to to use inside your content
+
+415
+00:13:32,480 --> 00:13:36,480
+that includes a b-roll and stock footage
+
+416
+00:13:34,720 --> 00:13:38,079
+it includes sound effects and music so
+
+417
+00:13:36,480 --> 00:13:40,079
+you can level up your sound design it
+
+418
+00:13:38,078 --> 00:13:41,919
+includes after effects templates motion
+
+419
+00:13:40,078 --> 00:13:44,078
+graphics templates tons of stuff that
+
+420
+00:13:41,919 --> 00:13:45,758
+can level up your content and to give
+
+421
+00:13:44,078 --> 00:13:47,679
+you a bit of an insight into our actual
+
+422
+00:13:45,759 --> 00:13:49,198
+video production process we cut down
+
+423
+00:13:47,679 --> 00:13:51,038
+this talking head footage to what we
+
+424
+00:13:49,198 --> 00:13:52,559
+call an a-roll cut at that point my team
+
+425
+00:13:51,039 --> 00:13:54,239
+and i come up with b-roll ideas to go on
+
+426
+00:13:52,559 --> 00:13:56,078
+top of that a-roll and we do shoot some
+
+427
+00:13:54,240 --> 00:13:57,920
+of that b-roll ourselves but often there
+
+428
+00:13:56,078 --> 00:13:59,998
+are shots that we just can't get on our
+
+429
+00:13:57,919 --> 00:14:01,278
+own and storyblocks allows us to get a
+
+430
+00:14:00,000 --> 00:14:03,439
+lot of that which allows us to make our
+
+431
+00:14:01,278 --> 00:14:04,718
+content a lot more engaging and another
+
+432
+00:14:03,440 --> 00:14:07,120
+great thing about storyblocks is that
+
+433
+00:14:04,720 --> 00:14:08,398
+they are extremely affordable normally
+
+434
+00:14:07,120 --> 00:14:09,999
+if you want to license stock footage a
+
+435
+00:14:08,399 --> 00:14:13,519
+lot of sites want to charge you hundreds
+
+436
+00:14:10,000 --> 00:14:15,679
+of dollars per clip seriously but with
+
+437
+00:14:13,519 --> 00:14:17,199
+storyblocks you have one low monthly
+
+438
+00:14:15,679 --> 00:14:19,518
+subscription that gets you unlimited
+
+439
+00:14:17,198 --> 00:14:21,039
+access to as many assets as you want
+
+440
+00:14:19,519 --> 00:14:22,800
+they have plans to fit pretty much any
+
+441
+00:14:21,039 --> 00:14:24,798
+budget whether you're a solo creator or
+
+442
+00:14:22,799 --> 00:14:26,319
+running a large team so if you want to
+
+443
+00:14:24,799 --> 00:14:28,479
+start leveling up your content and get
+
+444
+00:14:26,320 --> 00:14:30,800
+started go over to storyblocks.com
+
+445
+00:14:28,480 --> 00:14:32,638
+thomas to sign up or go to the link
+
+446
+00:14:30,799 --> 00:14:34,398
+right there on screen if you do choose
+
+447
+00:14:32,639 --> 00:14:35,1000
+to use storyblocks thank you so much
+
+448
+00:14:34,399 --> 00:14:37,680
+supporting my sponsors is a great way to
+
+449
+00:14:36,000 --> 00:14:39,120
+support this channel as well hopefully
+
+450
+00:14:37,679 --> 00:14:40,719
+you enjoyed this if you found something
+
+451
+00:14:39,120 --> 00:14:42,320
+useful maybe a brand new tool that's
+
+452
+00:14:40,720 --> 00:14:43,760
+going to help your workflow hit that
+
+453
+00:14:42,320 --> 00:14:44,638
+like button for the algorithm and if
+
+454
+00:14:43,759 --> 00:14:46,239
+you're looking for something else to
+
+455
+00:14:44,639 --> 00:14:48,240
+watch i've got a great companion video
+
+456
+00:14:46,240 --> 00:14:50,079
+for this one on the best browser
+
+457
+00:14:48,240 --> 00:14:51,679
+extensions for productivity or if you
+
+458
+00:14:50,078 --> 00:14:53,198
+are a notion user i just made a brand
+
+459
+00:14:51,679 --> 00:14:55,359
+new video on 10 things you might be
+
+460
+00:14:53,198 --> 00:14:56,799
+doing wrong in your notion workspace
+
+461
+00:14:55,360 --> 00:14:59,360
+check those out and i'll see you in the
+
+462
+00:14:56,799 --> 00:14:59,359
+next one
+

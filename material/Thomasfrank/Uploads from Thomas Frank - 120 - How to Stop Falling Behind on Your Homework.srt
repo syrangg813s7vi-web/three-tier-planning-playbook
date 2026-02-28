@@ -1,0 +1,1592 @@
+1
+00:00:00,000 --> 00:00:03,388
+recently I've been playing a lot of this
+
+2
+00:00:01,260 --> 00:00:03,569
+game called overcooked it's this game
+
+3
+00:00:03,388 --> 00:00:06,448
+where you play as a chef and you go
+
+4
+00:00:04,830 --> 00:00:08,309
+through this increasingly difficult and
+
+5
+00:00:06,450 --> 00:00:10,320
+crazy series of kitchens basically
+
+6
+00:00:08,308 --> 00:00:12,748
+trying to fill orders for customers and
+
+7
+00:00:10,320 --> 00:00:14,489
+of course in the beginning it's easy to
+
+8
+00:00:12,750 --> 00:00:15,779
+do the orders are pretty simple and
+
+9
+00:00:14,490 --> 00:00:18,300
+there aren't too many of them coming
+
+10
+00:00:15,779 --> 00:00:19,979
+your way but as time goes on more and
+
+11
+00:00:18,300 --> 00:00:21,240
+more orders start showing up there's
+
+12
+00:00:19,980 --> 00:00:22,680
+lots of little things thrown into the
+
+13
+00:00:21,239 --> 00:00:24,989
+kitchens to make your work harder and
+
+14
+00:00:22,679 --> 00:00:27,148
+the orders get more complicated and if
+
+15
+00:00:24,989 --> 00:00:28,888
+you get behind on just one order then
+
+16
+00:00:27,149 --> 00:00:30,718
+everything starts to pile up and you
+
+17
+00:00:28,890 --> 00:00:33,090
+have basically no hope of clawing your
+
+18
+00:00:30,719 --> 00:00:35,068
+way back from the brink and if you are a
+
+19
+00:00:33,090 --> 00:00:36,899
+student this is probably sounding pretty
+
+20
+00:00:35,070 --> 00:00:39,270
+familiar right now because it is a good
+
+21
+00:00:36,899 --> 00:00:41,309
+representation of what basically every
+
+22
+00:00:39,270 --> 00:00:43,859
+semester has looked like up until this
+
+23
+00:00:41,308 --> 00:00:46,558
+point and that leads to the obvious
+
+24
+00:00:43,859 --> 00:00:47,787
+question how do you not fall behind how
+
+25
+00:00:46,558 --> 00:00:49,768
+do you become one of those people who
+
+26
+00:00:47,789 --> 00:00:52,109
+can stay on top of things consistently
+
+27
+00:00:49,770 --> 00:00:53,698
+over the long term even as the semester
+
+28
+00:00:52,109 --> 00:00:55,468
+weight is a war of attrition against
+
+29
+00:00:53,698 --> 00:00:57,839
+both your organizational systems and
+
+30
+00:00:55,469 --> 00:00:59,219
+your motivation well in the case of
+
+31
+00:00:57,840 --> 00:01:02,189
+overcooked the answer is pretty simple
+
+32
+00:00:59,219 --> 00:01:03,719
+yet good but in terms of your school
+
+33
+00:01:02,189 --> 00:01:06,238
+performance it really breaks down to
+
+34
+00:01:03,719 --> 00:01:07,650
+doing three things consistently first
+
+35
+00:01:06,239 --> 00:01:09,209
+you need a well-organized task
+
+36
+00:01:07,650 --> 00:01:10,739
+management system and calendar and you
+
+37
+00:01:09,209 --> 00:01:13,048
+need to keep them well organized over
+
+38
+00:01:10,739 --> 00:01:14,849
+the entire semester secondly you need to
+
+39
+00:01:13,049 --> 00:01:16,290
+take your assignments and projects even
+
+40
+00:01:14,849 --> 00:01:18,959
+the things you need to study for exams
+
+41
+00:01:16,290 --> 00:01:20,729
+and break them down into mini tasks that
+
+42
+00:01:18,959 --> 00:01:23,069
+can be given milestone deadlines which
+
+43
+00:01:20,728 --> 00:01:24,809
+are easy to achieve and finally you need
+
+44
+00:01:23,069 --> 00:01:26,999
+to put in work frequently so you don't
+
+45
+00:01:24,810 --> 00:01:29,938
+get rusty basically work every single
+
+46
+00:01:27,000 --> 00:01:31,320
+day at least some small amount so in
+
+47
+00:01:29,938 --> 00:01:33,029
+this video I want to help you guys put
+
+48
+00:01:31,319 --> 00:01:34,827
+these three things into action in your
+
+49
+00:01:33,030 --> 00:01:36,420
+own lives I'm going to dig into each of
+
+50
+00:01:34,828 --> 00:01:38,098
+these give you some specific tips and
+
+51
+00:01:36,420 --> 00:01:41,479
+show you how I've implemented them into
+
+52
+00:01:38,099 --> 00:01:42,608
+my own life so you have some context
+
+53
+00:01:41,480 --> 00:01:44,689
+[Music]
+
+54
+00:01:42,609 --> 00:01:46,339
+the first step to staying on top of
+
+55
+00:01:44,689 --> 00:01:47,749
+things throughout the entire semester is
+
+56
+00:01:46,340 --> 00:01:49,820
+to make sure that your task management
+
+57
+00:01:47,750 --> 00:01:52,129
+system which is your to-do list and your
+
+58
+00:01:49,819 --> 00:01:53,958
+calendar is a perfect representation of
+
+59
+00:01:52,129 --> 00:01:55,879
+everything you need to do that way your
+
+60
+00:01:53,959 --> 00:01:57,829
+brain doesn't have to worry about those
+
+61
+00:01:55,879 --> 00:01:59,778
+things it knows that it's an external
+
+62
+00:01:57,829 --> 00:02:01,128
+system that it can trust and building
+
+63
+00:01:59,780 --> 00:02:02,960
+that system really starts at the
+
+64
+00:02:01,129 --> 00:02:04,278
+beginning of the semester when you go to
+
+65
+00:02:02,959 --> 00:02:06,257
+each your classes and you get the
+
+66
+00:02:04,280 --> 00:02:08,208
+syllabus for that class take some time
+
+67
+00:02:06,259 --> 00:02:09,799
+to transfer what's on the syllabus into
+
+68
+00:02:08,209 --> 00:02:11,238
+your task management system for example
+
+69
+00:02:09,800 --> 00:02:13,099
+here's the syllabus for one of my
+
+70
+00:02:11,239 --> 00:02:14,360
+marketing classes from my sophomore year
+
+71
+00:02:13,099 --> 00:02:15,737
+and honor there's a couple of written
+
+72
+00:02:14,360 --> 00:02:17,929
+assignments listed with due dates and
+
+73
+00:02:15,739 --> 00:02:20,300
+there's also some quiz dates so over in
+
+74
+00:02:17,930 --> 00:02:22,250
+todoist which is my recommendation for a
+
+75
+00:02:20,300 --> 00:02:24,110
+to do list app for most students I have
+
+76
+00:02:22,250 --> 00:02:25,609
+written all these assignments down so
+
+77
+00:02:24,110 --> 00:02:27,529
+that way they are in the system that I'm
+
+78
+00:02:25,610 --> 00:02:29,239
+going to be looking at every single day
+
+79
+00:02:27,530 --> 00:02:30,679
+now that takes care of the initial setup
+
+80
+00:02:29,239 --> 00:02:32,659
+at the beginning of the semester but
+
+81
+00:02:30,680 --> 00:02:34,309
+that's just the start as the semester
+
+82
+00:02:32,659 --> 00:02:35,839
+goes on you need to be adding anything
+
+83
+00:02:34,310 --> 00:02:37,669
+that your professor assigns you or
+
+84
+00:02:35,840 --> 00:02:38,900
+anything that comes up into that to-do
+
+85
+00:02:37,669 --> 00:02:41,088
+list and there are really two different
+
+86
+00:02:38,900 --> 00:02:42,529
+ways to do this the first method is the
+
+87
+00:02:41,090 --> 00:02:44,268
+most straightforward one and it's the
+
+88
+00:02:42,530 --> 00:02:46,489
+one that I like to use it's to simply
+
+89
+00:02:44,269 --> 00:02:48,048
+add new tasks into that to-do list or
+
+90
+00:02:46,489 --> 00:02:49,699
+under your calendar app the moment you
+
+91
+00:02:48,049 --> 00:02:51,230
+hear about them so if you're sitting in
+
+92
+00:02:49,699 --> 00:02:53,207
+class and your professor assigns you a
+
+93
+00:02:51,229 --> 00:02:54,619
+math assignment you open todoist you put
+
+94
+00:02:53,209 --> 00:02:55,879
+in the details you put in the due date
+
+95
+00:02:54,620 --> 00:02:57,860
+and you're good to go there is a
+
+96
+00:02:55,879 --> 00:02:59,178
+perfectly valid alternative to doing
+
+97
+00:02:57,860 --> 00:03:00,739
+this though because sometimes you have
+
+98
+00:02:59,180 --> 00:03:02,599
+to rush out of class and you just don't
+
+99
+00:03:00,739 --> 00:03:04,009
+have time to enter all the details and
+
+100
+00:03:02,599 --> 00:03:05,509
+push that due date button and do all
+
+101
+00:03:04,009 --> 00:03:07,488
+that little fiddling around while you're
+
+102
+00:03:05,509 --> 00:03:09,827
+in class so the alternative is to use
+
+103
+00:03:07,489 --> 00:03:11,630
+what I like to call a daily note this is
+
+104
+00:03:09,829 --> 00:03:13,159
+just a scrap of paper in your pocket or
+
+105
+00:03:11,629 --> 00:03:14,838
+maybe one of those tiny little moleskin
+
+106
+00:03:13,159 --> 00:03:16,518
+notebooks like my friend Martin has or
+
+107
+00:03:14,840 --> 00:03:18,530
+maybe just a note in your favorite
+
+108
+00:03:16,519 --> 00:03:19,640
+note-taking app where you write all of
+
+109
+00:03:18,530 --> 00:03:22,220
+the assignments and everything that
+
+110
+00:03:19,639 --> 00:03:23,599
+comes up during the day in plain English
+
+111
+00:03:22,219 --> 00:03:25,219
+you're not messing with due dates or
+
+112
+00:03:23,599 --> 00:03:27,228
+priority levels or whatever your task
+
+113
+00:03:25,219 --> 00:03:29,058
+management system as you do using a
+
+114
+00:03:27,229 --> 00:03:30,528
+daily note is an easy and simple way of
+
+115
+00:03:29,060 --> 00:03:31,910
+writing down all the things you need to
+
+116
+00:03:30,530 --> 00:03:34,400
+do for an assignment without having to
+
+117
+00:03:31,909 --> 00:03:36,439
+fiddle with an app but it is not a task
+
+118
+00:03:34,400 --> 00:03:38,029
+management system it's not organized
+
+119
+00:03:36,439 --> 00:03:39,229
+you can't prioritize it you can't look
+
+120
+00:03:38,030 --> 00:03:41,090
+at what's coming up in the next seven
+
+121
+00:03:39,229 --> 00:03:42,889
+days so if you're going to do this you
+
+122
+00:03:41,090 --> 00:03:44,509
+need to establish a daily habit where
+
+123
+00:03:42,889 --> 00:03:46,488
+you go through your daily note and you
+
+124
+00:03:44,509 --> 00:03:48,978
+transfer whatever is on it into your
+
+125
+00:03:46,489 --> 00:03:50,300
+more trusted robust system finally you
+
+126
+00:03:48,979 --> 00:03:52,518
+need a way to keep your calendar and
+
+127
+00:03:50,300 --> 00:03:53,630
+especially your to-do list from getting
+
+128
+00:03:52,519 --> 00:03:55,160
+disorganized and
+
+129
+00:03:53,629 --> 00:03:57,198
+chaotic and you're probably familiar
+
+130
+00:03:55,159 --> 00:03:59,089
+with this happening every semester all
+
+131
+00:03:57,199 --> 00:04:00,408
+these tasks pile up and some of them
+
+132
+00:03:59,090 --> 00:04:01,849
+just slip through the cracks or you
+
+133
+00:04:00,409 --> 00:04:03,529
+forget to check them off or the details
+
+134
+00:04:01,849 --> 00:04:06,049
+change and then you look your to-do list
+
+135
+00:04:03,530 --> 00:04:07,940
+one day and it is a mess but if you
+
+136
+00:04:06,050 --> 00:04:09,500
+establish a review day like Sunday
+
+137
+00:04:07,939 --> 00:04:11,269
+afternoons to go through your task
+
+138
+00:04:09,500 --> 00:04:13,220
+management system and clean these things
+
+139
+00:04:11,270 --> 00:04:15,049
+up this isn't going to happen and I'm
+
+140
+00:04:13,219 --> 00:04:16,609
+actually gonna do this right now so need
+
+141
+00:04:15,050 --> 00:04:18,650
+to do this app that I use these days is
+
+142
+00:04:16,610 --> 00:04:20,540
+called asana and it is great for working
+
+143
+00:04:18,649 --> 00:04:22,459
+with teams which I do so that's why I
+
+144
+00:04:20,540 --> 00:04:24,980
+use it over to duyst but as you can see
+
+145
+00:04:22,459 --> 00:04:27,018
+my personal task list here has some red
+
+146
+00:04:24,980 --> 00:04:28,609
+due dates on it now some of these tasks
+
+147
+00:04:27,019 --> 00:04:30,019
+are things that I actually did do we
+
+148
+00:04:28,610 --> 00:04:31,520
+just forgot to check off so I'm gonna go
+
+149
+00:04:30,019 --> 00:04:33,259
+ahead and check those off and some of
+
+150
+00:04:31,519 --> 00:04:37,299
+them I didn't do so I need to figure out
+
+151
+00:04:33,259 --> 00:04:37,299
+what to do with those particular tasks
+
+152
+00:04:37,569 --> 00:04:41,658
+the second main thing you want to be
+
+153
+00:04:39,620 --> 00:04:43,010
+doing on a consistent basis is breaking
+
+154
+00:04:41,660 --> 00:04:45,019
+your work down into manageable chunks
+
+155
+00:04:43,009 --> 00:04:46,279
+and then setting deadlines for those
+
+156
+00:04:45,019 --> 00:04:48,228
+chunks so that way you're working
+
+157
+00:04:46,279 --> 00:04:50,058
+consistently over the long term rather
+
+158
+00:04:48,230 --> 00:04:51,529
+than pushing everything off until the
+
+159
+00:04:50,060 --> 00:04:53,060
+last second and you should do this for
+
+160
+00:04:51,529 --> 00:04:54,859
+your assignments and your projects but
+
+161
+00:04:53,060 --> 00:04:56,060
+also for the topics you need to study if
+
+162
+00:04:54,860 --> 00:04:57,500
+you have a test coming up and you know
+
+163
+00:04:56,060 --> 00:04:59,359
+what you want to study you should break
+
+164
+00:04:57,500 --> 00:05:00,799
+down that studying into several
+
+165
+00:04:59,360 --> 00:05:02,840
+different chunks so that way you're
+
+166
+00:05:00,800 --> 00:05:04,520
+doing it over the long term doing this
+
+167
+00:05:02,839 --> 00:05:06,799
+is gonna help you deal with Parkinsons
+
+168
+00:05:04,519 --> 00:05:08,568
+law which states that work expands so as
+
+169
+00:05:06,800 --> 00:05:10,639
+to fill the time available for its
+
+170
+00:05:08,569 --> 00:05:12,229
+completion and I'm sure you're just as
+
+171
+00:05:10,639 --> 00:05:13,639
+familiar with this as I am you get
+
+172
+00:05:12,230 --> 00:05:15,980
+assigned a project you have three weeks
+
+173
+00:05:13,639 --> 00:05:17,988
+to do it but in your head it exists as
+
+174
+00:05:15,980 --> 00:05:19,730
+one task and of course you wait until
+
+175
+00:05:17,990 --> 00:05:21,260
+two days before the deadline to even
+
+176
+00:05:19,730 --> 00:05:23,060
+start it however when you break that
+
+177
+00:05:21,259 --> 00:05:24,888
+project down into many tasks each with
+
+178
+00:05:23,060 --> 00:05:27,199
+their own individual deadlines now you
+
+179
+00:05:24,889 --> 00:05:28,069
+have a well-defined plan and you know
+
+180
+00:05:27,199 --> 00:05:30,139
+you're going to be doing things
+
+181
+00:05:28,069 --> 00:05:31,968
+consistently across that whole three
+
+182
+00:05:30,139 --> 00:05:33,708
+weeks so here's an example of this in
+
+183
+00:05:31,970 --> 00:05:34,940
+action when I was a sophomore I had an
+
+184
+00:05:33,709 --> 00:05:36,949
+assignment in one of my English classes
+
+185
+00:05:34,939 --> 00:05:39,049
+to create a personal website which is a
+
+186
+00:05:36,949 --> 00:05:41,359
+pretty big project so I broke it down
+
+187
+00:05:39,050 --> 00:05:43,519
+into individual little milestones create
+
+188
+00:05:41,360 --> 00:05:45,470
+a list of pages make a wireframe mock up
+
+189
+00:05:43,519 --> 00:05:46,548
+on notebook paper start coding things
+
+190
+00:05:45,470 --> 00:05:48,410
+and each of those have their own
+
+191
+00:05:46,550 --> 00:05:49,940
+individual a deadline which helped me
+
+192
+00:05:48,410 --> 00:05:51,800
+make consistent progress in the project
+
+193
+00:05:49,939 --> 00:05:53,148
+without a whole ton of stress one
+
+194
+00:05:51,800 --> 00:05:54,889
+another huge benefit to setting these
+
+195
+00:05:53,149 --> 00:05:56,778
+milestones is that it decreases the
+
+196
+00:05:54,889 --> 00:05:58,339
+initial resistance to starting a task
+
+197
+00:05:56,779 --> 00:06:00,109
+because this is what makes us
+
+198
+00:05:58,339 --> 00:06:01,698
+procrastinate it's the resistance to
+
+199
+00:06:00,110 --> 00:06:03,469
+starting something that seems really big
+
+200
+00:06:01,699 --> 00:06:05,748
+and scary but when you broken your
+
+201
+00:06:03,470 --> 00:06:06,479
+project down that little mini milestone
+
+202
+00:06:05,750 --> 00:06:08,129
+doesn't
+
+203
+00:06:06,480 --> 00:06:09,540
+like it's gonna take that long and so
+
+204
+00:06:08,129 --> 00:06:11,399
+you can jump into the work right away
+
+205
+00:06:09,540 --> 00:06:12,720
+and speaking of right away for most
+
+206
+00:06:11,399 --> 00:06:14,939
+projects you should make that first
+
+207
+00:06:12,720 --> 00:06:16,800
+milestone do they be the exact same day
+
+208
+00:06:14,939 --> 00:06:17,879
+as when you get the assignment doing
+
+209
+00:06:16,800 --> 00:06:19,440
+this will push you to put just a little
+
+210
+00:06:17,879 --> 00:06:20,879
+bit of work into the project while
+
+211
+00:06:19,439 --> 00:06:22,979
+everything is still fresh in your mind
+
+212
+00:06:20,879 --> 00:06:24,749
+and it doesn't have to be big be a very
+
+213
+00:06:22,980 --> 00:06:25,980
+tiny amount of work for example if
+
+214
+00:06:24,750 --> 00:06:27,419
+you've just been assigned an essay you
+
+215
+00:06:25,980 --> 00:06:28,980
+could just spend five minutes brain
+
+216
+00:06:27,420 --> 00:06:30,779
+dumping what you know or writing down
+
+217
+00:06:28,980 --> 00:06:32,370
+questions on the other hand if you wait
+
+218
+00:06:30,779 --> 00:06:33,629
+a few days to start the project now you
+
+219
+00:06:32,370 --> 00:06:34,649
+have to spend a bunch of time reef
+
+220
+00:06:33,629 --> 00:06:35,879
+familiarizing yourself with the
+
+221
+00:06:34,649 --> 00:06:37,589
+requirements and getting everything
+
+222
+00:06:35,879 --> 00:06:39,569
+reloaded into your brain and that is
+
+223
+00:06:37,589 --> 00:06:45,089
+valuable time that you could be using to
+
+224
+00:06:39,569 --> 00:06:46,918
+play zelda instead lastly do some amount
+
+225
+00:06:45,089 --> 00:06:48,329
+of work every single day or at least
+
+226
+00:06:46,920 --> 00:06:50,100
+almost every single day because
+
+227
+00:06:48,329 --> 00:06:51,838
+frequency is your friend
+
+228
+00:06:50,100 --> 00:06:54,090
+the novelist Anthony Trollope once said
+
+229
+00:06:51,839 --> 00:06:55,709
+a small daily task if it'd be really
+
+230
+00:06:54,089 --> 00:06:57,658
+daily will beat the labors of a
+
+231
+00:06:55,709 --> 00:06:58,858
+spasmodic Hercules this is something
+
+232
+00:06:57,660 --> 00:07:00,269
+that I learned really well in the
+
+233
+00:06:58,860 --> 00:07:02,190
+process of writing a book
+
+234
+00:07:00,269 --> 00:07:03,898
+ever since 2012 I had wanted to write
+
+235
+00:07:02,189 --> 00:07:05,579
+one but I had failed every single time
+
+236
+00:07:03,899 --> 00:07:07,979
+I'd try because I would try to write
+
+237
+00:07:05,579 --> 00:07:10,048
+entire chapters all at once or one time
+
+238
+00:07:07,980 --> 00:07:11,250
+actually flew down to Texas to go to a
+
+239
+00:07:10,050 --> 00:07:13,679
+conference where I tried to write the
+
+240
+00:07:11,250 --> 00:07:15,330
+entire thing in one weekend and I
+
+241
+00:07:13,680 --> 00:07:17,430
+completely failed so a couple of years
+
+242
+00:07:15,329 --> 00:07:19,859
+later I tried a different tactic I set a
+
+243
+00:07:17,430 --> 00:07:21,510
+goal in my habit occur to write just 500
+
+244
+00:07:19,860 --> 00:07:23,250
+words a day and it didn't matter what
+
+245
+00:07:21,509 --> 00:07:24,989
+those 500 words were they could have
+
+246
+00:07:23,250 --> 00:07:26,790
+been I hate writing over and over and
+
+247
+00:07:24,990 --> 00:07:29,070
+over again it could be horrible horrible
+
+248
+00:07:26,790 --> 00:07:30,750
+words but I had to put them in no matter
+
+249
+00:07:29,069 --> 00:07:32,488
+what and after just a few months of
+
+250
+00:07:30,750 --> 00:07:34,740
+putting in this daily effort I ended up
+
+251
+00:07:32,490 --> 00:07:36,659
+writing an entire book in fact this book
+
+252
+00:07:34,740 --> 00:07:38,670
+that I wrote is about twice as long as
+
+253
+00:07:36,660 --> 00:07:40,829
+what I originally intended because every
+
+254
+00:07:38,670 --> 00:07:42,150
+single day I was getting myself into the
+
+255
+00:07:40,829 --> 00:07:43,529
+mode of writing and that would end up
+
+256
+00:07:42,149 --> 00:07:45,329
+having more ideas and coming up with
+
+257
+00:07:43,529 --> 00:07:47,129
+more anecdotes than I initially expected
+
+258
+00:07:45,329 --> 00:07:48,418
+the other huge benefit that frequency
+
+259
+00:07:47,129 --> 00:07:50,729
+brings is that it prevents you from
+
+260
+00:07:48,420 --> 00:07:51,960
+going into slumps where you get rusty
+
+261
+00:07:50,730 --> 00:07:53,700
+and you're not used to doing the work
+
+262
+00:07:51,959 --> 00:07:55,679
+anymore I have a lot of experience with
+
+263
+00:07:53,699 --> 00:07:57,328
+this as well if at times where I do a
+
+264
+00:07:55,680 --> 00:07:59,370
+lot of different podcasts and like a big
+
+265
+00:07:57,329 --> 00:08:02,039
+batch and it'll take weeks before I do
+
+266
+00:07:59,370 --> 00:08:03,690
+it again and I feel really rusty here's
+
+267
+00:08:02,040 --> 00:08:05,730
+how Cal Newport puts it in his book how
+
+268
+00:08:03,689 --> 00:08:07,289
+to win at college student slumps occur
+
+269
+00:08:05,730 --> 00:08:09,180
+when you take a long break from work and
+
+270
+00:08:07,290 --> 00:08:11,400
+then find yourself unable to easily pull
+
+271
+00:08:09,180 --> 00:08:12,930
+yourself back into a working rhythm in
+
+272
+00:08:11,399 --> 00:08:14,488
+order to deny the opportunity for this
+
+273
+00:08:12,930 --> 00:08:17,250
+to occur you should do some out of
+
+274
+00:08:14,490 --> 00:08:18,509
+school work every single day now if
+
+275
+00:08:17,250 --> 00:08:18,919
+you're having trouble establishing this
+
+276
+00:08:18,509 --> 00:08:20,418
+daily
+
+277
+00:08:18,920 --> 00:08:22,850
+cabott one thing you can do that will
+
+278
+00:08:20,420 --> 00:08:25,070
+help is start removing choices from the
+
+279
+00:08:22,850 --> 00:08:27,050
+equation and by that I mean pre-planning
+
+280
+00:08:25,069 --> 00:08:29,599
+elements of your study sessions both in
+
+281
+00:08:27,050 --> 00:08:31,519
+terms of location and time it can be
+
+282
+00:08:29,600 --> 00:08:33,200
+very helpful to establish a specific
+
+283
+00:08:31,519 --> 00:08:35,389
+study spot that you go to every single
+
+284
+00:08:33,200 --> 00:08:36,559
+day and to have a specific block of time
+
+285
+00:08:35,389 --> 00:08:38,179
+when you know you're going to be
+
+286
+00:08:36,559 --> 00:08:40,249
+studying now if you have a specific
+
+287
+00:08:38,179 --> 00:08:42,379
+block of time every single day that's
+
+288
+00:08:40,250 --> 00:08:43,609
+very good to have but if your calendar
+
+289
+00:08:42,379 --> 00:08:45,528
+is such that you've got like you know
+
+290
+00:08:43,610 --> 00:08:47,659
+student organizations or night classes
+
+291
+00:08:45,529 --> 00:08:48,968
+that make every day different at least
+
+292
+00:08:47,659 --> 00:08:50,808
+at the beginning of every week
+
+293
+00:08:48,970 --> 00:08:52,460
+pre-planned when you're gonna have
+
+294
+00:08:50,809 --> 00:08:54,469
+blocks of study time so that way you
+
+295
+00:08:52,460 --> 00:08:56,150
+know on a given day when you're gonna be
+
+296
+00:08:54,470 --> 00:08:57,530
+putting in that daily amount of work now
+
+297
+00:08:56,149 --> 00:08:59,778
+I know we have covered a lot in this
+
+298
+00:08:57,529 --> 00:09:01,639
+video but remember it all boils down to
+
+299
+00:08:59,779 --> 00:09:03,259
+building three consistent habits that
+
+300
+00:09:01,639 --> 00:09:05,359
+you keep throughout the entire semester
+
+301
+00:09:03,259 --> 00:09:07,158
+number one making sure your task
+
+302
+00:09:05,360 --> 00:09:08,960
+management system both your calendar and
+
+303
+00:09:07,159 --> 00:09:10,879
+your to-do list are well maintained on a
+
+304
+00:09:08,960 --> 00:09:12,379
+weekly basis number two breaking your
+
+305
+00:09:10,879 --> 00:09:13,729
+assignments and projects down into
+
+306
+00:09:12,379 --> 00:09:14,869
+manageable chunks and then setting
+
+307
+00:09:13,730 --> 00:09:17,210
+deadline dates so you're working
+
+308
+00:09:14,870 --> 00:09:19,039
+consistently and number three building
+
+309
+00:09:17,210 --> 00:09:20,450
+the habit of working every single day so
+
+310
+00:09:19,039 --> 00:09:21,949
+you don't get rusty
+
+311
+00:09:20,450 --> 00:09:23,180
+of course even if these habits do help
+
+312
+00:09:21,950 --> 00:09:24,709
+you stay on top of your score at the
+
+313
+00:09:23,179 --> 00:09:26,388
+semester there are gonna be things that
+
+314
+00:09:24,710 --> 00:09:28,400
+you just always seem to be falling
+
+315
+00:09:26,389 --> 00:09:30,709
+behind upon and for me one of those
+
+316
+00:09:28,399 --> 00:09:31,908
+things is my reading list and that's why
+
+317
+00:09:30,710 --> 00:09:33,620
+I'm really excited to tell you guys
+
+318
+00:09:31,909 --> 00:09:35,328
+about blinka switch is this week's video
+
+319
+00:09:33,620 --> 00:09:36,979
+sponsor Linkous is a digital learning
+
+320
+00:09:35,330 --> 00:09:38,899
+app that basically distills all the key
+
+321
+00:09:36,980 --> 00:09:40,759
+lessons and most important insights from
+
+322
+00:09:38,899 --> 00:09:42,379
+tons of different nonfiction books into
+
+323
+00:09:40,759 --> 00:09:44,538
+these little tiny packs that you could
+
+324
+00:09:42,379 --> 00:09:46,428
+read or listen to in just about 15
+
+325
+00:09:44,539 --> 00:09:47,838
+minutes and personally I'm a huge fan of
+
+326
+00:09:46,429 --> 00:09:49,638
+blankest because as somebody who's
+
+327
+00:09:47,840 --> 00:09:51,889
+interested in a ton of different topics
+
+328
+00:09:49,639 --> 00:09:54,528
+my to be read list over on Goodreads is
+
+329
+00:09:51,889 --> 00:09:55,969
+about a mile long now with some books I
+
+330
+00:09:54,529 --> 00:09:57,678
+know right from the start that I want to
+
+331
+00:09:55,970 --> 00:09:59,090
+read the entire thing cover to cover
+
+332
+00:09:57,679 --> 00:10:00,828
+Michael Lewis is the big short is a
+
+333
+00:09:59,090 --> 00:10:02,929
+great example here since I watched the
+
+334
+00:10:00,830 --> 00:10:04,459
+movie absolutely fell in love with it
+
+335
+00:10:02,929 --> 00:10:06,619
+and then knew I had to read the entire
+
+336
+00:10:04,460 --> 00:10:07,1000
+book but with some other books I don't
+
+337
+00:10:06,620 --> 00:10:09,410
+always know if I want to read the whole
+
+338
+00:10:08,000 --> 00:10:11,060
+thing or maybe I just want to get the
+
+339
+00:10:09,409 --> 00:10:12,349
+key insights from it without digging
+
+340
+00:10:11,059 --> 00:10:13,639
+into all the padding and that's we're
+
+341
+00:10:12,350 --> 00:10:15,140
+using blinkers can be really helpful
+
+342
+00:10:13,639 --> 00:10:16,518
+because you have a limited amount of
+
+343
+00:10:15,139 --> 00:10:18,348
+time and blinkers can actually help you
+
+344
+00:10:16,519 --> 00:10:20,119
+vet books before you decide to buy them
+
+345
+00:10:18,350 --> 00:10:21,379
+and invest a ton of time to them plus
+
+346
+00:10:20,120 --> 00:10:23,120
+once you've read the summary of all the
+
+347
+00:10:21,379 --> 00:10:25,069
+key points now you've primed your brain
+
+348
+00:10:23,120 --> 00:10:26,510
+to be more receptive to those points if
+
+349
+00:10:25,070 --> 00:10:27,710
+you decide to read the entire book and
+
+350
+00:10:26,509 --> 00:10:28,188
+hence they're going to be more embedded
+
+351
+00:10:27,710 --> 00:10:29,690
+in
+
+352
+00:10:28,190 --> 00:10:30,859
+and of course if you've already read a
+
+353
+00:10:29,690 --> 00:10:32,359
+book and you just want to reefa millyar
+
+354
+00:10:30,860 --> 00:10:33,710
+eyes yourself with those concepts going
+
+355
+00:10:32,360 --> 00:10:35,600
+through the blink is a very time
+
+356
+00:10:33,710 --> 00:10:37,160
+effective way to do it normally a
+
+357
+00:10:35,600 --> 00:10:39,019
+subscription the blankets cost about 50
+
+358
+00:10:37,159 --> 00:10:40,279
+bucks for an entire year but if you use
+
+359
+00:10:39,019 --> 00:10:42,108
+that link down in the description below
+
+360
+00:10:40,279 --> 00:10:44,269
+or on screen right now you can test
+
+361
+00:10:42,110 --> 00:10:45,739
+drive the service yourself for free and
+
+362
+00:10:44,269 --> 00:10:47,599
+if you do decide to subscribe afterwards
+
+363
+00:10:45,740 --> 00:10:49,130
+that link will also get you at 20% off
+
+364
+00:10:47,600 --> 00:10:50,269
+now once you start using the app it's
+
+365
+00:10:49,129 --> 00:10:51,738
+gonna start giving you personalized
+
+366
+00:10:50,269 --> 00:10:52,999
+recommendations but if you don't know
+
+367
+00:10:51,740 --> 00:10:54,139
+where to start right now you might like
+
+368
+00:10:53,000 --> 00:10:55,790
+to check out a couple of links that I've
+
+369
+00:10:54,139 --> 00:10:57,319
+gone through myself recently a really
+
+370
+00:10:55,789 --> 00:10:58,969
+good one is Dan Ariely is predictably
+
+371
+00:10:57,320 --> 00:11:00,500
+irrational which explains why our brains
+
+372
+00:10:58,970 --> 00:11:02,059
+think irrationally you can actually help
+
+373
+00:11:00,500 --> 00:11:03,500
+you make better decisions and another
+
+374
+00:11:02,059 --> 00:11:04,759
+one would be Benny Lewis is fluent in
+
+375
+00:11:03,500 --> 00:11:06,740
+three months which is all about how to
+
+376
+00:11:04,759 --> 00:11:07,968
+learn new languages quickly three months
+
+377
+00:11:06,740 --> 00:11:09,139
+which is all about how to lose for
+
+378
+00:11:07,970 --> 00:11:11,240
+sponsoring this video and help it to
+
+379
+00:11:09,139 --> 00:11:12,768
+support this channel and thank you so
+
+380
+00:11:11,240 --> 00:11:14,300
+much for watching if you like this video
+
+381
+00:11:12,769 --> 00:11:15,769
+and you found it useful definitely give
+
+382
+00:11:14,299 --> 00:11:17,269
+it a like and go down in the comments
+
+383
+00:11:15,769 --> 00:11:18,679
+below if you have any tips that I didn't
+
+384
+00:11:17,269 --> 00:11:20,119
+mention here if you're not subscribed
+
+385
+00:11:18,679 --> 00:11:21,649
+already you can do so right there to get
+
+386
+00:11:20,120 --> 00:11:23,240
+new videos every single week you can
+
+387
+00:11:21,649 --> 00:11:24,589
+also click right there you get a free
+
+388
+00:11:23,240 --> 00:11:26,210
+copy of my book on how to earn better
+
+389
+00:11:24,590 --> 00:11:28,040
+grades or you can click right there
+
+390
+00:11:26,210 --> 00:11:29,540
+listen to our latest podcast episode
+
+391
+00:11:28,039 --> 00:11:31,219
+which answers five questions from you
+
+392
+00:11:29,539 --> 00:11:32,568
+guys including the question how do I
+
+393
+00:11:31,220 --> 00:11:33,979
+start networking and building
+
+394
+00:11:32,570 --> 00:11:36,079
+relationships when I don't have any
+
+395
+00:11:33,980 --> 00:11:37,220
+experience and you click right there to
+
+396
+00:11:36,080 --> 00:11:38,959
+get one more video on this channel
+
+397
+00:11:37,220 --> 00:11:41,110
+thanks for watching I'll see you next
+
+398
+00:11:38,960 --> 00:11:41,109
+week
+

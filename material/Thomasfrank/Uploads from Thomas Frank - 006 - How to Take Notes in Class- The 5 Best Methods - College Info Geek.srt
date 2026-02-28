@@ -1,0 +1,820 @@
+1
+00:00:00,030 --> 00:00:04,769
+what is the best system for taking notes
+
+2
+00:00:02,189 --> 00:00:04,318
+in class well luckily for you I get the
+
+3
+00:00:04,799 --> 00:00:08,279
+research and it turns out that there are
+
+4
+00:00:06,509 --> 00:00:10,230
+five different note taking systems that
+
+5
+00:00:08,279 --> 00:00:12,209
+are generally accepted to be pretty darn
+
+6
+00:00:10,230 --> 00:00:13,799
+good and of course I will be
+
+7
+00:00:12,210 --> 00:00:16,160
+representing these note-taking systems
+
+8
+00:00:13,798 --> 00:00:23,188
+with Street Fighter characters because
+
+9
+00:00:16,160 --> 00:00:24,300
+why not so the five note taking systems
+
+10
+00:00:23,189 --> 00:00:27,060
+I'm going to go over in this video
+
+11
+00:00:24,300 --> 00:00:29,550
+include the outline method the Cornell
+
+12
+00:00:27,059 --> 00:00:31,499
+method the mindmap method the flow
+
+13
+00:00:29,550 --> 00:00:33,899
+method and the write on the slides
+
+14
+00:00:31,500 --> 00:00:35,849
+method the first note-taking system on
+
+15
+00:00:33,899 --> 00:00:37,680
+my list is the outline method I've
+
+16
+00:00:35,850 --> 00:00:39,719
+chosen Rio to represent it because the
+
+17
+00:00:37,679 --> 00:00:41,877
+outline method is straightforward based
+
+18
+00:00:39,719 --> 00:00:43,800
+on hierarchy disciplined and overall
+
+19
+00:00:41,878 --> 00:00:45,179
+very simple in fact you couldn't get
+
+20
+00:00:43,799 --> 00:00:46,529
+more simple than the outline method
+
+21
+00:00:45,179 --> 00:00:48,839
+unless you were just straight up writing
+
+22
+00:00:46,530 --> 00:00:49,949
+paragraph notes down and if you think
+
+23
+00:00:48,840 --> 00:00:52,440
+that's gonna be a good note-taking
+
+24
+00:00:49,950 --> 00:00:54,780
+method well things are not gonna work
+
+25
+00:00:52,439 --> 00:00:56,189
+out for you so the outline method is a
+
+26
+00:00:54,780 --> 00:00:58,858
+note-taking system that's based on
+
+27
+00:00:56,189 --> 00:01:00,599
+bullet points and hierarchy basically to
+
+28
+00:00:58,859 --> 00:01:02,698
+take outline style notes you simply
+
+29
+00:01:00,600 --> 00:01:04,350
+create top-level bullet points of all
+
+30
+00:01:02,698 --> 00:01:05,938
+the main points in the lecture then you
+
+31
+00:01:04,349 --> 00:01:07,437
+make lower-level bullet points to fill
+
+32
+00:01:05,938 --> 00:01:09,239
+out all the details if you're taking
+
+33
+00:01:07,438 --> 00:01:11,668
+outline notes on paper it's a good idea
+
+34
+00:01:09,239 --> 00:01:13,407
+to either space out your main bullet
+
+35
+00:01:11,670 --> 00:01:14,699
+points or summarize them at the top if
+
+36
+00:01:13,409 --> 00:01:16,710
+your professor goes through them and
+
+37
+00:01:14,700 --> 00:01:18,900
+then make new bullet points that are
+
+38
+00:01:16,709 --> 00:01:19,889
+more detailed down the line however if
+
+39
+00:01:18,900 --> 00:01:21,569
+you're taking these notes on a computer
+
+40
+00:01:19,890 --> 00:01:23,548
+like I always did in a program like
+
+41
+00:01:21,569 --> 00:01:25,618
+Evernote or by word or another word
+
+42
+00:01:23,549 --> 00:01:27,449
+processor you can easily go back add new
+
+43
+00:01:25,618 --> 00:01:29,248
+bullet points and format things without
+
+44
+00:01:27,450 --> 00:01:31,049
+having to mess up the structure of your
+
+45
+00:01:29,250 --> 00:01:32,939
+document too much so honestly for the
+
+46
+00:01:31,049 --> 00:01:34,560
+outline method I think using a computer
+
+47
+00:01:32,938 --> 00:01:36,059
+is a perfect approach the second
+
+48
+00:01:34,560 --> 00:01:37,979
+note-taking method on my list is the
+
+49
+00:01:36,060 --> 00:01:39,240
+Cornell method and I've chosen Chumley
+
+50
+00:01:37,978 --> 00:01:40,648
+to represent it because she's got
+
+51
+00:01:39,239 --> 00:01:42,209
+multiple kicks and it's got multiple
+
+52
+00:01:40,650 --> 00:01:43,710
+sections the Cornell method was
+
+53
+00:01:42,209 --> 00:01:45,838
+developed by Walter puck back in the
+
+54
+00:01:43,709 --> 00:01:47,907
+1950s and it still holds up pretty well
+
+55
+00:01:45,840 --> 00:01:49,799
+today when you take your notes in the
+
+56
+00:01:47,909 --> 00:01:51,960
+Cornell style you divide your paper into
+
+57
+00:01:49,799 --> 00:01:52,949
+three distinct sections on the top of
+
+58
+00:01:51,959 --> 00:01:55,078
+your paper you'll have two different
+
+59
+00:01:52,950 --> 00:01:57,629
+columns developed one being the Q column
+
+60
+00:01:55,078 --> 00:01:59,308
+and the right one being the note-taking
+
+61
+00:01:57,629 --> 00:02:00,778
+call and underneath those two columns
+
+62
+00:01:59,310 --> 00:02:02,609
+you add another box for with a summary
+
+63
+00:02:00,780 --> 00:02:04,590
+during class you use the note-taking
+
+64
+00:02:02,609 --> 00:02:06,209
+column on the right to write notes in a
+
+65
+00:02:04,590 --> 00:02:07,920
+normal style however this is where the
+
+66
+00:02:06,209 --> 00:02:08,968
+Cornell method deviates from other note
+
+67
+00:02:07,920 --> 00:02:11,040
+taking systems
+
+68
+00:02:08,969 --> 00:02:13,289
+as soon as you can after class you write
+
+69
+00:02:11,039 --> 00:02:14,639
+down questions or cues in the Q column
+
+70
+00:02:13,289 --> 00:02:16,409
+these are meant to help you review later
+
+71
+00:02:14,639 --> 00:02:18,299
+you also write down a summary at the
+
+72
+00:02:16,409 --> 00:02:19,649
+lecture in the summary column these two
+
+73
+00:02:18,300 --> 00:02:21,540
+sections of the Cornell method the
+
+74
+00:02:19,650 --> 00:02:23,370
+summary and the Q column they're both
+
+75
+00:02:21,539 --> 00:02:25,168
+designed to help you build reviewable
+
+76
+00:02:23,370 --> 00:02:26,579
+notes the first time you write them that
+
+77
+00:02:25,169 --> 00:02:28,229
+way you don't have to go back and rework
+
+78
+00:02:26,580 --> 00:02:30,599
+your notes so much note-taking system
+
+79
+00:02:28,229 --> 00:02:32,309
+number three is the mind map method you
+
+80
+00:02:30,599 --> 00:02:34,948
+know it's been said that your mind is a
+
+81
+00:02:32,310 --> 00:02:37,290
+map of the territory that is reality so
+
+82
+00:02:34,949 --> 00:02:38,489
+maybe by that logic the mind map system
+
+83
+00:02:37,289 --> 00:02:40,168
+is the perfect note-taking system
+
+84
+00:02:38,490 --> 00:02:42,180
+actually that doesn't make any sense at
+
+85
+00:02:40,169 --> 00:02:43,409
+all either way I chose dhalsim to
+
+86
+00:02:42,180 --> 00:02:44,880
+represent the mind mapping system
+
+87
+00:02:43,409 --> 00:02:47,188
+because he's a meditator and he's always
+
+88
+00:02:44,879 --> 00:02:48,957
+focused on improving his mind to beget a
+
+89
+00:02:47,189 --> 00:02:50,698
+mind map you simply take a blank piece
+
+90
+00:02:48,959 --> 00:02:52,470
+of paper draw a circle in the middle of
+
+91
+00:02:50,699 --> 00:02:54,389
+it and add the main topic of lecture
+
+92
+00:02:52,469 --> 00:02:56,579
+there then you'll start branching off
+
+93
+00:02:54,389 --> 00:02:58,199
+little trees and adding subtopics
+
+94
+00:02:56,580 --> 00:03:00,510
+eventually you'll have lots of little
+
+95
+00:02:58,199 --> 00:03:02,159
+branches and you'll create a mind map I
+
+96
+00:03:00,509 --> 00:03:03,899
+never actually used mind maps for my
+
+97
+00:03:02,159 --> 00:03:06,538
+class notes but I have used them for
+
+98
+00:03:03,900 --> 00:03:08,130
+blog post topics before when I wanted to
+
+99
+00:03:06,539 --> 00:03:09,719
+write a blog post on all the ways you
+
+100
+00:03:08,129 --> 00:03:11,278
+could save money in college I wanted to
+
+101
+00:03:09,719 --> 00:03:13,978
+make sure I could cover all my bases
+
+102
+00:03:11,280 --> 00:03:15,390
+so I created a my map I put saving money
+
+103
+00:03:13,979 --> 00:03:17,068
+in college in the middle and then tried
+
+104
+00:03:15,389 --> 00:03:18,329
+to figure out all the different facets
+
+105
+00:03:17,069 --> 00:03:19,828
+of a student's life where they have to
+
+106
+00:03:18,330 --> 00:03:21,539
+spend money building a mind map helped
+
+107
+00:03:19,830 --> 00:03:22,979
+me organize all these topics and as a
+
+108
+00:03:21,539 --> 00:03:24,568
+result I was able to create a more
+
+109
+00:03:22,979 --> 00:03:26,487
+comprehensive list in the end the fourth
+
+110
+00:03:24,569 --> 00:03:28,319
+note-taking system is the flow method
+
+111
+00:03:26,489 --> 00:03:30,209
+this system was invented by the writer
+
+112
+00:03:28,319 --> 00:03:31,649
+Scott Young who's probably best known
+
+113
+00:03:30,209 --> 00:03:33,720
+for going through the entire MIT
+
+114
+00:03:31,650 --> 00:03:36,090
+computer science curriculum in a single
+
+115
+00:03:33,719 --> 00:03:37,707
+year Scott uses what he calls holistic
+
+116
+00:03:36,090 --> 00:03:39,869
+learning and his approach is
+
+117
+00:03:37,709 --> 00:03:42,330
+diametrically opposed to the rigid
+
+118
+00:03:39,870 --> 00:03:44,669
+transcribing style of the outline method
+
+119
+00:03:42,330 --> 00:03:46,200
+as a result I chose Blancas to represent
+
+120
+00:03:44,669 --> 00:03:48,238
+this note-taking system his fighting
+
+121
+00:03:46,199 --> 00:03:50,098
+style is that of basically a wild animal
+
+122
+00:03:48,239 --> 00:03:51,750
+and it's the complete opposite of more
+
+123
+00:03:50,099 --> 00:03:53,728
+disciplined fighters like ryu or guile
+
+124
+00:03:51,750 --> 00:03:55,529
+and that is a perfect way to describe
+
+125
+00:03:53,729 --> 00:03:57,268
+the flow system of note-taking you're
+
+126
+00:03:55,530 --> 00:03:58,920
+not trying to get every single detail
+
+127
+00:03:57,269 --> 00:04:00,930
+from the lecture down to your paper and
+
+128
+00:03:58,919 --> 00:04:02,818
+in fact the point is not to transcribe
+
+129
+00:04:00,930 --> 00:04:05,458
+the lecture at all rather it's to learn
+
+130
+00:04:02,819 --> 00:04:07,078
+while you are sitting in class as you
+
+131
+00:04:05,459 --> 00:04:08,669
+take your notes your goal is to create
+
+132
+00:04:07,080 --> 00:04:10,919
+an original document that represents
+
+133
+00:04:08,669 --> 00:04:12,899
+your mental image of the subject it's
+
+134
+00:04:10,919 --> 00:04:14,968
+not to record verbatim what your
+
+135
+00:04:12,900 --> 00:04:17,069
+professor said as you take notes you can
+
+136
+00:04:14,969 --> 00:04:19,228
+go back to earlier points at details
+
+137
+00:04:17,069 --> 00:04:21,118
+draw on arrows and little offshoots and
+
+138
+00:04:19,228 --> 00:04:21,737
+basically create something that is your
+
+139
+00:04:21,120 --> 00:04:23,300
+own
+
+140
+00:04:21,738 --> 00:04:25,189
+the entire point of the flow system of
+
+141
+00:04:23,300 --> 00:04:26,780
+notetaking is to learn at once
+
+142
+00:04:25,189 --> 00:04:28,459
+this lets you accelerate your learning
+
+143
+00:04:26,779 --> 00:04:30,798
+and that's the real strength of the
+
+144
+00:04:28,459 --> 00:04:34,037
+system final system of taking notes is
+
+145
+00:04:30,800 --> 00:04:35,899
+the lazy man's way of taking notes and I
+
+146
+00:04:34,038 --> 00:04:37,788
+call it the write on the slides method
+
+147
+00:04:35,899 --> 00:04:42,439
+to represent this note-taking method I
+
+148
+00:04:37,788 --> 00:04:43,339
+chose Zangief because Zangief seriously
+
+149
+00:04:42,439 --> 00:04:45,108
+do you really think I'll put a whole lot
+
+150
+00:04:43,339 --> 00:04:46,818
+of thought into these things if your
+
+151
+00:04:45,110 --> 00:04:48,710
+professor actually lets you download the
+
+152
+00:04:46,819 --> 00:04:50,120
+lecture slides before class then it can
+
+153
+00:04:48,709 --> 00:04:51,528
+be pretty convenient to just go print
+
+154
+00:04:50,120 --> 00:04:53,329
+them off to computer lab and write
+
+155
+00:04:51,529 --> 00:04:55,068
+directly on them one of the cool things
+
+156
+00:04:53,329 --> 00:04:57,678
+about this method is that the slides
+
+157
+00:04:55,069 --> 00:04:59,569
+more or less mirror the flow of lectures
+
+158
+00:04:57,680 --> 00:05:01,880
+so you almost get a sort of Timeline
+
+159
+00:04:59,569 --> 00:05:03,740
+view when you take notes on slides it's
+
+160
+00:05:01,879 --> 00:05:05,839
+kind of like SoundCloud where people can
+
+161
+00:05:03,740 --> 00:05:08,448
+actually leave comments I had specific
+
+162
+00:05:05,839 --> 00:05:10,188
+times during an audio file taking notes
+
+163
+00:05:08,449 --> 00:05:12,348
+on slides isn't that accurate but it's
+
+164
+00:05:10,189 --> 00:05:14,689
+pretty close and when you do it you can
+
+165
+00:05:12,348 --> 00:05:17,328
+look back and say okay at this slide he
+
+166
+00:05:14,689 --> 00:05:21,078
+was talking about return on the cost of
+
+167
+00:05:17,329 --> 00:05:22,218
+buzzwords energy management so those are
+
+168
+00:05:21,079 --> 00:05:23,658
+the real strengths of the method you
+
+169
+00:05:22,220 --> 00:05:25,400
+don't have to write as much because the
+
+170
+00:05:23,658 --> 00:05:27,408
+slides sort of do it for you and you get
+
+171
+00:05:25,399 --> 00:05:30,019
+a sort of timeline view for your notes
+
+172
+00:05:27,408 --> 00:05:32,119
+so those are in my humble opinion the
+
+173
+00:05:30,019 --> 00:05:37,249
+best five note taking systems out there
+
+174
+00:05:32,120 --> 00:05:39,320
+which one is right for you hey there
+
+175
+00:05:37,250 --> 00:05:41,120
+thanks for watching my video on the
+
+176
+00:05:39,319 --> 00:05:43,037
+different note taking systems you can
+
+177
+00:05:41,120 --> 00:05:45,288
+use if you like this video I would
+
+178
+00:05:43,038 --> 00:05:46,819
+absolutely appreciate it if you could
+
+179
+00:05:45,288 --> 00:05:49,069
+give it a like and share with a friend
+
+180
+00:05:46,819 --> 00:05:51,317
+who's maybe not as good at taking notes
+
+181
+00:05:49,069 --> 00:05:53,387
+as you want charity's a good thing right
+
+182
+00:05:51,319 --> 00:05:55,660
+if you want to get more videos every
+
+183
+00:05:53,389 --> 00:05:57,190
+single week on being awesome in college
+
+184
+00:05:55,660 --> 00:05:58,900
+booting more videos on how to take
+
+185
+00:05:57,189 --> 00:06:00,939
+better notes once y'all have coming out
+
+186
+00:05:58,899 --> 00:06:03,068
+in the next couple of weeks that hit the
+
+187
+00:06:00,939 --> 00:06:06,368
+subscribe button up in the corner yeah
+
+188
+00:06:03,069 --> 00:06:08,229
+that one you missed last week's video
+
+189
+00:06:06,370 --> 00:06:10,090
+well you can click the button right into
+
+190
+00:06:08,230 --> 00:06:12,160
+that it's not actually a button it's
+
+191
+00:06:10,089 --> 00:06:13,959
+more like a little movie clip but it'll
+
+192
+00:06:12,160 --> 00:06:15,430
+get you there all the same so whatever
+
+193
+00:06:13,959 --> 00:06:17,258
+you want to get links to other websites
+
+194
+00:06:15,430 --> 00:06:19,240
+with additional information on any of
+
+195
+00:06:17,259 --> 00:06:20,768
+these note-taking systems then click the
+
+196
+00:06:19,240 --> 00:06:22,780
+orange logo on the left corner where
+
+197
+00:06:20,769 --> 00:06:24,668
+you'll find the companion blog post for
+
+198
+00:06:22,779 --> 00:06:26,379
+this video if you'd like to get a free
+
+199
+00:06:24,670 --> 00:06:28,179
+chapter in my book hacking productivity
+
+200
+00:06:26,379 --> 00:06:30,339
+when it comes out well like that thing
+
+201
+00:06:28,180 --> 00:06:32,229
+also if you would like to suggest any
+
+202
+00:06:30,339 --> 00:06:35,079
+other video ideas for the future or
+
+203
+00:06:32,230 --> 00:06:37,090
+leave a comment then leave a comment or
+
+204
+00:06:35,079 --> 00:06:40,348
+you connect with me on Twitter
+
+205
+00:06:37,089 --> 00:06:40,348
+[Music]
+

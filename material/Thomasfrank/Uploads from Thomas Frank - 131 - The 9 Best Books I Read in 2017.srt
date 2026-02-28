@@ -1,0 +1,1204 @@
+1
+00:00:00,080 --> 00:00:04,559
+okay i'm gonna do the entire video
+
+2
+00:00:01,599 --> 00:00:05,121
+balancing these on one finger
+
+3
+00:00:04,639 --> 00:00:08,719
+never mind hey what is going on guys so
+
+4
+00:00:06,719 --> 00:00:10,399
+today i thought i would do another book
+
+5
+00:00:08,720 --> 00:00:11,920
+recommendation video but i do want to
+
+6
+00:00:10,400 --> 00:00:13,598
+tell you up front that this is a little
+
+7
+00:00:11,919 --> 00:00:15,439
+bit different than my previous book
+
+8
+00:00:13,599 --> 00:00:16,320
+recommendation video which was all about
+
+9
+00:00:15,439 --> 00:00:18,479
+books i think that
+
+10
+00:00:16,320 --> 00:00:20,239
+every student should read by contrast
+
+11
+00:00:18,480 --> 00:00:22,080
+this is a list of the best books that i
+
+12
+00:00:20,239 --> 00:00:23,839
+personally read this year so while every
+
+13
+00:00:22,079 --> 00:00:25,438
+book on this list is educational and i
+
+14
+00:00:23,839 --> 00:00:27,117
+found to be very useful i'm not
+
+15
+00:00:25,439 --> 00:00:28,399
+necessarily going to say that you
+
+16
+00:00:27,118 --> 00:00:30,558
+have to read this book if you're a
+
+17
+00:00:28,399 --> 00:00:31,758
+student but i do think that you'll find
+
+18
+00:00:30,559 --> 00:00:33,599
+a lot of the books on this list
+
+19
+00:00:31,760 --> 00:00:34,159
+interesting no matter who you are case
+
+20
+00:00:33,600 --> 00:00:35,919
+in point
+
+21
+00:00:34,159 --> 00:00:38,078
+the first book on my list is the code
+
+22
+00:00:35,920 --> 00:00:39,759
+book by simon singh now this is a book
+
+23
+00:00:38,079 --> 00:00:41,999
+that teaches you all about the history
+
+24
+00:00:39,759 --> 00:00:42,799
+and the ins and outs of cryptography the
+
+25
+00:00:42,000 --> 00:00:45,039
+science of
+
+26
+00:00:42,799 --> 00:00:46,557
+encoding and decoding messages the book
+
+27
+00:00:45,039 --> 00:00:48,239
+basically gives you a comprehensive
+
+28
+00:00:46,558 --> 00:00:49,759
+overview of this topic and it starts all
+
+29
+00:00:48,238 --> 00:00:51,839
+the way back in roman times and goes
+
+30
+00:00:49,759 --> 00:00:52,959
+over caesar ciphers and mono alphabetic
+
+31
+00:00:51,840 --> 00:00:54,800
+substitution ciphers
+
+32
+00:00:52,960 --> 00:00:56,559
+moves on to poly alphabetic substitution
+
+33
+00:00:54,799 --> 00:00:57,598
+ciphers and then goes into the modern
+
+34
+00:00:56,558 --> 00:00:59,438
+day and covers things like
+
+35
+00:00:57,600 --> 00:01:00,640
+diffie-hellman key exchange and public
+
+36
+00:00:59,439 --> 00:01:02,318
+private key cryptography
+
+37
+00:01:00,640 --> 00:01:03,600
+and even quantum cryptography now the
+
+38
+00:01:02,320 --> 00:01:05,199
+book is lacking a little bit in
+
+39
+00:01:03,600 --> 00:01:07,039
+practical details about how to secure
+
+40
+00:01:05,198 --> 00:01:08,638
+your online life though we did do a
+
+41
+00:01:07,040 --> 00:01:09,839
+podcast episode all about that
+
+42
+00:01:08,640 --> 00:01:12,079
+you can check out in the description
+
+43
+00:01:09,840 --> 00:01:13,1000
+down below but it is an absolutely
+
+44
+00:01:12,079 --> 00:01:15,358
+fascinating read and i could not put it
+
+45
+00:01:14,000 --> 00:01:17,200
+down once i started reading it
+
+46
+00:01:15,359 --> 00:01:19,117
+second on my list is essentialism the
+
+47
+00:01:17,200 --> 00:01:19,680
+discipline pursuit of less by greg
+
+48
+00:01:19,118 --> 00:01:20,638
+mccune
+
+49
+00:01:19,680 --> 00:01:22,159
+and we did have to look up how to
+
+50
+00:01:20,640 --> 00:01:23,919
+pronounce that on fourvo before making
+
+51
+00:01:22,159 --> 00:01:25,759
+this video so i'm pretty sure i have
+
+52
+00:01:23,920 --> 00:01:27,279
+that right but if you're irish then you
+
+53
+00:01:25,759 --> 00:01:27,759
+can correct me that is an irish name
+
+54
+00:01:27,280 --> 00:01:29,599
+right
+
+55
+00:01:27,759 --> 00:01:30,880
+no idea boy now i have to look at that
+
+56
+00:01:29,599 --> 00:01:32,878
+so one of them said
+
+57
+00:01:30,879 --> 00:01:34,638
+this book talks all about how to
+
+58
+00:01:32,879 --> 00:01:36,399
+prioritize the most important things
+
+59
+00:01:34,640 --> 00:01:37,919
+that you're doing in your life and focus
+
+60
+00:01:36,400 --> 00:01:38,799
+on those things how to work without
+
+61
+00:01:37,920 --> 00:01:40,400
+distraction
+
+62
+00:01:38,799 --> 00:01:41,1000
+and this book was really important for
+
+63
+00:01:40,400 --> 00:01:43,040
+me because as an entrepreneur and a
+
+64
+00:01:42,000 --> 00:01:45,758
+creative person
+
+65
+00:01:43,040 --> 00:01:47,280
+i get a ton of ideas and if i don't keep
+
+66
+00:01:45,759 --> 00:01:49,199
+my mind restrained a little bit
+
+67
+00:01:47,280 --> 00:01:50,880
+i'm easily able to just go off and get
+
+68
+00:01:49,200 --> 00:01:52,398
+distracted on a new idea before
+
+69
+00:01:50,879 --> 00:01:52,959
+finishing something that i'm already
+
+70
+00:01:52,399 --> 00:01:54,479
+working on
+
+71
+00:01:52,959 --> 00:01:56,398
+so reading this book really shifted my
+
+72
+00:01:54,478 --> 00:01:58,478
+mindset and made me take single-minded
+
+73
+00:01:56,399 --> 00:02:00,240
+focus on an important task a lot more
+
+74
+00:01:58,478 --> 00:02:01,757
+seriously than i had in the past
+
+75
+00:02:00,239 --> 00:02:03,437
+and this was one book that we did talk
+
+76
+00:02:01,759 --> 00:02:04,960
+about on the podcast so if you want an
+
+77
+00:02:03,438 --> 00:02:06,559
+overview or summary of it i'll have that
+
+78
+00:02:04,959 --> 00:02:08,878
+linked in description down below
+
+79
+00:02:06,560 --> 00:02:10,800
+the third book on my list is a big one
+
+80
+00:02:08,878 --> 00:02:11,999
+debt the first five thousand years by
+
+81
+00:02:10,800 --> 00:02:13,679
+david graber was a
+
+82
+00:02:12,000 --> 00:02:15,520
+fascinating read and admittedly i'm
+
+83
+00:02:13,680 --> 00:02:16,878
+actually not done with this book yet but
+
+84
+00:02:15,520 --> 00:02:18,799
+i am about halfway through
+
+85
+00:02:16,878 --> 00:02:20,719
+and it is really really interesting if
+
+86
+00:02:18,800 --> 00:02:21,520
+you have any sort of inclination towards
+
+87
+00:02:20,719 --> 00:02:23,038
+reading about
+
+88
+00:02:21,520 --> 00:02:24,318
+economics i actually heard about this
+
+89
+00:02:23,039 --> 00:02:25,679
+book back when i watched the money
+
+90
+00:02:24,318 --> 00:02:27,358
+episode of the crash course world
+
+91
+00:02:25,680 --> 00:02:28,479
+history series with john green and the
+
+92
+00:02:27,360 --> 00:02:30,400
+idea that explorers
+
+93
+00:02:28,479 --> 00:02:32,159
+is really fascinating basically in
+
+94
+00:02:30,400 --> 00:02:33,360
+classical economics they teach this idea
+
+95
+00:02:32,159 --> 00:02:35,038
+that before money
+
+96
+00:02:33,360 --> 00:02:36,719
+there was barter basically before you
+
+97
+00:02:35,039 --> 00:02:38,159
+had coins to trade with you took your
+
+98
+00:02:36,719 --> 00:02:39,679
+cow to the market and you lopped off
+
+99
+00:02:38,159 --> 00:02:41,438
+part of its leg and you traded that for
+
+100
+00:02:39,680 --> 00:02:42,559
+some rice but the thing is while this
+
+101
+00:02:41,439 --> 00:02:43,999
+theory is taught in most
+
+102
+00:02:42,560 --> 00:02:45,680
+intro economics textbooks
+
+103
+00:02:44,000 --> 00:02:48,000
+anthropologists have found almost
+
+104
+00:02:45,680 --> 00:02:49,1000
+no record of any society that ever used
+
+105
+00:02:48,000 --> 00:02:52,400
+pure barter before the development of
+
+106
+00:02:50,000 --> 00:02:54,400
+money instead they used informal debt
+
+107
+00:02:52,400 --> 00:02:56,239
+bonds which eventually became formalized
+
+108
+00:02:54,400 --> 00:02:58,480
+by the development of money and
+
+109
+00:02:56,239 --> 00:02:59,679
+ious and banking and so forth anyway
+
+110
+00:02:58,479 --> 00:03:01,039
+again this is not the kind of book
+
+111
+00:02:59,680 --> 00:03:02,800
+that's gonna help you balance your own
+
+112
+00:03:01,039 --> 00:03:04,798
+checkbook or save more money efficiently
+
+113
+00:03:02,800 --> 00:03:06,239
+but it is a fascinating introduction
+
+114
+00:03:04,800 --> 00:03:08,559
+into how economics
+
+115
+00:03:06,239 --> 00:03:10,878
+really works next up on my list is the
+
+116
+00:03:08,560 --> 00:03:11,999
+elon musk biography by ashley vance
+
+117
+00:03:10,878 --> 00:03:13,679
+and you may have seen this one coming
+
+118
+00:03:12,000 --> 00:03:15,040
+since i did make an elon musk video
+
+119
+00:03:13,680 --> 00:03:16,559
+pretty recently i've been getting more
+
+120
+00:03:15,039 --> 00:03:17,518
+and more into reading biographies in the
+
+121
+00:03:16,560 --> 00:03:19,760
+past couple of years i've read
+
+122
+00:03:17,519 --> 00:03:21,519
+biographies on jeff bezos on steve jobs
+
+123
+00:03:19,759 --> 00:03:23,678
+and on elon musk and i have to say the
+
+124
+00:03:21,519 --> 00:03:25,360
+one on elon musk inspired me the most
+
+125
+00:03:23,680 --> 00:03:26,878
+and i came away with more respect for
+
+126
+00:03:25,360 --> 00:03:29,040
+him than i did for the other two
+
+127
+00:03:26,878 --> 00:03:31,118
+obviously all three of these men are or
+
+128
+00:03:29,039 --> 00:03:32,878
+were wildly successful and they all
+
+129
+00:03:31,120 --> 00:03:34,559
+definitely had glaring flaws that i
+
+130
+00:03:32,878 --> 00:03:36,157
+don't want to emulate but out of the
+
+131
+00:03:34,560 --> 00:03:37,599
+three i came away with the feeling that
+
+132
+00:03:36,158 --> 00:03:39,999
+elon musk has this just
+
+133
+00:03:37,598 --> 00:03:40,798
+driving motivation to improve humanity
+
+134
+00:03:40,000 --> 00:03:42,158
+as a whole
+
+135
+00:03:40,799 --> 00:03:43,920
+that's the reason i made my video on
+
+136
+00:03:42,158 --> 00:03:45,517
+musk in the first place and listening to
+
+137
+00:03:43,919 --> 00:03:47,039
+his biography because this is one that i
+
+138
+00:03:45,519 --> 00:03:48,798
+did listen to as an audiobook
+
+139
+00:03:47,039 --> 00:03:50,719
+was really motivating for me it made me
+
+140
+00:03:48,799 --> 00:03:52,640
+want to put more effort into my own work
+
+141
+00:03:50,719 --> 00:03:54,399
+book number five on my list is the big
+
+142
+00:03:52,639 --> 00:03:55,839
+short by michael lewis now if you've
+
+143
+00:03:54,400 --> 00:03:57,279
+seen any of my conversations with my
+
+144
+00:03:55,840 --> 00:03:58,400
+friend taha on twitter you will know
+
+145
+00:03:57,280 --> 00:04:00,719
+that the big short is
+
+146
+00:03:58,400 --> 00:04:01,920
+my favorite movie of all time and
+
+147
+00:04:00,719 --> 00:04:03,598
+earlier this year after watching the
+
+148
+00:04:01,919 --> 00:04:05,039
+movie for probably the third time
+
+149
+00:04:03,598 --> 00:04:06,719
+i decided it was high time that i
+
+150
+00:04:05,039 --> 00:04:07,039
+actually read the book that it was based
+
+151
+00:04:06,719 --> 00:04:09,517
+on
+
+152
+00:04:07,039 --> 00:04:10,398
+and this book is an excellent overview
+
+153
+00:04:09,519 --> 00:04:12,479
+of exactly
+
+154
+00:04:10,400 --> 00:04:13,1000
+why the financial crisis of 2008
+
+155
+00:04:12,479 --> 00:04:16,159
+happened so if you have any interest
+
+156
+00:04:14,000 --> 00:04:17,919
+in recent history and economics and why
+
+157
+00:04:16,160 --> 00:04:19,519
+the markets all crashed the way they did
+
+158
+00:04:17,918 --> 00:04:21,679
+and how corrupt the system really was
+
+159
+00:04:19,519 --> 00:04:23,120
+this book is a fascinating read and it's
+
+160
+00:04:21,680 --> 00:04:24,639
+honestly a lot of fun to read as well
+
+161
+00:04:23,120 --> 00:04:25,039
+though it will probably also make you
+
+162
+00:04:24,639 --> 00:04:26,960
+mad
+
+163
+00:04:25,040 --> 00:04:28,639
+all right book number six on my list is
+
+164
+00:04:26,959 --> 00:04:30,398
+how to not be wrong the power of
+
+165
+00:04:28,639 --> 00:04:32,400
+mathematical thinking by jordan
+
+166
+00:04:30,399 --> 00:04:33,519
+ellenberg like the title implies this is
+
+167
+00:04:32,399 --> 00:04:35,119
+a book about math
+
+168
+00:04:33,519 --> 00:04:36,878
+but before you go clicking out of this
+
+169
+00:04:35,120 --> 00:04:37,999
+video if you don't like math it is not a
+
+170
+00:04:36,879 --> 00:04:38,959
+math book you're not going to have to
+
+171
+00:04:38,000 --> 00:04:40,879
+work on problems
+
+172
+00:04:38,959 --> 00:04:42,878
+it is a simple introduction to certain
+
+173
+00:04:40,879 --> 00:04:44,238
+math concepts in fact he has one page
+
+174
+00:04:42,879 --> 00:04:45,758
+that teaches you calculus
+
+175
+00:04:44,240 --> 00:04:47,440
+in one page at least the fundamental
+
+176
+00:04:45,759 --> 00:04:49,120
+concepts of it and moreover this book
+
+177
+00:04:47,439 --> 00:04:50,959
+spends a lot of time talking about
+
+178
+00:04:49,120 --> 00:04:53,520
+statistics and how statistics are
+
+179
+00:04:50,959 --> 00:04:55,359
+misinterpreted or misused by the media
+
+180
+00:04:53,519 --> 00:04:57,119
+or by people who have an agenda to
+
+181
+00:04:55,360 --> 00:04:58,479
+further so by reading this book even if
+
+182
+00:04:57,120 --> 00:05:00,399
+you don't go pick up a math minor
+
+183
+00:04:58,478 --> 00:05:02,478
+university or study the concepts further
+
+184
+00:05:00,399 --> 00:05:04,318
+it is going to give you a more intuitive
+
+185
+00:05:02,478 --> 00:05:05,119
+understanding of statistics and you're
+
+186
+00:05:04,319 --> 00:05:06,959
+going to be able to
+
+187
+00:05:05,120 --> 00:05:08,479
+more accurately interpret the ones you
+
+188
+00:05:06,959 --> 00:05:10,478
+see in your everyday life
+
+189
+00:05:08,478 --> 00:05:12,319
+book number seven on my list is the war
+
+190
+00:05:10,478 --> 00:05:13,358
+of art by stephen pressfield and this is
+
+191
+00:05:12,319 --> 00:05:15,118
+another book that we covered on the
+
+192
+00:05:13,360 --> 00:05:17,279
+podcast this year and it is
+
+193
+00:05:15,120 --> 00:05:18,879
+probably the best book i have ever read
+
+194
+00:05:17,279 --> 00:05:19,839
+for when you are struggling with
+
+195
+00:05:18,879 --> 00:05:21,758
+procrastination
+
+196
+00:05:19,839 --> 00:05:22,959
+this book is basically a meditation on
+
+197
+00:05:21,759 --> 00:05:24,880
+the work of an artist
+
+198
+00:05:22,959 --> 00:05:26,079
+the daily consistent work put in over
+
+199
+00:05:24,879 --> 00:05:27,599
+years and years
+
+200
+00:05:26,079 --> 00:05:29,918
+it deals a lot with the concept of
+
+201
+00:05:27,600 --> 00:05:31,280
+resistance and how to defeat it and
+
+202
+00:05:29,918 --> 00:05:33,119
+honestly if you have a lot of trouble
+
+203
+00:05:31,279 --> 00:05:34,799
+putting in consistent daily work into
+
+204
+00:05:33,120 --> 00:05:38,400
+things that you're striving to do
+
+205
+00:05:34,800 --> 00:05:40,240
+this is a really good read book number
+
+206
+00:05:38,399 --> 00:05:42,079
+eight on my list is kitchen confidential
+
+207
+00:05:40,240 --> 00:05:43,519
+by anthony bourdain and i picked this
+
+208
+00:05:42,079 --> 00:05:45,198
+book up because as you might have heard
+
+209
+00:05:43,519 --> 00:05:46,958
+my previous video i have been really
+
+210
+00:05:45,199 --> 00:05:49,038
+into cooking recently now this book
+
+211
+00:05:46,959 --> 00:05:50,959
+while wildly entertaining is not a
+
+212
+00:05:49,038 --> 00:05:52,319
+how-to on the science of cooking there
+
+213
+00:05:50,959 --> 00:05:53,918
+actually is a book called the science of
+
+214
+00:05:52,319 --> 00:05:55,118
+cooking which i also picked up but i am
+
+215
+00:05:53,918 --> 00:05:57,838
+not done with yet
+
+216
+00:05:55,120 --> 00:05:59,679
+but this book is more of an expose on
+
+217
+00:05:57,839 --> 00:06:00,799
+the life of a professional cook and if
+
+218
+00:05:59,680 --> 00:06:02,478
+you've ever watched any of anthony
+
+219
+00:06:00,800 --> 00:06:03,679
+bourdain's tv shows before you will know
+
+220
+00:06:02,478 --> 00:06:05,599
+that he is an incredibly
+
+221
+00:06:03,680 --> 00:06:07,680
+entertaining guy and that definitely
+
+222
+00:06:05,600 --> 00:06:09,359
+transfers over to his writing now i will
+
+223
+00:06:07,680 --> 00:06:11,199
+say that this book did teach me a couple
+
+224
+00:06:09,360 --> 00:06:12,479
+of things which is why it's on this list
+
+225
+00:06:11,199 --> 00:06:13,520
+if it was just entertaining i probably
+
+226
+00:06:12,478 --> 00:06:14,958
+wouldn't have put it on there and
+
+227
+00:06:13,519 --> 00:06:16,559
+actually has a chapter that talks about
+
+228
+00:06:14,959 --> 00:06:17,757
+why restaurant food tastes different
+
+229
+00:06:16,560 --> 00:06:19,120
+than the food you make at home
+
+230
+00:06:17,759 --> 00:06:20,719
+and he also talks a little bit about
+
+231
+00:06:19,120 --> 00:06:22,318
+some of the basic tools you can add to
+
+232
+00:06:20,720 --> 00:06:24,240
+your kitchen to be a better cook
+
+233
+00:06:22,319 --> 00:06:25,839
+yourself but for the most part the book
+
+234
+00:06:24,240 --> 00:06:27,999
+is mainly full of stories of bourdain's
+
+235
+00:06:25,839 --> 00:06:29,678
+time as a cook and eventually a chef
+
+236
+00:06:28,000 --> 00:06:31,758
+and because it's anthony bourdain and
+
+237
+00:06:29,680 --> 00:06:32,800
+because he does narrate the audiobook i
+
+238
+00:06:31,759 --> 00:06:34,960
+highly recommend
+
+239
+00:06:32,800 --> 00:06:37,038
+listening to it rather than reading it
+
+240
+00:06:34,959 --> 00:06:39,359
+and finally the ninth book on my list is
+
+241
+00:06:37,038 --> 00:06:41,438
+good to great by jim collins and this
+
+242
+00:06:39,360 --> 00:06:43,279
+book was really useful to me as an
+
+243
+00:06:41,439 --> 00:06:44,718
+entrepreneur because it's all about how
+
+244
+00:06:43,279 --> 00:06:47,599
+companies go from
+
+245
+00:06:44,720 --> 00:06:49,279
+good or mediocre to great the entire
+
+246
+00:06:47,600 --> 00:06:50,479
+book is based on a five-year long study
+
+247
+00:06:49,279 --> 00:06:52,158
+that looked at data from
+
+248
+00:06:50,478 --> 00:06:53,839
+hundreds of different companies and
+
+249
+00:06:52,160 --> 00:06:55,599
+identified the ones that spent a really
+
+250
+00:06:53,839 --> 00:06:57,439
+long time in the mediocre zone
+
+251
+00:06:55,598 --> 00:06:59,359
+and then finally had a transition point
+
+252
+00:06:57,439 --> 00:07:00,637
+to greatness that was sustained and i
+
+253
+00:06:59,360 --> 00:07:02,080
+took a lot of lessons away from this
+
+254
+00:07:00,639 --> 00:07:03,759
+book that i tried to apply to my
+
+255
+00:07:02,079 --> 00:07:05,518
+own work into my own company but one of
+
+256
+00:07:03,759 --> 00:07:06,400
+the most important was the concept of
+
+257
+00:07:05,519 --> 00:07:07,999
+level 5
+
+258
+00:07:06,399 --> 00:07:09,678
+leadership the book explains that a
+
+259
+00:07:08,000 --> 00:07:10,080
+level 5 leader is somebody who embodies
+
+260
+00:07:09,680 --> 00:07:11,999
+two
+
+261
+00:07:10,079 --> 00:07:13,918
+incredibly important characteristics
+
+262
+00:07:12,000 --> 00:07:15,520
+first they have an indomitable will
+
+263
+00:07:13,918 --> 00:07:17,279
+and work ethic they're willing to put in
+
+264
+00:07:15,519 --> 00:07:18,398
+whatever it takes to further the goals
+
+265
+00:07:17,279 --> 00:07:20,799
+of the company
+
+266
+00:07:18,399 --> 00:07:22,799
+but at the exact same time they are
+
+267
+00:07:20,800 --> 00:07:24,559
+humble they live by that excellent quote
+
+268
+00:07:22,800 --> 00:07:26,319
+from harry truman it's amazing what you
+
+269
+00:07:24,560 --> 00:07:27,439
+can accomplish if you do not care who
+
+270
+00:07:26,319 --> 00:07:29,198
+gets the credit
+
+271
+00:07:27,439 --> 00:07:30,878
+and after i read that i took that to
+
+272
+00:07:29,199 --> 00:07:32,719
+heart i realized that i run a business
+
+273
+00:07:30,879 --> 00:07:33,839
+where my face is basically on
+
+274
+00:07:32,720 --> 00:07:35,918
+everything but there are a lot of
+
+275
+00:07:33,839 --> 00:07:37,758
+elements that i have been able to let go
+
+276
+00:07:35,918 --> 00:07:39,838
+that have actually improved because i've
+
+277
+00:07:37,759 --> 00:07:41,520
+done that so guys that is my list of the
+
+278
+00:07:39,839 --> 00:07:42,718
+best books that i read this year and i
+
+279
+00:07:41,519 --> 00:07:44,079
+would love to hear from you
+
+280
+00:07:42,720 --> 00:07:45,038
+what are the best books that you read
+
+281
+00:07:44,079 --> 00:07:46,638
+this year let me know down in the
+
+282
+00:07:45,038 --> 00:07:48,159
+comments i'll also have all these books
+
+283
+00:07:46,639 --> 00:07:49,519
+linked in the description below so you
+
+284
+00:07:48,160 --> 00:07:50,959
+can check them out if you want
+
+285
+00:07:49,519 --> 00:07:52,638
+and for the ones that we did happen to
+
+286
+00:07:50,959 --> 00:07:54,559
+analyze on the podcast i will have links
+
+287
+00:07:52,639 --> 00:07:55,1000
+for those podcast episodes as well
+
+288
+00:07:54,560 --> 00:07:57,198
+beyond that if you enjoyed this video
+
+289
+00:07:56,000 --> 00:07:58,479
+you can give it a thumbs up and you can
+
+290
+00:07:57,199 --> 00:07:59,919
+also subscribe right there if you want
+
+291
+00:07:58,478 --> 00:08:01,438
+to get notified when i publish new
+
+292
+00:07:59,918 --> 00:08:03,038
+videos and you can also click right
+
+293
+00:08:01,439 --> 00:08:04,878
+there if you want to get a free copy of
+
+294
+00:08:03,038 --> 00:08:06,799
+my book on how to earn better grades you
+
+295
+00:08:04,879 --> 00:08:08,879
+can also find our latest podcast episode
+
+296
+00:08:06,800 --> 00:08:10,400
+right there where we recapped 2017 and
+
+297
+00:08:08,879 --> 00:08:11,758
+kind of did a little year in review
+
+298
+00:08:10,399 --> 00:08:13,758
+and if you want to find one more video
+
+299
+00:08:11,759 --> 00:08:15,440
+on this channel click right there
+
+300
+00:08:13,759 --> 00:08:19,520
+thanks for watching and i will see you
+
+301
+00:08:15,439 --> 00:08:19,519
+in the next video
+

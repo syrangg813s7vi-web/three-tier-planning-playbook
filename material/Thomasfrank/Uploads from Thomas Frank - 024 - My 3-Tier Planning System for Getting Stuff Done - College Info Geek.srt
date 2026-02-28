@@ -1,0 +1,636 @@
+1
+00:00:00,160 --> 00:00:03,120
+hey what's up guys so in today's video
+
+2
+00:00:01,560 --> 00:00:04,318
+I'm going to go over my entire planning
+
+3
+00:00:03,279 --> 00:00:06,959
+system that I use to get things done now
+
+4
+00:00:05,878 --> 00:00:08,518
+there's one thing I've learned over the
+
+5
+00:00:06,960 --> 00:00:10,120
+past like six to seven years of
+
+6
+00:00:08,519 --> 00:00:11,719
+experimenting with tons of different
+
+7
+00:00:10,119 --> 00:00:13,319
+apps and productivity systems and
+
+8
+00:00:11,718 --> 00:00:15,319
+reading the daily habits of famous
+
+9
+00:00:13,320 --> 00:00:17,199
+people it's that productivity is a very
+
+10
+00:00:15,320 --> 00:00:19,038
+individual thing we all have our own
+
+11
+00:00:17,199 --> 00:00:20,599
+little idiosyncrasies and weird quirks
+
+12
+00:00:19,039 --> 00:00:21,880
+and ways that we like to work so
+
+13
+00:00:20,600 --> 00:00:23,519
+different systems are going to fit
+
+14
+00:00:21,879 --> 00:00:25,597
+different people and your system might
+
+15
+00:00:23,518 --> 00:00:26,839
+be a weird Frankenstein amalgamation of
+
+16
+00:00:25,599 --> 00:00:29,279
+different systems that you've seen from
+
+17
+00:00:26,839 --> 00:00:30,879
+other people which mine is all this goes
+
+18
+00:00:29,278 --> 00:00:32,318
+to say that you don't need to look at my
+
+19
+00:00:30,879 --> 00:00:34,439
+system and think that it needs to be
+
+20
+00:00:32,320 --> 00:00:36,119
+your system but you might find specific
+
+21
+00:00:34,439 --> 00:00:37,479
+components that work well within the
+
+22
+00:00:36,119 --> 00:00:38,799
+things you're already doing with that
+
+23
+00:00:37,479 --> 00:00:40,358
+caveat out of the way I will start this
+
+24
+00:00:38,799 --> 00:00:42,519
+off by showing you that my system has
+
+25
+00:00:40,359 --> 00:00:44,839
+three specific tiers tier one which is
+
+26
+00:00:42,520 --> 00:00:46,800
+for idea capture and organization tier
+
+27
+00:00:44,840 --> 00:00:48,800
+two for weekly planning and tier three
+
+28
+00:00:46,799 --> 00:00:51,279
+for daily planning where all the actual
+
+29
+00:00:48,799 --> 00:00:52,759
+action happens so tier one I call idea
+
+30
+00:00:51,280 --> 00:00:54,760
+capture because I don't think calling it
+
+31
+00:00:52,759 --> 00:00:56,638
+task capture does it justice now in a
+
+32
+00:00:54,759 --> 00:00:58,397
+task management sense at least to me an
+
+33
+00:00:56,640 --> 00:01:00,199
+idea is any piece of information that
+
+34
+00:00:58,399 --> 00:01:01,960
+you want to process and take action on
+
+35
+00:01:00,198 --> 00:01:04,319
+later and that could include a specific
+
+36
+00:01:01,960 --> 00:01:06,719
+task but it could also include an event
+
+37
+00:01:04,319 --> 00:01:08,918
+or a free form idea that doesn't exactly
+
+38
+00:01:06,719 --> 00:01:10,638
+have concrete action items attached to
+
+39
+00:01:08,920 --> 00:01:11,1000
+it yet but that you still want to save
+
+40
+00:01:10,640 --> 00:01:13,600
+since ideas can take a number of
+
+41
+00:01:12,000 --> 00:01:15,080
+different forms I use several different
+
+42
+00:01:13,599 --> 00:01:17,158
+apps to capture them based on their
+
+43
+00:01:15,079 --> 00:01:19,438
+category or action type and then process
+
+44
+00:01:17,159 --> 00:01:21,519
+them as efficiently as I can so specific
+
+45
+00:01:19,438 --> 00:01:22,559
+tasks or action items go into todoist
+
+46
+00:01:21,519 --> 00:01:24,039
+and I've used a number of different
+
+47
+00:01:22,560 --> 00:01:26,359
+to-do managers over the years like
+
+48
+00:01:24,040 --> 00:01:27,1000
+Wonder list and productive and all sorts
+
+49
+00:01:26,359 --> 00:01:29,478
+of other kinds of apps and I've kind of
+
+50
+00:01:28,000 --> 00:01:31,560
+settled on todoist now because it's very
+
+51
+00:01:29,478 --> 00:01:34,157
+minimalist list it has a clean design I
+
+52
+00:01:31,560 --> 00:01:36,600
+can use labels to assign contexts uh
+
+53
+00:01:34,159 --> 00:01:37,799
+energy levels or locations to my tasks
+
+54
+00:01:36,599 --> 00:01:39,518
+and it also syncs between all my
+
+55
+00:01:37,799 --> 00:01:40,879
+different devices events will go into
+
+56
+00:01:39,519 --> 00:01:42,398
+Google Calendar which I've probably been
+
+57
+00:01:40,879 --> 00:01:44,157
+using for six or seven years at this
+
+58
+00:01:42,399 --> 00:01:45,919
+point and if I'm out and about away from
+
+59
+00:01:44,159 --> 00:01:47,520
+my computer and just have my iPhone then
+
+60
+00:01:45,920 --> 00:01:49,118
+I use an app called Sunrise calendar
+
+61
+00:01:47,519 --> 00:01:50,478
+which syncs nicely to it anything that's
+
+62
+00:01:49,118 --> 00:01:51,998
+not a task or an event will go into
+
+63
+00:01:50,478 --> 00:01:53,279
+evernote where I have lots of different
+
+64
+00:01:52,000 --> 00:01:55,119
+notebooks and I kind of consider
+
+65
+00:01:53,280 --> 00:01:56,759
+Evernote my second brain it's where all
+
+66
+00:01:55,118 --> 00:01:58,558
+my ideas get stored so I don't have to
+
+67
+00:01:56,759 --> 00:02:00,520
+keep them jumbled up in my head and then
+
+68
+00:01:58,560 --> 00:02:02,240
+I can process them later now tier one is
+
+69
+00:02:00,519 --> 00:02:03,797
+all about idea capture so I'm using
+
+70
+00:02:02,239 --> 00:02:05,558
+these apps on a daily basis whenever
+
+71
+00:02:03,799 --> 00:02:06,879
+things come up to capture things quickly
+
+72
+00:02:05,560 --> 00:02:08,599
+but then I don't really have to mess
+
+73
+00:02:06,879 --> 00:02:10,117
+with them later on Sundays I have my
+
+74
+00:02:08,598 --> 00:02:11,439
+planning sessions where I actually take
+
+75
+00:02:10,118 --> 00:02:13,198
+these ideas from all these different
+
+76
+00:02:11,439 --> 00:02:14,919
+tier one systems and figure out what I'm
+
+77
+00:02:13,199 --> 00:02:16,359
+going to do with them in any given week
+
+78
+00:02:14,919 --> 00:02:19,478
+and I do all that in my handy
+
+79
+00:02:16,360 --> 00:02:21,360
+environotes sustainable cardboard not
+
+80
+00:02:19,479 --> 00:02:22,758
+very attractive looking notebook now on
+
+81
+00:02:21,360 --> 00:02:24,239
+the current week's page I put the week's
+
+82
+00:02:22,759 --> 00:02:26,719
+dates at the top and then I make three
+
+83
+00:02:24,239 --> 00:02:29,040
+different sections events tasks and
+
+84
+00:02:26,719 --> 00:02:30,877
+maybe so events are things that I have
+
+85
+00:02:29,039 --> 00:02:32,798
+scheduled on the calend maybe meetings
+
+86
+00:02:30,878 --> 00:02:34,838
+with people or events I want to go to
+
+87
+00:02:32,800 --> 00:02:36,319
+conferences things like that and I'll
+
+88
+00:02:34,840 --> 00:02:38,159
+write them down there to keep them
+
+89
+00:02:36,318 --> 00:02:39,518
+separate from the actual tasks the task
+
+90
+00:02:38,159 --> 00:02:40,998
+section makes up the bulk of the weekly
+
+91
+00:02:39,519 --> 00:02:42,559
+plan and it basically holds all the
+
+92
+00:02:41,000 --> 00:02:44,158
+different tasks I want to get done in a
+
+93
+00:02:42,560 --> 00:02:45,959
+given week and at the top I always have
+
+94
+00:02:44,158 --> 00:02:47,517
+the video and the podcast because I'm a
+
+95
+00:02:45,959 --> 00:02:48,919
+content creator but I'll also have lots
+
+96
+00:02:47,519 --> 00:02:50,840
+of little things that just need to get
+
+97
+00:02:48,919 --> 00:02:52,358
+done and finally the maybe section holds
+
+98
+00:02:50,840 --> 00:02:54,158
+some tasks that I'm not exactly sure
+
+99
+00:02:52,360 --> 00:02:55,759
+I'll have time to do but I'd like to get
+
+100
+00:02:54,158 --> 00:02:57,399
+done if everything goes well and that
+
+101
+00:02:55,759 --> 00:02:59,198
+brings us to tier three which is my
+
+102
+00:02:57,400 --> 00:03:00,319
+daily plan so when I wake up at 6:00
+
+103
+00:02:59,199 --> 00:03:01,877
+a.m. every morning morning I come into
+
+104
+00:03:00,318 --> 00:03:04,119
+my office and I look at both the
+
+105
+00:03:01,878 --> 00:03:06,118
+notebook and my calendar and from that I
+
+106
+00:03:04,120 --> 00:03:08,039
+create a daily plan on my whiteboard now
+
+107
+00:03:06,120 --> 00:03:09,720
+the daily plan is all about action I
+
+108
+00:03:08,039 --> 00:03:11,639
+want it to drive me through the day and
+
+109
+00:03:09,719 --> 00:03:13,199
+take away all ambiguity over what I
+
+110
+00:03:11,639 --> 00:03:14,558
+should be doing at any given time to
+
+111
+00:03:13,199 --> 00:03:16,478
+help with that I try as hard as I
+
+112
+00:03:14,560 --> 00:03:18,359
+possibly can to write the daily plan in
+
+113
+00:03:16,479 --> 00:03:20,597
+the exact order that I want to do the
+
+114
+00:03:18,360 --> 00:03:22,640
+tasks and I also estimate at what time I
+
+115
+00:03:20,598 --> 00:03:24,199
+should get each one done using a fudge
+
+116
+00:03:22,639 --> 00:03:26,797
+ratio to account for the planning
+
+117
+00:03:24,199 --> 00:03:28,718
+fallacy and this helps me with lots of
+
+118
+00:03:26,799 --> 00:03:30,238
+practice mind you be able to basically
+
+119
+00:03:28,719 --> 00:03:31,957
+predict how many tasks I'll be able to
+
+120
+00:03:30,239 --> 00:03:33,560
+get done in a given day using the time
+
+121
+00:03:31,959 --> 00:03:35,238
+estimates also puts a bit of time
+
+122
+00:03:33,560 --> 00:03:36,599
+pressure on me which makes me work a bit
+
+123
+00:03:35,239 --> 00:03:38,119
+more efficiently and that's always
+
+124
+00:03:36,598 --> 00:03:39,759
+helpful now as I go through my day and
+
+125
+00:03:38,120 --> 00:03:41,120
+complete tasks I'll check them off on
+
+126
+00:03:39,759 --> 00:03:42,399
+the Whiteboard and then once I'm
+
+127
+00:03:41,120 --> 00:03:44,039
+finished with my work for the day I'll
+
+128
+00:03:42,400 --> 00:03:45,959
+also check off everything I got done in
+
+129
+00:03:44,039 --> 00:03:47,279
+the weekly plan so hopefully you enjoyed
+
+130
+00:03:45,959 --> 00:03:48,680
+this video and got something out of it
+
+131
+00:03:47,280 --> 00:03:49,840
+if you've got other planning tips I
+
+132
+00:03:48,680 --> 00:03:51,360
+didn't mention here or want to talk
+
+133
+00:03:49,840 --> 00:03:52,840
+about your own system then let me know
+
+134
+00:03:51,360 --> 00:03:55,959
+about it down in the comments otherwise
+
+135
+00:03:52,840 --> 00:03:55,959
+I will see you next
+
+136
+00:03:56,400 --> 00:04:00,239
+week hey there thanks for watching this
+
+137
+00:03:58,479 --> 00:04:01,679
+video about my planning process now i'
+
+138
+00:04:00,239 --> 00:04:03,719
+just like to let you know that I also
+
+139
+00:04:01,680 --> 00:04:06,079
+wrote a 100 plus page book on getting
+
+140
+00:04:03,719 --> 00:04:07,759
+better grades and chapter 4 of that book
+
+141
+00:04:06,079 --> 00:04:09,039
+is all about planning so if you want
+
+142
+00:04:07,759 --> 00:04:10,198
+some additional tips then click the
+
+143
+00:04:09,039 --> 00:04:11,679
+picture of the book and I will send you
+
+144
+00:04:10,199 --> 00:04:13,238
+a free copy if you want to get more
+
+145
+00:04:11,680 --> 00:04:14,680
+videos every single week on being an
+
+146
+00:04:13,239 --> 00:04:16,840
+awesome college student then hit that
+
+147
+00:04:14,680 --> 00:04:18,599
+big red subscribe button right there and
+
+148
+00:04:16,839 --> 00:04:19,879
+you can also find any of the resources I
+
+149
+00:04:18,600 --> 00:04:21,519
+talked about in this video at the
+
+150
+00:04:19,879 --> 00:04:23,478
+companion blog post which you can find
+
+151
+00:04:21,519 --> 00:04:24,999
+by clicking right there if you missed
+
+152
+00:04:23,478 --> 00:04:26,319
+last week's video is a clip of playing
+
+153
+00:04:25,000 --> 00:04:27,919
+so definitely check it out and if you
+
+154
+00:04:26,319 --> 00:04:29,439
+want to connect with me I'm @ tomf
+
+155
+00:04:27,918 --> 00:04:30,878
+frankley on Twitter or you can leave a
+
+156
+00:04:29,439 --> 00:04:32,358
+comment comment on this video and let me
+
+157
+00:04:30,879 --> 00:04:34,999
+know if you have other ideas for new
+
+158
+00:04:32,360 --> 00:04:37,999
+videos thanks for
+
+159
+00:04:35,000 --> 00:04:38,000
+watching
+

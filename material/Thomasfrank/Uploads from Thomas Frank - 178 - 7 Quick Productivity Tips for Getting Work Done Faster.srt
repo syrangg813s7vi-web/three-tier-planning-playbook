@@ -1,0 +1,1080 @@
+1
+00:00:00,000 --> 00:00:03,299
+today I'm gonna share seven quick
+
+2
+00:00:01,500 --> 00:00:03,810
+general workflow tips that I use to
+
+3
+00:00:03,299 --> 00:00:04,049
+boost my productivity on a daily basis
+
+4
+00:00:05,309 --> 00:00:09,268
+and the commonality between all these
+
+5
+00:00:07,349 --> 00:00:11,339
+workflow tips is that they are focused
+
+6
+00:00:09,269 --> 00:00:12,749
+on shaving time off of repeated
+
+7
+00:00:11,339 --> 00:00:15,329
+processes these are things that I do
+
+8
+00:00:12,750 --> 00:00:16,889
+every single day often multiple times a
+
+9
+00:00:15,330 --> 00:00:18,839
+day now none of these tips are specific
+
+10
+00:00:16,890 --> 00:00:20,160
+to any one job or profession of them are
+
+11
+00:00:18,839 --> 00:00:21,867
+even specific to any one computer
+
+12
+00:00:20,160 --> 00:00:23,910
+application though most of them do
+
+13
+00:00:21,868 --> 00:00:26,368
+target things that happen within your
+
+14
+00:00:23,910 --> 00:00:27,869
+computer in the computer so if the work
+
+15
+00:00:26,368 --> 00:00:29,759
+that you do happens on a computer than
+
+16
+00:00:27,868 --> 00:00:31,229
+this video is primarily for you though
+
+17
+00:00:29,760 --> 00:00:33,300
+with one of these tips we are going to
+
+18
+00:00:31,230 --> 00:00:33,930
+venture out into the real world alright
+
+19
+00:00:33,299 --> 00:00:36,718
+let's get into it
+
+20
+00:00:33,929 --> 00:00:38,608
+tip number one use text expansion to
+
+21
+00:00:36,719 --> 00:00:40,860
+bind long strings of text that you have
+
+22
+00:00:38,609 --> 00:00:41,999
+to type often to small key words for
+
+23
+00:00:40,859 --> 00:00:44,339
+example I'm using a program called
+
+24
+00:00:42,000 --> 00:00:47,190
+autohotkey on my PC to bind my home
+
+25
+00:00:44,340 --> 00:00:49,229
+address to the keyword h8 dr now at
+
+26
+00:00:47,189 --> 00:00:51,179
+least on windows autohotkey is probably
+
+27
+00:00:49,229 --> 00:00:53,389
+the best way to do this number one it is
+
+28
+00:00:51,179 --> 00:00:55,619
+absolutely free and number two it is
+
+29
+00:00:53,390 --> 00:00:57,569
+incredibly powerful it has a lot more
+
+30
+00:00:55,619 --> 00:00:59,397
+can do besides just text expansion on
+
+31
+00:00:57,570 --> 00:01:01,320
+the Mac side use a program called a text
+
+32
+00:00:59,399 --> 00:01:02,608
+which is about 5 bucks it's not free but
+
+33
+00:01:01,320 --> 00:01:04,529
+it does have a lot of customization
+
+34
+00:01:02,609 --> 00:01:06,118
+options and it's really easy to use and
+
+35
+00:01:04,530 --> 00:01:07,889
+if you want to do this on Android or iOS
+
+36
+00:01:06,118 --> 00:01:09,477
+there are text expansion options for
+
+37
+00:01:07,890 --> 00:01:10,830
+both of those platforms as well and I'll
+
+38
+00:01:09,478 --> 00:01:12,808
+have some links in the description below
+
+39
+00:01:10,829 --> 00:01:14,878
+if you're interested in that tip number
+
+40
+00:01:12,810 --> 00:01:16,680
+2 start using your computer's quick
+
+41
+00:01:14,879 --> 00:01:18,867
+access areas more often whether you're
+
+42
+00:01:16,680 --> 00:01:20,340
+on Mac or PC the file explorer program
+
+43
+00:01:18,868 --> 00:01:21,687
+that comes stock with your computer has
+
+44
+00:01:20,340 --> 00:01:23,219
+a little sidebar or you can put
+
+45
+00:01:21,688 --> 00:01:25,199
+shortcuts to the folders that you use
+
+46
+00:01:23,219 --> 00:01:26,969
+most often for my workflow I keep
+
+47
+00:01:25,200 --> 00:01:28,559
+persistent links to Google Drive to a
+
+48
+00:01:26,969 --> 00:01:29,669
+lot of my businesses folders and to the
+
+49
+00:01:28,560 --> 00:01:31,290
+folder where screenshots or
+
+50
+00:01:29,670 --> 00:01:32,850
+automatically saved on my computer and
+
+51
+00:01:31,290 --> 00:01:34,319
+in addition to all those folders I also
+
+52
+00:01:32,849 --> 00:01:35,789
+keep temporary shortcuts to all the
+
+53
+00:01:34,319 --> 00:01:37,948
+videos that I'm working on until they're
+
+54
+00:01:35,790 --> 00:01:39,508
+done tip number 3 spend some time
+
+55
+00:01:37,950 --> 00:01:41,400
+learning the keyboard shortcuts for the
+
+56
+00:01:39,509 --> 00:01:42,810
+programs that you use most often back
+
+57
+00:01:41,400 --> 00:01:44,040
+when I was in college I spent a lot of
+
+58
+00:01:42,810 --> 00:01:45,810
+time learning the keyboard shortcuts for
+
+59
+00:01:44,040 --> 00:01:48,030
+Evernote which made me a much faster
+
+60
+00:01:45,810 --> 00:01:49,229
+note-taker and in recent years I spent a
+
+61
+00:01:48,030 --> 00:01:51,509
+lot of time learning the ones for
+
+62
+00:01:49,228 --> 00:01:53,428
+Photoshop After Effects and Premiere all
+
+63
+00:01:51,509 --> 00:01:55,469
+of which make my video editing process a
+
+64
+00:01:53,430 --> 00:01:57,059
+lot more efficient now in addition to
+
+65
+00:01:55,469 --> 00:01:59,397
+the specific programs that you use for
+
+66
+00:01:57,060 --> 00:02:01,140
+your work be it Logic Pro or be it
+
+67
+00:01:59,399 --> 00:02:02,729
+blender or whatever it is I would also
+
+68
+00:02:01,140 --> 00:02:04,709
+suggest going and learning the shortcuts
+
+69
+00:02:02,728 --> 00:02:06,718
+for your email program because simply
+
+70
+00:02:04,709 --> 00:02:08,249
+learning that in Gmail at least hitting
+
+71
+00:02:06,718 --> 00:02:09,867
+II can archive a message
+
+72
+00:02:08,250 --> 00:02:11,399
+hitting pound can delete a message these
+
+73
+00:02:09,868 --> 00:02:12,158
+can make your email processing time a
+
+74
+00:02:11,400 --> 00:02:13,929
+lot
+
+75
+00:02:12,159 --> 00:02:15,668
+shorter and one good thing to note is
+
+76
+00:02:13,930 --> 00:02:17,200
+that for most popular programs there are
+
+77
+00:02:15,669 --> 00:02:18,609
+cheat sheets out there that you can find
+
+78
+00:02:17,199 --> 00:02:20,618
+for the most important keyboard
+
+79
+00:02:18,610 --> 00:02:22,959
+shortcuts though if you do use a really
+
+80
+00:02:20,620 --> 00:02:24,639
+complex program like logic or like After
+
+81
+00:02:22,960 --> 00:02:26,080
+Effects I would also recommend having a
+
+82
+00:02:24,639 --> 00:02:28,329
+personal reference the keyboard
+
+83
+00:02:26,080 --> 00:02:30,070
+shortcuts that you use most often and on
+
+84
+00:02:28,330 --> 00:02:32,020
+the off chance that keyboard shortcuts
+
+85
+00:02:30,069 --> 00:02:33,698
+are actually interesting to you that you
+
+86
+00:02:32,020 --> 00:02:35,500
+can go even further down the rabbit hole
+
+87
+00:02:33,699 --> 00:02:37,509
+and start learning about the wide world
+
+88
+00:02:35,500 --> 00:02:39,430
+of macros these are buttons on your
+
+89
+00:02:37,509 --> 00:02:40,868
+keyboard or sometimes on external
+
+90
+00:02:39,430 --> 00:02:43,329
+devices that you can program to do
+
+91
+00:02:40,870 --> 00:02:45,190
+basically whatever you want and if you
+
+92
+00:02:43,330 --> 00:02:46,720
+want your head to spin in a good way
+
+93
+00:02:45,189 --> 00:02:48,249
+then a good place to start would be any
+
+94
+00:02:46,719 --> 00:02:50,049
+of Teheran fan humorous videos on
+
+95
+00:02:48,250 --> 00:02:51,730
+keyboard macros over at the Linus tech
+
+96
+00:02:50,050 --> 00:02:53,619
+tips channel alright so we are now on to
+
+97
+00:02:51,729 --> 00:02:55,209
+tip number four and for this step we are
+
+98
+00:02:53,620 --> 00:02:56,890
+going to briefly venture out of the
+
+99
+00:02:55,210 --> 00:02:58,810
+computer and into the real world because
+
+100
+00:02:56,889 --> 00:03:01,058
+I'm going to suggest that you put any of
+
+101
+00:02:58,810 --> 00:03:03,430
+your commonly used physical tools within
+
+102
+00:03:01,060 --> 00:03:04,930
+arm's reach of your workspace now to do
+
+103
+00:03:03,430 --> 00:03:06,189
+this for myself I'm using a swivel
+
+104
+00:03:04,930 --> 00:03:08,019
+drawer that screws into the bottom of my
+
+105
+00:03:06,189 --> 00:03:09,729
+desk and I did just discover there is
+
+106
+00:03:08,020 --> 00:03:11,890
+now like clamp on version so that's even
+
+107
+00:03:09,729 --> 00:03:13,868
+more accessible but within mine I've got
+
+108
+00:03:11,889 --> 00:03:15,849
+scissors I've got SD cards in case I
+
+109
+00:03:13,870 --> 00:03:17,169
+need more camera memory space I've got a
+
+110
+00:03:15,849 --> 00:03:19,569
+little pin for resetting different
+
+111
+00:03:17,169 --> 00:03:21,819
+devices got a box cutter pens pencils
+
+112
+00:03:19,569 --> 00:03:22,988
+highlighters sticky notes all kinds of
+
+113
+00:03:21,819 --> 00:03:26,109
+stuff that I find myself frequently
+
+114
+00:03:22,990 --> 00:03:28,270
+reaching for tip number five use a
+
+115
+00:03:26,110 --> 00:03:29,800
+launcher tool a launcher tool is a
+
+116
+00:03:28,270 --> 00:03:31,510
+little utility in your computer that
+
+117
+00:03:29,800 --> 00:03:33,280
+essentially lets you hit a very quick
+
+118
+00:03:31,509 --> 00:03:34,928
+key combination that brings up a little
+
+119
+00:03:33,280 --> 00:03:37,179
+window or you can type and then lets you
+
+120
+00:03:34,930 --> 00:03:39,550
+easily launch websites programs files
+
+121
+00:03:37,180 --> 00:03:41,470
+all kinds of other stuff now the best
+
+122
+00:03:39,550 --> 00:03:43,780
+launcher tool that exists in the entire
+
+123
+00:03:41,469 --> 00:03:46,388
+world is called Alfred and it is
+
+124
+00:03:43,780 --> 00:03:48,430
+unfortunately Mac only but by hitting
+
+125
+00:03:46,389 --> 00:03:49,748
+command and space on my Mac I can forget
+
+126
+00:03:48,430 --> 00:03:51,639
+this nice little typing window that lets
+
+127
+00:03:49,750 --> 00:03:53,620
+me launch any website any folder I want
+
+128
+00:03:51,639 --> 00:03:54,909
+and do lots of other things ranging from
+
+129
+00:03:53,620 --> 00:03:57,399
+really simple stuff like doing
+
+130
+00:03:54,909 --> 00:03:59,288
+calculations to lots of complex and
+
+131
+00:03:57,400 --> 00:04:01,270
+really deep user generated workflows
+
+132
+00:03:59,289 --> 00:04:02,979
+like this one which deeply links into my
+
+133
+00:04:01,270 --> 00:04:04,810
+password manager dashlane and lets me
+
+134
+00:04:02,979 --> 00:04:05,858
+find a password or username without
+
+135
+00:04:04,810 --> 00:04:07,870
+having to actually go over to the
+
+136
+00:04:05,860 --> 00:04:09,879
+application and search using its window
+
+137
+00:04:07,870 --> 00:04:11,709
+now unfortunately nothing quite as good
+
+138
+00:04:09,879 --> 00:04:13,269
+as alfred exists on windows but there is
+
+139
+00:04:11,709 --> 00:04:15,399
+an open-source program called walks
+
+140
+00:04:13,270 --> 00:04:16,959
+which is free and does a lot of what
+
+141
+00:04:15,400 --> 00:04:19,179
+alfred does except for some of that
+
+142
+00:04:16,959 --> 00:04:21,039
+really complex workflow stuff tip number
+
+143
+00:04:19,180 --> 00:04:22,059
+six I guess I need a second hand this
+
+144
+00:04:21,038 --> 00:04:23,949
+time use
+
+145
+00:04:22,060 --> 00:04:26,350
+clipboard manager now whether you're
+
+146
+00:04:23,949 --> 00:04:28,208
+using a Mac or a PC your computer has a
+
+147
+00:04:26,350 --> 00:04:29,499
+clipboard where you can copy text or
+
+148
+00:04:28,209 --> 00:04:31,899
+copy images and then paste them
+
+149
+00:04:29,500 --> 00:04:34,360
+elsewhere the problem is that computers
+
+150
+00:04:31,899 --> 00:04:35,798
+by default only remember the very last
+
+151
+00:04:34,360 --> 00:04:37,388
+thing that you copied so if you've
+
+152
+00:04:35,800 --> 00:04:39,550
+copied something awhile ago and then you
+
+153
+00:04:37,389 --> 00:04:42,280
+copied something later on that thing you
+
+154
+00:04:39,550 --> 00:04:43,929
+copied first it's just gone and I don't
+
+155
+00:04:42,279 --> 00:04:46,328
+know about you but I want my clipboard
+
+156
+00:04:43,930 --> 00:04:48,790
+to remember more than just one thing and
+
+157
+00:04:46,329 --> 00:04:50,348
+it can with the clipboard manager now on
+
+158
+00:04:48,790 --> 00:04:52,060
+Windows the absolute best one that I
+
+159
+00:04:50,350 --> 00:04:53,740
+found is called clipboard Health Plus
+
+160
+00:04:52,060 --> 00:04:55,209
+spell and it can do a lot more than just
+
+161
+00:04:53,740 --> 00:04:56,650
+saving your clipboard history you can
+
+162
+00:04:55,209 --> 00:04:58,269
+have favorites you can do all kinds of
+
+163
+00:04:56,649 --> 00:04:59,858
+different stuff and on the Mac side
+
+164
+00:04:58,269 --> 00:05:01,749
+there are tons of dedicated clipboard
+
+165
+00:04:59,860 --> 00:05:04,119
+managers as well but wouldn't you know
+
+166
+00:05:01,750 --> 00:05:06,429
+it Alfred also has a built-in clipboard
+
+167
+00:05:04,120 --> 00:05:08,080
+manager I just love Alfred so use that
+
+168
+00:05:06,430 --> 00:05:09,910
+unless you really really want something
+
+169
+00:05:08,079 --> 00:05:11,799
+dedicated for some reason that brings us
+
+170
+00:05:09,910 --> 00:05:14,740
+to our final tip in the video lucky
+
+171
+00:05:11,800 --> 00:05:17,679
+number seven try using virtual desktops
+
+172
+00:05:14,740 --> 00:05:19,930
+so here's the thing I love using dual
+
+173
+00:05:17,680 --> 00:05:21,400
+monitors but not everyone can afford a
+
+174
+00:05:19,930 --> 00:05:23,019
+second monitor and not everyone has the
+
+175
+00:05:21,399 --> 00:05:24,968
+space for a second monitor even if they
+
+176
+00:05:23,019 --> 00:05:26,108
+do have the money to buy one but if you
+
+177
+00:05:24,970 --> 00:05:28,179
+find yourself in either of those
+
+178
+00:05:26,110 --> 00:05:29,650
+situations you don't have to have tons
+
+179
+00:05:28,180 --> 00:05:32,140
+of things crowding up your desktop all
+
+180
+00:05:29,649 --> 00:05:34,899
+the time because all major OS platforms
+
+181
+00:05:32,139 --> 00:05:36,459
+Windows Mac and Linux have virtual
+
+182
+00:05:34,899 --> 00:05:38,619
+desktops which basically means you can
+
+183
+00:05:36,459 --> 00:05:40,119
+switch from one desktop to another
+
+184
+00:05:38,620 --> 00:05:42,129
+really really easily and you can put
+
+185
+00:05:40,120 --> 00:05:43,810
+different programs on different desktops
+
+186
+00:05:42,129 --> 00:05:45,069
+so for me when I'm working at a coffee
+
+187
+00:05:43,810 --> 00:05:46,539
+shop from my Mac I don't have a big
+
+188
+00:05:45,069 --> 00:05:48,549
+monitor like this behind me I like to
+
+189
+00:05:46,538 --> 00:05:50,529
+put my email and my Spotify my password
+
+190
+00:05:48,550 --> 00:05:51,759
+manager on my second desktop that way my
+
+191
+00:05:50,529 --> 00:05:53,799
+first desktop can be completely
+
+192
+00:05:51,759 --> 00:05:55,209
+dedicated to my browser additionally on
+
+193
+00:05:53,800 --> 00:05:56,978
+the Mac when you fullscreen an app it
+
+194
+00:05:55,209 --> 00:05:58,269
+gives its own virtual desktop and I
+
+195
+00:05:56,978 --> 00:06:00,219
+often use that when I'm writing an
+
+196
+00:05:58,269 --> 00:06:03,068
+Evernote or in type Ora so to do a quick
+
+197
+00:06:00,220 --> 00:06:04,630
+recap here number one use text expansion
+
+198
+00:06:03,069 --> 00:06:06,428
+to bind long string to text that you
+
+199
+00:06:04,629 --> 00:06:08,019
+often have to type two very short key
+
+200
+00:06:06,430 --> 00:06:09,728
+words to start using your computer's
+
+201
+00:06:08,019 --> 00:06:11,829
+quick access area to create shortcuts to
+
+202
+00:06:09,728 --> 00:06:13,239
+come in folders we learn the keyboard
+
+203
+00:06:11,829 --> 00:06:15,549
+shortcuts for the apps that you use most
+
+204
+00:06:13,240 --> 00:06:17,050
+often or find a way to put commonly use
+
+205
+00:06:15,550 --> 00:06:18,880
+tools within arm's reach of your
+
+206
+00:06:17,050 --> 00:06:20,619
+workspace maybe use a swivel drawer five
+
+207
+00:06:18,879 --> 00:06:22,898
+use a laundry tool like Alfred or walks
+
+208
+00:06:20,620 --> 00:06:24,399
+six start using a clipboard manager and
+
+209
+00:06:22,899 --> 00:06:26,048
+finally number seven clean up your
+
+210
+00:06:24,399 --> 00:06:28,538
+desktop by using multiple virtual
+
+211
+00:06:26,050 --> 00:06:29,978
+desktops now starting to use any one of
+
+212
+00:06:28,538 --> 00:06:31,598
+these seven tips can definitely make a
+
+213
+00:06:29,978 --> 00:06:32,349
+marginal improvement to your workflow on
+
+214
+00:06:31,598 --> 00:06:33,819
+a day-to-day
+
+215
+00:06:32,350 --> 00:06:35,769
+but if you also want to make sure that
+
+216
+00:06:33,819 --> 00:06:37,509
+the foundations of your productivity are
+
+217
+00:06:35,769 --> 00:06:39,009
+solid ones then you may also want to go
+
+218
+00:06:37,509 --> 00:06:40,989
+and take my productivity systems course
+
+219
+00:06:39,009 --> 00:06:42,098
+over on Skillshare in less than an hour
+
+220
+00:06:40,990 --> 00:06:43,690
+of this course will guide you through
+
+221
+00:06:42,100 --> 00:06:45,669
+the process of properly setting up your
+
+222
+00:06:43,689 --> 00:06:48,068
+task manager your calendar your file
+
+223
+00:06:45,670 --> 00:06:49,540
+organization system and more and along
+
+224
+00:06:48,069 --> 00:06:51,158
+the way you'll also learn how to make
+
+225
+00:06:49,540 --> 00:06:53,260
+sure these systems stay organized over
+
+226
+00:06:51,160 --> 00:06:54,880
+the long term and since this course is
+
+227
+00:06:53,259 --> 00:06:56,468
+on Skillshare you can actually go and
+
+228
+00:06:54,879 --> 00:06:57,879
+take it for free by being one of the
+
+229
+00:06:56,470 --> 00:06:59,559
+first 500 people to use link in
+
+230
+00:06:57,879 --> 00:07:01,269
+description down below to sign up for a
+
+231
+00:06:59,560 --> 00:07:02,620
+two month free trial once you've got
+
+232
+00:07:01,269 --> 00:07:04,749
+that you'll also have access to more
+
+233
+00:07:02,620 --> 00:07:06,249
+than 27,000 other courses on Skillshare
+
+234
+00:07:04,750 --> 00:07:08,410
+they can help you boost your skills in
+
+235
+00:07:06,250 --> 00:07:10,599
+graphic design and video production in
+
+236
+00:07:08,410 --> 00:07:12,280
+marketing and many many other areas
+
+237
+00:07:10,600 --> 00:07:14,140
+including an area that I'm personally
+
+238
+00:07:12,279 --> 00:07:15,638
+interested in right now which is music
+
+239
+00:07:14,139 --> 00:07:17,079
+production and if you have the same
+
+240
+00:07:15,639 --> 00:07:18,609
+interest then I'll also recommend you
+
+241
+00:07:17,079 --> 00:07:20,498
+check out young gurus course on mixing
+
+242
+00:07:18,610 --> 00:07:22,810
+music or dig into Martin Svendsen's
+
+243
+00:07:20,500 --> 00:07:24,580
+14-hour mega course on editing with
+
+244
+00:07:22,810 --> 00:07:26,350
+Logic Pro a Premium Membership on
+
+245
+00:07:24,579 --> 00:07:27,668
+Skillshare is super affordable less than
+
+246
+00:07:26,350 --> 00:07:29,200
+ten bucks a month and like I said
+
+247
+00:07:27,670 --> 00:07:30,339
+earlier if you were one of the first 500
+
+248
+00:07:29,199 --> 00:07:31,839
+people to use that link in the
+
+249
+00:07:30,339 --> 00:07:33,609
+description down below to sign up you're
+
+250
+00:07:31,839 --> 00:07:35,229
+also gonna get two month unlimited free
+
+251
+00:07:33,610 --> 00:07:36,880
+trial of their service big thanks to
+
+252
+00:07:35,230 --> 00:07:38,230
+Skillshare for sponsoring this video and
+
+253
+00:07:36,879 --> 00:07:39,999
+being a big supporter of my channel and
+
+254
+00:07:38,230 --> 00:07:41,290
+as always guys thank you so much for
+
+255
+00:07:40,000 --> 00:07:42,879
+watching if you enjoyed this video hit
+
+256
+00:07:41,290 --> 00:07:44,470
+that like button get subscribed for new
+
+257
+00:07:42,879 --> 00:07:45,908
+videos every single week and maybe click
+
+258
+00:07:44,470 --> 00:07:47,800
+right there to get a free copy of my
+
+259
+00:07:45,910 --> 00:07:48,999
+book on how to earn better grades you
+
+260
+00:07:47,800 --> 00:07:50,409
+can also check out one more video on
+
+261
+00:07:49,000 --> 00:07:51,910
+this channel right here and if you
+
+262
+00:07:50,410 --> 00:07:52,809
+haven't checked out my podcast yet you
+
+263
+00:07:51,910 --> 00:07:54,610
+might want to check it out right here
+
+264
+00:07:52,810 --> 00:07:56,200
+especially because in a couple of days
+
+265
+00:07:54,610 --> 00:07:57,819
+we have an entire episode coming out all
+
+266
+00:07:56,199 --> 00:07:58,839
+about how to improve your workspace
+
+267
+00:07:57,819 --> 00:08:00,278
+you're gonna want to keep your eyes
+
+268
+00:07:58,839 --> 00:08:01,928
+peeled for that thanks once again for
+
+269
+00:08:00,279 --> 00:08:05,038
+listening and as always I will see you
+
+270
+00:08:01,930 --> 00:08:05,039
+in the next video
+

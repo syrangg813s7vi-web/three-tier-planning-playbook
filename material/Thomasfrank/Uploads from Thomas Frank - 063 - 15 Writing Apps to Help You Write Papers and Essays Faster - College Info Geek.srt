@@ -1,0 +1,492 @@
+1
+00:00:00,080 --> 00:00:04,440
+the American journalist Jean fer once
+
+2
+00:00:02,158 --> 00:00:03,880
+said that writing is easy all you do is
+
+3
+00:00:04,519 --> 00:00:08,199
+stare at a blank sheet of paper until
+
+4
+00:00:06,040 --> 00:00:10,240
+drops of blood form on your forehead
+
+5
+00:00:08,199 --> 00:00:12,319
+make no mistake though writing is hard
+
+6
+00:00:10,240 --> 00:00:13,799
+and Fowler was lying coffee can help
+
+7
+00:00:12,320 --> 00:00:16,199
+especially when it's in a cool mug like
+
+8
+00:00:13,798 --> 00:00:18,238
+this one but it only goes so far so
+
+9
+00:00:16,199 --> 00:00:19,1000
+today let's enlist the help of our robot
+
+10
+00:00:18,239 --> 00:00:21,839
+overlords and look at some writing apps
+
+11
+00:00:20,000 --> 00:00:24,480
+that can help us write more efficiently
+
+12
+00:00:21,839 --> 00:00:25,959
+and faster cogle is a free mind mapping
+
+13
+00:00:24,480 --> 00:00:27,399
+tool you can use to organize your
+
+14
+00:00:25,960 --> 00:00:28,678
+thoughts and get down everything you
+
+15
+00:00:27,399 --> 00:00:30,117
+want to write about and if you want
+
+16
+00:00:28,678 --> 00:00:31,278
+something a little bit more time based
+
+17
+00:00:30,118 --> 00:00:32,879
+maybe you're writing fiction then
+
+18
+00:00:31,278 --> 00:00:34,839
+storyline Creator is another tool that
+
+19
+00:00:32,880 --> 00:00:36,719
+will work for you also I have to mention
+
+20
+00:00:34,840 --> 00:00:38,639
+Evernote that is where all my scripts
+
+21
+00:00:36,719 --> 00:00:40,399
+and video ideas start out I basically
+
+22
+00:00:38,640 --> 00:00:42,360
+just dump info and it's my favorite
+
+23
+00:00:40,399 --> 00:00:44,120
+organizational tool for writing speaking
+
+24
+00:00:42,359 --> 00:00:45,959
+of huge multi-purpose applications
+
+25
+00:00:44,119 --> 00:00:47,718
+scrier is an app that many many
+
+26
+00:00:45,960 --> 00:00:49,879
+novelists use to write their books in
+
+27
+00:00:47,719 --> 00:00:51,558
+fact I used it to write my book it's got
+
+28
+00:00:49,878 --> 00:00:53,519
+a planning tool it's got a cartboard
+
+29
+00:00:51,558 --> 00:00:55,438
+where you can put scenes and ideas it's
+
+30
+00:00:53,520 --> 00:00:57,160
+got sophisticated writing tools a
+
+31
+00:00:55,439 --> 00:00:58,278
+distraction free mode all sorts of
+
+32
+00:00:57,159 --> 00:00:59,639
+features and if you want something a
+
+33
+00:00:58,280 --> 00:01:01,679
+little bit more simple I've heard that
+
+34
+00:00:59,640 --> 00:01:02,919
+novel is an alternative to that well
+
+35
+00:01:01,679 --> 00:01:04,437
+it's got a paired down feature set
+
+36
+00:01:02,920 --> 00:01:05,679
+compared to scrier it's got a nicer
+
+37
+00:01:04,438 --> 00:01:07,199
+design and it's meant to be a little bit
+
+38
+00:01:05,680 --> 00:01:08,999
+more simple and I've seen some writers
+
+39
+00:01:07,200 --> 00:01:10,680
+enjoy using it to get really simple one
+
+40
+00:01:09,000 --> 00:01:12,399
+of my absolute favorite writing apps is
+
+41
+00:01:10,680 --> 00:01:13,999
+byw which is a minimalist markdown
+
+42
+00:01:12,400 --> 00:01:14,1000
+editor for the Mac if you often have
+
+43
+00:01:14,000 --> 00:01:16,758
+trouble finding the right word to
+
+44
+00:01:15,000 --> 00:01:18,319
+describe something then twin Road writer
+
+45
+00:01:16,759 --> 00:01:19,920
+might be for you it's got an engine that
+
+46
+00:01:18,319 --> 00:01:22,039
+detects when you paused your writing and
+
+47
+00:01:19,920 --> 00:01:23,279
+then suggests alternate words to the
+
+48
+00:01:22,040 --> 00:01:24,600
+word that you just wrote if you have
+
+49
+00:01:23,280 --> 00:01:26,240
+trouble writing all together then you
+
+50
+00:01:24,599 --> 00:01:27,839
+should check out WR or die which is an
+
+51
+00:01:26,239 --> 00:01:29,998
+app that lets you set consequences for
+
+52
+00:01:27,840 --> 00:01:31,400
+not writing including kamakazi mode
+
+53
+00:01:30,000 --> 00:01:33,439
+which starts deleting your writing if
+
+54
+00:01:31,400 --> 00:01:35,239
+you pause for too long on the positive
+
+55
+00:01:33,438 --> 00:01:36,999
+side written kitten is an app that shows
+
+56
+00:01:35,239 --> 00:01:38,437
+you a cute picture of a kitten every 100
+
+57
+00:01:37,000 --> 00:01:40,520
+words you write you can also check out
+
+58
+00:01:38,438 --> 00:01:42,158
+750 words which is a web app that helps
+
+59
+00:01:40,519 --> 00:01:43,838
+you build a consistent habit of writing
+
+60
+00:01:42,159 --> 00:01:45,520
+every day and gives you your stats and
+
+61
+00:01:43,840 --> 00:01:46,960
+in that vein there's also a new website
+
+62
+00:01:45,519 --> 00:01:48,318
+called daily page which gives you a
+
+63
+00:01:46,959 --> 00:01:49,999
+daily writing prompt to help you build
+
+64
+00:01:48,319 --> 00:01:51,398
+your writing skills now if you're a grad
+
+65
+00:01:50,000 --> 00:01:52,798
+student or somebody who has to manage a
+
+66
+00:01:51,399 --> 00:01:54,359
+lot of research in your writing then you
+
+67
+00:01:52,799 --> 00:01:55,839
+should definitely give mentally a look
+
+68
+00:01:54,359 --> 00:01:57,879
+and if you want to edit your papers more
+
+69
+00:01:55,840 --> 00:01:59,560
+effectively edit minion is a little tool
+
+70
+00:01:57,879 --> 00:02:01,278
+made by the guy who created writ or die
+
+71
+00:01:59,560 --> 00:02:02,919
+which point out weak words in your
+
+72
+00:02:01,280 --> 00:02:04,240
+writing lastly I've got those little
+
+73
+00:02:02,920 --> 00:02:05,679
+accessory apps to help you get in the
+
+74
+00:02:04,239 --> 00:02:07,239
+mood for writing and one of them is
+
+75
+00:02:05,680 --> 00:02:09,079
+cativity which is a website that
+
+76
+00:02:07,239 --> 00:02:10,318
+generates coffee shop noise in case you
+
+77
+00:02:09,080 --> 00:02:11,519
+really like that and it gets you in the
+
+78
+00:02:10,318 --> 00:02:13,718
+mood but you don't happen to have a
+
+79
+00:02:11,520 --> 00:02:15,640
+coffee shop nearby and the last one is
+
+80
+00:02:13,719 --> 00:02:17,318
+brain.fm which is a website that uses
+
+81
+00:02:15,639 --> 00:02:18,998
+artificial intelligence to generate
+
+82
+00:02:17,318 --> 00:02:21,119
+music that supposedly helps you increase
+
+83
+00:02:19,000 --> 00:02:22,759
+your focus and concentration so that is
+
+84
+00:02:21,120 --> 00:02:24,519
+all I've got for this video obviously
+
+85
+00:02:22,759 --> 00:02:26,279
+this is not a comprehensive list of all
+
+86
+00:02:24,519 --> 00:02:27,999
+the writing apps out there so definitely
+
+87
+00:02:26,280 --> 00:02:29,1000
+suggest other ones down in the comments
+
+88
+00:02:28,000 --> 00:02:31,318
+that we would find helpful also if you
+
+89
+00:02:30,000 --> 00:02:32,560
+watched any of my other videos to the
+
+90
+00:02:31,318 --> 00:02:34,039
+end you probably know that I wrote a
+
+91
+00:02:32,560 --> 00:02:36,318
+book about a year ago and if you would
+
+92
+00:02:34,039 --> 00:02:38,638
+like to know how I wrote that 27,000
+
+93
+00:02:36,318 --> 00:02:40,478
+word book within a period of 3 months I
+
+94
+00:02:38,639 --> 00:02:41,998
+have a podcast episode where I go over
+
+95
+00:02:40,479 --> 00:02:44,237
+some of what I learned and some of the
+
+96
+00:02:42,000 --> 00:02:45,640
+practices I used to get it done so click
+
+97
+00:02:44,239 --> 00:02:46,920
+the card right now if you'd like to tune
+
+98
+00:02:45,639 --> 00:02:48,279
+in that's all I've got for you guys
+
+99
+00:02:46,919 --> 00:02:49,439
+today so if you're using this video to
+
+100
+00:02:48,280 --> 00:02:51,518
+procrastinate on a big writing
+
+101
+00:02:49,439 --> 00:02:53,278
+assignment stop it and otherwise I will
+
+102
+00:02:51,519 --> 00:02:54,800
+see you guys in next week's video thanks
+
+103
+00:02:53,280 --> 00:02:56,800
+for
+
+104
+00:02:54,800 --> 00:02:58,239
+watching hey guys thanks so much for
+
+105
+00:02:56,800 --> 00:02:59,518
+watching this video on writing apps now
+
+106
+00:02:58,239 --> 00:03:00,1000
+if you want to get new tips on being a
+
+107
+00:02:59,519 --> 00:03:02,159
+more respective student every single
+
+108
+00:03:01,000 --> 00:03:03,959
+week you can click that big red
+
+109
+00:03:02,158 --> 00:03:05,318
+subscribe button right there I also
+
+110
+00:03:03,959 --> 00:03:06,560
+wrote an entire book on how to earn
+
+111
+00:03:05,318 --> 00:03:08,157
+better grades and if you would like to
+
+112
+00:03:06,560 --> 00:03:09,439
+get a free copy of it you can cck a
+
+113
+00:03:08,158 --> 00:03:10,798
+picture of the book and I'll send you
+
+114
+00:03:09,439 --> 00:03:12,439
+one and if you would like to see the
+
+115
+00:03:10,799 --> 00:03:14,319
+list of all these apps with links to
+
+116
+00:03:12,439 --> 00:03:16,479
+each one go to the companion blog post
+
+117
+00:03:14,318 --> 00:03:17,758
+by clicking the orange logo right there
+
+118
+00:03:16,479 --> 00:03:19,439
+last week's video we talked about how to
+
+119
+00:03:17,759 --> 00:03:20,678
+overcome perfectionism so check it out
+
+120
+00:03:19,439 --> 00:03:22,039
+if you haven't seen it yet and if you
+
+121
+00:03:20,680 --> 00:03:23,878
+would like to connect with me I'm Tom
+
+122
+00:03:22,039 --> 00:03:27,798
+frankley on Instagram and Twitter or you
+
+123
+00:03:23,878 --> 00:03:27,797
+can leave a comment down below
+

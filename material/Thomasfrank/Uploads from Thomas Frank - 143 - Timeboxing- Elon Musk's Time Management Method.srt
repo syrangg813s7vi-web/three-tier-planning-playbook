@@ -1,0 +1,1492 @@
+1
+00:00:00,000 --> 00:00:04,919
+it is no secret that Elon Musk has an
+
+2
+00:00:02,250 --> 00:00:04,349
+insane work schedule working more than
+
+3
+00:00:04,919 --> 00:00:08,518
+double the hours of the average
+
+4
+00:00:06,599 --> 00:00:10,738
+full-time worker and and you know now
+
+5
+00:00:08,519 --> 00:00:13,110
+I'm kind of in the 80 to 90 which is
+
+6
+00:00:10,740 --> 00:00:14,490
+well manageable but but you know that if
+
+7
+00:00:13,109 --> 00:00:16,858
+you divide that by two it's only like
+
+8
+00:00:14,490 --> 00:00:19,108
+you know maybe forty five hours per
+
+9
+00:00:16,859 --> 00:00:21,349
+company which is not not much if there's
+
+10
+00:00:19,109 --> 00:00:24,209
+a lot of things going on like a slacker
+
+11
+00:00:21,350 --> 00:00:25,800
+yeah that time is split between many
+
+12
+00:00:24,210 --> 00:00:28,259
+different projects most of it goes to
+
+13
+00:00:25,800 --> 00:00:29,1000
+his main companies Tesla and SpaceX but
+
+14
+00:00:28,260 --> 00:00:32,578
+he also spends time on things like the
+
+15
+00:00:30,000 --> 00:00:33,870
+boring company and open AI and of course
+
+16
+00:00:32,579 --> 00:00:35,430
+making flamethrowers
+
+17
+00:00:33,869 --> 00:00:37,468
+add to that the fact that according to
+
+18
+00:00:35,429 --> 00:00:39,568
+Ashley Vance's biography on him he
+
+19
+00:00:37,469 --> 00:00:41,550
+spends four days a week with his five
+
+20
+00:00:39,570 --> 00:00:44,070
+children and you've got what is possibly
+
+21
+00:00:41,549 --> 00:00:46,709
+one of the busiest and most hectic daily
+
+22
+00:00:44,070 --> 00:00:48,300
+schedules of anybody on this planet now
+
+23
+00:00:46,710 --> 00:00:50,069
+in contrast to the video that I did
+
+24
+00:00:48,299 --> 00:00:52,287
+about Ben Franklin just a few months ago
+
+25
+00:00:50,070 --> 00:00:54,270
+with Elon Musk we don't have a source
+
+26
+00:00:52,289 --> 00:00:56,489
+that gives us a super granular look at
+
+27
+00:00:54,270 --> 00:00:58,079
+his daily schedule even a few tidbits
+
+28
+00:00:56,488 --> 00:00:59,787
+cities are filled and interviews such as
+
+29
+00:00:58,079 --> 00:01:01,378
+the fact that he spends about 80 percent
+
+30
+00:00:59,789 --> 00:01:03,600
+of his time on design and engineering
+
+31
+00:01:01,378 --> 00:01:05,398
+despite what most people might think I
+
+32
+00:01:03,600 --> 00:01:08,819
+think a lot of people think I must spend
+
+33
+00:01:05,400 --> 00:01:11,520
+a lot of time with media or on business
+
+34
+00:01:08,819 --> 00:01:13,288
+he things but actually almost almost all
+
+35
+00:01:11,519 --> 00:01:16,019
+my time like 80% of it is spent on
+
+36
+00:01:13,290 --> 00:01:17,1000
+engineering design but what we do know
+
+37
+00:01:16,019 --> 00:01:19,858
+about is the method that he uses to keep
+
+38
+00:01:18,000 --> 00:01:21,930
+his schedule organized and to plan out
+
+39
+00:01:19,859 --> 00:01:23,218
+his day musk actually plans his day in
+
+40
+00:01:21,930 --> 00:01:25,709
+five minute increments and has
+
+41
+00:01:23,219 --> 00:01:26,727
+everything pre planned in advance this
+
+42
+00:01:25,709 --> 00:01:28,738
+is a technique called
+
+43
+00:01:26,728 --> 00:01:30,507
+time boxing it's actually used by lots
+
+44
+00:01:28,739 --> 00:01:32,669
+of other people including Bill Gates and
+
+45
+00:01:30,509 --> 00:01:35,070
+Cal Newport though Cal calls it time of
+
+46
+00:01:32,670 --> 00:01:36,449
+blocking essentially time boxing or time
+
+47
+00:01:35,069 --> 00:01:38,039
+blocking if you want to call it that or
+
+48
+00:01:36,450 --> 00:01:39,930
+hack time block saying I'm not gonna
+
+49
+00:01:38,040 --> 00:01:41,909
+stop you is the practice of setting a
+
+50
+00:01:39,930 --> 00:01:43,289
+fixed amount of time for each task that
+
+51
+00:01:41,909 --> 00:01:44,728
+you have to do and integrating those
+
+52
+00:01:43,290 --> 00:01:46,619
+blocks of time into your daily schedule
+
+53
+00:01:44,728 --> 00:01:48,297
+I use this technique a lot with my own
+
+54
+00:01:46,618 --> 00:01:49,798
+work and because people like musk and
+
+55
+00:01:48,299 --> 00:01:51,929
+Bill Gates and Cal Newport and many
+
+56
+00:01:49,799 --> 00:01:53,850
+others find it so useful today I wanted
+
+57
+00:01:51,930 --> 00:01:56,099
+to break down exactly how you can use
+
+58
+00:01:53,849 --> 00:01:57,599
+time boxing most effectively in your own
+
+59
+00:01:56,099 --> 00:02:00,268
+work so let's start with the obvious
+
+60
+00:01:57,599 --> 00:02:01,559
+question why use this technique why time
+
+61
+00:02:00,269 --> 00:02:03,059
+box your schedule and I know they're
+
+62
+00:02:01,560 --> 00:02:04,740
+gonna be critics of this technique right
+
+63
+00:02:03,060 --> 00:02:06,419
+off the bat who are gonna say scheduling
+
+64
+00:02:04,739 --> 00:02:08,008
+your entire day in advance basically
+
+65
+00:02:06,420 --> 00:02:10,140
+makes you a robot dude why would you
+
+66
+00:02:08,008 --> 00:02:13,139
+want to do that and I gotta say number
+
+67
+00:02:10,139 --> 00:02:15,358
+one you humans I mean we humans
+
+68
+00:02:13,139 --> 00:02:17,608
+give robots a bad rap sometimes but
+
+69
+00:02:15,360 --> 00:02:20,068
+number two this is kind of looking at it
+
+70
+00:02:17,610 --> 00:02:21,749
+from the wrong perspective yes
+
+71
+00:02:20,068 --> 00:02:22,769
+scheduling your day in advance does mean
+
+72
+00:02:21,750 --> 00:02:24,480
+you're gonna be adhering to a
+
+73
+00:02:22,770 --> 00:02:27,060
+predetermined plan and they're gonna
+
+74
+00:02:24,479 --> 00:02:29,309
+have less unstructured free time but as
+
+75
+00:02:27,060 --> 00:02:31,439
+you might know unstructured free time
+
+76
+00:02:29,310 --> 00:02:33,689
+can sometimes be a bad thing as
+
+77
+00:02:31,439 --> 00:02:36,299
+Parkinson's law states work tends to
+
+78
+00:02:33,689 --> 00:02:38,068
+expand to fill the time allotted for it
+
+79
+00:02:36,300 --> 00:02:40,139
+so essentially time boxing creates a
+
+80
+00:02:38,069 --> 00:02:42,118
+useful limitation that can actually make
+
+81
+00:02:40,139 --> 00:02:43,768
+you more productive first and foremost
+
+82
+00:02:42,120 --> 00:02:45,090
+it takes a lot of the choice out of the
+
+83
+00:02:43,770 --> 00:02:47,069
+moment of what you're going to work on
+
+84
+00:02:45,090 --> 00:02:49,080
+because you are hearing to a plan so you
+
+85
+00:02:47,069 --> 00:02:50,968
+spend less time figuring out what you're
+
+86
+00:02:49,080 --> 00:02:52,769
+gonna do in the first place and number
+
+87
+00:02:50,969 --> 00:02:54,929
+two because you have a limited amount of
+
+88
+00:02:52,769 --> 00:02:56,550
+time you aren't going to waste it you're
+
+89
+00:02:54,930 --> 00:02:58,229
+gonna be focusing a lot more intently
+
+90
+00:02:56,550 --> 00:03:00,208
+and in the case of people like musk and
+
+91
+00:02:58,229 --> 00:03:01,679
+Bill Gates they probably need to use
+
+92
+00:03:00,209 --> 00:03:03,209
+this technique they've got so many
+
+93
+00:03:01,680 --> 00:03:05,340
+commitments so many balls in the air
+
+94
+00:03:03,209 --> 00:03:06,930
+that without pre-planning their schedule
+
+95
+00:03:05,340 --> 00:03:08,429
+and keeping it really really organized
+
+96
+00:03:06,930 --> 00:03:10,890
+things are bound to slip through the
+
+97
+00:03:08,430 --> 00:03:13,229
+cracks okay so if I've got you convinced
+
+98
+00:03:10,889 --> 00:03:14,849
+let's talk about how to use time boxing
+
+99
+00:03:13,229 --> 00:03:16,469
+and the simplest way to do it is the way
+
+100
+00:03:14,849 --> 00:03:18,478
+that I like to do it where I write out
+
+101
+00:03:16,469 --> 00:03:20,368
+my daily plan either on my whiteboard or
+
+102
+00:03:18,479 --> 00:03:22,559
+on a piece of notebook paper and I just
+
+103
+00:03:20,370 --> 00:03:24,149
+estimate the amount of time each task is
+
+104
+00:03:22,560 --> 00:03:26,010
+going to take so don't actually put it
+
+105
+00:03:24,150 --> 00:03:28,650
+on a calendar and give it start and stop
+
+106
+00:03:26,009 --> 00:03:30,028
+times up today I just say this is going
+
+107
+00:03:28,650 --> 00:03:31,319
+to take me 20 minutes and then I'm gonna
+
+108
+00:03:30,030 --> 00:03:32,610
+move on to the next thing if you're
+
+109
+00:03:31,319 --> 00:03:34,379
+somebody like me who doesn't have a
+
+110
+00:03:32,610 --> 00:03:36,150
+whole lot of scheduled fixed commitments
+
+111
+00:03:34,379 --> 00:03:37,588
+that start and stop at specific times
+
+112
+00:03:36,150 --> 00:03:39,209
+then that can work really really well
+
+113
+00:03:37,590 --> 00:03:40,530
+and it might also work if you're in
+
+114
+00:03:39,209 --> 00:03:42,238
+school or you're an employee and you
+
+115
+00:03:40,530 --> 00:03:43,409
+have like a specific block of time when
+
+116
+00:03:42,239 --> 00:03:44,639
+you already know you're gonna be doing
+
+117
+00:03:43,409 --> 00:03:46,139
+things and then you have like another
+
+118
+00:03:44,639 --> 00:03:47,699
+block of time that's kind of freed up
+
+119
+00:03:46,139 --> 00:03:49,259
+and if this method does work well for
+
+120
+00:03:47,699 --> 00:03:51,779
+you you don't have to do it on paper
+
+121
+00:03:49,259 --> 00:03:53,278
+because there is an app called 3030 on
+
+122
+00:03:51,780 --> 00:03:55,739
+the iPhone that I have used several
+
+123
+00:03:53,280 --> 00:03:57,390
+times before now I gotta say I really
+
+124
+00:03:55,739 --> 00:03:59,040
+don't like the design of this app the
+
+125
+00:03:57,389 --> 00:04:01,078
+font they chose and this app is kind of
+
+126
+00:03:59,039 --> 00:04:02,789
+terrible but it is one of the few apps
+
+127
+00:04:01,079 --> 00:04:04,380
+that lets you set a specific time you're
+
+128
+00:04:02,789 --> 00:04:06,749
+going to work on a task and then kind of
+
+129
+00:04:04,379 --> 00:04:08,158
+like build a little itinerary of time
+
+130
+00:04:06,750 --> 00:04:09,839
+two tasks that you can then go through
+
+131
+00:04:08,159 --> 00:04:10,768
+and I used to use this a lot in college
+
+132
+00:04:09,840 --> 00:04:12,959
+when I had a lot of homework assignments
+
+133
+00:04:10,769 --> 00:04:14,940
+to get through now if you are an Android
+
+134
+00:04:12,959 --> 00:04:16,769
+I don't believe thirty thirty is on the
+
+135
+00:04:14,939 --> 00:04:18,778
+Android platform but there is an app out
+
+136
+00:04:16,769 --> 00:04:20,940
+there called do now that seems to have a
+
+137
+00:04:18,779 --> 00:04:22,618
+similar function now if you are the kind
+
+138
+00:04:20,939 --> 00:04:24,899
+of person that has a schedule with lots
+
+139
+00:04:22,620 --> 00:04:26,709
+of predetermined commitments already and
+
+140
+00:04:24,899 --> 00:04:28,358
+have gaps in between them or
+
+141
+00:04:26,709 --> 00:04:30,068
+just want to have more structure in your
+
+142
+00:04:28,360 --> 00:04:31,960
+life and you actually might find it
+
+143
+00:04:30,069 --> 00:04:34,029
+useful to use a calendar for your time
+
+144
+00:04:31,959 --> 00:04:36,128
+boxing to set specific start and stop
+
+145
+00:04:34,029 --> 00:04:37,719
+times for your tasks this is the way the
+
+146
+00:04:36,129 --> 00:04:39,399
+Cal Newport says he does it in his blog
+
+147
+00:04:37,720 --> 00:04:40,960
+post on the subject and if you're a
+
+148
+00:04:39,399 --> 00:04:42,908
+student that has a lot of little gaps of
+
+149
+00:04:40,959 --> 00:04:44,709
+time in between classes I think this is
+
+150
+00:04:42,910 --> 00:04:45,818
+the way to go for you either way if
+
+151
+00:04:44,709 --> 00:04:47,798
+you're going to use this technique
+
+152
+00:04:45,819 --> 00:04:49,330
+successfully then the number one thing
+
+153
+00:04:47,800 --> 00:04:51,910
+you're gonna need to learn how to do is
+
+154
+00:04:49,329 --> 00:04:54,037
+properly estimate how long tasks are
+
+155
+00:04:51,910 --> 00:04:56,948
+going to take you to complete and the
+
+156
+00:04:54,038 --> 00:04:59,257
+bad news that you and me both are human
+
+157
+00:04:56,949 --> 00:05:00,639
+beings we both like ingesting organic
+
+158
+00:04:59,259 --> 00:05:02,589
+matter we both like using our
+
+159
+00:05:00,639 --> 00:05:04,810
+respiratory systems to convert oxygen
+
+160
+00:05:02,589 --> 00:05:07,058
+into carbon dioxide and we are both
+
+161
+00:05:04,810 --> 00:05:08,439
+naturally bad at estimating how long
+
+162
+00:05:07,060 --> 00:05:09,698
+things are going to take that I
+
+163
+00:05:08,439 --> 00:05:11,168
+mentioned I'm not a robot we're all
+
+164
+00:05:09,699 --> 00:05:12,1000
+susceptible to what's called the
+
+165
+00:05:11,168 --> 00:05:14,529
+planning fallacy which describes how
+
+166
+00:05:13,000 --> 00:05:16,388
+human beings tend to make over
+
+167
+00:05:14,529 --> 00:05:18,158
+optimistic predictions for how long
+
+168
+00:05:16,389 --> 00:05:19,269
+things are going to take there was
+
+169
+00:05:18,158 --> 00:05:21,519
+actually some research done at the
+
+170
+00:05:19,269 --> 00:05:22,929
+University of Waterloo in Canada on this
+
+171
+00:05:21,519 --> 00:05:24,519
+phenomenon students were asked to make
+
+172
+00:05:22,930 --> 00:05:26,979
+two different types of time predictions
+
+173
+00:05:24,519 --> 00:05:28,507
+one was a best-case scenario prediction
+
+174
+00:05:26,978 --> 00:05:29,918
+where literally everything went right
+
+175
+00:05:28,509 --> 00:05:31,690
+and the other one was for the average
+
+176
+00:05:29,918 --> 00:05:33,638
+case scenario your average everyday
+
+177
+00:05:31,689 --> 00:05:35,619
+run-of-the-mill experience and the
+
+178
+00:05:33,639 --> 00:05:37,720
+researchers found that predictions for
+
+179
+00:05:35,620 --> 00:05:39,698
+both types of scenarios were virtually
+
+180
+00:05:37,720 --> 00:05:41,710
+identical which showed them that human
+
+181
+00:05:39,699 --> 00:05:43,449
+beings tend to picture the best case
+
+182
+00:05:41,709 --> 00:05:44,978
+scenario where literally nothing goes
+
+183
+00:05:43,449 --> 00:05:46,329
+wrong when they're trying to predict
+
+184
+00:05:44,978 --> 00:05:48,938
+what's gonna happen in an average
+
+185
+00:05:46,329 --> 00:05:50,529
+everyday case so even though you know in
+
+186
+00:05:48,939 --> 00:05:52,209
+the back of your head that when you try
+
+187
+00:05:50,529 --> 00:05:54,037
+to get to work on an average day there's
+
+188
+00:05:52,209 --> 00:05:55,507
+traffic or somebody's driving in front
+
+189
+00:05:54,038 --> 00:05:57,399
+of you really slow on their phone as a
+
+190
+00:05:55,509 --> 00:05:58,718
+grandma in front of you when you predict
+
+191
+00:05:57,399 --> 00:06:00,428
+how long it's gonna take to get to work
+
+192
+00:05:58,718 --> 00:06:02,227
+you picture the scenario where there's
+
+193
+00:06:00,430 --> 00:06:04,538
+barely any traffic at all and everything
+
+194
+00:06:02,228 --> 00:06:06,819
+is just perfect and this cognitive bug
+
+195
+00:06:04,538 --> 00:06:08,799
+is not very congruent with successful
+
+196
+00:06:06,819 --> 00:06:10,958
+time boxing because if you tend to make
+
+197
+00:06:08,800 --> 00:06:12,759
+super over-optimistic predictions for
+
+198
+00:06:10,959 --> 00:06:14,588
+how long each task is going to take then
+
+199
+00:06:12,759 --> 00:06:15,968
+you are gonna end up getting less than
+
+200
+00:06:14,589 --> 00:06:17,948
+half of what you plan to get done
+
+201
+00:06:15,968 --> 00:06:19,749
+actually done so one way to get better
+
+202
+00:06:17,949 --> 00:06:22,359
+at estimating how long your tasks are
+
+203
+00:06:19,750 --> 00:06:24,219
+actually going to take is to track your
+
+204
+00:06:22,360 --> 00:06:25,869
+time the app that I personally use for
+
+205
+00:06:24,218 --> 00:06:28,299
+this is called toggle which is available
+
+206
+00:06:25,870 --> 00:06:29,649
+both on computers and mobile devices and
+
+207
+00:06:28,300 --> 00:06:31,150
+essentially you just tell it what you're
+
+208
+00:06:29,649 --> 00:06:32,769
+gonna do you can give it a tag if you
+
+209
+00:06:31,149 --> 00:06:34,178
+want and then you start it and stop it
+
+210
+00:06:32,769 --> 00:06:36,157
+once you're done I found that if you
+
+211
+00:06:34,180 --> 00:06:37,959
+track your time with an app like this
+
+212
+00:06:36,158 --> 00:06:38,948
+then over time you start to get a record
+
+213
+00:06:37,959 --> 00:06:40,508
+of how long thing
+
+214
+00:06:38,949 --> 00:06:42,308
+actually take and you can start to see
+
+215
+00:06:40,509 --> 00:06:44,648
+what the discrepancy is between your
+
+216
+00:06:42,310 --> 00:06:45,669
+original estimations and the actual date
+
+217
+00:06:44,649 --> 00:06:47,589
+from there you can sort of start
+
+218
+00:06:45,670 --> 00:06:49,929
+calibrating your brain and making better
+
+219
+00:06:47,589 --> 00:06:51,008
+estimations also when you're sitting
+
+220
+00:06:49,930 --> 00:06:52,660
+down to plan your day and you're
+
+221
+00:06:51,009 --> 00:06:54,368
+estimating how long your tasks are gonna
+
+222
+00:06:52,660 --> 00:06:56,430
+take it's gonna be really helpful if you
+
+223
+00:06:54,370 --> 00:06:58,539
+split your bigger tasks into smaller
+
+224
+00:06:56,430 --> 00:07:00,729
+subtasks not only will this make your
+
+225
+00:06:58,540 --> 00:07:02,290
+task list more action-oriented and clear
+
+226
+00:07:00,730 --> 00:07:04,930
+but it's also gonna help you with your
+
+227
+00:07:02,290 --> 00:07:06,339
+estimations because it is always easier
+
+228
+00:07:04,930 --> 00:07:08,709
+to estimate how long a small
+
+229
+00:07:06,339 --> 00:07:10,659
+well-defined task is going to take all
+
+230
+00:07:08,709 --> 00:07:12,338
+right so now we have to deal with what
+
+231
+00:07:10,660 --> 00:07:15,249
+is possibly the most legitimate
+
+232
+00:07:12,339 --> 00:07:17,138
+objection to time boxing which is how do
+
+233
+00:07:15,250 --> 00:07:18,1000
+you deal with interruptions how you deal
+
+234
+00:07:17,139 --> 00:07:21,249
+with things that you couldn't plan for
+
+235
+00:07:19,000 --> 00:07:23,349
+or things that just pop up and interrupt
+
+236
+00:07:21,250 --> 00:07:26,769
+your work Tom the Secret Service wants
+
+237
+00:07:23,350 --> 00:07:28,659
+you again again well as Dwight D
+
+238
+00:07:26,769 --> 00:07:31,688
+Eisenhower once said planning is
+
+239
+00:07:28,660 --> 00:07:33,969
+everything plans are nothing so when
+
+240
+00:07:31,689 --> 00:07:35,799
+your plan gets interrupted revise that
+
+241
+00:07:33,970 --> 00:07:37,450
+plan County reports time blocking blog
+
+242
+00:07:35,800 --> 00:07:39,610
+post actually provides a great example
+
+243
+00:07:37,449 --> 00:07:41,588
+of how to do this he splits his notebook
+
+244
+00:07:39,610 --> 00:07:43,930
+paper into columns and uses the first
+
+245
+00:07:41,589 --> 00:07:45,069
+column as his original plan then if
+
+246
+00:07:43,930 --> 00:07:46,329
+plans change or something gets
+
+247
+00:07:45,069 --> 00:07:48,578
+interrupted during the course of the day
+
+248
+00:07:46,329 --> 00:07:50,139
+he just revises the plan in the next
+
+249
+00:07:48,579 --> 00:07:52,029
+column and then continues on from there
+
+250
+00:07:50,139 --> 00:07:53,319
+he also advises designating certain
+
+251
+00:07:52,029 --> 00:07:55,479
+blocks of time as what he calls
+
+252
+00:07:53,319 --> 00:07:57,039
+reactionary time blocks of time that are
+
+253
+00:07:55,480 --> 00:07:57,1000
+literally set up for dealing with those
+
+254
+00:07:57,040 --> 00:07:59,950
+things that come up during the course
+
+255
+00:07:58,000 --> 00:08:01,660
+the day that you didn't plan for now
+
+256
+00:07:59,949 --> 00:08:03,248
+sometimes things are gonna pop up that
+
+257
+00:08:01,660 --> 00:08:04,749
+you have to deal with right now and they
+
+258
+00:08:03,250 --> 00:08:06,160
+might be in a time block that was
+
+259
+00:08:04,750 --> 00:08:07,390
+planned for something else and in those
+
+260
+00:08:06,160 --> 00:08:08,890
+cases you're gonna have to roll with the
+
+261
+00:08:07,389 --> 00:08:09,938
+punches but if something comes up that
+
+262
+00:08:08,889 --> 00:08:11,589
+you can deal with later than a
+
+263
+00:08:09,939 --> 00:08:12,729
+reactionary time block is the perfect
+
+264
+00:08:11,589 --> 00:08:14,439
+time to take care of it
+
+265
+00:08:12,730 --> 00:08:15,970
+one thing that I would add here is don't
+
+266
+00:08:14,439 --> 00:08:18,039
+be discouraged if you're unable to
+
+267
+00:08:15,970 --> 00:08:20,050
+follow your plan to the letter life is
+
+268
+00:08:18,040 --> 00:08:21,939
+inherently unpredictable sometimes but
+
+269
+00:08:20,050 --> 00:08:24,700
+that doesn't mean planning out your day
+
+270
+00:08:21,939 --> 00:08:26,679
+is a flawed tactic no tactic works 100%
+
+271
+00:08:24,699 --> 00:08:28,659
+of the time just do your best to adapt
+
+272
+00:08:26,680 --> 00:08:30,699
+and then at the end of the day analyze
+
+273
+00:08:28,660 --> 00:08:32,019
+your plan and see if what interrupted it
+
+274
+00:08:30,699 --> 00:08:33,759
+was something that you need to account
+
+275
+00:08:32,019 --> 00:08:35,438
+for in the future or if it was just a
+
+276
+00:08:33,759 --> 00:08:37,839
+one-time thing and that brings me to my
+
+277
+00:08:35,440 --> 00:08:39,760
+last but most crucial piece of advice
+
+278
+00:08:37,840 --> 00:08:42,519
+for using this technique effectively
+
+279
+00:08:39,759 --> 00:08:44,919
+avoid the temptation to over schedule
+
+280
+00:08:42,519 --> 00:08:46,688
+your day yes Elon Musk is putting an 80
+
+281
+00:08:44,919 --> 00:08:48,829
+to 90 hour work week so juggling a
+
+282
+00:08:46,690 --> 00:08:51,230
+zillion things at once but number one
+
+283
+00:08:48,830 --> 00:08:52,580
+that dude is a monster and number two if
+
+284
+00:08:51,230 --> 00:08:53,750
+you have difficult work on your plate
+
+285
+00:08:52,580 --> 00:08:55,729
+that requires a lot of a tense
+
+286
+00:08:53,750 --> 00:08:58,190
+concentration and creativity sometimes
+
+287
+00:08:55,730 --> 00:09:00,079
+that's all you can do in a given day
+
+288
+00:08:58,190 --> 00:09:01,759
+don't try to squeeze work like that into
+
+289
+00:09:00,080 --> 00:09:03,560
+a tiny sliver of time and a day that's
+
+290
+00:09:01,759 --> 00:09:05,149
+already taken up with errands and admin
+
+291
+00:09:03,559 --> 00:09:06,978
+work as the authors of the book the four
+
+292
+00:09:05,149 --> 00:09:09,109
+disciplines of execution point out the
+
+293
+00:09:06,980 --> 00:09:11,659
+more you try to do the less you actually
+
+294
+00:09:09,110 --> 00:09:13,340
+accomplish so take advantage of the
+
+295
+00:09:11,659 --> 00:09:15,558
+productivity benefits that come from the
+
+296
+00:09:13,340 --> 00:09:17,630
+limitations of time boxing but give that
+
+297
+00:09:15,559 --> 00:09:19,698
+difficult creative work the space it
+
+298
+00:09:17,629 --> 00:09:21,709
+deserves and save that mentally easier
+
+299
+00:09:19,700 --> 00:09:23,209
+work for a concentrated batch day and
+
+300
+00:09:21,710 --> 00:09:25,370
+while we're talking about that more
+
+301
+00:09:23,210 --> 00:09:26,600
+cognitively trivial admin work if you do
+
+302
+00:09:25,370 --> 00:09:27,979
+happen to want to make that more
+
+303
+00:09:26,600 --> 00:09:29,990
+efficient than one thing that you might
+
+304
+00:09:27,980 --> 00:09:31,520
+want to try is audible which is the
+
+305
+00:09:29,990 --> 00:09:33,710
+world's best place to download and
+
+306
+00:09:31,519 --> 00:09:35,418
+listen to audio books audiobooks are a
+
+307
+00:09:33,710 --> 00:09:36,710
+big part of my life and they're a great
+
+308
+00:09:35,419 --> 00:09:38,088
+way to be more efficient with your time
+
+309
+00:09:36,710 --> 00:09:39,230
+since you can listen to them while
+
+310
+00:09:38,090 --> 00:09:40,1000
+you're at the gym or while you're
+
+311
+00:09:39,230 --> 00:09:42,950
+commuting to school or work or cooking
+
+312
+00:09:41,000 --> 00:09:44,330
+while you're doing laundry basically any
+
+313
+00:09:42,950 --> 00:09:45,769
+time you're doing something that doesn't
+
+314
+00:09:44,330 --> 00:09:48,200
+require a whole lot of attention in
+
+315
+00:09:45,769 --> 00:09:49,548
+itself audible has an unmatched library
+
+316
+00:09:48,200 --> 00:09:51,890
+of audiobooks ranging from the
+
+317
+00:09:49,549 --> 00:09:53,118
+bestsellers to lots of obscure titles so
+
+318
+00:09:51,889 --> 00:09:54,619
+you're gonna be able to find and listen
+
+319
+00:09:53,120 --> 00:09:56,209
+to basically anything that's on your
+
+320
+00:09:54,620 --> 00:09:57,800
+reading list a membership comes with a
+
+321
+00:09:56,210 --> 00:09:59,629
+credit for one free audiobook every
+
+322
+00:09:57,799 --> 00:10:01,848
+single month and unused credits roll
+
+323
+00:09:59,629 --> 00:10:03,289
+over from a month-to-month also if you
+
+324
+00:10:01,850 --> 00:10:05,030
+don't like a book you can exchange it
+
+325
+00:10:03,289 --> 00:10:06,708
+with no questions asked and if you do
+
+326
+00:10:05,029 --> 00:10:07,848
+happen to cancel all the audiobooks
+
+327
+00:10:06,710 --> 00:10:09,770
+you've downloaded are yours to keep
+
+328
+00:10:07,850 --> 00:10:11,629
+forever so if this sounds good to you
+
+329
+00:10:09,769 --> 00:10:13,338
+you can get a 30-day free trial of their
+
+330
+00:10:11,629 --> 00:10:15,079
+service along with a free audiobook
+
+331
+00:10:13,340 --> 00:10:17,689
+download of your choosing by heading
+
+332
+00:10:15,080 --> 00:10:19,429
+over to audible.com slash Thomas or by
+
+333
+00:10:17,690 --> 00:10:20,960
+texting Thomas to five hundred five
+
+334
+00:10:19,429 --> 00:10:22,609
+hundred on your phone this month I'm
+
+335
+00:10:20,960 --> 00:10:24,589
+gonna recommend one of my absolute
+
+336
+00:10:22,610 --> 00:10:25,1000
+favorite books of all time which is Bill
+
+337
+00:10:24,590 --> 00:10:28,099
+Bryson's a short history of nearly
+
+338
+00:10:26,000 --> 00:10:29,779
+everything which I own both in print and
+
+339
+00:10:28,100 --> 00:10:31,580
+as an audiobook this is the book that
+
+340
+00:10:29,779 --> 00:10:33,678
+really did the most to rekindle my
+
+341
+00:10:31,580 --> 00:10:34,850
+interest in science and it also expanded
+
+342
+00:10:33,679 --> 00:10:36,768
+my appetite for learning in different
+
+343
+00:10:34,850 --> 00:10:38,600
+areas and beyond that motivational
+
+344
+00:10:36,769 --> 00:10:40,788
+aspect this is really just one of the
+
+345
+00:10:38,600 --> 00:10:42,680
+best and most entertaining overviews of
+
+346
+00:10:40,789 --> 00:10:44,029
+science that I've ever come across and I
+
+347
+00:10:42,679 --> 00:10:45,379
+think that anyone who wants to be more
+
+348
+00:10:44,029 --> 00:10:46,999
+well-rounded should definitely
+
+349
+00:10:45,379 --> 00:10:48,678
+experience it so if you want to start
+
+350
+00:10:47,000 --> 00:10:50,359
+listening to that book or any other
+
+351
+00:10:48,679 --> 00:10:52,879
+audio book of your choosing once again
+
+352
+00:10:50,360 --> 00:10:54,860
+head on over to audible.com slash Thomas
+
+353
+00:10:52,879 --> 00:10:56,419
+or text Thomas to five hundred five
+
+354
+00:10:54,860 --> 00:10:57,939
+hundred on your phone to start that free
+
+355
+00:10:56,419 --> 00:10:59,588
+trial and get your free audio
+
+356
+00:10:57,938 --> 00:11:00,969
+download big thanks to audible for
+
+357
+00:10:59,589 --> 00:11:02,649
+sponsoring this video and helping to
+
+358
+00:11:00,970 --> 00:11:04,688
+support this channel and as always guys
+
+359
+00:11:02,649 --> 00:11:05,499
+thank you so much for watching if you
+
+360
+00:11:04,688 --> 00:11:07,418
+don't want to miss future videos
+
+361
+00:11:05,499 --> 00:11:09,278
+definitely get subscribed right there
+
+362
+00:11:07,418 --> 00:11:10,567
+and you can also download a free copy of
+
+363
+00:11:09,278 --> 00:11:12,307
+my book on how to earn better grades
+
+364
+00:11:10,568 --> 00:11:13,688
+right over there you might also want to
+
+365
+00:11:12,308 --> 00:11:15,038
+check out our latest podcast episode
+
+366
+00:11:13,688 --> 00:11:16,777
+right here which is all about how to
+
+367
+00:11:15,038 --> 00:11:18,158
+become a tea drinker something that you
+
+368
+00:11:16,778 --> 00:11:20,258
+coffee addicts probably should learn
+
+369
+00:11:18,158 --> 00:11:21,969
+about or check out one additional video
+
+370
+00:11:20,259 --> 00:11:23,319
+on this channel by smashing your face
+
+371
+00:11:21,970 --> 00:11:25,089
+into your phone screen or write it
+
+372
+00:11:23,318 --> 00:11:27,688
+around here thanks for watching and I'll
+
+373
+00:11:25,089 --> 00:11:27,689
+see you next week
+

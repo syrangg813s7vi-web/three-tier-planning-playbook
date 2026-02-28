@@ -1,0 +1,532 @@
+1
+00:00:00,199 --> 00:00:03,920
+yes friends as the incredibly hyperbolic
+
+2
+00:00:02,200 --> 00:00:04,040
+title of this video implies you can
+
+3
+00:00:04,120 --> 00:00:07,999
+indeed organize your iPhone home screen
+
+4
+00:00:06,240 --> 00:00:09,840
+in such a way that it will transform you
+
+5
+00:00:08,000 --> 00:00:11,559
+into an ultra powerful work robot with
+
+6
+00:00:09,839 --> 00:00:13,238
+superpowers of productivity if that
+
+7
+00:00:11,558 --> 00:00:14,837
+weren't the case why would I and so many
+
+8
+00:00:13,240 --> 00:00:16,279
+other supposedly productive people on
+
+9
+00:00:14,839 --> 00:00:18,160
+the internet spend so much time
+
+10
+00:00:16,278 --> 00:00:20,718
+organizing their iPhone home screens it
+
+11
+00:00:18,160 --> 00:00:22,198
+just wouldn't make sense so let's begin
+
+12
+00:00:20,719 --> 00:00:23,598
+before we jump into my current setup I
+
+13
+00:00:22,199 --> 00:00:25,320
+think it' be good to contrast it with
+
+14
+00:00:23,599 --> 00:00:27,679
+the previous one so here's a shot of my
+
+15
+00:00:25,320 --> 00:00:29,598
+old home screen not terrible but not
+
+16
+00:00:27,678 --> 00:00:30,638
+really great either aside from the game
+
+17
+00:00:29,599 --> 00:00:32,160
+sitting in the home screen that
+
+18
+00:00:30,640 --> 00:00:34,120
+shouldn't be there there's a lot of
+
+19
+00:00:32,159 --> 00:00:35,119
+visual clutter all right let's move on
+
+20
+00:00:34,119 --> 00:00:36,639
+the main thing you'll notice about my
+
+21
+00:00:35,119 --> 00:00:38,918
+current iPhone setup is that it consists
+
+22
+00:00:36,640 --> 00:00:40,160
+of only one screen I've chosen not to
+
+23
+00:00:38,920 --> 00:00:41,558
+fill the whole screen up with apps
+
+24
+00:00:40,159 --> 00:00:43,159
+instead I've realized that leaving some
+
+25
+00:00:41,558 --> 00:00:44,679
+space looks a lot nicer instead of
+
+26
+00:00:43,159 --> 00:00:46,359
+trying to fill every single slot with an
+
+27
+00:00:44,679 --> 00:00:48,558
+app I've narrowed my choices down to the
+
+28
+00:00:46,359 --> 00:00:50,158
+16 apps that I use most or that are most
+
+29
+00:00:48,558 --> 00:00:53,038
+useful to me the rest of the apps live
+
+30
+00:00:50,159 --> 00:00:54,998
+in one of four folders work play go and
+
+31
+00:00:53,039 --> 00:00:56,760
+sift choosing these four categories took
+
+32
+00:00:55,000 --> 00:00:58,120
+a lot of thought my conclusion after
+
+33
+00:00:56,759 --> 00:00:59,999
+thinking about it for a while is that
+
+34
+00:00:58,119 --> 00:01:01,998
+besides the many apps I have related to
+
+35
+00:01:00,000 --> 00:01:03,480
+Transportation or travel most perform
+
+36
+00:01:02,000 --> 00:01:05,798
+actions that either help me get things
+
+37
+00:01:03,479 --> 00:01:07,559
+done or help me have fun the ones that
+
+38
+00:01:05,799 --> 00:01:09,439
+don't fit live in the sift folder which
+
+39
+00:01:07,560 --> 00:01:11,119
+I thought was a better word than junk or
+
+40
+00:01:09,438 --> 00:01:13,158
+other my home screen app choices are
+
+41
+00:01:11,118 --> 00:01:14,598
+also set up to maximize my efficiency
+
+42
+00:01:13,159 --> 00:01:16,520
+and keep me from playing with my phone
+
+43
+00:01:14,599 --> 00:01:18,279
+more than I need to on the productivity
+
+44
+00:01:16,519 --> 00:01:20,278
+side I have apps like todoist Google
+
+45
+00:01:18,280 --> 00:01:22,159
+Calendar and Pomodoro by the way the
+
+46
+00:01:20,280 --> 00:01:24,520
+specific Pomodoro app I use is called
+
+47
+00:01:22,159 --> 00:01:26,119
+Pomodoro Timer though there are a lot of
+
+48
+00:01:24,519 --> 00:01:27,999
+other ones to choose from the second
+
+49
+00:01:26,118 --> 00:01:29,719
+ideal reducing phone time is why you
+
+50
+00:01:28,000 --> 00:01:30,680
+don't see Safari on the home screen I'm
+
+51
+00:01:29,719 --> 00:01:32,158
+trying trying to get in the habit of
+
+52
+00:01:30,680 --> 00:01:33,840
+writing down ideas of things I want to
+
+53
+00:01:32,159 --> 00:01:35,720
+look up so I can do more concentrated
+
+54
+00:01:33,840 --> 00:01:37,360
+research later rather than interrupting
+
+55
+00:01:35,719 --> 00:01:38,798
+whatever is I'm doing right now that's
+
+56
+00:01:37,359 --> 00:01:40,157
+why an app called drafts lives in my
+
+57
+00:01:38,799 --> 00:01:41,839
+dock it allows me to open it and
+
+58
+00:01:40,159 --> 00:01:43,360
+immediately start writing after that I
+
+59
+00:01:41,840 --> 00:01:45,078
+can easily export my note to Evernote
+
+60
+00:01:43,359 --> 00:01:46,599
+and process it later I also don't keep
+
+61
+00:01:45,078 --> 00:01:47,998
+Facebook or other social media apps on
+
+62
+00:01:46,599 --> 00:01:49,639
+my home screen I found that keeping them
+
+63
+00:01:48,000 --> 00:01:51,359
+in the folders actually discourages me
+
+64
+00:01:49,640 --> 00:01:52,559
+from using them too much tweetbot and
+
+65
+00:01:51,359 --> 00:01:54,039
+Instagram are the only ones that get a
+
+66
+00:01:52,560 --> 00:01:55,319
+place on my home screen as I post on
+
+67
+00:01:54,040 --> 00:01:57,119
+them regularly but I don't really find
+
+68
+00:01:55,319 --> 00:01:58,279
+myself scrolling through them very often
+
+69
+00:01:57,118 --> 00:02:00,397
+a couple of other things I've done to
+
+70
+00:01:58,280 --> 00:02:01,880
+reduce distractions for one no apps are
+
+71
+00:02:00,399 --> 00:02:03,240
+allowed to have badge notifications
+
+72
+00:02:01,879 --> 00:02:05,278
+except for the text message and phone
+
+73
+00:02:03,239 --> 00:02:06,758
+apps I've also massively cut down on
+
+74
+00:02:05,280 --> 00:02:08,639
+actual notifications my phone will send
+
+75
+00:02:06,759 --> 00:02:10,239
+me and lastly my phone goes into Do Not
+
+76
+00:02:08,639 --> 00:02:12,078
+Disturb mode from 11:00 p.m. to 6:00
+
+77
+00:02:10,239 --> 00:02:13,520
+a.m. so absolutely nothing will get a
+
+78
+00:02:12,080 --> 00:02:15,479
+hold of me unless it's somebody calling
+
+79
+00:02:13,520 --> 00:02:16,720
+for the second time all right so maybe
+
+80
+00:02:15,479 --> 00:02:18,479
+you watch this video and you're thinking
+
+81
+00:02:16,719 --> 00:02:20,078
+to yourself wait a minute that guy made
+
+82
+00:02:18,479 --> 00:02:21,918
+a speed reading video last week and he
+
+83
+00:02:20,080 --> 00:02:23,878
+promised me another speed reading video
+
+84
+00:02:21,919 --> 00:02:26,598
+this week so where is the speed reading
+
+85
+00:02:23,878 --> 00:02:28,078
+video mhm explanation so this being
+
+86
+00:02:26,598 --> 00:02:29,359
+Wednesday as I record this tomorrow
+
+87
+00:02:28,080 --> 00:02:31,560
+morning I'm hopping on a plane to go
+
+88
+00:02:29,360 --> 00:02:33,440
+down to North Carolina for a conference
+
+89
+00:02:31,560 --> 00:02:35,399
+called fincon and unlike most of the
+
+90
+00:02:33,439 --> 00:02:37,439
+conferences I go to at this one I happen
+
+91
+00:02:35,400 --> 00:02:38,879
+to be speaking given that most this week
+
+92
+00:02:37,439 --> 00:02:40,718
+has been dedicated to designing that
+
+93
+00:02:38,878 --> 00:02:42,479
+presentation creating my slides
+
+94
+00:02:40,719 --> 00:02:44,199
+practicing it because unfortunately
+
+95
+00:02:42,479 --> 00:02:46,079
+unlike YouTube I can't just do takes
+
+96
+00:02:44,199 --> 00:02:47,359
+over and over again until I get it right
+
+97
+00:02:46,080 --> 00:02:49,040
+and hence there wasn't enough time left
+
+98
+00:02:47,360 --> 00:02:50,959
+over to make that follow-up video at a
+
+99
+00:02:49,039 --> 00:02:52,358
+level of quality that you guys deserve
+
+100
+00:02:50,959 --> 00:02:53,878
+so hopefully you enjoyed this shorter
+
+101
+00:02:52,360 --> 00:02:55,759
+video I'll have the next video in the
+
+102
+00:02:53,878 --> 00:02:57,518
+speed reading series out next Thursday
+
+103
+00:02:55,759 --> 00:02:58,759
+when I'm back from North Carolina I'm
+
+104
+00:02:57,519 --> 00:03:01,200
+going to get back to practicing my
+
+105
+00:02:58,759 --> 00:03:02,678
+speech before my plane takes off and yes
+
+106
+00:03:01,199 --> 00:03:04,279
+before you ask there will be a video
+
+107
+00:03:02,680 --> 00:03:05,999
+coming soon on how to make better
+
+108
+00:03:04,280 --> 00:03:07,360
+presentations so look forward to that
+
+109
+00:03:06,000 --> 00:03:08,839
+and in the meantime if you got tips of
+
+110
+00:03:07,360 --> 00:03:10,518
+your own on setting up your smartphone
+
+111
+00:03:08,840 --> 00:03:11,920
+in a more productive way or you have app
+
+112
+00:03:10,519 --> 00:03:13,559
+recommendations leave them down in the
+
+113
+00:03:11,919 --> 00:03:15,198
+comments below and I will see you in the
+
+114
+00:03:13,560 --> 00:03:17,159
+next
+
+115
+00:03:15,199 --> 00:03:18,359
+video hey guys thanks so much for
+
+116
+00:03:17,158 --> 00:03:20,238
+watching this video If you want to get
+
+117
+00:03:18,360 --> 00:03:21,1000
+new videos every single week on being a
+
+118
+00:03:20,239 --> 00:03:23,840
+more effective student click the big red
+
+119
+00:03:22,000 --> 00:03:25,439
+subscribe button right there you can get
+
+120
+00:03:23,840 --> 00:03:26,879
+a free copy of my book on earning better
+
+121
+00:03:25,439 --> 00:03:28,198
+grades by clicking the picture of it and
+
+122
+00:03:26,878 --> 00:03:30,199
+also if you'd like to see the companion
+
+123
+00:03:28,199 --> 00:03:31,957
+blog post for this video with a and
+
+124
+00:03:30,199 --> 00:03:33,437
+links to any of the apps and resources I
+
+125
+00:03:31,959 --> 00:03:35,479
+mentioned you can click the orange logo
+
+126
+00:03:33,438 --> 00:03:37,199
+right there last week as I mentioned was
+
+127
+00:03:35,479 --> 00:03:38,518
+the first video of my series on speed
+
+128
+00:03:37,199 --> 00:03:40,078
+reading so if you didn't happen to see
+
+129
+00:03:38,519 --> 00:03:41,399
+it click the thumbnail to watch it and
+
+130
+00:03:40,080 --> 00:03:43,359
+also if you'd like to connect with me
+
+131
+00:03:41,400 --> 00:03:44,1000
+I'm on Twitter @tomfrankly or you can
+
+132
+00:03:43,360 --> 00:03:47,999
+leave a comment down below thanks for
+
+133
+00:03:45,000 --> 00:03:48,000
+watching
+

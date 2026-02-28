@@ -1,0 +1,1112 @@
+1
+00:00:00,030 --> 00:00:03,899
+but the loss of her Aristotle once said
+
+2
+00:00:01,649 --> 00:00:05,128
+that we are what we repeatedly do
+
+3
+00:00:03,928 --> 00:00:05,339
+excellence then is not an act but a
+
+4
+00:00:06,778 --> 00:00:10,649
+habit and this reality is reassuring
+
+5
+00:00:09,269 --> 00:00:12,809
+because it reminds us that achieving our
+
+6
+00:00:10,650 --> 00:00:14,669
+goals requires lots of little manageable
+
+7
+00:00:12,808 --> 00:00:16,679
+steps over time rather than one giant
+
+8
+00:00:14,669 --> 00:00:18,508
+Herculean effort but it's also stressful
+
+9
+00:00:16,679 --> 00:00:20,578
+because it means committing to changing
+
+10
+00:00:18,510 --> 00:00:22,380
+our behavior on a day-to-day basis for a
+
+11
+00:00:20,579 --> 00:00:23,819
+long period of time and whether you're
+
+12
+00:00:22,379 --> 00:00:25,408
+trying to increase your endurance or
+
+13
+00:00:23,820 --> 00:00:27,150
+learn to play an instrument to read more
+
+14
+00:00:25,410 --> 00:00:28,979
+or even do something as simple as take
+
+15
+00:00:27,149 --> 00:00:30,658
+care of a plant every day you probably
+
+16
+00:00:28,980 --> 00:00:32,218
+know from experience the process of
+
+17
+00:00:30,660 --> 00:00:34,738
+adding new habits into your day-to-day
+
+18
+00:00:32,219 --> 00:00:36,930
+life is a difficult one now I wanted to
+
+19
+00:00:34,738 --> 00:00:38,549
+know what exactly makes this process so
+
+20
+00:00:36,929 --> 00:00:40,169
+difficult for different people so a
+
+21
+00:00:38,549 --> 00:00:41,848
+couple of days ago asked over on my
+
+22
+00:00:40,170 --> 00:00:43,710
+Instagram what was the biggest thing
+
+23
+00:00:41,850 --> 00:00:45,359
+that prevents you guys from adding new
+
+24
+00:00:43,710 --> 00:00:46,770
+positive habits to your day-to-day life
+
+25
+00:00:45,359 --> 00:00:49,258
+and I got some pretty interesting
+
+26
+00:00:46,770 --> 00:00:51,569
+answers including some funny ones like
+
+27
+00:00:49,259 --> 00:00:53,158
+pizza an evil twin of Jorgen von
+
+28
+00:00:51,570 --> 00:00:54,690
+strangle that hits me with the whip
+
+29
+00:00:53,159 --> 00:00:56,819
+every time I'm trying to do something
+
+30
+00:00:54,689 --> 00:00:59,458
+useful but a lot of the answers seem to
+
+31
+00:00:56,820 --> 00:01:01,829
+be variations on two key problems one
+
+32
+00:00:59,460 --> 00:01:04,320
+actually remembering to do the habit and
+
+33
+00:01:01,829 --> 00:01:06,380
+the other one which was by far the most
+
+34
+00:01:04,319 --> 00:01:08,698
+common answer pure unadulterated
+
+35
+00:01:06,379 --> 00:01:09,867
+laziness so today I want to share a
+
+36
+00:01:08,700 --> 00:01:11,549
+little hack that I've been using for
+
+37
+00:01:09,868 --> 00:01:13,198
+quite a while which can help with both
+
+38
+00:01:11,549 --> 00:01:14,969
+of these problems this is something that
+
+39
+00:01:13,200 --> 00:01:17,280
+can help you both remember to do those
+
+40
+00:01:14,969 --> 00:01:19,888
+habits and actually make them easier to
+
+41
+00:01:17,280 --> 00:01:21,600
+do and it involves using if-then logic
+
+42
+00:01:19,890 --> 00:01:23,1000
+to bind those habits to things that you
+
+43
+00:01:21,599 --> 00:01:26,007
+already do every single day if then
+
+44
+00:01:24,000 --> 00:01:27,779
+logic crops up everywhere from math to
+
+45
+00:01:26,009 --> 00:01:29,069
+computer programming to game design and
+
+46
+00:01:27,780 --> 00:01:31,500
+it's usually implemented in what are
+
+47
+00:01:29,069 --> 00:01:33,389
+called conditional statements so let me
+
+48
+00:01:31,500 --> 00:01:34,950
+briefly explain exactly what these are
+
+49
+00:01:33,390 --> 00:01:37,140
+and how they work using one of my
+
+50
+00:01:34,950 --> 00:01:38,789
+favorite games Magic the Gathering in
+
+51
+00:01:37,140 --> 00:01:40,619
+magic you have two different types of
+
+52
+00:01:38,790 --> 00:01:42,990
+abilities activated abilities and
+
+53
+00:01:40,618 --> 00:01:44,757
+triggered abilities activated abilities
+
+54
+00:01:42,989 --> 00:01:46,679
+or ones that require you to take action
+
+55
+00:01:44,759 --> 00:01:48,029
+to use them so for example take this
+
+56
+00:01:46,680 --> 00:01:49,559
+card birds-of-paradise
+
+57
+00:01:48,030 --> 00:01:51,239
+this little symbol here is telling me
+
+58
+00:01:49,560 --> 00:01:52,589
+that I have to tap the card in order to
+
+59
+00:01:51,239 --> 00:01:54,719
+use the action printed on it
+
+60
+00:01:52,590 --> 00:01:56,578
+by contrast triggered abilities or ones
+
+61
+00:01:54,719 --> 00:01:58,858
+that automatically happen when something
+
+62
+00:01:56,578 --> 00:02:00,959
+else happens so in the case of a card
+
+63
+00:01:58,859 --> 00:02:02,488
+like Man O'War the ability on the card
+
+64
+00:02:00,959 --> 00:02:04,407
+is going to be triggered automatically
+
+65
+00:02:02,489 --> 00:02:06,179
+when it enters the battle field you
+
+66
+00:02:04,409 --> 00:02:08,099
+don't have to do anything it's a
+
+67
+00:02:06,180 --> 00:02:09,689
+conditional statement if it enters the
+
+68
+00:02:08,098 --> 00:02:11,339
+battle field then you bounce something
+
+69
+00:02:09,689 --> 00:02:12,568
+back to your opponent's hand
+
+70
+00:02:11,340 --> 00:02:14,219
+then your opponent probably flips the
+
+71
+00:02:12,568 --> 00:02:15,508
+table so let's move on from there and
+
+72
+00:02:14,219 --> 00:02:17,517
+look at how these conditional statements
+
+73
+00:02:15,509 --> 00:02:19,408
+might be used in a computer program say
+
+74
+00:02:17,519 --> 00:02:21,510
+YouTube's recommendation algorithm now
+
+75
+00:02:19,409 --> 00:02:23,127
+this is an incredibly complicated piece
+
+76
+00:02:21,509 --> 00:02:24,628
+of software even YouTube's engineers
+
+77
+00:02:23,128 --> 00:02:26,758
+don't know exactly how it works it's
+
+78
+00:02:24,628 --> 00:02:29,158
+kind of black box but one thing we know
+
+79
+00:02:26,759 --> 00:02:30,778
+that it does do is change up the
+
+80
+00:02:29,159 --> 00:02:32,699
+recommendations you see on your homepage
+
+81
+00:02:30,780 --> 00:02:34,289
+based on your behavior
+
+82
+00:02:32,699 --> 00:02:36,419
+so for example if you were to click the
+
+83
+00:02:34,289 --> 00:02:37,979
+like button on this video then some code
+
+84
+00:02:36,419 --> 00:02:40,229
+would automatically go into effect to
+
+85
+00:02:37,979 --> 00:02:41,429
+show you more videos like this one and
+
+86
+00:02:40,229 --> 00:02:42,898
+likewise if you were to click the
+
+87
+00:02:41,430 --> 00:02:44,489
+dislike button you would see fewer
+
+88
+00:02:42,900 --> 00:02:46,140
+videos like this by the way that's an
+
+89
+00:02:44,489 --> 00:02:48,090
+invitation to Clint blind button so
+
+90
+00:02:46,139 --> 00:02:49,949
+here's how all of this relates to habit
+
+91
+00:02:48,090 --> 00:02:51,780
+building what we want to do is set the
+
+92
+00:02:49,949 --> 00:02:53,728
+if part of the statement as something
+
+93
+00:02:51,780 --> 00:02:55,470
+you already do every single day or
+
+94
+00:02:53,729 --> 00:02:57,059
+hopefully multiple times a day and then
+
+95
+00:02:55,469 --> 00:02:58,169
+set the then part of the statement to
+
+96
+00:02:57,060 --> 00:02:59,818
+the habit that you want to start
+
+97
+00:02:58,169 --> 00:03:01,018
+building in an ideal world this would
+
+98
+00:02:59,818 --> 00:03:03,059
+mean that you would start to do your new
+
+99
+00:03:01,019 --> 00:03:04,590
+habits automatically regardless of what
+
+100
+00:03:03,060 --> 00:03:06,060
+they were going to the gym more often
+
+101
+00:03:04,590 --> 00:03:08,190
+actually remembering to oil your
+
+102
+00:03:06,060 --> 00:03:10,109
+cybernetic augmentations just meditating
+
+103
+00:03:08,189 --> 00:03:11,847
+every single day whatever it is there
+
+104
+00:03:10,110 --> 00:03:13,259
+will be absolutely no conscious effort
+
+105
+00:03:11,848 --> 00:03:14,818
+involved it would be like that triggered
+
+106
+00:03:13,259 --> 00:03:17,369
+ability on the magic card but
+
+107
+00:03:14,818 --> 00:03:19,588
+unfortunately at least in this context
+
+108
+00:03:17,370 --> 00:03:21,629
+we aren't automatons our brains don't
+
+109
+00:03:19,590 --> 00:03:24,208
+run on computer code and as a result
+
+110
+00:03:21,629 --> 00:03:26,068
+there's no 100% foolproof way to build
+
+111
+00:03:24,209 --> 00:03:27,689
+this triggered ability into our minds
+
+112
+00:03:26,068 --> 00:03:29,128
+the best that we can do is try to set
+
+113
+00:03:27,689 --> 00:03:31,137
+things up so that the habit that we're
+
+114
+00:03:29,129 --> 00:03:32,908
+trying to build is more like that
+
+115
+00:03:31,139 --> 00:03:35,130
+triggered ability like that Man O'War
+
+116
+00:03:32,909 --> 00:03:36,089
+card then that activated ability like
+
+117
+00:03:35,129 --> 00:03:37,439
+the birds-of-paradise
+
+118
+00:03:36,090 --> 00:03:39,480
+and this actually works out really well
+
+119
+00:03:37,439 --> 00:03:40,918
+cuz I freakin love jellyfish and my
+
+120
+00:03:39,479 --> 00:03:42,778
+friend had a parakeet in high school and
+
+121
+00:03:40,919 --> 00:03:43,939
+I hated that thing anyway the best way
+
+122
+00:03:42,780 --> 00:03:46,168
+to accomplish this is through
+
+123
+00:03:43,939 --> 00:03:47,369
+environmental design you want to start
+
+124
+00:03:46,169 --> 00:03:49,229
+looking for ways that you can set up
+
+125
+00:03:47,370 --> 00:03:51,060
+your living space and your tools so that
+
+126
+00:03:49,229 --> 00:03:52,828
+the things you do every single day both
+
+127
+00:03:51,060 --> 00:03:55,019
+remind you to perform your habits and
+
+128
+00:03:52,829 --> 00:03:56,700
+make it easier to do so and with that it
+
+129
+00:03:55,019 --> 00:03:58,019
+is time for some examples I'm gonna
+
+130
+00:03:56,699 --> 00:03:59,009
+start with a thing that actually gave me
+
+131
+00:03:58,019 --> 00:04:01,380
+the inspiration for this whole
+
+132
+00:03:59,009 --> 00:04:03,178
+conditional statements idea in the first
+
+133
+00:04:01,379 --> 00:04:05,608
+place which was putting a door frame
+
+134
+00:04:03,180 --> 00:04:07,380
+pull-up bar in my office doorway that
+
+135
+00:04:05,609 --> 00:04:09,269
+way every single time I walk into my
+
+136
+00:04:07,379 --> 00:04:11,008
+office I do five pull-ups and I get
+
+137
+00:04:09,269 --> 00:04:12,450
+really good at pull-ups as a result and
+
+138
+00:04:11,009 --> 00:04:14,279
+I gotta admit this is not an original
+
+139
+00:04:12,449 --> 00:04:15,899
+idea my dad used to be in the military
+
+140
+00:04:14,280 --> 00:04:17,429
+before I was born and he once told me
+
+141
+00:04:15,900 --> 00:04:18,988
+that to get into the mess hall where
+
+142
+00:04:17,430 --> 00:04:20,880
+they actually ate lunch dinner and all
+
+143
+00:04:18,988 --> 00:04:22,468
+those other meals of the day breakfast
+
+144
+00:04:20,879 --> 00:04:24,359
+second breakfast elevenses all those
+
+145
+00:04:22,468 --> 00:04:24,798
+things you had to do five pull-ups
+
+146
+00:04:24,360 --> 00:04:26,538
+before you
+
+147
+00:04:24,800 --> 00:04:28,219
+actually go in there and as a result all
+
+148
+00:04:26,538 --> 00:04:29,808
+the cadets got really good at doing
+
+149
+00:04:28,220 --> 00:04:31,128
+pull-ups and doing pull-ups is something
+
+150
+00:04:29,810 --> 00:04:32,870
+that I personally want to get really
+
+151
+00:04:31,129 --> 00:04:34,729
+good at hence the door frame pull-up bar
+
+152
+00:04:32,870 --> 00:04:36,258
+to my office I also applied this idea
+
+153
+00:04:34,728 --> 00:04:37,908
+back in college to the task of doing
+
+154
+00:04:36,259 --> 00:04:39,979
+push-ups every single morning and
+
+155
+00:04:37,908 --> 00:04:41,477
+getting up early on a consistent basis
+
+156
+00:04:39,978 --> 00:04:43,398
+and I did this by putting my alarm
+
+157
+00:04:41,478 --> 00:04:45,198
+underneath the coffee table in my room
+
+158
+00:04:43,399 --> 00:04:46,847
+not only did that require me to get down
+
+159
+00:04:45,199 --> 00:04:48,079
+on my knees and reach for the phone to
+
+160
+00:04:46,848 --> 00:04:50,209
+actually turn it off in the morning
+
+161
+00:04:48,079 --> 00:04:51,888
+which was more moving around more action
+
+162
+00:04:50,209 --> 00:04:53,749
+that would actually wake me up but at
+
+163
+00:04:51,889 --> 00:04:55,009
+that point I was now down on the ground
+
+164
+00:04:53,750 --> 00:04:56,839
+and I might as well do some push-ups
+
+165
+00:04:55,009 --> 00:04:58,009
+since I'm down there and this example is
+
+166
+00:04:56,839 --> 00:05:00,439
+a great illustration of how our brains
+
+167
+00:04:58,009 --> 00:05:02,180
+are not like computers because I could
+
+168
+00:05:00,439 --> 00:05:03,588
+easily just get up and not do the
+
+169
+00:05:02,180 --> 00:05:05,150
+push-ups so it's really all about
+
+170
+00:05:03,589 --> 00:05:07,428
+putting yourself in the position to make
+
+171
+00:05:05,149 --> 00:05:09,679
+doing the habit easier it's not about a
+
+172
+00:05:07,430 --> 00:05:10,999
+foolproof method now so far all I've
+
+173
+00:05:09,680 --> 00:05:13,039
+talked about our habits that improve
+
+174
+00:05:11,000 --> 00:05:14,899
+your physical well-being but what if you
+
+175
+00:05:13,038 --> 00:05:16,489
+wanted to write more often what if you
+
+176
+00:05:14,899 --> 00:05:18,407
+wanted to get into a journaling habit or
+
+177
+00:05:16,490 --> 00:05:20,269
+do NaNoWriMo or write the next great
+
+178
+00:05:18,408 --> 00:05:21,799
+Harry Potter fanfiction that dethrones
+
+179
+00:05:20,269 --> 00:05:23,778
+the current greatest one which is
+
+180
+00:05:21,800 --> 00:05:24,949
+clearly my immortal well what if you
+
+181
+00:05:23,779 --> 00:05:26,658
+went into your computer's startup
+
+182
+00:05:24,949 --> 00:05:28,520
+settings and said to automatically open
+
+183
+00:05:26,658 --> 00:05:30,227
+up your favorite writing program every
+
+184
+00:05:28,519 --> 00:05:31,697
+time you turn your computer on and you
+
+185
+00:05:30,228 --> 00:05:32,989
+can pair that up with the application
+
+186
+00:05:31,699 --> 00:05:34,489
+blocking properties of an app like
+
+187
+00:05:32,990 --> 00:05:36,319
+freedom which could lock down your
+
+188
+00:05:34,490 --> 00:05:37,969
+browser and your games making writing
+
+189
+00:05:36,319 --> 00:05:39,620
+the obvious choice whenever you turn
+
+190
+00:05:37,968 --> 00:05:41,477
+your computer on now putting all of
+
+191
+00:05:39,620 --> 00:05:43,610
+these ideas aside you could of course
+
+192
+00:05:41,478 --> 00:05:45,978
+use a task manager or a calendar app to
+
+193
+00:05:43,610 --> 00:05:48,199
+create reminders to do your habits but
+
+194
+00:05:45,978 --> 00:05:49,489
+this only solves the reminding half of
+
+195
+00:05:48,199 --> 00:05:51,408
+the problem changing your environment
+
+196
+00:05:49,490 --> 00:05:53,029
+and your tools to create these little
+
+197
+00:05:51,408 --> 00:05:55,218
+if-then pairings to create these
+
+198
+00:05:53,028 --> 00:05:57,287
+conditional statements actually solves
+
+199
+00:05:55,218 --> 00:05:59,209
+both halves the problem it both reminds
+
+200
+00:05:57,288 --> 00:06:00,828
+you to do the habit and combats the
+
+201
+00:05:59,209 --> 00:06:03,258
+laziness problem that's so many of you
+
+202
+00:06:00,829 --> 00:06:05,359
+cited by making it so much easier to do
+
+203
+00:06:03,259 --> 00:06:07,579
+now there are lots of other methods out
+
+204
+00:06:05,360 --> 00:06:09,499
+there for building strong habits but for
+
+205
+00:06:07,579 --> 00:06:11,059
+me using conditional logic was a
+
+206
+00:06:09,500 --> 00:06:13,099
+creative solution that helped me get
+
+207
+00:06:11,060 --> 00:06:15,228
+even better at doing it and it's worth
+
+208
+00:06:13,098 --> 00:06:17,447
+remembering that for any problem there
+
+209
+00:06:15,228 --> 00:06:19,338
+is almost always a creative solution out
+
+210
+00:06:17,449 --> 00:06:21,050
+there that hasn't been found yet so
+
+211
+00:06:19,339 --> 00:06:23,089
+instead of sticking to the established
+
+212
+00:06:21,050 --> 00:06:25,038
+methods be they online lists or even
+
+213
+00:06:23,089 --> 00:06:26,778
+videos like this one it's often better
+
+214
+00:06:25,038 --> 00:06:28,248
+to analyze the details the problem
+
+215
+00:06:26,778 --> 00:06:30,559
+yourself and try to come up with a
+
+216
+00:06:28,250 --> 00:06:31,758
+creative solution doing this is a skill
+
+217
+00:06:30,560 --> 00:06:33,379
+that can benefit you both in your
+
+218
+00:06:31,759 --> 00:06:35,989
+personal life with things like how to
+
+219
+00:06:33,379 --> 00:06:36,978
+building but also in your career and if
+
+220
+00:06:35,990 --> 00:06:38,809
+you're wondering how you can start
+
+221
+00:06:36,978 --> 00:06:39,978
+improving that skill one you
+
+222
+00:06:38,810 --> 00:06:42,709
+full tool you should check out is
+
+223
+00:06:39,980 --> 00:06:43,669
+brilliant org at its core brilliant is a
+
+224
+00:06:42,709 --> 00:06:45,738
+tool that can help you learn math
+
+225
+00:06:43,668 --> 00:06:47,029
+science and computer science much more
+
+226
+00:06:45,740 --> 00:06:49,130
+effectively than with traditional
+
+227
+00:06:47,029 --> 00:06:50,569
+methods but along the way it can also
+
+228
+00:06:49,129 --> 00:06:52,789
+help you become a more creative and
+
+229
+00:06:50,569 --> 00:06:54,559
+capable problem solver as well all
+
+230
+00:06:52,790 --> 00:06:56,480
+brilliants courses prioritize active
+
+231
+00:06:54,560 --> 00:06:57,740
+learning and problem solving right from
+
+232
+00:06:56,480 --> 00:06:59,450
+the get-go so you'll find yourself
+
+233
+00:06:57,740 --> 00:07:01,070
+immediately improving your analytical
+
+234
+00:06:59,449 --> 00:07:02,478
+and creative capabilities whether you're
+
+235
+00:07:01,069 --> 00:07:04,098
+learning calculus figuring out how
+
+236
+00:07:02,480 --> 00:07:05,569
+gravitational physics works breaking
+
+237
+00:07:04,100 --> 00:07:07,160
+down sorting algorithms and computer
+
+238
+00:07:05,569 --> 00:07:09,319
+science or tackling any of the other
+
+239
+00:07:07,160 --> 00:07:10,700
+courses in their library this also means
+
+240
+00:07:09,319 --> 00:07:12,618
+that you won't find yourself bored
+
+241
+00:07:10,699 --> 00:07:14,538
+because unlike traditional lecture style
+
+242
+00:07:12,620 --> 00:07:16,820
+classes you'll be using what you learn
+
+243
+00:07:14,540 --> 00:07:17,990
+right away I am a huge fan of brilliance
+
+244
+00:07:16,819 --> 00:07:20,118
+learning philosophy which prioritizes
+
+245
+00:07:17,990 --> 00:07:22,549
+active learning and curiosity and
+
+246
+00:07:20,120 --> 00:07:24,050
+allowing failure so if you want to start
+
+247
+00:07:22,550 --> 00:07:25,490
+improving your problem-solving skills I
+
+248
+00:07:24,050 --> 00:07:27,079
+definitely recommend you give them a try
+
+249
+00:07:25,490 --> 00:07:29,119
+to start learning for free you can head
+
+250
+00:07:27,079 --> 00:07:30,049
+on over to brilliant org slash Thomas
+
+251
+00:07:29,120 --> 00:07:31,668
+Frank which you'll find in the
+
+252
+00:07:30,050 --> 00:07:33,559
+description down below and if you're
+
+253
+00:07:31,668 --> 00:07:34,668
+among the first 83 people to click that
+
+254
+00:07:33,560 --> 00:07:36,620
+link and sign up you're also going to
+
+255
+00:07:34,668 --> 00:07:37,938
+get 20% off of your annual premium
+
+256
+00:07:36,620 --> 00:07:39,320
+subscription I want to give a big thanks
+
+257
+00:07:37,939 --> 00:07:40,968
+to brilliant for sponsoring this video
+
+258
+00:07:39,319 --> 00:07:42,769
+and being a huge supporter of this
+
+259
+00:07:40,970 --> 00:07:44,360
+channel in general and as always guys
+
+260
+00:07:42,769 --> 00:07:45,739
+thank you so much for watching this
+
+261
+00:07:44,360 --> 00:07:47,690
+video if you enjoyed it clicking that
+
+262
+00:07:45,740 --> 00:07:48,889
+like button is appreciated as always as
+
+263
+00:07:47,689 --> 00:07:50,358
+we talked about that conditional logic
+
+264
+00:07:48,889 --> 00:07:52,518
+will start to kick in and it helps both
+
+265
+00:07:50,360 --> 00:07:54,440
+you and my channel and if you haven't
+
+266
+00:07:52,519 --> 00:07:55,608
+subscribed yet definitely do so right
+
+267
+00:07:54,439 --> 00:07:57,379
+there so you don't miss out on future
+
+268
+00:07:55,610 --> 00:07:58,788
+videos you can also click right over
+
+269
+00:07:57,379 --> 00:08:00,499
+there to get a free copy of my book on
+
+270
+00:07:58,788 --> 00:08:02,268
+how to earn better grades or click right
+
+271
+00:08:00,500 --> 00:08:04,039
+here to see one more video on this
+
+272
+00:08:02,269 --> 00:08:05,449
+channel also while you're here don't
+
+273
+00:08:04,038 --> 00:08:07,667
+forget to follow me over on Instagram
+
+274
+00:08:05,449 --> 00:08:09,949
+where I'm doing IG TV videos answering
+
+275
+00:08:07,668 --> 00:08:10,969
+DMS and posting all the time so
+
+276
+00:08:09,949 --> 00:08:12,529
+definitely do that
+
+277
+00:08:10,970 --> 00:08:15,189
+thanks for watching and I will see you
+
+278
+00:08:12,529 --> 00:08:15,189
+in the next video
+

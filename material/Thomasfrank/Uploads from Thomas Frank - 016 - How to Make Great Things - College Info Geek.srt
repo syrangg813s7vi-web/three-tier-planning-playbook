@@ -1,0 +1,612 @@
+1
+00:00:00,280 --> 00:00:05,280
+do you ever wonder like what the ratio
+
+2
+00:00:02,560 --> 00:00:05,040
+is between luck and hard work for people
+
+3
+00:00:05,559 --> 00:00:10,198
+who have been wildly wildly successful
+
+4
+00:00:07,599 --> 00:00:12,158
+in their lives What proportion of their
+
+5
+00:00:10,199 --> 00:00:14,638
+success comes from being in the right
+
+6
+00:00:12,160 --> 00:00:17,160
+place at the right time and what comes
+
+7
+00:00:14,638 --> 00:00:18,679
+from actual really hard work so I came
+
+8
+00:00:17,160 --> 00:00:20,880
+across this guy's Blog the other day his
+
+9
+00:00:18,679 --> 00:00:23,398
+named Sebastian Marshall and he has a
+
+10
+00:00:20,879 --> 00:00:25,159
+post about this Theory called the equal
+
+11
+00:00:23,399 --> 00:00:26,758
+odds Rule and I'm going to get to the
+
+12
+00:00:25,160 --> 00:00:28,559
+details of this rule how it affects your
+
+13
+00:00:26,760 --> 00:00:30,400
+success both as a student and a
+
+14
+00:00:28,559 --> 00:00:33,478
+professional in a few seconds but first
+
+15
+00:00:30,399 --> 00:00:34,998
+I need to talk about Ira Glass now you
+
+16
+00:00:33,479 --> 00:00:36,078
+may or may not be familiar with Ira
+
+17
+00:00:35,000 --> 00:00:37,960
+Glass maybe you've listened to this
+
+18
+00:00:36,079 --> 00:00:39,559
+American life before but either way
+
+19
+00:00:37,960 --> 00:00:42,280
+there's something he said once that has
+
+20
+00:00:39,558 --> 00:00:44,077
+stuck with me for a long long time and I
+
+21
+00:00:42,280 --> 00:00:45,520
+want to share it with you and the quote
+
+22
+00:00:44,079 --> 00:00:47,079
+is pretty long so I'm just going to give
+
+23
+00:00:45,520 --> 00:00:48,919
+you the gist of it and basically Iris
+
+24
+00:00:47,079 --> 00:00:50,878
+says that people who get into creative
+
+25
+00:00:48,920 --> 00:00:53,280
+Fields do it because they have really
+
+26
+00:00:50,878 --> 00:00:54,999
+really killer taste but when you're
+
+27
+00:00:53,280 --> 00:00:57,919
+getting into it and you're just starting
+
+28
+00:00:55,000 --> 00:01:00,038
+the ability to create work that you have
+
+29
+00:00:57,920 --> 00:01:01,960
+doesn't really match up to The Taste and
+
+30
+00:01:00,039 --> 00:01:04,399
+the point of what he was trying to say
+
+31
+00:01:01,960 --> 00:01:06,200
+is that the only way to start closing
+
+32
+00:01:04,400 --> 00:01:07,679
+this gap between your taste and your
+
+33
+00:01:06,200 --> 00:01:11,438
+ability to create things that you
+
+34
+00:01:07,680 --> 00:01:14,080
+actually like is to do a ridiculous huge
+
+35
+00:01:11,438 --> 00:01:16,039
+massive load of work create a giant body
+
+36
+00:01:14,079 --> 00:01:18,958
+of work and over time you'll start
+
+37
+00:01:16,040 --> 00:01:20,599
+learning how to create work that matches
+
+38
+00:01:18,959 --> 00:01:22,278
+up to your taste now when you do have
+
+39
+00:01:20,599 --> 00:01:23,998
+good taste you have this tendency to be
+
+40
+00:01:22,280 --> 00:01:25,478
+a perfectionist right you want to create
+
+41
+00:01:24,000 --> 00:01:27,479
+something that's absolutely perfect the
+
+42
+00:01:25,478 --> 00:01:29,239
+first time and I had this exact same
+
+43
+00:01:27,478 --> 00:01:30,958
+problem when I wanted to make videos I
+
+44
+00:01:29,239 --> 00:01:32,038
+sat down in front of the camera the
+
+45
+00:01:30,959 --> 00:01:33,838
+first time and I thought I'm going to
+
+46
+00:01:32,040 --> 00:01:37,078
+make this perfect it's going to be
+
+47
+00:01:33,840 --> 00:01:38,559
+amazing and now I realize that you can't
+
+48
+00:01:37,078 --> 00:01:39,839
+do that with your first piece of work
+
+49
+00:01:38,560 --> 00:01:41,439
+there are going to be things that you
+
+50
+00:01:39,840 --> 00:01:43,279
+don't see there are going to be
+
+51
+00:01:41,438 --> 00:01:45,039
+techniques you didn't even know about
+
+52
+00:01:43,280 --> 00:01:47,959
+and the only way you can start getting
+
+53
+00:01:45,040 --> 00:01:50,719
+better and moving that ability closer
+
+54
+00:01:47,959 --> 00:01:53,878
+and closer to that taste uh level you're
+
+55
+00:01:50,718 --> 00:01:55,998
+at is to do a lot of work and what Ira
+
+56
+00:01:53,879 --> 00:01:57,438
+says is to put yourself on a schedule to
+
+57
+00:01:56,000 --> 00:01:59,439
+make sure that you get something out
+
+58
+00:01:57,438 --> 00:02:02,398
+every single week and what I want to add
+
+59
+00:01:59,438 --> 00:02:04,798
+to that is kill the perfectionism get
+
+60
+00:02:02,399 --> 00:02:06,559
+your project to 90% or 95% or whatever
+
+61
+00:02:04,799 --> 00:02:09,079
+you can do Under the time pressure and
+
+62
+00:02:06,560 --> 00:02:11,598
+then publish so this gets us over to the
+
+63
+00:02:09,080 --> 00:02:12,999
+equal odds rule the equal odds rule says
+
+64
+00:02:11,598 --> 00:02:15,199
+the average publication of any
+
+65
+00:02:13,000 --> 00:02:17,440
+particular scientist does not have any
+
+66
+00:02:15,199 --> 00:02:19,199
+statistically different chance of having
+
+67
+00:02:17,439 --> 00:02:21,119
+more of an impact than any other
+
+68
+00:02:19,199 --> 00:02:22,439
+scientist's average publication in other
+
+69
+00:02:21,120 --> 00:02:24,318
+words those scientists who create
+
+70
+00:02:22,439 --> 00:02:26,159
+Publications with the most impact also
+
+71
+00:02:24,318 --> 00:02:28,119
+create Publications with the least
+
+72
+00:02:26,159 --> 00:02:30,199
+impact and when great Publications that
+
+73
+00:02:28,120 --> 00:02:32,519
+make a huge impact are created it's just
+
+74
+00:02:30,199 --> 00:02:34,159
+a result of trying enough times now
+
+75
+00:02:32,519 --> 00:02:36,039
+that's an excerpt of an Amazon review
+
+76
+00:02:34,159 --> 00:02:38,159
+for the book that first put this Theory
+
+77
+00:02:36,039 --> 00:02:40,999
+out there and I'll link to that review
+
+78
+00:02:38,159 --> 00:02:42,718
+in the show notes for this video but
+
+79
+00:02:41,000 --> 00:02:45,120
+essentially what he's trying to say is
+
+80
+00:02:42,719 --> 00:02:47,597
+that scientists who create amazing work
+
+81
+00:02:45,120 --> 00:02:49,080
+also create crappy work sometimes and
+
+82
+00:02:47,598 --> 00:02:52,118
+the reason they do both is because they
+
+83
+00:02:49,080 --> 00:02:54,639
+create a lot of work so really what it
+
+84
+00:02:52,120 --> 00:02:56,120
+is is they're getting a lot of at bats
+
+85
+00:02:54,639 --> 00:02:58,038
+they are putting a lot of things out
+
+86
+00:02:56,120 --> 00:02:59,919
+there some of them are golden eggs and
+
+87
+00:02:58,039 --> 00:03:01,279
+some of them are bad a lot of it is is
+
+88
+00:02:59,919 --> 00:03:04,438
+just mediocre I've actually heard this
+
+89
+00:03:01,280 --> 00:03:06,518
+called the 70201 rule as well where 70%
+
+90
+00:03:04,439 --> 00:03:09,198
+of your work is mediocre 20% is
+
+91
+00:03:06,519 --> 00:03:11,238
+absolutely terrible and 10% of it is the
+
+92
+00:03:09,199 --> 00:03:13,399
+cream of the crop that rises to the top
+
+93
+00:03:11,239 --> 00:03:15,040
+and becomes really really successful so
+
+94
+00:03:13,400 --> 00:03:16,759
+the take away from the equal odds rule
+
+95
+00:03:15,039 --> 00:03:18,639
+goes right back to what Ira Glass said
+
+96
+00:03:16,759 --> 00:03:21,039
+you have to make a lot of things and the
+
+97
+00:03:18,639 --> 00:03:22,999
+good thing here is that in most cases
+
+98
+00:03:21,039 --> 00:03:25,237
+you're going to be judged on your best
+
+99
+00:03:23,000 --> 00:03:26,759
+work unless you're Rebecca Black there's
+
+100
+00:03:25,239 --> 00:03:28,840
+a quote from somebody I really admire
+
+101
+00:03:26,759 --> 00:03:31,278
+named Corbett bar and he says write for
+
+102
+00:03:28,840 --> 00:03:32,920
+the body of work you want to have in 5
+
+103
+00:03:31,280 --> 00:03:34,840
+years and this is actually one of the
+
+104
+00:03:32,919 --> 00:03:36,758
+things that drives me sometimes I'll
+
+105
+00:03:34,840 --> 00:03:38,199
+look at my blog or I'll look at what I'm
+
+106
+00:03:36,759 --> 00:03:39,878
+creating on YouTube and think this is
+
+107
+00:03:38,199 --> 00:03:41,759
+really hard um maybe I should just go
+
+108
+00:03:39,878 --> 00:03:43,518
+get a job then I stop myself and think
+
+109
+00:03:41,759 --> 00:03:45,957
+what do I want to do you know what do I
+
+110
+00:03:43,519 --> 00:03:47,399
+want to see in 5 years when I look back
+
+111
+00:03:45,959 --> 00:03:49,519
+do I want to be able to see that I made
+
+112
+00:03:47,400 --> 00:03:51,959
+something every single week or do I want
+
+113
+00:03:49,519 --> 00:03:54,318
+to see that I stopped halfway through uh
+
+114
+00:03:51,959 --> 00:03:55,959
+decided I wasn't very good and then just
+
+115
+00:03:54,318 --> 00:03:57,758
+quit and did something else for a while
+
+116
+00:03:55,959 --> 00:03:59,439
+ask yourself that same question what do
+
+117
+00:03:57,759 --> 00:04:01,678
+you want to see when you look back in 5
+
+118
+00:03:59,438 --> 00:04:03,559
+years on your own body of work so the
+
+119
+00:04:01,680 --> 00:04:05,720
+lesson from the equal odds Rule and I
+
+120
+00:04:03,560 --> 00:04:07,680
+glasses advice leads into a question
+
+121
+00:04:05,719 --> 00:04:09,919
+that I get asked a lot and it's how do
+
+122
+00:04:07,680 --> 00:04:11,720
+you get massive amounts of work done in
+
+123
+00:04:09,919 --> 00:04:13,919
+a short amount of time so I'm going to
+
+124
+00:04:11,719 --> 00:04:15,399
+tackle that topic in next week's video
+
+125
+00:04:13,919 --> 00:04:17,119
+and you can subscribe using the button
+
+126
+00:04:15,400 --> 00:04:18,959
+below or The annotation in a few seconds
+
+127
+00:04:17,120 --> 00:04:22,358
+to do that otherwise thanks for watching
+
+128
+00:04:18,959 --> 00:04:22,358
+this video and I will see you next
+
+129
+00:04:22,399 --> 00:04:26,359
+week well hello there and thank you so
+
+130
+00:04:24,720 --> 00:04:27,999
+much for watching my video on the equal
+
+131
+00:04:26,360 --> 00:04:29,440
+odds ratio now if you're ready to start
+
+132
+00:04:28,000 --> 00:04:30,638
+building your own body of work and you
+
+133
+00:04:29,439 --> 00:04:32,519
+want to to go about it in a more
+
+134
+00:04:30,639 --> 00:04:34,159
+efficient way then I've got a free book
+
+135
+00:04:32,519 --> 00:04:35,878
+called 10 steps to earning awesome
+
+136
+00:04:34,160 --> 00:04:37,680
+grades and you can get your own copy of
+
+137
+00:04:35,879 --> 00:04:39,037
+it by clicking The annotation around the
+
+138
+00:04:37,680 --> 00:04:40,360
+picture of it right there otherwise if
+
+139
+00:04:39,038 --> 00:04:41,998
+you want to get new videos every single
+
+140
+00:04:40,360 --> 00:04:44,638
+week on being awesome at College then
+
+141
+00:04:42,000 --> 00:04:45,799
+hit that subscribe button right there
+
+142
+00:04:44,639 --> 00:04:47,679
+and if you want to get the companion
+
+143
+00:04:45,800 --> 00:04:49,840
+blog post to this video with links to
+
+144
+00:04:47,680 --> 00:04:51,280
+anything I talked about in the video
+
+145
+00:04:49,839 --> 00:04:52,918
+then click the orange button which you
+
+146
+00:04:51,279 --> 00:04:54,999
+can find right there lastly you can
+
+147
+00:04:52,918 --> 00:04:56,239
+follow me on Twitter at tomf frankley or
+
+148
+00:04:55,000 --> 00:04:58,160
+leave a comment on this video if you
+
+149
+00:04:56,240 --> 00:04:59,759
+have new video ideas or want to connect
+
+150
+00:04:58,160 --> 00:05:00,999
+and if you missed last week's video
+
+151
+00:04:59,759 --> 00:05:02,719
+there's a clip of it playing right there
+
+152
+00:05:01,000 --> 00:05:05,960
+so click that and head over there if you
+
+153
+00:05:02,720 --> 00:05:05,960
+missed it
+

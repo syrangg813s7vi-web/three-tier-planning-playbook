@@ -1,0 +1,1288 @@
+1
+00:00:00,080 --> 00:00:03,040
+in this video we're gonna be answering
+
+2
+00:00:01,199 --> 00:00:03,761
+the question of why it's so hard to
+
+3
+00:00:03,120 --> 00:00:06,720
+stick to a workout routine over the long
+
+4
+00:00:04,960 --> 00:00:07,1000
+term and this is a problem that i've
+
+5
+00:00:06,719 --> 00:00:09,678
+actually struggled with for most of my
+
+6
+00:00:08,000 --> 00:00:11,359
+life i've always been a pretty active
+
+7
+00:00:09,679 --> 00:00:13,040
+guy but when it comes to actually
+
+8
+00:00:11,359 --> 00:00:14,879
+sticking to a workout routine and seeing
+
+9
+00:00:13,039 --> 00:00:16,958
+progress over the long term i've always
+
+10
+00:00:14,880 --> 00:00:19,038
+had a problem with it however back in
+
+11
+00:00:16,960 --> 00:00:20,960
+2020 i actually did start a routine that
+
+12
+00:00:19,039 --> 00:00:22,400
+i've stuck to for the past two years and
+
+13
+00:00:20,960 --> 00:00:24,160
+that has come with some results i've
+
+14
+00:00:22,399 --> 00:00:26,639
+gained about 30 pounds of mostly lean
+
+15
+00:00:24,160 --> 00:00:29,358
+mass in that time going from around 185
+
+16
+00:00:26,640 --> 00:00:32,960
+pounds to 215. i've achieved a 300 pound
+
+17
+00:00:29,359 --> 00:00:34,879
+bench press a 350 pound squat and a 440
+
+18
+00:00:32,960 --> 00:00:36,718
+pound deadlift and i've managed to
+
+19
+00:00:34,880 --> 00:00:38,319
+improve my cardio at the same time
+
+20
+00:00:36,719 --> 00:00:40,320
+mostly thanks to picking up tennis which
+
+21
+00:00:38,320 --> 00:00:41,280
+is now my favorite sport so today i'm
+
+22
+00:00:40,320 --> 00:00:43,280
+going to share what i've learned with
+
+23
+00:00:41,280 --> 00:00:45,520
+you including sharing some of my actual
+
+24
+00:00:43,280 --> 00:00:47,839
+workout routines within a notion
+
+25
+00:00:45,520 --> 00:00:49,279
+template of course because hey it's me
+
+26
+00:00:47,840 --> 00:00:50,399
+and along with that i also want to share
+
+27
+00:00:49,280 --> 00:00:52,399
+some of the tricks that i've learned for
+
+28
+00:00:50,399 --> 00:00:54,319
+making sticking to that routine a lot
+
+29
+00:00:52,399 --> 00:00:56,480
+easier and i want to start by first
+
+30
+00:00:54,320 --> 00:00:58,398
+breaking down the problem because as i
+
+31
+00:00:56,479 --> 00:01:00,159
+see it they're really four main sub
+
+32
+00:00:58,399 --> 00:01:01,839
+problems that make it so hard to stick
+
+33
+00:01:00,159 --> 00:01:03,918
+to a workout routine for a lot of people
+
+34
+00:01:01,840 --> 00:01:06,320
+and those problems are number one you
+
+35
+00:01:03,920 --> 00:01:08,240
+don't know what to do or where to start
+
+36
+00:01:06,319 --> 00:01:10,399
+number two you aren't seeing any results
+
+37
+00:01:08,239 --> 00:01:12,239
+when you do stick to the routine number
+
+38
+00:01:10,400 --> 00:01:13,920
+three there's too much friction involved
+
+39
+00:01:12,239 --> 00:01:16,798
+and number four you're making it too
+
+40
+00:01:13,920 --> 00:01:19,519
+easy to fail so let's tackle these one
+
+41
+00:01:16,799 --> 00:01:21,360
+by one starting fittingly with not
+
+42
+00:01:19,519 --> 00:01:22,559
+knowing where to start now there is more
+
+43
+00:01:21,359 --> 00:01:24,638
+fitness advice on the internet than
+
+44
+00:01:22,560 --> 00:01:26,240
+there are grains of sand on a beach and
+
+45
+00:01:24,640 --> 00:01:27,680
+no matter what routine you pick it seems
+
+46
+00:01:26,239 --> 00:01:29,678
+like athlean x is going to be out there
+
+47
+00:01:27,680 --> 00:01:31,119
+telling you that it's killing your gains
+
+48
+00:01:29,680 --> 00:01:33,039
+and part of the problem part of what
+
+49
+00:01:31,118 --> 00:01:34,638
+causes this is that it seems like people
+
+50
+00:01:33,040 --> 00:01:36,479
+think there are these vastly different
+
+51
+00:01:34,640 --> 00:01:38,559
+things you need to do depending on what
+
+52
+00:01:36,478 --> 00:01:40,239
+you want like if you want to gain mass
+
+53
+00:01:38,560 --> 00:01:41,758
+it requires following a much different
+
+54
+00:01:40,239 --> 00:01:43,359
+routine than you'd follow if you wanted
+
+55
+00:01:41,759 --> 00:01:45,759
+to get stronger or if you wanted to lose
+
+56
+00:01:43,359 --> 00:01:47,679
+weight and while that is true at a
+
+57
+00:01:45,759 --> 00:01:49,679
+certain level the fact is that most
+
+58
+00:01:47,680 --> 00:01:51,680
+people and that included me especially
+
+59
+00:01:49,680 --> 00:01:53,519
+at the start of 2020 aren't at that
+
+60
+00:01:51,680 --> 00:01:54,799
+level yet and that means a basic
+
+61
+00:01:53,519 --> 00:01:56,559
+strength training routine with some
+
+62
+00:01:54,799 --> 00:01:58,880
+added cardio is likely going to help you
+
+63
+00:01:56,560 --> 00:02:01,199
+improve in nearly every area you want
+
+64
+00:01:58,879 --> 00:02:03,117
+strength lean body mass cardio even
+
+65
+00:02:01,200 --> 00:02:05,919
+weight loss which to be honest is more a
+
+66
+00:02:03,118 --> 00:02:07,518
+function of diet anyway and if you are
+
+67
+00:02:05,920 --> 00:02:09,598
+at that more advanced level already
+
+68
+00:02:07,519 --> 00:02:11,038
+where specialization truly is important
+
+69
+00:02:09,598 --> 00:02:12,238
+you're probably not watching this video
+
+70
+00:02:11,038 --> 00:02:14,799
+you're probably off watching jeff
+
+71
+00:02:12,239 --> 00:02:16,958
+nippert instead so for the rest of us i
+
+72
+00:02:14,800 --> 00:02:18,319
+want to make this as easy as possible
+
+73
+00:02:16,959 --> 00:02:19,760
+and to do that i'm going to actually
+
+74
+00:02:18,318 --> 00:02:21,278
+share a couple of the routines that i
+
+75
+00:02:19,759 --> 00:02:23,598
+have been following over the past couple
+
+76
+00:02:21,280 --> 00:02:25,440
+of years including my current routine
+
+77
+00:02:23,598 --> 00:02:27,439
+which does require some gym equipment at
+
+78
+00:02:25,439 --> 00:02:29,519
+least a power rack and a bench along
+
+79
+00:02:27,439 --> 00:02:31,439
+with my original lockdown quarantine
+
+80
+00:02:29,520 --> 00:02:33,840
+workout which needed nothing more than a
+
+81
+00:02:31,439 --> 00:02:35,839
+single kettlebell like this one right
+
+82
+00:02:33,840 --> 00:02:38,319
+here and one of those door frame pull-up
+
+83
+00:02:35,840 --> 00:02:40,080
+bars that costs around 20 or 30 dollars
+
+84
+00:02:38,318 --> 00:02:41,439
+and what i've actually done is put these
+
+85
+00:02:40,080 --> 00:02:43,519
+into a notion page that you can find
+
+86
+00:02:41,439 --> 00:02:45,517
+over at thomasjfrank.com
+
+87
+00:02:43,519 --> 00:02:47,519
+workoutdb and there i've got each
+
+88
+00:02:45,519 --> 00:02:49,200
+workout with its exercises it's sets and
+
+89
+00:02:47,519 --> 00:02:50,479
+it's reps the ones that i actually
+
+90
+00:02:49,199 --> 00:02:51,998
+followed there are also some sample
+
+91
+00:02:50,479 --> 00:02:53,439
+weights that i have used so you'll
+
+92
+00:02:52,000 --> 00:02:55,680
+probably want to adjust these so they're
+
+93
+00:02:53,439 --> 00:02:57,358
+right for you and lastly i've included
+
+94
+00:02:55,680 --> 00:02:59,039
+both a video tutorial from strength
+
+95
+00:02:57,360 --> 00:03:01,119
+coach along with a clip from my own
+
+96
+00:02:59,039 --> 00:03:03,199
+recordings for every exercise so you
+
+97
+00:03:01,120 --> 00:03:05,120
+have multiple references for how to do
+
+98
+00:03:03,199 --> 00:03:07,279
+these and i wanted to share my actual
+
+99
+00:03:05,120 --> 00:03:09,200
+routines because while there are a ton
+
+100
+00:03:07,280 --> 00:03:10,719
+of different routines out there tons of
+
+101
+00:03:09,199 --> 00:03:12,238
+fitness advice literally thousands of
+
+102
+00:03:10,719 --> 00:03:14,478
+people on the internet giving it out
+
+103
+00:03:12,239 --> 00:03:16,399
+these are what i have actually done
+
+104
+00:03:14,479 --> 00:03:17,838
+which is why i feel most comfortable
+
+105
+00:03:16,400 --> 00:03:19,1000
+putting them out there they're what have
+
+106
+00:03:17,840 --> 00:03:21,1000
+actually given me the results that i've
+
+107
+00:03:20,000 --> 00:03:24,400
+seen and they were also programmed by my
+
+108
+00:03:22,000 --> 00:03:26,158
+coach who is an expert strength coach
+
+109
+00:03:24,400 --> 00:03:28,400
+our second sub problem is that a lot of
+
+110
+00:03:26,158 --> 00:03:29,517
+us deal with not seeing any results and
+
+111
+00:03:28,400 --> 00:03:31,360
+if you're not seeing any positive
+
+112
+00:03:29,519 --> 00:03:33,280
+changes then what's the point of putting
+
+113
+00:03:31,360 --> 00:03:34,560
+in all this effort right well one of the
+
+114
+00:03:33,280 --> 00:03:36,639
+biggest reasons that a lot of people
+
+115
+00:03:34,560 --> 00:03:38,479
+don't see any progress is that they're
+
+116
+00:03:36,639 --> 00:03:39,998
+not recording it see in strength
+
+117
+00:03:38,479 --> 00:03:42,079
+training and in pretty much every other
+
+118
+00:03:40,000 --> 00:03:43,839
+skill area as well you make progress by
+
+119
+00:03:42,080 --> 00:03:45,680
+using a technique called progressive
+
+120
+00:03:43,840 --> 00:03:47,679
+overload and this is just a fancy way of
+
+121
+00:03:45,680 --> 00:03:49,680
+saying you push yourself to near your
+
+122
+00:03:47,680 --> 00:03:52,080
+limit so your body is forced to get
+
+123
+00:03:49,680 --> 00:03:53,680
+stronger it's an adaptive response but
+
+124
+00:03:52,080 --> 00:03:56,080
+the problem is a lot of people don't
+
+125
+00:03:53,680 --> 00:03:57,438
+actually commit to progressive overload
+
+126
+00:03:56,080 --> 00:03:58,878
+a lot of people just show up at the gym
+
+127
+00:03:57,438 --> 00:04:00,639
+and decide on the fly what they're gonna
+
+128
+00:03:58,878 --> 00:04:02,639
+do and for those that actually do show
+
+129
+00:04:00,639 --> 00:04:03,998
+up with a predetermined routine a lot of
+
+130
+00:04:02,639 --> 00:04:05,918
+them get stuck following the same
+
+131
+00:04:04,000 --> 00:04:07,919
+routine with the same numbers for months
+
+132
+00:04:05,919 --> 00:04:09,358
+without seeing any real gains and the
+
+133
+00:04:07,919 --> 00:04:11,678
+reason for this is that they're not
+
+134
+00:04:09,360 --> 00:04:12,879
+recording their progress when they don't
+
+135
+00:04:11,680 --> 00:04:15,360
+do this if you don't record your
+
+136
+00:04:12,878 --> 00:04:17,118
+progress then you don't really know what
+
+137
+00:04:15,360 --> 00:04:18,638
+you're doing or how you're doing and you
+
+138
+00:04:17,120 --> 00:04:21,039
+can't make intelligent decisions that
+
+139
+00:04:18,639 --> 00:04:22,879
+are going to help you get stronger so if
+
+140
+00:04:21,040 --> 00:04:24,639
+you want to see results start recording
+
+141
+00:04:22,879 --> 00:04:26,318
+your progress now since i work with a
+
+142
+00:04:24,639 --> 00:04:27,840
+coach i actually use their app the
+
+143
+00:04:26,319 --> 00:04:29,598
+barbell logic app to do it through my
+
+144
+00:04:27,839 --> 00:04:31,758
+phone but you can also do it with an old
+
+145
+00:04:29,600 --> 00:04:33,280
+school trusty notebook as well just
+
+146
+00:04:31,759 --> 00:04:35,120
+record your sets your reps and your
+
+147
+00:04:33,279 --> 00:04:37,118
+weight for each exercise maybe time and
+
+148
+00:04:35,120 --> 00:04:39,280
+distance for things like cardio and then
+
+149
+00:04:37,120 --> 00:04:40,720
+use that data to push yourself for
+
+150
+00:04:39,279 --> 00:04:42,718
+example here's my journal for a workout
+
+151
+00:04:40,720 --> 00:04:45,599
+where i hit three sets of five reps at
+
+152
+00:04:42,720 --> 00:04:47,599
+275 on the squat so on the next workout
+
+153
+00:04:45,600 --> 00:04:50,478
+i or actually my coach in this case
+
+154
+00:04:47,600 --> 00:04:53,040
+bumped that up to 280 pounds for a 3x5
+
+155
+00:04:50,478 --> 00:04:54,559
+and then 285 on the next one and i will
+
+156
+00:04:53,040 --> 00:04:56,080
+also note that recording my progress in
+
+157
+00:04:54,560 --> 00:04:58,160
+this way has caused me to be more
+
+158
+00:04:56,079 --> 00:04:59,599
+excited to get into the gym because
+
+159
+00:04:58,160 --> 00:05:01,680
+while changes in my overall body
+
+160
+00:04:59,600 --> 00:05:03,519
+composition are really slow and take a
+
+161
+00:05:01,680 --> 00:05:05,119
+long time to notice i can see changes in
+
+162
+00:05:03,519 --> 00:05:07,278
+my numbers pretty quickly when i'm
+
+163
+00:05:05,120 --> 00:05:09,919
+recording them and that gets me excited
+
+164
+00:05:07,279 --> 00:05:11,679
+to see them improve now our third sub
+
+165
+00:05:09,918 --> 00:05:13,519
+problem here is that there's often too
+
+166
+00:05:11,680 --> 00:05:14,800
+much friction involved in getting into
+
+167
+00:05:13,519 --> 00:05:16,478
+the gym or getting started with your
+
+168
+00:05:14,800 --> 00:05:17,840
+routine and you probably have a lot of
+
+169
+00:05:16,478 --> 00:05:19,358
+days where you feel like this or you
+
+170
+00:05:17,839 --> 00:05:21,037
+feel like you're just too busy to work
+
+171
+00:05:19,360 --> 00:05:23,759
+out or you just can't fit into your
+
+172
+00:05:21,038 --> 00:05:25,999
+schedule i know i do and that's why it's
+
+173
+00:05:23,759 --> 00:05:27,520
+crucial to do anything you can to reduce
+
+174
+00:05:26,000 --> 00:05:29,600
+that friction this is actually why i
+
+175
+00:05:27,519 --> 00:05:31,358
+built a garage gym recently it's at home
+
+176
+00:05:29,600 --> 00:05:32,879
+so there's very little preventing me
+
+177
+00:05:31,360 --> 00:05:34,638
+from just getting out there and getting
+
+178
+00:05:32,879 --> 00:05:36,158
+my routine done the commute has been
+
+179
+00:05:34,639 --> 00:05:38,478
+eliminated so it's not a potential
+
+180
+00:05:36,160 --> 00:05:40,079
+source of an excuse now you don't have
+
+181
+00:05:38,478 --> 00:05:41,757
+to build a home gym like i did just to
+
+182
+00:05:40,079 --> 00:05:43,918
+reduce friction because smaller changes
+
+183
+00:05:41,759 --> 00:05:45,360
+can help as well like for example laying
+
+184
+00:05:43,918 --> 00:05:47,599
+out your gym clothes and packing your
+
+185
+00:05:45,360 --> 00:05:50,478
+bag before you go to bed so it's already
+
+186
+00:05:47,600 --> 00:05:52,239
+the moment you wake up also keep in mind
+
+187
+00:05:50,478 --> 00:05:54,638
+the actual problem you're trying to
+
+188
+00:05:52,240 --> 00:05:56,560
+solve here because in the beginning what
+
+189
+00:05:54,639 --> 00:05:58,799
+you're really trying to do is build and
+
+190
+00:05:56,560 --> 00:05:59,758
+stick to an exercise routine so if
+
+191
+00:05:58,800 --> 00:06:01,038
+you're feeling like there's just too
+
+192
+00:05:59,759 --> 00:06:03,198
+much friction right now because your
+
+193
+00:06:01,038 --> 00:06:05,038
+routine is too long or too difficult
+
+194
+00:06:03,199 --> 00:06:06,880
+just remember that doing something is
+
+195
+00:06:05,038 --> 00:06:08,719
+better than doing nothing at all case in
+
+196
+00:06:06,879 --> 00:06:10,798
+point my best friend martin doesn't like
+
+197
+00:06:08,720 --> 00:06:11,999
+going to gyms and he wanted something
+
+198
+00:06:10,800 --> 00:06:14,079
+dead simple to start with because he
+
+199
+00:06:12,000 --> 00:06:16,799
+hadn't really exercised at all in quite
+
+200
+00:06:14,079 --> 00:06:18,958
+a while so back in december he literally
+
+201
+00:06:16,800 --> 00:06:20,559
+started just running in place in his
+
+202
+00:06:18,959 --> 00:06:22,079
+apartment and to keep things a little
+
+203
+00:06:20,560 --> 00:06:23,919
+bit exciting he put on these videos from
+
+204
+00:06:22,079 --> 00:06:26,559
+a youtube channel called virtual run tv
+
+205
+00:06:23,918 --> 00:06:28,879
+to make it a little bit less boring but
+
+206
+00:06:26,560 --> 00:06:31,199
+that's it and crucially he started out
+
+207
+00:06:28,879 --> 00:06:33,279
+running for just three minutes a day i
+
+208
+00:06:31,199 --> 00:06:35,038
+got you for three minutes now that
+
+209
+00:06:33,279 --> 00:06:36,718
+doesn't sound like a whole lot but it
+
+210
+00:06:35,038 --> 00:06:38,399
+helped him build the habit and as of
+
+211
+00:06:36,720 --> 00:06:39,918
+today he's been doing this for 45 days
+
+212
+00:06:38,399 --> 00:06:41,918
+in a row and is up to running for about
+
+213
+00:06:39,918 --> 00:06:44,477
+23 minutes at a time so his endurance
+
+214
+00:06:41,918 --> 00:06:46,238
+has improved quite a bit finally our
+
+215
+00:06:44,478 --> 00:06:48,638
+last sub problem here is that it's
+
+216
+00:06:46,240 --> 00:06:50,318
+probably too easy for you to fail ask
+
+217
+00:06:48,639 --> 00:06:52,319
+yourself what happens if you decide to
+
+218
+00:06:50,319 --> 00:06:54,239
+push a workout off until the next day or
+
+219
+00:06:52,319 --> 00:06:56,559
+you skip it all together well if you're
+
+220
+00:06:54,240 --> 00:06:57,759
+like most people the answer is probably
+
+221
+00:06:56,560 --> 00:06:59,439
+nothing other than the fact that you
+
+222
+00:06:57,759 --> 00:07:01,440
+don't make any progress from that
+
+223
+00:06:59,439 --> 00:07:03,119
+workout and that's a problem if you want
+
+224
+00:07:01,439 --> 00:07:05,439
+to more reliably stick to your routine
+
+225
+00:07:03,120 --> 00:07:07,120
+you need to make it somewhat harder to
+
+226
+00:07:05,439 --> 00:07:09,197
+fail which means that you need to
+
+227
+00:07:07,120 --> 00:07:11,120
+introduce some accountability into the
+
+228
+00:07:09,199 --> 00:07:12,960
+mix and this is actually probably the
+
+229
+00:07:11,120 --> 00:07:14,318
+number one reason why i've been able to
+
+230
+00:07:12,959 --> 00:07:16,559
+make so much progress over the last
+
+231
+00:07:14,319 --> 00:07:18,639
+couple of years i have people in my life
+
+232
+00:07:16,560 --> 00:07:20,560
+that hold me accountable to my workout
+
+233
+00:07:18,639 --> 00:07:22,639
+routine now the primary source of that
+
+234
+00:07:20,560 --> 00:07:24,160
+accountability is my lifting coach matt
+
+235
+00:07:22,639 --> 00:07:25,599
+who actually coaches me remotely i've
+
+236
+00:07:24,160 --> 00:07:27,199
+got to journal my sets and my reps and
+
+237
+00:07:25,598 --> 00:07:29,279
+then i actually film the final set of
+
+238
+00:07:27,199 --> 00:07:30,960
+each exercise and the next morning i get
+
+239
+00:07:29,279 --> 00:07:32,638
+a forum critique on that video and
+
+240
+00:07:30,959 --> 00:07:34,798
+updated programming for the next workout
+
+241
+00:07:32,639 --> 00:07:36,240
+but the most important thing i get is
+
+242
+00:07:34,800 --> 00:07:38,559
+the knowledge that he's actually
+
+243
+00:07:36,240 --> 00:07:40,159
+expecting me to turn in my workout log
+
+244
+00:07:38,560 --> 00:07:41,680
+now in addition to my coach i do have
+
+245
+00:07:40,160 --> 00:07:43,199
+one other big source of accountability
+
+246
+00:07:41,680 --> 00:07:44,959
+in my life and that is the activity
+
+247
+00:07:43,199 --> 00:07:46,478
+sharing feature on my apple watch which
+
+248
+00:07:44,959 --> 00:07:47,999
+i use to share my exercise data with a
+
+249
+00:07:46,478 --> 00:07:50,638
+few different friends and who do the
+
+250
+00:07:48,000 --> 00:07:52,240
+same with me and this actually brings in
+
+251
+00:07:50,639 --> 00:07:54,400
+a different dimension of accountability
+
+252
+00:07:52,240 --> 00:07:55,840
+and support as we typically don't hound
+
+253
+00:07:54,399 --> 00:07:57,918
+each other when we don't do a workout
+
+254
+00:07:55,839 --> 00:07:59,917
+but we do send each other emojis and
+
+255
+00:07:57,918 --> 00:08:01,598
+other support when we do complete our
+
+256
+00:07:59,918 --> 00:08:03,119
+workouts and that's something that i
+
+257
+00:08:01,598 --> 00:08:04,477
+feel doesn't actually get talked about
+
+258
+00:08:03,120 --> 00:08:06,559
+as much in the realms of habits and
+
+259
+00:08:04,478 --> 00:08:08,079
+productivity it's useful to not only
+
+260
+00:08:06,560 --> 00:08:09,280
+have accountability to know that
+
+261
+00:08:08,079 --> 00:08:11,518
+somebody's going to hold your feet to
+
+262
+00:08:09,279 --> 00:08:13,198
+the fire but also to have positive
+
+263
+00:08:11,519 --> 00:08:16,158
+encouragement from people who care about
+
+264
+00:08:13,199 --> 00:08:18,479
+you as well those positive messages can
+
+265
+00:08:16,160 --> 00:08:20,318
+really keep you going so if you can find
+
+266
+00:08:18,478 --> 00:08:21,998
+a way to get both of those by enlisting
+
+267
+00:08:20,319 --> 00:08:23,359
+other people that's going to help you
+
+268
+00:08:22,000 --> 00:08:24,720
+really stick to your routine you can
+
+269
+00:08:23,360 --> 00:08:26,400
+work with a coach like i do but there
+
+270
+00:08:24,720 --> 00:08:28,159
+are other methods as well like getting a
+
+271
+00:08:26,399 --> 00:08:29,918
+workout partner using the apple watch
+
+272
+00:08:28,160 --> 00:08:31,999
+thing or maybe even using the social
+
+273
+00:08:29,918 --> 00:08:33,518
+features in an app like habitica to
+
+274
+00:08:32,000 --> 00:08:35,200
+party up with other people and track
+
+275
+00:08:33,519 --> 00:08:36,479
+habits together if you want to learn
+
+276
+00:08:35,200 --> 00:08:38,639
+even more about how you can build strong
+
+277
+00:08:36,479 --> 00:08:40,560
+habits in any area of your life i also
+
+278
+00:08:38,639 --> 00:08:42,397
+have a full one hour class on habit
+
+279
+00:08:40,559 --> 00:08:43,998
+formation over on skillshare who have
+
+280
+00:08:42,399 --> 00:08:45,838
+sponsored this video this class will
+
+281
+00:08:44,000 --> 00:08:47,919
+teach you how to take any goal you have
+
+282
+00:08:45,839 --> 00:08:49,600
+to find it more clearly and then break
+
+283
+00:08:47,919 --> 00:08:51,758
+it down into actionable habits that you
+
+284
+00:08:49,600 --> 00:08:53,039
+can work on every single day you'll also
+
+285
+00:08:51,759 --> 00:08:54,479
+learn how to stick to those habits over
+
+286
+00:08:53,039 --> 00:08:56,639
+the long term by using external
+
+287
+00:08:54,480 --> 00:08:58,160
+accountability systems by anticipating
+
+288
+00:08:56,639 --> 00:09:00,239
+and dealing with pain points ahead of
+
+289
+00:08:58,159 --> 00:09:01,918
+time and by gracefully dealing with
+
+290
+00:09:00,240 --> 00:09:03,279
+failure so it doesn't completely derail
+
+291
+00:09:01,919 --> 00:09:04,559
+you and because my class is on
+
+292
+00:09:03,278 --> 00:09:06,238
+skillshare you're also going to get
+
+293
+00:09:04,559 --> 00:09:07,998
+access to thousands of other classes
+
+294
+00:09:06,240 --> 00:09:09,999
+that can help you learn new skills and
+
+295
+00:09:08,000 --> 00:09:11,759
+really make 2022 a year of personal
+
+296
+00:09:10,000 --> 00:09:14,160
+growth for yourself for instance one of
+
+297
+00:09:11,759 --> 00:09:15,837
+my favorite creators mkbhd has a class
+
+298
+00:09:14,159 --> 00:09:17,759
+on skillshare about how to craft great
+
+299
+00:09:15,839 --> 00:09:18,959
+youtube videos from start to finish and
+
+300
+00:09:17,759 --> 00:09:21,198
+you're also going to find classes on
+
+301
+00:09:18,958 --> 00:09:22,878
+illustration personal finance and even
+
+302
+00:09:21,200 --> 00:09:24,479
+how to grow your social media presence
+
+303
+00:09:22,879 --> 00:09:25,919
+skillshare is completely ad free they've
+
+304
+00:09:24,480 --> 00:09:27,919
+got new premium classes that are added
+
+305
+00:09:25,919 --> 00:09:29,358
+every single week and the best part is
+
+306
+00:09:27,919 --> 00:09:31,278
+that if you're one of the first 1 000
+
+307
+00:09:29,360 --> 00:09:33,518
+people to use mylink and sign up you're
+
+308
+00:09:31,278 --> 00:09:35,119
+even going to get a free one month trial
+
+309
+00:09:33,519 --> 00:09:37,600
+which means that you can take my class
+
+310
+00:09:35,120 --> 00:09:39,600
+and all my other classes completely for
+
+311
+00:09:37,600 --> 00:09:40,720
+free during that first month so to get
+
+312
+00:09:39,600 --> 00:09:42,800
+started use that link in the description
+
+313
+00:09:40,720 --> 00:09:44,479
+down below or click right there to sign
+
+314
+00:09:42,799 --> 00:09:45,838
+up and start learning and support my
+
+315
+00:09:44,480 --> 00:09:47,200
+channel you can also check out one of
+
+316
+00:09:45,839 --> 00:09:48,879
+these videos right here and i will
+
+317
+00:09:47,200 --> 00:09:50,479
+especially recommend this one on the
+
+318
+00:09:48,879 --> 00:09:52,718
+five levels of self-discipline which is
+
+319
+00:09:50,480 --> 00:09:54,399
+a great follow-up to this video thanks
+
+320
+00:09:52,720 --> 00:09:56,398
+as always for watching hit that like
+
+321
+00:09:54,399 --> 00:09:59,919
+button for yield algorithm and i will
+
+322
+00:09:56,399 --> 00:09:59,919
+see you in the next one
+

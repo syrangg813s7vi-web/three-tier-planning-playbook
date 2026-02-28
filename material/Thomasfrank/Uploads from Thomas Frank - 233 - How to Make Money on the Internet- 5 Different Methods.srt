@@ -1,0 +1,3496 @@
+1
+00:00:00,080 --> 00:00:03,040
+thanks to hover for sponsoring this
+
+2
+00:00:01,439 --> 00:00:03,681
+video and supporting my channel
+
+3
+00:00:03,120 --> 00:00:04,238
+hey there my name is thomas frank and
+
+4
+00:00:05,120 --> 00:00:09,360
+for the past about eight years i have
+
+5
+00:00:07,359 --> 00:00:11,200
+made my full-time living on
+
+6
+00:00:09,359 --> 00:00:13,359
+the internet that's been done primarily
+
+7
+00:00:11,199 --> 00:00:14,558
+through my blog college info geek a
+
+8
+00:00:13,359 --> 00:00:16,638
+podcast that i run
+
+9
+00:00:14,558 --> 00:00:18,078
+and this youtube channel with income
+
+10
+00:00:16,640 --> 00:00:20,320
+sources ranging from
+
+11
+00:00:18,079 --> 00:00:21,357
+speaking engagements to youtube ads to
+
+12
+00:00:20,320 --> 00:00:24,079
+sponsorships
+
+13
+00:00:21,359 --> 00:00:24,399
+affiliate marketing sales of my own book
+
+14
+00:00:24,079 --> 00:00:26,958
+and
+
+15
+00:00:24,399 --> 00:00:28,318
+a secret only fans account one of those
+
+16
+00:00:26,960 --> 00:00:31,278
+is a lie
+
+17
+00:00:28,320 --> 00:00:32,320
+can we leave that in the video so as
+
+18
+00:00:31,278 --> 00:00:33,919
+somebody who makes their living
+
+19
+00:00:32,320 --> 00:00:34,480
+primarily from creating things for the
+
+20
+00:00:33,920 --> 00:00:36,160
+internet
+
+21
+00:00:34,479 --> 00:00:37,838
+i naturally get a lot of questions from
+
+22
+00:00:36,159 --> 00:00:38,397
+people who want to do the exact same
+
+23
+00:00:37,840 --> 00:00:40,078
+thing
+
+24
+00:00:38,399 --> 00:00:41,439
+and i remember being one of the people
+
+25
+00:00:40,079 --> 00:00:42,959
+asking those questions
+
+26
+00:00:41,439 --> 00:00:45,038
+back when i started my blog about 10
+
+27
+00:00:42,960 --> 00:00:46,879
+years ago i was primarily doing it just
+
+28
+00:00:45,039 --> 00:00:48,719
+to boost my resume and to have fun
+
+29
+00:00:46,878 --> 00:00:50,398
+but i quickly started reading blogs
+
+30
+00:00:48,719 --> 00:00:51,599
+written by people who were making their
+
+31
+00:00:50,399 --> 00:00:54,319
+full-time incomes
+
+32
+00:00:51,600 --> 00:00:55,120
+sometimes over six figures just running
+
+33
+00:00:54,320 --> 00:00:56,558
+their blogs
+
+34
+00:00:55,119 --> 00:00:58,877
+at first i thought this lifestyle would
+
+35
+00:00:56,558 --> 00:01:00,718
+be impossible for me to achieve the
+
+36
+00:00:58,878 --> 00:01:02,398
+freedom seemed alluring but i felt that
+
+37
+00:01:00,719 --> 00:01:03,920
+that was for other people who got lucky
+
+38
+00:01:02,399 --> 00:01:05,359
+and i would just have to work a job and
+
+39
+00:01:03,920 --> 00:01:07,679
+just blog on the side
+
+40
+00:01:05,359 --> 00:01:09,437
+but i was curious so i started learning
+
+41
+00:01:07,680 --> 00:01:11,280
+and started devouring as much as i could
+
+42
+00:01:09,438 --> 00:01:14,079
+possibly get my hands on from the
+
+43
+00:01:11,280 --> 00:01:15,999
+tiniest details on website speed to the
+
+44
+00:01:14,079 --> 00:01:17,599
+marketing psychology behind the colors
+
+45
+00:01:16,000 --> 00:01:19,359
+of buttons on landing pages
+
+46
+00:01:17,599 --> 00:01:21,038
+and about two and a half years after i
+
+47
+00:01:19,359 --> 00:01:23,599
+first started my blog i hit
+
+48
+00:01:21,040 --> 00:01:25,040
+full time income for the first time
+
+49
+00:01:23,599 --> 00:01:26,958
+about three years ago i hit
+
+50
+00:01:25,040 --> 00:01:28,879
+six figures in income for the first time
+
+51
+00:01:26,959 --> 00:01:29,438
+and last year we did over half a million
+
+52
+00:01:28,879 --> 00:01:30,959
+dollars
+
+53
+00:01:29,438 --> 00:01:32,478
+in gross revenue i'm throwing these
+
+54
+00:01:30,959 --> 00:01:34,238
+numbers out here not to brag
+
+55
+00:01:32,478 --> 00:01:35,918
+but to provide a little bit of context
+
+56
+00:01:34,239 --> 00:01:38,239
+on a what's possible
+
+57
+00:01:35,920 --> 00:01:39,839
+be what's happened in my experience and
+
+58
+00:01:38,239 --> 00:01:41,758
+to hopefully give myself a little bit of
+
+59
+00:01:39,840 --> 00:01:44,559
+credibility for making a video
+
+60
+00:01:41,759 --> 00:01:45,520
+like this so today what i want to do is
+
+61
+00:01:44,560 --> 00:01:47,439
+kind of explain
+
+62
+00:01:45,519 --> 00:01:49,118
+some of the ways that you can use to
+
+63
+00:01:47,438 --> 00:01:49,679
+make money on the internet if that's
+
+64
+00:01:49,118 --> 00:01:51,359
+something
+
+65
+00:01:49,680 --> 00:01:52,478
+that you want to do so first we're going
+
+66
+00:01:51,359 --> 00:01:53,999
+to cover some pretty important
+
+67
+00:01:52,478 --> 00:01:54,639
+groundwork here and then i'm going to be
+
+68
+00:01:54,000 --> 00:01:56,158
+covering
+
+69
+00:01:54,640 --> 00:01:57,919
+five different ways that you can use to
+
+70
+00:01:56,159 --> 00:01:59,199
+make money on the internet
+
+71
+00:01:57,920 --> 00:02:00,718
+and for each of these methods i'm going
+
+72
+00:01:59,200 --> 00:02:01,519
+to give you some tips for both getting
+
+73
+00:02:00,718 --> 00:02:04,077
+started in it
+
+74
+00:02:01,519 --> 00:02:05,599
+and being more successful with it to lay
+
+75
+00:02:04,078 --> 00:02:07,279
+down that groundwork i talked about the
+
+76
+00:02:05,599 --> 00:02:09,839
+main idea i want to communicate here
+
+77
+00:02:07,280 --> 00:02:11,280
+is this making money on the internet is
+
+78
+00:02:09,840 --> 00:02:13,119
+just like making money out in the
+
+79
+00:02:11,280 --> 00:02:15,199
+physical world in at least one
+
+80
+00:02:13,120 --> 00:02:16,878
+key dimension which is that you have to
+
+81
+00:02:15,199 --> 00:02:19,598
+have some way of providing
+
+82
+00:02:16,878 --> 00:02:19,999
+scarce value so what do i mean by that
+
+83
+00:02:19,598 --> 00:02:21,998
+well
+
+84
+00:02:20,000 --> 00:02:23,439
+value is obvious if you remember your
+
+85
+00:02:22,000 --> 00:02:24,399
+economics class you probably remember
+
+86
+00:02:23,439 --> 00:02:27,119
+that money is
+
+87
+00:02:24,400 --> 00:02:29,119
+number one a store of value number two a
+
+88
+00:02:27,120 --> 00:02:31,759
+medium of exchange and number three
+
+89
+00:02:29,120 --> 00:02:33,999
+a unit of account so essentially money
+
+90
+00:02:31,759 --> 00:02:37,759
+is a way of giving a numeric value
+
+91
+00:02:34,000 --> 00:02:39,759
+to well value i value not mowing my lawn
+
+92
+00:02:37,759 --> 00:02:41,439
+so i pay a lawn mowing company to do it
+
+93
+00:02:39,759 --> 00:02:42,878
+instead of course there are different
+
+94
+00:02:41,439 --> 00:02:44,639
+levels of value as well
+
+95
+00:02:42,878 --> 00:02:46,798
+something that i value more than that is
+
+96
+00:02:44,639 --> 00:02:47,998
+having a person to edit my videos which
+
+97
+00:02:46,800 --> 00:02:50,159
+is also something that takes
+
+98
+00:02:48,000 --> 00:02:51,040
+more skill so as a result i pay my
+
+99
+00:02:50,159 --> 00:02:53,038
+editor tony
+
+100
+00:02:51,039 --> 00:02:54,398
+quite a bit more than i pay lawn mowing
+
+101
+00:02:53,039 --> 00:02:57,199
+company by scarce
+
+102
+00:02:54,400 --> 00:02:58,879
+i mean not abundant the more choice that
+
+103
+00:02:57,199 --> 00:02:59,919
+a customer has when it comes to a given
+
+104
+00:02:58,878 --> 00:03:01,439
+service the more
+
+105
+00:02:59,919 --> 00:03:03,758
+you as the service provider are going to
+
+106
+00:03:01,439 --> 00:03:05,119
+have to start competing on price
+
+107
+00:03:03,759 --> 00:03:07,038
+and the more you have to compete on
+
+108
+00:03:05,120 --> 00:03:08,878
+price the more you have to start eating
+
+109
+00:03:07,039 --> 00:03:10,478
+into your margins which is the
+
+110
+00:03:08,878 --> 00:03:12,237
+difference between your income
+
+111
+00:03:10,479 --> 00:03:13,679
+and what you had to spend to make that
+
+112
+00:03:12,239 --> 00:03:15,1000
+income on things like
+
+113
+00:03:13,680 --> 00:03:17,680
+buying inventory running ads paying for
+
+114
+00:03:16,000 --> 00:03:19,919
+web hosting whatever it might be
+
+115
+00:03:17,680 --> 00:03:21,680
+a great example here is drop shipping
+
+116
+00:03:19,919 --> 00:03:23,518
+and i will not be surprised if you get
+
+117
+00:03:21,680 --> 00:03:23,999
+an ad for a drop shipping course on this
+
+118
+00:03:23,519 --> 00:03:25,440
+video
+
+119
+00:03:24,000 --> 00:03:26,959
+if you're watching it on youtube
+
+120
+00:03:25,439 --> 00:03:27,358
+essentially drop shipping is a business
+
+121
+00:03:26,959 --> 00:03:29,439
+model
+
+122
+00:03:27,360 --> 00:03:30,719
+where you identify a product set up an
+
+123
+00:03:29,439 --> 00:03:32,479
+online store for it
+
+124
+00:03:30,719 --> 00:03:34,158
+and then when a customer orders that
+
+125
+00:03:32,479 --> 00:03:34,958
+product you actually send that order to
+
+126
+00:03:34,158 --> 00:03:37,038
+a supplier
+
+127
+00:03:34,959 --> 00:03:38,640
+who sends it to the customer you don't
+
+128
+00:03:37,039 --> 00:03:40,478
+keep anything on hand
+
+129
+00:03:38,639 --> 00:03:41,998
+this is a very attractive business model
+
+130
+00:03:40,479 --> 00:03:44,318
+because number one you don't have to
+
+131
+00:03:42,000 --> 00:03:46,158
+spend any money upfront on inventory
+
+132
+00:03:44,318 --> 00:03:47,039
+which is usually risky and requires
+
+133
+00:03:46,158 --> 00:03:48,558
+warehouse space
+
+134
+00:03:47,039 --> 00:03:50,878
+and number two you don't even have to
+
+135
+00:03:48,560 --> 00:03:53,279
+deal with the hassle of shipping orders
+
+136
+00:03:50,878 --> 00:03:55,358
+to customers instead as the ads for so
+
+137
+00:03:53,280 --> 00:03:57,598
+many drop shipping courses will tell you
+
+138
+00:03:55,360 --> 00:03:58,959
+all you got to do is find a cool product
+
+139
+00:03:57,598 --> 00:04:00,638
+build an online site where people can
+
+140
+00:03:58,959 --> 00:04:02,798
+order that product and then just
+
+141
+00:04:00,639 --> 00:04:04,238
+drive traffic to the website using slick
+
+142
+00:04:02,799 --> 00:04:05,1000
+instagram ads or search engine
+
+143
+00:04:04,239 --> 00:04:07,920
+optimization or whatever
+
+144
+00:04:06,000 --> 00:04:10,158
+and you can do all of that while sipping
+
+145
+00:04:07,919 --> 00:04:12,079
+a margarita from a beach in bali
+
+146
+00:04:10,158 --> 00:04:14,318
+as long as it has wi-fi but you're going
+
+147
+00:04:12,080 --> 00:04:16,639
+to be doing it alongside about a billion
+
+148
+00:04:14,318 --> 00:04:19,838
+other dude bros trying to do the exact
+
+149
+00:04:16,639 --> 00:04:21,999
+same thing so remember this easy
+
+150
+00:04:19,839 --> 00:04:22,959
+low cost of entry equals huge
+
+151
+00:04:22,000 --> 00:04:25,279
+competition
+
+152
+00:04:22,959 --> 00:04:27,279
+equals razor thin or sometimes
+
+153
+00:04:25,279 --> 00:04:29,118
+non-existent margins which can put you
+
+154
+00:04:27,279 --> 00:04:30,959
+in the hole a better option is finding a
+
+155
+00:04:29,120 --> 00:04:32,080
+way to increase the value of what you're
+
+156
+00:04:30,959 --> 00:04:34,238
+offering or make it
+
+157
+00:04:32,079 --> 00:04:36,399
+more unique somehow for example while
+
+158
+00:04:34,240 --> 00:04:38,560
+most editors can provide basic cuts
+
+159
+00:04:36,399 --> 00:04:39,838
+tony can do color grading he can do
+
+160
+00:04:38,560 --> 00:04:41,680
+intricate sound design
+
+161
+00:04:39,839 --> 00:04:43,118
+and he knows how to use b-roll to make
+
+162
+00:04:41,680 --> 00:04:45,360
+the video that you're watching
+
+163
+00:04:43,120 --> 00:04:46,399
+a little bit more pleasing to the eye
+
+164
+00:04:45,360 --> 00:04:49,040
+but of course
+
+165
+00:04:46,399 --> 00:04:49,599
+those skills take time and practice to
+
+166
+00:04:49,040 --> 00:04:51,439
+develop
+
+167
+00:04:49,600 --> 00:04:53,280
+and in some cases there may even be some
+
+168
+00:04:51,439 --> 00:04:56,158
+form of monetary investment
+
+169
+00:04:53,279 --> 00:04:57,038
+like i don't know buying a two 000 sound
+
+170
+00:04:56,160 --> 00:04:59,519
+effects library
+
+171
+00:04:57,040 --> 00:05:01,280
+so keep this in mind before you can make
+
+172
+00:04:59,519 --> 00:05:03,038
+significant money on the internet you
+
+173
+00:05:01,279 --> 00:05:05,519
+have to find a way of providing
+
+174
+00:05:03,038 --> 00:05:06,399
+scarce value anybody who is telling you
+
+175
+00:05:05,519 --> 00:05:07,838
+anything different
+
+176
+00:05:06,399 --> 00:05:09,197
+is almost certainly trying to sell you
+
+177
+00:05:07,839 --> 00:05:10,399
+something and it's probably a course
+
+178
+00:05:09,199 --> 00:05:11,440
+that helps them make money
+
+179
+00:05:10,399 --> 00:05:13,999
+not doing the thing that they're
+
+180
+00:05:11,439 --> 00:05:15,119
+teaching you how to do you have to
+
+181
+00:05:14,000 --> 00:05:17,279
+provide value
+
+182
+00:05:15,120 --> 00:05:19,759
+luckily there is more than one way to do
+
+183
+00:05:17,279 --> 00:05:21,679
+that so freelancing is probably the best
+
+184
+00:05:19,759 --> 00:05:23,520
+place to start here because it is in my
+
+185
+00:05:21,680 --> 00:05:25,519
+opinion one of the easiest ways to start
+
+186
+00:05:23,519 --> 00:05:26,239
+making a decent amount of money on the
+
+187
+00:05:25,519 --> 00:05:27,999
+internet
+
+188
+00:05:26,240 --> 00:05:29,918
+fairly quickly especially if you have a
+
+189
+00:05:28,000 --> 00:05:30,799
+skill to start with it's also the place
+
+190
+00:05:29,918 --> 00:05:31,918
+where i started
+
+191
+00:05:30,800 --> 00:05:33,759
+back in high school i started a
+
+192
+00:05:31,918 --> 00:05:35,757
+freelance web design business and i put
+
+193
+00:05:33,759 --> 00:05:37,360
+up a website trying to get clients and i
+
+194
+00:05:35,759 --> 00:05:38,880
+actually landed a few that helped pay my
+
+195
+00:05:37,360 --> 00:05:40,799
+bills throughout college
+
+196
+00:05:38,879 --> 00:05:43,037
+now i will admit that a lot of the
+
+197
+00:05:40,800 --> 00:05:44,800
+clients i got didn't actually come from
+
+198
+00:05:43,038 --> 00:05:46,638
+the internet some of them came from word
+
+199
+00:05:44,800 --> 00:05:48,880
+of mouth referrals in my local area
+
+200
+00:05:46,639 --> 00:05:51,198
+and for other ones i was actually making
+
+201
+00:05:48,879 --> 00:05:53,197
+cold sales calls trying to get clients
+
+202
+00:05:51,199 --> 00:05:54,719
+but eventually i did get two clients who
+
+203
+00:05:53,199 --> 00:05:56,638
+found me through google searches and
+
+204
+00:05:54,720 --> 00:05:57,999
+they hired me for ongoing web work that
+
+205
+00:05:56,639 --> 00:05:59,599
+actually again paid some of the bills
+
+206
+00:05:58,000 --> 00:06:01,039
+that i had during college and provided
+
+207
+00:05:59,600 --> 00:06:01,758
+some decent money if you want to talk
+
+208
+00:06:01,038 --> 00:06:03,438
+about numbers
+
+209
+00:06:01,759 --> 00:06:05,679
+i think the first website i ever built i
+
+210
+00:06:03,439 --> 00:06:07,439
+charged about 350 bucks for
+
+211
+00:06:05,680 --> 00:06:10,319
+and the last one i built before i moved
+
+212
+00:06:07,439 --> 00:06:11,679
+into blogging i charged around 2 000
+
+213
+00:06:10,319 --> 00:06:13,600
+so you can make some pretty good money
+
+214
+00:06:11,680 --> 00:06:13,999
+doing web development whatever you want
+
+215
+00:06:13,600 --> 00:06:15,440
+to do
+
+216
+00:06:14,000 --> 00:06:17,520
+if you want to get into freelancing you
+
+217
+00:06:15,439 --> 00:06:20,158
+first have to learn a skill that is in
+
+218
+00:06:17,519 --> 00:06:21,999
+demand and that ideally you can do over
+
+219
+00:06:20,160 --> 00:06:22,318
+the internet so i'm talking about things
+
+220
+00:06:22,000 --> 00:06:25,120
+like
+
+221
+00:06:22,319 --> 00:06:26,239
+web development video editing podcast
+
+222
+00:06:25,120 --> 00:06:28,559
+editing is a big one
+
+223
+00:06:26,240 --> 00:06:29,360
+professional writing and sometimes even
+
+224
+00:06:28,560 --> 00:06:31,198
+bookkeeping
+
+225
+00:06:29,360 --> 00:06:32,560
+another option is actually doing
+
+226
+00:06:31,199 --> 00:06:34,400
+in-person services but
+
+227
+00:06:32,560 --> 00:06:35,919
+marketing them over the internet using
+
+228
+00:06:34,399 --> 00:06:37,838
+geo-targeted ads
+
+229
+00:06:35,918 --> 00:06:39,197
+or by just targeting people in your area
+
+230
+00:06:37,839 --> 00:06:40,879
+in other ways so this could be things
+
+231
+00:06:39,199 --> 00:06:42,960
+like photography and videography
+
+232
+00:06:40,879 --> 00:06:44,158
+maybe being a wedding photographer doing
+
+233
+00:06:42,959 --> 00:06:46,398
+interior decorating
+
+234
+00:06:44,160 --> 00:06:47,759
+or and i'm surprised this is a thing but
+
+235
+00:06:46,399 --> 00:06:49,838
+i researched it and it is
+
+236
+00:06:47,759 --> 00:06:50,799
+you could become a decluttering and
+
+237
+00:06:49,839 --> 00:06:52,799
+minimalism
+
+238
+00:06:50,800 --> 00:06:54,800
+consultant did you say minimalism in
+
+239
+00:06:52,800 --> 00:06:56,880
+fact you can even go get your konmari
+
+240
+00:06:54,800 --> 00:06:58,880
+certification to help people channel
+
+241
+00:06:56,879 --> 00:07:01,197
+their inner marie condo and declutter
+
+242
+00:06:58,879 --> 00:07:02,798
+their lives we live in a weird world
+
+243
+00:07:01,199 --> 00:07:04,560
+but hey that's the thing you can do
+
+244
+00:07:02,800 --> 00:07:06,159
+anyway with freelancing the great thing
+
+245
+00:07:04,560 --> 00:07:08,479
+about it is that the investment you have
+
+246
+00:07:06,160 --> 00:07:10,079
+to make up front to provide that value
+
+247
+00:07:08,478 --> 00:07:12,159
+usually is gonna come in the form of
+
+248
+00:07:10,079 --> 00:07:13,918
+time and sweat you're often not gonna
+
+249
+00:07:12,160 --> 00:07:15,918
+have to spend a whole lot of money for
+
+250
+00:07:13,918 --> 00:07:16,559
+instance as a web developer i learned
+
+251
+00:07:15,918 --> 00:07:19,279
+pretty much
+
+252
+00:07:16,560 --> 00:07:21,119
+everything i know for free just looking
+
+253
+00:07:19,279 --> 00:07:23,118
+at blogs online resources
+
+254
+00:07:21,120 --> 00:07:24,879
+and that was over 10 years ago today the
+
+255
+00:07:23,120 --> 00:07:25,680
+resources for web development education
+
+256
+00:07:24,879 --> 00:07:27,839
+that are free
+
+257
+00:07:25,680 --> 00:07:30,080
+are vastly better than they were when i
+
+258
+00:07:27,839 --> 00:07:32,159
+was learning codecademy is a great
+
+259
+00:07:30,079 --> 00:07:34,399
+example okay three tips for getting
+
+260
+00:07:32,160 --> 00:07:36,318
+started as a freelancer number one
+
+261
+00:07:34,399 --> 00:07:38,477
+and this is super important you have to
+
+262
+00:07:36,319 --> 00:07:39,1000
+build an online portfolio
+
+263
+00:07:38,478 --> 00:07:41,757
+have a place where people can look at
+
+264
+00:07:40,000 --> 00:07:42,318
+the work you've done for clients in the
+
+265
+00:07:41,759 --> 00:07:43,759
+past
+
+266
+00:07:42,319 --> 00:07:45,359
+and judge whether or not your services
+
+267
+00:07:43,759 --> 00:07:46,638
+are going to be right for them if you
+
+268
+00:07:45,360 --> 00:07:49,038
+don't have any clients right now
+
+269
+00:07:46,639 --> 00:07:50,159
+do some work on your own or possibly do
+
+270
+00:07:49,038 --> 00:07:52,239
+some spec work for
+
+271
+00:07:50,160 --> 00:07:53,840
+a non-profit or something just to get
+
+272
+00:07:52,240 --> 00:07:55,599
+some experience under your belt
+
+273
+00:07:53,839 --> 00:07:57,439
+and a project that you can show off
+
+274
+00:07:55,598 --> 00:07:59,758
+number two put what you do
+
+275
+00:07:57,439 --> 00:08:01,358
+and where you are in your social media
+
+276
+00:07:59,759 --> 00:08:03,038
+bios i'm talking twitter i'm talking
+
+277
+00:08:01,360 --> 00:08:05,360
+instagram i'm talking linkedin
+
+278
+00:08:03,038 --> 00:08:06,638
+people like me often go to twitter and
+
+279
+00:08:05,360 --> 00:08:08,560
+type in things like
+
+280
+00:08:06,639 --> 00:08:10,079
+freelance graphic designer freelance
+
+281
+00:08:08,560 --> 00:08:11,680
+motion graphics artist and then i will
+
+282
+00:08:10,079 --> 00:08:13,438
+just start clicking on profiles
+
+283
+00:08:11,680 --> 00:08:15,039
+looking at the pin tweets looking at the
+
+284
+00:08:13,439 --> 00:08:15,838
+url in the profile hopefully it's a
+
+285
+00:08:15,038 --> 00:08:18,078
+portfolio
+
+286
+00:08:15,839 --> 00:08:20,239
+and i've made hiring decisions based on
+
+287
+00:08:18,079 --> 00:08:21,757
+that kind of a search process so do it
+
+288
+00:08:20,240 --> 00:08:23,759
+and finally number three build
+
+289
+00:08:21,759 --> 00:08:26,239
+relationships with other freelancers who
+
+290
+00:08:23,759 --> 00:08:28,159
+offer complementary services so
+
+291
+00:08:26,240 --> 00:08:29,679
+if you're a freelance video editor like
+
+292
+00:08:28,160 --> 00:08:31,280
+tony you might want to build some
+
+293
+00:08:29,680 --> 00:08:33,200
+relationships with freelance motion
+
+294
+00:08:31,279 --> 00:08:35,359
+graphics artists that way if a client
+
+295
+00:08:33,200 --> 00:08:36,958
+comes along who needs both services
+
+296
+00:08:35,360 --> 00:08:39,119
+if they find the other person they might
+
+297
+00:08:36,958 --> 00:08:40,639
+be able to refer you and vice versa
+
+298
+00:08:39,120 --> 00:08:42,559
+our second method for making money on
+
+299
+00:08:40,639 --> 00:08:43,998
+the internet is affiliate marketing
+
+300
+00:08:42,559 --> 00:08:45,918
+so getting into affiliate marketing
+
+301
+00:08:44,000 --> 00:08:48,080
+means essentially becoming an
+
+302
+00:08:45,919 --> 00:08:49,518
+unofficial salesperson for another
+
+303
+00:08:48,080 --> 00:08:51,439
+company you sign up for their affiliate
+
+304
+00:08:49,519 --> 00:08:53,278
+program you put links to their products
+
+305
+00:08:51,440 --> 00:08:53,1000
+on your website or in your youtube video
+
+306
+00:08:53,278 --> 00:08:55,678
+descriptions
+
+307
+00:08:54,000 --> 00:08:57,519
+and then when people click those links
+
+308
+00:08:55,679 --> 00:08:58,078
+or use your discount code and buy that
+
+309
+00:08:57,519 --> 00:09:00,398
+product
+
+310
+00:08:58,080 --> 00:09:01,760
+you get a commission of that sale
+
+311
+00:09:00,399 --> 00:09:03,278
+affiliate marketing actually drives a
+
+312
+00:09:01,759 --> 00:09:04,479
+significant portion of the revenue that
+
+313
+00:09:03,278 --> 00:09:06,639
+comes into my business
+
+314
+00:09:04,480 --> 00:09:07,1000
+particularly over on my website college
+
+315
+00:09:06,639 --> 00:09:09,918
+info geek for example
+
+316
+00:09:08,000 --> 00:09:11,439
+skillshare's affiliate program pays ten
+
+317
+00:09:09,919 --> 00:09:12,318
+dollars whenever anybody signs up
+
+318
+00:09:11,440 --> 00:09:14,160
+through my link
+
+319
+00:09:12,320 --> 00:09:15,1000
+so on my website i have all these little
+
+320
+00:09:14,159 --> 00:09:17,679
+ads up for my own courses
+
+321
+00:09:16,000 --> 00:09:19,680
+over on skillshare whenever anybody
+
+322
+00:09:17,679 --> 00:09:20,239
+clicks those and signs up i get ten
+
+323
+00:09:19,679 --> 00:09:21,919
+dollars
+
+324
+00:09:20,240 --> 00:09:23,999
+the internet's biggest affiliate program
+
+325
+00:09:21,919 --> 00:09:26,159
+is amazon's now the commission they pay
+
+326
+00:09:24,000 --> 00:09:28,240
+on most product sales is pretty small
+
+327
+00:09:26,159 --> 00:09:29,278
+but the upside of participating in that
+
+328
+00:09:28,240 --> 00:09:30,880
+program is that
+
+329
+00:09:29,278 --> 00:09:32,398
+well you can link to pretty much any
+
+330
+00:09:30,879 --> 00:09:34,318
+product on amazon and there's
+
+331
+00:09:32,399 --> 00:09:36,240
+millions of products so sites like the
+
+332
+00:09:34,320 --> 00:09:37,518
+wirecutter make pretty much all of their
+
+333
+00:09:36,240 --> 00:09:39,200
+income by creating
+
+334
+00:09:37,519 --> 00:09:41,200
+buyer's guides guides on the best
+
+335
+00:09:39,200 --> 00:09:42,639
+headphones or the best bluetooth speaker
+
+336
+00:09:41,200 --> 00:09:44,398
+when somebody comes in and clicks the
+
+337
+00:09:42,639 --> 00:09:46,957
+buy button on their recommendation
+
+338
+00:09:44,399 --> 00:09:48,319
+they get a cut of that sale so how much
+
+339
+00:09:46,958 --> 00:09:48,879
+money can you make with affiliate
+
+340
+00:09:48,320 --> 00:09:51,839
+marketing
+
+341
+00:09:48,879 --> 00:09:52,638
+well it varies really really wildly for
+
+342
+00:09:51,839 --> 00:09:54,640
+one example
+
+343
+00:09:52,639 --> 00:09:56,558
+convertkit which is an email marketing
+
+344
+00:09:54,639 --> 00:10:00,318
+service pays their affiliates a
+
+345
+00:09:56,559 --> 00:10:00,958
+recurring 30 commission on any sale they
+
+346
+00:10:00,320 --> 00:10:03,599
+bring in
+
+347
+00:10:00,958 --> 00:10:05,118
+recurring so as somebody who uses
+
+348
+00:10:03,600 --> 00:10:06,879
+convertkit i have about a hundred
+
+349
+00:10:05,120 --> 00:10:08,640
+thousand people on my email list
+
+350
+00:10:06,879 --> 00:10:10,077
+which means i have to reluctantly fork
+
+351
+00:10:08,639 --> 00:10:12,719
+over about 700
+
+352
+00:10:10,078 --> 00:10:14,238
+a month to convertkit and that means
+
+353
+00:10:12,720 --> 00:10:15,599
+that the person who referred me because
+
+354
+00:10:14,240 --> 00:10:18,879
+there was somebody who referred me
+
+355
+00:10:15,600 --> 00:10:21,359
+is making a nice 210 dollars a month
+
+356
+00:10:18,879 --> 00:10:22,798
+just off of me recurring on the other
+
+357
+00:10:21,360 --> 00:10:24,719
+end of the spectrum we have programs
+
+358
+00:10:22,799 --> 00:10:25,919
+like amazon's which again don't pay a
+
+359
+00:10:24,720 --> 00:10:27,440
+whole lot per sale
+
+360
+00:10:25,919 --> 00:10:29,198
+at present moment for example they are
+
+361
+00:10:27,440 --> 00:10:30,239
+currently paying three percent for
+
+362
+00:10:29,200 --> 00:10:31,599
+headphone sales
+
+363
+00:10:30,240 --> 00:10:33,599
+so if you want to go back to our wire
+
+364
+00:10:31,600 --> 00:10:34,959
+cutter example if wirecutter is
+
+365
+00:10:33,600 --> 00:10:36,560
+recommending a 200
+
+366
+00:10:34,958 --> 00:10:37,759
+pair of headphones that means that if
+
+367
+00:10:36,559 --> 00:10:38,238
+somebody clicks their link they're
+
+368
+00:10:37,759 --> 00:10:41,359
+making
+
+369
+00:10:38,240 --> 00:10:43,440
+six dollars on that sale and that means
+
+370
+00:10:41,360 --> 00:10:45,999
+that wirecutter has to bring a
+
+371
+00:10:43,440 --> 00:10:46,799
+crap ton of traffic into their headphone
+
+372
+00:10:46,000 --> 00:10:49,200
+buying guide
+
+373
+00:10:46,799 --> 00:10:50,957
+let's be super generous and say that one
+
+374
+00:10:49,200 --> 00:10:51,518
+percent of the people who read that
+
+375
+00:10:50,958 --> 00:10:53,358
+guide
+
+376
+00:10:51,519 --> 00:10:55,120
+actually go on to buy those headphones
+
+377
+00:10:53,360 --> 00:10:56,399
+through their link that means they're
+
+378
+00:10:55,120 --> 00:10:59,360
+essentially making
+
+379
+00:10:56,399 --> 00:10:59,680
+six cents per page view so to make that
+
+380
+00:10:59,360 --> 00:11:01,600
+same
+
+381
+00:10:59,679 --> 00:11:03,359
+210 dollars that the convertkit
+
+382
+00:11:01,600 --> 00:11:06,399
+affiliate made just off of me
+
+383
+00:11:03,360 --> 00:11:07,760
+they need to bring in 3 500 page views
+
+384
+00:11:06,399 --> 00:11:09,600
+so to be successful as an affiliate
+
+385
+00:11:07,759 --> 00:11:11,278
+marketer you have to do three things
+
+386
+00:11:09,600 --> 00:11:12,800
+first you have to find programs that pay
+
+387
+00:11:11,278 --> 00:11:13,999
+a good amount per sale
+
+388
+00:11:12,799 --> 00:11:15,919
+second you need to figure out how to
+
+389
+00:11:14,000 --> 00:11:17,839
+drive more traffic to the web pages that
+
+390
+00:11:15,919 --> 00:11:18,718
+contain your links or the youtube videos
+
+391
+00:11:17,839 --> 00:11:20,560
+that contain them
+
+392
+00:11:18,720 --> 00:11:22,880
+and finally you want to find a way to
+
+393
+00:11:20,559 --> 00:11:24,318
+increase your conversion percentage
+
+394
+00:11:22,879 --> 00:11:25,758
+which is the portion of people who
+
+395
+00:11:24,320 --> 00:11:27,199
+actually click your links
+
+396
+00:11:25,759 --> 00:11:29,118
+and then the portion of those people who
+
+397
+00:11:27,200 --> 00:11:29,760
+actually go on to buy how do you do
+
+398
+00:11:29,120 --> 00:11:31,200
+those things
+
+399
+00:11:29,759 --> 00:11:33,198
+well for the first problem you just need
+
+400
+00:11:31,200 --> 00:11:34,880
+to do your research and platforms like
+
+401
+00:11:33,200 --> 00:11:36,479
+impact actually contain a marketplace
+
+402
+00:11:34,879 --> 00:11:37,919
+where companies can post their affiliate
+
+403
+00:11:36,480 --> 00:11:38,640
+programs and their conversion
+
+404
+00:11:37,919 --> 00:11:39,838
+percentages
+
+405
+00:11:38,639 --> 00:11:42,078
+and then you can apply to join those
+
+406
+00:11:39,839 --> 00:11:43,839
+programs if you like for traffic
+
+407
+00:11:42,078 --> 00:11:45,679
+you want to build an audience there's a
+
+408
+00:11:43,839 --> 00:11:46,160
+couple of different strategies for doing
+
+409
+00:11:45,679 --> 00:11:47,998
+this
+
+410
+00:11:46,159 --> 00:11:49,679
+personally i built a blog and then a
+
+411
+00:11:48,000 --> 00:11:50,399
+podcast and then a youtube channel
+
+412
+00:11:49,679 --> 00:11:52,478
+around a
+
+413
+00:11:50,399 --> 00:11:53,838
+general topic that i was interested in
+
+414
+00:11:52,480 --> 00:11:55,759
+and then over time as affiliate
+
+415
+00:11:53,839 --> 00:11:58,319
+opportunities arose for that topic
+
+416
+00:11:55,759 --> 00:11:58,879
+i added them in organically but some
+
+417
+00:11:58,320 --> 00:12:01,199
+people take
+
+418
+00:11:58,879 --> 00:12:02,559
+the opposite strategy some people will
+
+419
+00:12:01,200 --> 00:12:03,119
+first find a product they want to
+
+420
+00:12:02,559 --> 00:12:04,799
+promote
+
+421
+00:12:03,120 --> 00:12:06,959
+and then they will use keyword research
+
+422
+00:12:04,799 --> 00:12:08,638
+to try to match that to a problem or an
+
+423
+00:12:06,958 --> 00:12:10,319
+interest that people have
+
+424
+00:12:08,639 --> 00:12:12,480
+if you want to go this route you can use
+
+425
+00:12:10,320 --> 00:12:14,159
+tools like ahrefs.com to do
+
+426
+00:12:12,480 --> 00:12:15,1000
+keyword research you're looking for
+
+427
+00:12:14,159 --> 00:12:16,879
+keywords that have a decent amount of
+
+428
+00:12:16,000 --> 00:12:19,359
+search interest
+
+429
+00:12:16,879 --> 00:12:19,999
+but not a lot of competition and if you
+
+430
+00:12:19,360 --> 00:12:21,600
+find one
+
+431
+00:12:20,000 --> 00:12:23,200
+you can start writing articles on it or
+
+432
+00:12:21,600 --> 00:12:24,240
+making youtube videos on it in the hopes
+
+433
+00:12:23,200 --> 00:12:25,360
+you're going to rank well in either
+
+434
+00:12:24,240 --> 00:12:27,119
+google searches or
+
+435
+00:12:25,360 --> 00:12:28,399
+in youtube search if you bring in
+
+436
+00:12:27,120 --> 00:12:29,760
+traffic you're hopefully going to bring
+
+437
+00:12:28,399 --> 00:12:31,040
+in affiliate commissions
+
+438
+00:12:29,759 --> 00:12:32,879
+finally you want to find a way to
+
+439
+00:12:31,039 --> 00:12:35,359
+increase those conversion percentages
+
+440
+00:12:32,879 --> 00:12:36,957
+and this could be an entire video all on
+
+441
+00:12:35,360 --> 00:12:38,159
+its own i don't know if it would fit on
+
+442
+00:12:36,958 --> 00:12:39,599
+this general channel
+
+443
+00:12:38,159 --> 00:12:41,359
+but essentially you want to start
+
+444
+00:12:39,600 --> 00:12:44,319
+learning marketing strategies
+
+445
+00:12:41,360 --> 00:12:45,919
+and get data driven so track how much
+
+446
+00:12:44,320 --> 00:12:46,320
+traffic you get and how many clicks you
+
+447
+00:12:45,919 --> 00:12:48,318
+get
+
+448
+00:12:46,320 --> 00:12:50,398
+then make a change and then track the
+
+449
+00:12:48,320 --> 00:12:51,040
+data again and compare and see what you
+
+450
+00:12:50,399 --> 00:12:53,600
+can do
+
+451
+00:12:51,039 --> 00:12:54,239
+income source number three european
+
+452
+00:12:53,600 --> 00:12:56,959
+three
+
+453
+00:12:54,240 --> 00:12:58,079
+is the programmatic ad so programmatic
+
+454
+00:12:56,958 --> 00:13:00,799
+ads are ads that run
+
+455
+00:12:58,078 --> 00:13:02,318
+alongside content that you create these
+
+456
+00:13:00,799 --> 00:13:03,517
+are different from brand deals which
+
+457
+00:13:02,320 --> 00:13:06,239
+we're going to talk about next
+
+458
+00:13:03,519 --> 00:13:06,639
+because programmatic ads are not sold by
+
+459
+00:13:06,240 --> 00:13:07,1000
+you
+
+460
+00:13:06,639 --> 00:13:10,159
+and you don't deliver the talking points
+
+461
+00:13:08,000 --> 00:13:11,439
+yourself either so the example that
+
+462
+00:13:10,159 --> 00:13:13,679
+you're probably most familiar with
+
+463
+00:13:11,440 --> 00:13:14,560
+is youtube adsense which runs the ads
+
+464
+00:13:13,679 --> 00:13:16,558
+that you see
+
+465
+00:13:14,559 --> 00:13:18,318
+and let's be honest probably try to skip
+
+466
+00:13:16,559 --> 00:13:18,799
+every single time before you watch a
+
+467
+00:13:18,320 --> 00:13:20,160
+video
+
+468
+00:13:18,799 --> 00:13:22,479
+unless you're watching this on nebula
+
+469
+00:13:20,159 --> 00:13:24,319
+which has no ads anyway when it comes to
+
+470
+00:13:22,480 --> 00:13:25,680
+programmatic ads the acronym
+
+471
+00:13:24,320 --> 00:13:27,839
+actually no it's not an acronym it's an
+
+472
+00:13:25,679 --> 00:13:29,078
+initialism and the initialism that you
+
+473
+00:13:27,839 --> 00:13:32,079
+want to keep in mind is
+
+474
+00:13:29,078 --> 00:13:34,238
+cpm which stands for cost per
+
+475
+00:13:32,078 --> 00:13:36,318
+meal and meal is just the latin french
+
+476
+00:13:34,240 --> 00:13:37,599
+and italian word for a thousand so we're
+
+477
+00:13:36,320 --> 00:13:39,360
+talking about cost per
+
+478
+00:13:37,600 --> 00:13:40,720
+thousand views here this is how these
+
+479
+00:13:39,360 --> 00:13:43,680
+ads are often priced
+
+480
+00:13:40,720 --> 00:13:45,279
+so if the cpm is on average two dollars
+
+481
+00:13:43,679 --> 00:13:45,759
+which it could be here on youtube quite
+
+482
+00:13:45,278 --> 00:13:47,119
+often
+
+483
+00:13:45,759 --> 00:13:49,359
+then that means if you want to make the
+
+484
+00:13:47,120 --> 00:13:50,720
+same 210 dollars that we had back in our
+
+485
+00:13:49,360 --> 00:13:54,320
+affiliate marketing example
+
+486
+00:13:50,720 --> 00:13:57,120
+you got to bring in 105 000
+
+487
+00:13:54,320 --> 00:13:59,039
+views so as you can see if you want to
+
+488
+00:13:57,120 --> 00:14:01,679
+make money on programmatic ads
+
+489
+00:13:59,039 --> 00:14:02,798
+you got to have a huge audience which is
+
+490
+00:14:01,679 --> 00:14:04,159
+why you probably see
+
+491
+00:14:02,799 --> 00:14:06,238
+most of your favorite youtubers
+
+492
+00:14:04,159 --> 00:14:07,837
+diversifying their income streams doing
+
+493
+00:14:06,240 --> 00:14:09,999
+brand deals doing merch
+
+494
+00:14:07,839 --> 00:14:11,440
+adsense can be a decent revenue stream i
+
+495
+00:14:10,000 --> 00:14:13,120
+make about seven or eight thousand
+
+496
+00:14:11,440 --> 00:14:15,198
+dollars a month on it but it is one of
+
+497
+00:14:13,120 --> 00:14:17,919
+my smaller income streams and i don't
+
+498
+00:14:15,198 --> 00:14:19,837
+rely on it again because the cpms are so
+
+499
+00:14:17,919 --> 00:14:21,999
+small you have to have a huge
+
+500
+00:14:19,839 --> 00:14:23,759
+audience to rely on it that being said
+
+501
+00:14:22,000 --> 00:14:25,839
+if you are hell bent on being the next
+
+502
+00:14:23,759 --> 00:14:27,198
+jacksepticeye or mr beast and you know
+
+503
+00:14:25,839 --> 00:14:27,760
+you're going to be bringing in millions
+
+504
+00:14:27,198 --> 00:14:29,359
+of views
+
+505
+00:14:27,759 --> 00:14:30,799
+there is something really important i
+
+506
+00:14:29,360 --> 00:14:32,159
+need to talk to you about
+
+507
+00:14:30,799 --> 00:14:34,398
+when it comes to programmatic
+
+508
+00:14:32,159 --> 00:14:34,879
+advertising and that is the relationship
+
+509
+00:14:34,399 --> 00:14:37,760
+between
+
+510
+00:14:34,879 --> 00:14:39,598
+views and income a lot of people think
+
+511
+00:14:37,759 --> 00:14:41,278
+this relationship is very strong
+
+512
+00:14:39,600 --> 00:14:43,039
+and they'll often ask me questions like
+
+513
+00:14:41,278 --> 00:14:45,438
+hey dude how much money could i make
+
+514
+00:14:43,039 --> 00:14:46,398
+off of a million views to which i always
+
+515
+00:14:45,440 --> 00:14:49,839
+have to answer
+
+516
+00:14:46,399 --> 00:14:52,639
+it really really depends views
+
+517
+00:14:49,839 --> 00:14:54,398
+and income are not strongly correlated
+
+518
+00:14:52,639 --> 00:14:57,278
+these are only one variable
+
+519
+00:14:54,399 --> 00:14:58,639
+in a very complex equation and this is
+
+520
+00:14:57,278 --> 00:15:00,398
+going to be obvious to you
+
+521
+00:14:58,639 --> 00:15:01,760
+if you think about it for more than a
+
+522
+00:15:00,399 --> 00:15:03,838
+few seconds so
+
+523
+00:15:01,759 --> 00:15:05,759
+let's do an example here let's say that
+
+524
+00:15:03,839 --> 00:15:06,959
+i run a company that sells expensive
+
+525
+00:15:05,759 --> 00:15:08,719
+pool cleaning robots
+
+526
+00:15:06,958 --> 00:15:10,478
+if i'm considering running ads on my
+
+527
+00:15:08,720 --> 00:15:11,279
+friend matt's channel that's all about
+
+528
+00:15:10,480 --> 00:15:13,359
+pool maintenance
+
+529
+00:15:11,278 --> 00:15:14,398
+i can be reasonably sure about a couple
+
+530
+00:15:13,360 --> 00:15:16,399
+of different things
+
+531
+00:15:14,399 --> 00:15:18,480
+number one the people watching matt's
+
+532
+00:15:16,399 --> 00:15:19,1000
+videos probably own pools
+
+533
+00:15:18,480 --> 00:15:21,519
+otherwise why would they be watching
+
+534
+00:15:20,000 --> 00:15:23,919
+videos about how to clean a pool
+
+535
+00:15:21,519 --> 00:15:25,039
+and number two because those people most
+
+536
+00:15:23,919 --> 00:15:26,798
+likely own pools
+
+537
+00:15:25,039 --> 00:15:28,638
+i can also be reasonably sure that those
+
+538
+00:15:26,799 --> 00:15:29,198
+people probably make a decent amount of
+
+539
+00:15:28,639 --> 00:15:31,360
+money
+
+540
+00:15:29,198 --> 00:15:32,319
+as well because they own pools so that
+
+541
+00:15:31,360 --> 00:15:35,040
+means i have a
+
+542
+00:15:32,320 --> 00:15:35,518
+relatively affluent potential customer
+
+543
+00:15:35,039 --> 00:15:37,277
+base
+
+544
+00:15:35,519 --> 00:15:38,880
+and because of that i might be willing
+
+545
+00:15:37,278 --> 00:15:41,518
+to pay a 10
+
+546
+00:15:38,879 --> 00:15:42,957
+cpm to advertise on one of matt's videos
+
+547
+00:15:41,519 --> 00:15:43,519
+which means that even if he's only
+
+548
+00:15:42,958 --> 00:15:46,559
+bringing in
+
+549
+00:15:43,519 --> 00:15:47,679
+10 000 views on a video those views are
+
+550
+00:15:46,559 --> 00:15:50,159
+gonna be worth
+
+551
+00:15:47,679 --> 00:15:51,038
+a lot and to give you a counter example
+
+552
+00:15:50,159 --> 00:15:53,598
+let's talk about
+
+553
+00:15:51,039 --> 00:15:54,159
+philip defranco i love philip defranco's
+
+554
+00:15:53,600 --> 00:15:55,680
+channel
+
+555
+00:15:54,159 --> 00:15:57,359
+but let's be honest a lot of what
+
+556
+00:15:55,679 --> 00:15:59,359
+phillyd talks about is
+
+557
+00:15:57,360 --> 00:16:01,518
+essentially celebrity gossip and
+
+558
+00:15:59,360 --> 00:16:03,518
+controversy and something that we know
+
+559
+00:16:01,519 --> 00:16:03,999
+about celebrity gossip and controversy
+
+560
+00:16:03,519 --> 00:16:06,079
+as
+
+561
+00:16:04,000 --> 00:16:07,198
+humans who love us a little bit of shot
+
+562
+00:16:06,078 --> 00:16:09,118
+and fraud in the morning
+
+563
+00:16:07,198 --> 00:16:10,799
+is that all kinds of people are gonna
+
+564
+00:16:09,120 --> 00:16:12,479
+click on that which means that if i'm
+
+565
+00:16:10,799 --> 00:16:15,119
+running that pool robot company
+
+566
+00:16:12,480 --> 00:16:17,199
+i can't really be reasonably sure about
+
+567
+00:16:15,120 --> 00:16:18,160
+who is in philly d's audience it could
+
+568
+00:16:17,198 --> 00:16:19,278
+be a pool owner
+
+569
+00:16:18,159 --> 00:16:21,198
+it could be somebody living in an
+
+570
+00:16:19,278 --> 00:16:22,718
+apartment who has no interest in owning
+
+571
+00:16:21,198 --> 00:16:24,957
+a pool whatsoever
+
+572
+00:16:22,720 --> 00:16:25,920
+and because of that i can't afford to
+
+573
+00:16:24,958 --> 00:16:28,397
+spend as much
+
+574
+00:16:25,919 --> 00:16:30,798
+per view on phillips channel maybe i'm
+
+575
+00:16:28,399 --> 00:16:32,958
+going to pay a 50 cent cpm
+
+576
+00:16:30,799 --> 00:16:35,198
+so to make the same amount of money that
+
+577
+00:16:32,958 --> 00:16:37,198
+map makes on 10 000 views
+
+578
+00:16:35,198 --> 00:16:38,479
+d is going to have to bring in well
+
+579
+00:16:37,198 --> 00:16:41,518
+what's 20 times
+
+580
+00:16:38,480 --> 00:16:43,758
+10 000. it's gonna be 200 000 views
+
+581
+00:16:41,519 --> 00:16:44,720
+so again the correlation between views
+
+582
+00:16:43,759 --> 00:16:46,959
+and income is
+
+583
+00:16:44,720 --> 00:16:49,279
+extremely weak and if you want to be
+
+584
+00:16:46,958 --> 00:16:50,799
+successful with programmatic advertising
+
+585
+00:16:49,278 --> 00:16:52,559
+you either need to bring in millions and
+
+586
+00:16:50,799 --> 00:16:54,077
+millions of views on you know video
+
+587
+00:16:52,559 --> 00:16:54,638
+games or celebrity gossip or whatever
+
+588
+00:16:54,078 --> 00:16:56,879
+you want
+
+589
+00:16:54,639 --> 00:16:58,720
+or maybe a little more strategic here
+
+590
+00:16:56,879 --> 00:16:59,197
+you pick a topic that's a little more
+
+591
+00:16:58,720 --> 00:17:01,440
+niched
+
+592
+00:16:59,198 --> 00:17:03,438
+down and that has a viewer base who
+
+593
+00:17:01,440 --> 00:17:05,279
+might be a little more primed to buy
+
+594
+00:17:03,440 --> 00:17:06,640
+slightly more expensive products now i
+
+595
+00:17:05,279 --> 00:17:07,359
+was picking on billy dee a little bit
+
+596
+00:17:06,640 --> 00:17:09,600
+earlier but
+
+597
+00:17:07,359 --> 00:17:10,718
+he has something that is actually a huge
+
+598
+00:17:09,599 --> 00:17:13,279
+feather in his cap
+
+599
+00:17:10,720 --> 00:17:15,359
+which is a loyal audience and that makes
+
+600
+00:17:13,279 --> 00:17:18,557
+his channel a great fit for
+
+601
+00:17:15,359 --> 00:17:19,838
+way far at brand deals so brand deals
+
+602
+00:17:18,558 --> 00:17:20,399
+these are the sponsored segments that
+
+603
+00:17:19,838 --> 00:17:22,718
+you're going to see
+
+604
+00:17:20,400 --> 00:17:24,159
+on most high view youtube videos these
+
+605
+00:17:22,720 --> 00:17:25,119
+days these are the sponsor segments that
+
+606
+00:17:24,160 --> 00:17:27,039
+are read by
+
+607
+00:17:25,119 --> 00:17:28,398
+the creators themselves and if you're
+
+608
+00:17:27,038 --> 00:17:29,678
+watching this video on youtube you're
+
+609
+00:17:28,400 --> 00:17:31,360
+going to see one at the end
+
+610
+00:17:29,679 --> 00:17:33,520
+of this video and if you're somebody who
+
+611
+00:17:31,359 --> 00:17:35,759
+usually skips those ads i would say
+
+612
+00:17:33,519 --> 00:17:37,038
+maybe stick around and watch this one
+
+613
+00:17:35,759 --> 00:17:39,198
+just to see how i
+
+614
+00:17:37,038 --> 00:17:40,319
+structure it because with brand deals
+
+615
+00:17:39,200 --> 00:17:42,959
+and sponsor segments
+
+616
+00:17:40,319 --> 00:17:44,878
+there is a huge amount of price
+
+617
+00:17:42,960 --> 00:17:46,559
+variability and that is because there
+
+618
+00:17:44,880 --> 00:17:46,960
+are a ton of different factors that go
+
+619
+00:17:46,558 --> 00:17:49,199
+in
+
+620
+00:17:46,960 --> 00:17:49,1000
+to the quality and the effectiveness of
+
+621
+00:17:49,200 --> 00:17:52,160
+an ad
+
+622
+00:17:50,000 --> 00:17:53,359
+with a programmatic ad you don't have a
+
+623
+00:17:52,160 --> 00:17:55,120
+whole lot you can control
+
+624
+00:17:53,359 --> 00:17:57,118
+you can control the topic of your video
+
+625
+00:17:55,119 --> 00:17:58,079
+which may control the segment of people
+
+626
+00:17:57,119 --> 00:17:59,839
+who watch it and
+
+627
+00:17:58,079 --> 00:18:01,438
+influence your cpm somewhat you can
+
+628
+00:17:59,839 --> 00:18:02,798
+control the quality of the video to try
+
+629
+00:18:01,440 --> 00:18:04,480
+to bring in more views
+
+630
+00:18:02,798 --> 00:18:06,557
+but that's about it i guess you can also
+
+631
+00:18:04,480 --> 00:18:06,960
+control ad placement so pre-roll post
+
+632
+00:18:06,558 --> 00:18:09,359
+roll
+
+633
+00:18:06,960 --> 00:18:11,360
+but with a sponsored segment you have so
+
+634
+00:18:09,359 --> 00:18:12,959
+much more control because you as the
+
+635
+00:18:11,359 --> 00:18:15,118
+creator are doing the read
+
+636
+00:18:12,960 --> 00:18:16,879
+yourself the good news is that sponsored
+
+637
+00:18:15,119 --> 00:18:19,359
+segments and brand deals typically pay
+
+638
+00:18:16,880 --> 00:18:21,360
+a lot more than programmatic ads
+
+639
+00:18:19,359 --> 00:18:22,479
+sometimes 10 times more sometimes even
+
+640
+00:18:21,359 --> 00:18:24,399
+20 times more
+
+641
+00:18:22,480 --> 00:18:26,399
+and that's because ads that are voiced
+
+642
+00:18:24,400 --> 00:18:27,678
+by the creator by the person that the
+
+643
+00:18:26,400 --> 00:18:29,1000
+viewer came to watch
+
+644
+00:18:27,679 --> 00:18:31,520
+are simply a lot more effective the main
+
+645
+00:18:30,000 --> 00:18:33,200
+downside is that brand deals are
+
+646
+00:18:31,519 --> 00:18:34,639
+typically a little bit less accessible
+
+647
+00:18:33,200 --> 00:18:36,160
+when you're getting started and that's
+
+648
+00:18:34,640 --> 00:18:37,999
+because you're gonna need to build up a
+
+649
+00:18:36,160 --> 00:18:40,160
+sizeable audience on your platform
+
+650
+00:18:38,000 --> 00:18:42,080
+of choice first once you bring in a
+
+651
+00:18:40,160 --> 00:18:43,999
+significant amount of views on youtube
+
+652
+00:18:42,079 --> 00:18:45,279
+or on instagram or wherever it is that's
+
+653
+00:18:44,000 --> 00:18:47,120
+when you're going to start seeing raid
+
+654
+00:18:45,279 --> 00:18:48,718
+shadow legends and various pubic hair
+
+655
+00:18:47,119 --> 00:18:50,719
+removal products sliding
+
+656
+00:18:48,720 --> 00:18:51,918
+into your dms now there are a lot of
+
+657
+00:18:50,720 --> 00:18:53,760
+factors that are going to go into the
+
+658
+00:18:51,919 --> 00:18:56,558
+effectiveness of your spots but
+
+659
+00:18:53,759 --> 00:18:57,999
+the most important one especially for
+
+660
+00:18:56,558 --> 00:19:00,958
+your long-term success
+
+661
+00:18:58,000 --> 00:19:02,000
+is trust you have to put your audience
+
+662
+00:19:00,960 --> 00:19:03,919
+first which means
+
+663
+00:19:02,000 --> 00:19:06,080
+only promoting products that you know
+
+664
+00:19:03,919 --> 00:19:08,558
+are going to be valuable and helpful
+
+665
+00:19:06,079 --> 00:19:10,079
+for the people who watch and trust you
+
+666
+00:19:08,558 --> 00:19:11,359
+another important concept that can
+
+667
+00:19:10,079 --> 00:19:12,639
+increase the effectiveness of your
+
+668
+00:19:11,359 --> 00:19:14,479
+sponsor reads is
+
+669
+00:19:12,640 --> 00:19:15,999
+the ada framework which stands for
+
+670
+00:19:14,480 --> 00:19:18,399
+attention interest
+
+671
+00:19:16,000 --> 00:19:19,839
+desire and action i think i first
+
+672
+00:19:18,400 --> 00:19:21,839
+learned about this concept in the movie
+
+673
+00:19:19,839 --> 00:19:23,839
+glenn gary glenn ross where alec baldwin
+
+674
+00:19:21,839 --> 00:19:25,359
+explains it with a lot more swear words
+
+675
+00:19:23,839 --> 00:19:27,758
+than you're gonna hear in this video
+
+676
+00:19:25,359 --> 00:19:28,479
+but essentially a good ad follows these
+
+677
+00:19:27,759 --> 00:19:30,638
+steps
+
+678
+00:19:28,480 --> 00:19:31,759
+in this order first working to get the
+
+679
+00:19:30,640 --> 00:19:33,600
+viewers attention
+
+680
+00:19:31,759 --> 00:19:34,959
+then getting them interested by talking
+
+681
+00:19:33,599 --> 00:19:36,478
+about something that the viewer
+
+682
+00:19:34,960 --> 00:19:39,360
+hopefully cares about
+
+683
+00:19:36,480 --> 00:19:40,640
+only at that point is it useful to start
+
+684
+00:19:39,359 --> 00:19:43,278
+introducing the products
+
+685
+00:19:40,640 --> 00:19:45,199
+talking points and tying them to that
+
+686
+00:19:43,279 --> 00:19:46,959
+interest i see a lot of ads here on
+
+687
+00:19:45,200 --> 00:19:49,280
+youtube that do that whole smooth
+
+688
+00:19:46,960 --> 00:19:50,879
+segway thing but then immediately launch
+
+689
+00:19:49,279 --> 00:19:52,078
+into the talking points for the product
+
+690
+00:19:50,880 --> 00:19:54,239
+which makes the ads
+
+691
+00:19:52,079 --> 00:19:55,518
+less effective than they could be lastly
+
+692
+00:19:54,240 --> 00:19:56,960
+i have to say this
+
+693
+00:19:55,519 --> 00:19:59,119
+if you're a creator who gets approached
+
+694
+00:19:56,960 --> 00:20:01,120
+about brand deals remember what i talked
+
+695
+00:19:59,119 --> 00:20:04,319
+about earlier with regards to views
+
+696
+00:20:01,119 --> 00:20:06,239
+and pricing they are not strongly linked
+
+697
+00:20:04,319 --> 00:20:07,519
+so it may be worth pricing your first
+
+698
+00:20:06,240 --> 00:20:08,960
+couple of deals with a brand or an
+
+699
+00:20:07,519 --> 00:20:10,398
+agency based on price
+
+700
+00:20:08,960 --> 00:20:12,799
+since you really don't have a whole lot
+
+701
+00:20:10,400 --> 00:20:15,119
+of extra data to give them at that point
+
+702
+00:20:12,798 --> 00:20:17,038
+but after that you shouldn't be pricing
+
+703
+00:20:15,119 --> 00:20:20,399
+solely based on views
+
+704
+00:20:17,038 --> 00:20:21,038
+and never let an agency talk you into a
+
+705
+00:20:20,400 --> 00:20:23,839
+view
+
+706
+00:20:21,038 --> 00:20:24,879
+guarantee because you know the views are
+
+707
+00:20:23,839 --> 00:20:26,959
+not strongly linked
+
+708
+00:20:24,880 --> 00:20:28,319
+to pricing so if they are trying to make
+
+709
+00:20:26,960 --> 00:20:30,239
+you believe that they are
+
+710
+00:20:28,319 --> 00:20:32,399
+they're probably not treating you fairly
+
+711
+00:20:30,240 --> 00:20:33,038
+finally we have method number five which
+
+712
+00:20:32,400 --> 00:20:35,360
+is selling
+
+713
+00:20:33,038 --> 00:20:37,278
+your own products like this cool pixel
+
+714
+00:20:35,359 --> 00:20:39,759
+llama sticker that i have on this mug
+
+715
+00:20:37,279 --> 00:20:41,359
+which is not mine but the sticker is so
+
+716
+00:20:39,759 --> 00:20:43,118
+if you want to sell your own products
+
+717
+00:20:41,359 --> 00:20:44,959
+i don't blame you because whether we're
+
+718
+00:20:43,119 --> 00:20:47,758
+talking about sponsor segments
+
+719
+00:20:44,960 --> 00:20:47,1000
+or cpa ads or affiliate commissions in
+
+720
+00:20:47,759 --> 00:20:50,319
+any
+
+721
+00:20:48,000 --> 00:20:51,919
+case you're advertising somebody else's
+
+722
+00:20:50,319 --> 00:20:54,238
+product which means that
+
+723
+00:20:51,919 --> 00:20:55,839
+you don't get the entirety of that sale
+
+724
+00:20:54,240 --> 00:20:57,360
+you just get a small slice of the pie
+
+725
+00:20:55,839 --> 00:20:59,198
+and what if you want the entire pie for
+
+726
+00:20:57,359 --> 00:20:59,999
+yourself well selling your own products
+
+727
+00:20:59,200 --> 00:21:02,240
+can get you that
+
+728
+00:21:00,000 --> 00:21:03,359
+minus your expenses of course so the
+
+729
+00:21:02,240 --> 00:21:05,038
+main thing i want to talk about when it
+
+730
+00:21:03,359 --> 00:21:07,118
+comes to sales of your own products
+
+731
+00:21:05,038 --> 00:21:08,558
+is that doing this almost always
+
+732
+00:21:07,119 --> 00:21:10,878
+involves some kind
+
+733
+00:21:08,558 --> 00:21:12,319
+of upfront investment that could be
+
+734
+00:21:10,880 --> 00:21:13,919
+monetary investment in the case
+
+735
+00:21:12,319 --> 00:21:15,359
+you have to buy inventory though there
+
+736
+00:21:13,919 --> 00:21:16,959
+are ways to mitigate that using
+
+737
+00:21:15,359 --> 00:21:17,839
+crowdfunding sites like kickstarter is
+
+738
+00:21:16,960 --> 00:21:20,399
+one of them
+
+739
+00:21:17,839 --> 00:21:20,959
+but there is almost always going to be a
+
+740
+00:21:20,400 --> 00:21:23,759
+huge
+
+741
+00:21:20,960 --> 00:21:26,158
+upfront investment of your effort and
+
+742
+00:21:23,759 --> 00:21:28,239
+time and since this is your own product
+
+743
+00:21:26,159 --> 00:21:29,679
+you haven't sold before there is a big
+
+744
+00:21:28,240 --> 00:21:30,240
+risk factor because you don't know how
+
+745
+00:21:29,679 --> 00:21:32,400
+well
+
+746
+00:21:30,240 --> 00:21:34,558
+it's going to sell so my main tip here
+
+747
+00:21:32,400 --> 00:21:36,319
+is to do some market research
+
+748
+00:21:34,558 --> 00:21:37,839
+and the one example that always comes to
+
+749
+00:21:36,319 --> 00:21:40,078
+mind when i think about this
+
+750
+00:21:37,839 --> 00:21:41,999
+is involving my friend grant baldwin who
+
+751
+00:21:40,079 --> 00:21:43,759
+was a professional speaker who spoke at
+
+752
+00:21:42,000 --> 00:21:45,439
+colleges and schools for most of his
+
+753
+00:21:43,759 --> 00:21:45,839
+career and at some point he wanted to
+
+754
+00:21:45,440 --> 00:21:48,559
+create
+
+755
+00:21:45,839 --> 00:21:49,598
+a course for people like yours truly who
+
+756
+00:21:48,558 --> 00:21:52,718
+wanted to do the same
+
+757
+00:21:49,599 --> 00:21:54,079
+thing so instead of investing a ton of
+
+758
+00:21:52,720 --> 00:21:55,918
+effort up front and creating this big
+
+759
+00:21:54,079 --> 00:21:58,479
+long course and then trying to sell it
+
+760
+00:21:55,919 --> 00:21:59,678
+he first pre-sold access to a rough
+
+761
+00:21:58,480 --> 00:22:02,158
+outline of the course
+
+762
+00:21:59,679 --> 00:22:03,919
+to a small portion of his email list of
+
+763
+00:22:02,159 --> 00:22:05,918
+which i was one of those people
+
+764
+00:22:03,919 --> 00:22:07,439
+and i bought access to that pre-sale
+
+765
+00:22:05,919 --> 00:22:08,399
+which was about half of the price of the
+
+766
+00:22:07,440 --> 00:22:10,719
+regular course
+
+767
+00:22:08,400 --> 00:22:12,720
+and what i got at first was literally
+
+768
+00:22:10,720 --> 00:22:14,320
+just an evernote outline
+
+769
+00:22:12,720 --> 00:22:16,240
+with a bunch of bullet points of the
+
+770
+00:22:14,319 --> 00:22:16,879
+things he thought needed to be in the
+
+771
+00:22:16,240 --> 00:22:18,799
+course
+
+772
+00:22:16,880 --> 00:22:19,919
+and personally i found this really
+
+773
+00:22:18,798 --> 00:22:22,157
+really helpful because
+
+774
+00:22:19,919 --> 00:22:23,760
+i'm a quick learner and i really liked
+
+775
+00:22:22,159 --> 00:22:25,038
+just being able to go down this bullet
+
+776
+00:22:23,759 --> 00:22:26,319
+list and get a lot of my initial
+
+777
+00:22:25,038 --> 00:22:28,797
+questions answered
+
+778
+00:22:26,319 --> 00:22:29,359
+so this was in my opinion a really great
+
+779
+00:22:28,798 --> 00:22:31,359
+way
+
+780
+00:22:29,359 --> 00:22:32,638
+to do some market research gauge that
+
+781
+00:22:31,359 --> 00:22:35,037
+interest and
+
+782
+00:22:32,640 --> 00:22:36,240
+kind of mitigate the risk involved in
+
+783
+00:22:35,038 --> 00:22:38,239
+selling your own products
+
+784
+00:22:36,240 --> 00:22:40,240
+now personally i use all five of these
+
+785
+00:22:38,240 --> 00:22:41,679
+methods to create multiple sources of
+
+786
+00:22:40,240 --> 00:22:43,119
+income for my business
+
+787
+00:22:41,679 --> 00:22:44,799
+and if you're just starting out that
+
+788
+00:22:43,119 --> 00:22:46,719
+should be your eventual goal
+
+789
+00:22:44,798 --> 00:22:47,838
+but at the beginning it'd be a good idea
+
+790
+00:22:46,720 --> 00:22:50,479
+to just pick one of these
+
+791
+00:22:47,839 --> 00:22:52,478
+and make that your focus at first but no
+
+792
+00:22:50,480 --> 00:22:54,319
+matter which one you choose there is one
+
+793
+00:22:52,480 --> 00:22:54,960
+common factor which is that you need to
+
+794
+00:22:54,319 --> 00:22:57,279
+create an
+
+795
+00:22:54,960 --> 00:22:58,640
+online presence for yourself if you're a
+
+796
+00:22:57,279 --> 00:23:00,319
+freelancer that's going to include your
+
+797
+00:22:58,640 --> 00:23:01,280
+portfolio where you can show potential
+
+798
+00:23:00,319 --> 00:23:02,879
+clients your work
+
+799
+00:23:01,279 --> 00:23:04,479
+and if you're selling your own products
+
+800
+00:23:02,880 --> 00:23:06,158
+you need a place where people can go
+
+801
+00:23:04,480 --> 00:23:07,1000
+to buy them but even if you just want to
+
+802
+00:23:06,159 --> 00:23:10,399
+make money on youtube it's still a
+
+803
+00:23:08,000 --> 00:23:12,320
+smart idea to create your own online
+
+804
+00:23:10,400 --> 00:23:13,759
+space you don't want your entire
+
+805
+00:23:12,319 --> 00:23:16,319
+business to be at the mercy
+
+806
+00:23:13,759 --> 00:23:18,438
+of a platform that you don't control for
+
+807
+00:23:16,319 --> 00:23:20,399
+me that space is my personal website
+
+808
+00:23:18,440 --> 00:23:21,039
+thomasjfrank.com where i have links to
+
+809
+00:23:20,400 --> 00:23:22,960
+my book
+
+810
+00:23:21,038 --> 00:23:24,239
+to my courses that people can buy and to
+
+811
+00:23:22,960 --> 00:23:25,759
+other work that i've done
+
+812
+00:23:24,240 --> 00:23:27,360
+and if you want to create a space that's
+
+813
+00:23:25,759 --> 00:23:27,999
+like mine then the first thing you're
+
+814
+00:23:27,359 --> 00:23:30,157
+gonna need
+
+815
+00:23:28,000 --> 00:23:31,439
+is a domain name which you should get
+
+816
+00:23:30,159 --> 00:23:32,960
+over at hover
+
+817
+00:23:31,440 --> 00:23:34,559
+hover is the best place on the internet
+
+818
+00:23:32,960 --> 00:23:35,1000
+to get your hands on domain names not
+
+819
+00:23:34,558 --> 00:23:38,718
+least of which because they have a
+
+820
+00:23:36,000 --> 00:23:40,719
+pain-free quick checkout process without
+
+821
+00:23:38,720 --> 00:23:41,360
+any annoying pop-ups or friction they
+
+822
+00:23:40,720 --> 00:23:42,799
+also have
+
+823
+00:23:41,359 --> 00:23:43,918
+hundreds of domain extensions you can
+
+824
+00:23:42,798 --> 00:23:45,599
+choose from so you can get your
+
+825
+00:23:43,919 --> 00:23:46,879
+classic.com or dot me
+
+826
+00:23:45,599 --> 00:23:48,839
+or you can get something kind of funky
+
+827
+00:23:46,880 --> 00:23:50,719
+and interesting like i've gotten with
+
+828
+00:23:48,839 --> 00:23:52,479
+thomas.lol and one thing that i'm going
+
+829
+00:23:50,720 --> 00:23:54,240
+to note here is that even if you're not
+
+830
+00:23:52,480 --> 00:23:55,1000
+ready to start your business if you do
+
+831
+00:23:54,240 --> 00:23:57,840
+have a name in mind it's a very smart
+
+832
+00:23:56,000 --> 00:24:00,080
+idea to secure the domain name
+
+833
+00:23:57,839 --> 00:24:01,118
+now so nobody else can take it from you
+
+834
+00:24:00,079 --> 00:24:02,639
+once you are ready
+
+835
+00:24:01,119 --> 00:24:03,998
+to get started once you do have your
+
+836
+00:24:02,640 --> 00:24:05,600
+domain name you can also create a
+
+837
+00:24:04,000 --> 00:24:07,919
+professional looking email address for
+
+838
+00:24:05,599 --> 00:24:09,599
+it like thomas collegeinfogeek.com or
+
+839
+00:24:07,919 --> 00:24:11,278
+thomas thomasjfrank.com
+
+840
+00:24:09,599 --> 00:24:12,719
+plus there's a feature called connect
+
+841
+00:24:11,278 --> 00:24:13,199
+where you can easily connect your domain
+
+842
+00:24:12,720 --> 00:24:15,119
+up to
+
+843
+00:24:13,200 --> 00:24:16,959
+online website builders and even online
+
+844
+00:24:15,119 --> 00:24:18,319
+store builders so if you are ready to
+
+845
+00:24:16,960 --> 00:24:19,440
+get your domain name head over to
+
+846
+00:24:18,319 --> 00:24:21,439
+hover.com
+
+847
+00:24:19,440 --> 00:24:23,279
+thomasfrank where you can get 10 off
+
+848
+00:24:21,440 --> 00:24:23,839
+your first order and support this
+
+849
+00:24:23,278 --> 00:24:25,119
+channel
+
+850
+00:24:23,839 --> 00:24:26,718
+thanks so much for watching if you
+
+851
+00:24:25,119 --> 00:24:28,719
+enjoyed this video hitting that like
+
+852
+00:24:26,720 --> 00:24:30,240
+button gently with your middle knuckle
+
+853
+00:24:28,720 --> 00:24:31,999
+is definitely helpful that helps the
+
+854
+00:24:30,240 --> 00:24:33,918
+youtube algorithm know that people like
+
+855
+00:24:32,000 --> 00:24:35,520
+these videos and maybe it'll send it out
+
+856
+00:24:33,919 --> 00:24:36,080
+to more people so definitely helpful for
+
+857
+00:24:35,519 --> 00:24:38,479
+me
+
+858
+00:24:36,079 --> 00:24:40,319
+and i just checked my stats the other
+
+859
+00:24:38,480 --> 00:24:42,080
+day and realized that only 40
+
+860
+00:24:40,319 --> 00:24:43,598
+of the people who watch my videos are
+
+861
+00:24:42,079 --> 00:24:44,719
+actually subscribed so
+
+862
+00:24:43,599 --> 00:24:46,398
+if you aren't subscribed yet and you
+
+863
+00:24:44,720 --> 00:24:47,918
+enjoyed this video definitely hit that
+
+864
+00:24:46,400 --> 00:24:50,080
+subscribe button so you don't miss out
+
+865
+00:24:47,919 --> 00:24:51,359
+on future videos beyond that i'll have a
+
+866
+00:24:50,079 --> 00:24:52,797
+couple other videos on the screen here
+
+867
+00:24:51,359 --> 00:24:54,479
+you can click on or you can follow me
+
+868
+00:24:52,798 --> 00:24:56,157
+over on instagram where i'm doing q a
+
+869
+00:24:54,480 --> 00:24:56,640
+videos every single week if you've got
+
+870
+00:24:56,159 --> 00:24:59,038
+questions
+
+871
+00:24:56,640 --> 00:25:00,559
+send them over and that's it so thanks
+
+872
+00:24:59,038 --> 00:25:01,759
+for watching and uh
+
+873
+00:25:00,558 --> 00:25:06,239
+if you don't want to do anything i just
+
+874
+00:25:01,759 --> 00:25:06,239
+said well don't because i'm not your dad
+

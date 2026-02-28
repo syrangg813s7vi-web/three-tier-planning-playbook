@@ -1,0 +1,724 @@
+1
+00:00:00,080 --> 00:00:04,480
+I going to be 100% honest with you guys
+
+2
+00:00:01,679 --> 00:00:05,320
+here I am an absolute sucker for Roundup
+
+3
+00:00:04,559 --> 00:00:08,879
+lists of app recommendations and I know
+
+4
+00:00:07,000 --> 00:00:10,919
+I'm not the only one because I get asked
+
+5
+00:00:08,880 --> 00:00:13,599
+by you guys for app recommendations all
+
+6
+00:00:10,919 --> 00:00:14,838
+the time so here we are now my intention
+
+7
+00:00:13,599 --> 00:00:16,358
+this week was to sit down and make a
+
+8
+00:00:14,839 --> 00:00:17,960
+list of app recommendations for the
+
+9
+00:00:16,359 --> 00:00:19,720
+iPhone and then I was going to come back
+
+10
+00:00:17,960 --> 00:00:21,879
+next week and make a companion video for
+
+11
+00:00:19,719 --> 00:00:23,919
+the Android people but what I found out
+
+12
+00:00:21,879 --> 00:00:25,678
+when I started making my list is that
+
+13
+00:00:23,920 --> 00:00:27,759
+the majority of my picks are actually
+
+14
+00:00:25,679 --> 00:00:29,598
+crossplatform these days with very few
+
+15
+00:00:27,760 --> 00:00:31,480
+exceptions so instead of making two very
+
+16
+00:00:29,599 --> 00:00:33,440
+redundant videos I decided just to take
+
+17
+00:00:31,480 --> 00:00:35,200
+the IOS and Android halves and smash
+
+18
+00:00:33,439 --> 00:00:37,077
+them together into one delicious peanut
+
+19
+00:00:35,200 --> 00:00:39,160
+butter and jelly sandwich of a video and
+
+20
+00:00:37,079 --> 00:00:41,239
+in this video I'm going to be giving you
+
+21
+00:00:39,159 --> 00:00:42,918
+10 specific productivity app
+
+22
+00:00:41,238 --> 00:00:44,118
+recommendations you should check out and
+
+23
+00:00:42,920 --> 00:00:46,279
+fittingly we are going to be starting
+
+24
+00:00:44,119 --> 00:00:47,877
+with my to-do list recommendation now
+
+25
+00:00:46,280 --> 00:00:49,679
+when it comes to to-do list apps I
+
+26
+00:00:47,878 --> 00:00:52,397
+personally use a very powerful app
+
+27
+00:00:49,679 --> 00:00:54,759
+called Asana and I absolutely love it
+
+28
+00:00:52,399 --> 00:00:56,160
+however Asana is built mainly for teams
+
+29
+00:00:54,759 --> 00:00:57,557
+and it's got a lot of features you
+
+30
+00:00:56,159 --> 00:00:59,558
+probably won't need if you're just
+
+31
+00:00:57,558 --> 00:01:01,159
+managing your personal tasks so if
+
+32
+00:00:59,558 --> 00:01:03,119
+you're not managing a team like I am I
+
+33
+00:01:01,159 --> 00:01:05,718
+recommend wonderlist it's elegantly
+
+34
+00:01:03,119 --> 00:01:08,079
+designed it has apps on iOS Android and
+
+35
+00:01:05,719 --> 00:01:09,797
+lots of other platforms and it doesn't
+
+36
+00:01:08,079 --> 00:01:11,639
+lock essential features behind a paid
+
+37
+00:01:09,799 --> 00:01:13,479
+version like some other to-do managers
+
+38
+00:01:11,640 --> 00:01:15,360
+do now every good task management app
+
+39
+00:01:13,478 --> 00:01:17,319
+needs a calendar app as a companion and
+
+40
+00:01:15,359 --> 00:01:19,918
+while Google Calendar and IAL are both
+
+41
+00:01:17,319 --> 00:01:22,038
+good Fantastical is my calendar app of
+
+42
+00:01:19,920 --> 00:01:23,400
+choice the design is great it's one of
+
+43
+00:01:22,040 --> 00:01:25,359
+the few calendar apps that features
+
+44
+00:01:23,400 --> 00:01:26,960
+complication support on my Apple watch
+
+45
+00:01:25,359 --> 00:01:28,959
+but the killer feature for me is the
+
+46
+00:01:26,959 --> 00:01:31,077
+natural language processing instead of
+
+47
+00:01:28,959 --> 00:01:32,559
+typing out events I can speak them and
+
+48
+00:01:31,078 --> 00:01:34,279
+the app will intelligently parse what I
+
+49
+00:01:32,560 --> 00:01:36,560
+say and fill in event details
+
+50
+00:01:34,280 --> 00:01:38,398
+automatically Fantastical does not have
+
+51
+00:01:36,560 --> 00:01:39,798
+an Android version and the only Android
+
+52
+00:01:38,399 --> 00:01:41,439
+app I could find that has a similar
+
+53
+00:01:39,799 --> 00:01:43,920
+natural language feature is today
+
+54
+00:01:41,438 --> 00:01:45,438
+calendar which is around $5 after a free
+
+55
+00:01:43,920 --> 00:01:46,560
+trial now if you don't want to pay that
+
+56
+00:01:45,438 --> 00:01:48,039
+much and you can live without the
+
+57
+00:01:46,560 --> 00:01:49,959
+language processing feature I'd
+
+58
+00:01:48,040 --> 00:01:51,959
+recommend checking out S calendar for a
+
+59
+00:01:49,959 --> 00:01:53,199
+free full featured alternative habit
+
+60
+00:01:51,959 --> 00:01:54,999
+tracking is another practice that helps
+
+61
+00:01:53,200 --> 00:01:56,880
+me stay productive and my favorite app
+
+62
+00:01:55,000 --> 00:01:58,919
+for that is habitica along with a full
+
+63
+00:01:56,879 --> 00:02:00,519
+featured web app habitica has IOS and
+
+64
+00:01:58,920 --> 00:02:02,439
+Android apps that you turn tracking your
+
+65
+00:02:00,519 --> 00:02:04,358
+habits into a video game you can level
+
+66
+00:02:02,438 --> 00:02:05,999
+up a character you can buy gear and you
+
+67
+00:02:04,359 --> 00:02:07,798
+can join up with other people to go on
+
+68
+00:02:06,000 --> 00:02:09,160
+quests and keep each other accountable
+
+69
+00:02:07,799 --> 00:02:10,959
+you'll also find a college info geek
+
+70
+00:02:09,159 --> 00:02:13,479
+Guild within habitica that has over
+
+71
+00:02:10,959 --> 00:02:14,919
+7,000 members now if those video game
+
+72
+00:02:13,479 --> 00:02:16,358
+features aren't your cup of tea but you
+
+73
+00:02:14,919 --> 00:02:18,039
+still want to track your habits I'd
+
+74
+00:02:16,360 --> 00:02:19,759
+recommend checking out an app on iOS
+
+75
+00:02:18,039 --> 00:02:21,759
+called momentum which lets you simply
+
+76
+00:02:19,759 --> 00:02:23,839
+open the app check a box and move on
+
+77
+00:02:21,759 --> 00:02:26,278
+with your life you can also check off
+
+78
+00:02:23,840 --> 00:02:28,120
+habits within ios's today VI which is a
+
+79
+00:02:26,280 --> 00:02:29,480
+really cool feature on Android check out
+
+80
+00:02:28,120 --> 00:02:31,318
+habit bow for something that has similar
+
+81
+00:02:29,479 --> 00:02:33,398
+features for managing notes my app of
+
+82
+00:02:31,318 --> 00:02:35,318
+choice has always been Evernote this app
+
+83
+00:02:33,400 --> 00:02:37,199
+is pretty much my second brain I write
+
+84
+00:02:35,318 --> 00:02:39,119
+all my scripts in it I take notes in it
+
+85
+00:02:37,199 --> 00:02:40,957
+and I shove all sorts of information in
+
+86
+00:02:39,120 --> 00:02:42,959
+it that I want to remember now Evernote
+
+87
+00:02:40,959 --> 00:02:44,439
+is crossplatform but if you own more
+
+88
+00:02:42,959 --> 00:02:46,080
+than two devices which is the limit on
+
+89
+00:02:44,439 --> 00:02:47,999
+evernote's free tier you may want to
+
+90
+00:02:46,080 --> 00:02:49,919
+give Microsoft's OneNote a look as a
+
+91
+00:02:48,000 --> 00:02:52,000
+possible alternative I prefer Evernote
+
+92
+00:02:49,919 --> 00:02:53,439
+personally but I am a premium user and
+
+93
+00:02:52,000 --> 00:02:55,040
+the apps are pretty comparable and I
+
+94
+00:02:53,439 --> 00:02:56,999
+think one note does offer more on the
+
+95
+00:02:55,039 --> 00:02:58,237
+free tier than Evernote does anyway
+
+96
+00:02:57,000 --> 00:03:00,279
+while Evernote is keeping my notes
+
+97
+00:02:58,239 --> 00:03:02,080
+managed and synced to keep fil synced
+
+98
+00:03:00,280 --> 00:03:04,440
+and backed up across all my devices I
+
+99
+00:03:02,080 --> 00:03:06,238
+use dropbox it integrates amazingly with
+
+100
+00:03:04,439 --> 00:03:08,399
+a sauna which lets me attach files to
+
+101
+00:03:06,239 --> 00:03:09,598
+tasks in the blink of an eye and overall
+
+102
+00:03:08,400 --> 00:03:11,920
+I consider it to be one of the most
+
+103
+00:03:09,598 --> 00:03:13,359
+crucial Tools in my work setup next up
+
+104
+00:03:11,919 --> 00:03:14,999
+we've got scannable and app that lets
+
+105
+00:03:13,360 --> 00:03:16,679
+you automatically scan documents and
+
+106
+00:03:15,000 --> 00:03:18,279
+send them straight to Evernote other
+
+107
+00:03:16,680 --> 00:03:20,159
+than my idea notebook and Sketchbook I
+
+108
+00:03:18,280 --> 00:03:22,039
+try to keep my life as paperless as
+
+109
+00:03:20,158 --> 00:03:24,199
+possible and scanable lets me do that
+
+110
+00:03:22,039 --> 00:03:25,438
+really really easily now if you're not
+
+111
+00:03:24,199 --> 00:03:27,199
+nevern note user though I would check
+
+112
+00:03:25,439 --> 00:03:28,999
+out scanbot which offers a lot of
+
+113
+00:03:27,199 --> 00:03:30,199
+different export options additionally
+
+114
+00:03:29,000 --> 00:03:31,919
+it's also the app you should check out
+
+115
+00:03:30,199 --> 00:03:33,759
+if you're on Android since scannable is
+
+116
+00:03:31,919 --> 00:03:35,237
+an iPhone exclusive now if you often
+
+117
+00:03:33,759 --> 00:03:36,517
+find yourself getting distracted by your
+
+118
+00:03:35,239 --> 00:03:38,158
+smartphone while you're working you've
+
+119
+00:03:36,519 --> 00:03:40,759
+got a couple of different options number
+
+120
+00:03:38,158 --> 00:03:42,598
+one turn it off but number two if that
+
+121
+00:03:40,759 --> 00:03:43,839
+doesn't work you can download Forest
+
+122
+00:03:42,598 --> 00:03:45,478
+which is an app that rewards you for
+
+123
+00:03:43,840 --> 00:03:47,199
+leaving your phone alone by growing a
+
+124
+00:03:45,479 --> 00:03:49,597
+virtual tree now if you touch your phone
+
+125
+00:03:47,199 --> 00:03:51,158
+before a session is up the tree dies you
+
+126
+00:03:49,598 --> 00:03:53,118
+also get a record of your progress and
+
+127
+00:03:51,158 --> 00:03:54,678
+the positive reinforcement that provides
+
+128
+00:03:53,120 --> 00:03:56,919
+may be just the thing you need to
+
+129
+00:03:54,680 --> 00:03:58,519
+improve your focus speaking of focus one
+
+130
+00:03:56,919 --> 00:04:00,438
+of my favorite ways of getting focused
+
+131
+00:03:58,519 --> 00:04:02,799
+on a particular task is by using the
+
+132
+00:04:00,438 --> 00:04:04,758
+Pomodoro Technique and there are a ton
+
+133
+00:04:02,799 --> 00:04:06,040
+of Pomodoro style timer apps out there
+
+134
+00:04:04,759 --> 00:04:07,638
+feel free to check out as many as you
+
+135
+00:04:06,039 --> 00:04:09,237
+like but on the iPhone I'd recommend
+
+136
+00:04:07,639 --> 00:04:10,797
+going with Focus keeper while those of
+
+137
+00:04:09,239 --> 00:04:12,879
+you on Android should check out clear
+
+138
+00:04:10,799 --> 00:04:14,158
+Focus lastly one practice that helps me
+
+139
+00:04:12,878 --> 00:04:16,197
+stay productive throughout the entire
+
+140
+00:04:14,158 --> 00:04:18,077
+day is exercising which is why I use an
+
+141
+00:04:16,199 --> 00:04:19,679
+app called the 7-minute workout pretty
+
+142
+00:04:18,079 --> 00:04:20,999
+much every single day and this just
+
+143
+00:04:19,680 --> 00:04:22,800
+helps me make sure that even on the days
+
+144
+00:04:21,000 --> 00:04:25,559
+I don't go to the gym I'm still getting
+
+145
+00:04:22,800 --> 00:04:27,240
+some exercise in so guys that is my list
+
+146
+00:04:25,560 --> 00:04:28,999
+at least for this particular video now I
+
+147
+00:04:27,240 --> 00:04:30,559
+definitely have more apps on this bad
+
+148
+00:04:29,000 --> 00:04:32,399
+boy that I use and want to share with
+
+149
+00:04:30,560 --> 00:04:34,560
+you so I'm going to do more app Roundup
+
+150
+00:04:32,399 --> 00:04:36,158
+videos in the future and if you got app
+
+151
+00:04:34,560 --> 00:04:37,999
+picks of your own you can share them
+
+152
+00:04:36,160 --> 00:04:39,320
+down in the comments below before I wrap
+
+153
+00:04:38,000 --> 00:04:41,198
+this video up I did want to let you guys
+
+154
+00:04:39,319 --> 00:04:43,399
+in on one more thing and that is that
+
+155
+00:04:41,199 --> 00:04:45,880
+college infog geek t-shirts are now in
+
+156
+00:04:43,399 --> 00:04:47,637
+stock over at dftba.com and if I can
+
+157
+00:04:45,879 --> 00:04:48,918
+stand on my tiptoes enough you can kind
+
+158
+00:04:47,639 --> 00:04:50,240
+of see the shirt cuz I'm wearing it
+
+159
+00:04:48,918 --> 00:04:51,958
+right now but you can see the full
+
+160
+00:04:50,240 --> 00:04:53,759
+picture at the link in the description
+
+161
+00:04:51,959 --> 00:04:55,599
+and if you click that link you can also
+
+162
+00:04:53,759 --> 00:04:56,759
+buy a shirt if you want if you do get
+
+163
+00:04:55,600 --> 00:04:58,160
+one and you want to send me a picture of
+
+164
+00:04:56,759 --> 00:05:00,159
+it you can tweet me over at tomf
+
+165
+00:04:58,160 --> 00:05:01,720
+frankley and you can also use my to ask
+
+166
+00:05:00,160 --> 00:05:03,959
+me questions which I'll use for future
+
+167
+00:05:01,720 --> 00:05:06,399
+videos and future Q&A rapid fire
+
+168
+00:05:03,959 --> 00:05:07,757
+lightning style round video things and
+
+169
+00:05:06,399 --> 00:05:09,158
+that about does it for this week's video
+
+170
+00:05:07,759 --> 00:05:10,759
+guys so if you enjoyed it you want to
+
+171
+00:05:09,160 --> 00:05:11,959
+get new videos every single week on
+
+172
+00:05:10,759 --> 00:05:13,638
+being a more effective student you can
+
+173
+00:05:11,959 --> 00:05:15,197
+click that subscribe button right over
+
+174
+00:05:13,639 --> 00:05:16,679
+there and if you want to get a free copy
+
+175
+00:05:15,199 --> 00:05:18,599
+of my book on earning better grades you
+
+176
+00:05:16,680 --> 00:05:19,880
+can click the picture right there click
+
+177
+00:05:18,600 --> 00:05:21,439
+there to find another video you might
+
+178
+00:05:19,879 --> 00:05:22,959
+enjoy and you'll find more helpful
+
+179
+00:05:21,439 --> 00:05:24,599
+resource links in the description below
+
+180
+00:05:22,959 --> 00:05:28,917
+the like button which you can hit to
+
+181
+00:05:24,600 --> 00:05:28,918
+support this channel see you
+

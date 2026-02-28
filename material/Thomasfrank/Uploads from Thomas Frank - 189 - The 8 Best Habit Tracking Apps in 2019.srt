@@ -1,0 +1,1556 @@
+1
+00:00:00,000 --> 00:00:03,448
+hey what is up guys so in today's video
+
+2
+00:00:01,919 --> 00:00:03,689
+we're gonna be taking a look at one of
+
+3
+00:00:03,448 --> 00:00:06,269
+my favorite types of apps in the entire
+
+4
+00:00:05,609 --> 00:00:08,819
+world
+
+5
+00:00:06,269 --> 00:00:10,229
+the humble habit tracker this very
+
+6
+00:00:08,820 --> 00:00:12,389
+simple type of app helps you to build
+
+7
+00:00:10,230 --> 00:00:14,099
+strong habits or break bad ones by
+
+8
+00:00:12,388 --> 00:00:16,559
+leveraging what's been called the don't
+
+9
+00:00:14,099 --> 00:00:18,209
+break the chain strategy for some reason
+
+10
+00:00:16,559 --> 00:00:20,159
+when our brains see that we have done
+
+11
+00:00:18,210 --> 00:00:21,509
+something for a long period of time or
+
+12
+00:00:20,160 --> 00:00:23,130
+haven't done something for the same long
+
+13
+00:00:21,510 --> 00:00:24,990
+period of time we don't want to break
+
+14
+00:00:23,129 --> 00:00:26,579
+the chain we don't want to break the
+
+15
+00:00:24,989 --> 00:00:28,017
+pattern so essentially a habit tracker
+
+16
+00:00:26,579 --> 00:00:29,458
+just lets you check off whether or not
+
+17
+00:00:28,018 --> 00:00:31,078
+you've done something every single day
+
+18
+00:00:29,460 --> 00:00:33,029
+and over time you get a visual
+
+19
+00:00:31,079 --> 00:00:34,438
+indication of your progress and that
+
+20
+00:00:33,030 --> 00:00:35,730
+keeps you motivated to keep progressing
+
+21
+00:00:34,439 --> 00:00:38,068
+in the right direction
+
+22
+00:00:35,729 --> 00:00:40,108
+now since habit trackers are very simple
+
+23
+00:00:38,070 --> 00:00:42,148
+they're also not that difficult to make
+
+24
+00:00:40,109 --> 00:00:44,248
+in comparison to other apps and as a
+
+25
+00:00:42,149 --> 00:00:46,169
+result there are a ton of them out there
+
+26
+00:00:44,250 --> 00:00:48,269
+whether you're on iOS Android or just
+
+27
+00:00:46,170 --> 00:00:49,828
+looking for a web app version so what
+
+28
+00:00:48,270 --> 00:00:51,750
+we're gonna do today is I'm gonna share
+
+29
+00:00:49,829 --> 00:00:52,829
+my picks for the top eight habit
+
+30
+00:00:51,750 --> 00:00:56,280
+trackers that deserve your attention
+
+31
+00:00:52,829 --> 00:00:58,559
+here in 2019 and for an app to make my
+
+32
+00:00:56,280 --> 00:01:00,239
+list it has to do something beat onto
+
+33
+00:00:58,558 --> 00:01:01,468
+just letting you check off whether or
+
+34
+00:01:00,238 --> 00:01:03,358
+not you did a habit has to bring
+
+35
+00:01:01,469 --> 00:01:05,460
+something unique to the table and
+
+36
+00:01:03,359 --> 00:01:07,500
+without further ado let's just jump into
+
+37
+00:01:05,459 --> 00:01:10,348
+the number eight pick on my list which
+
+38
+00:01:07,500 --> 00:01:12,719
+is called habitable if I makes my list
+
+39
+00:01:10,349 --> 00:01:14,698
+because it is very well designed in fact
+
+40
+00:01:12,719 --> 00:01:16,227
+across all the apps that I tested for
+
+41
+00:01:14,700 --> 00:01:18,450
+this video I found have benefice
+
+42
+00:01:16,228 --> 00:01:20,099
+combination of simplicity and really
+
+43
+00:01:18,450 --> 00:01:22,560
+nice UI to be at least the most
+
+44
+00:01:20,099 --> 00:01:24,389
+attractive to my eyes and in addition to
+
+45
+00:01:22,560 --> 00:01:26,790
+that it is also cross-platform you're
+
+46
+00:01:24,390 --> 00:01:28,380
+gonna find it on Android iOS iPad and
+
+47
+00:01:26,790 --> 00:01:29,819
+there's even a Mac app as well
+
+48
+00:01:28,379 --> 00:01:31,859
+additionally you're gonna find features
+
+49
+00:01:29,819 --> 00:01:33,688
+like a dark mode lots of fancy charts
+
+50
+00:01:31,859 --> 00:01:35,188
+and graphs to track your progress and if
+
+51
+00:01:33,688 --> 00:01:36,838
+you are an iOS person you're gonna find
+
+52
+00:01:35,188 --> 00:01:38,878
+Apple watch apps a widget for your
+
+53
+00:01:36,840 --> 00:01:40,590
+iPhone homescreen even I miss a as
+
+54
+00:01:38,879 --> 00:01:42,388
+well which I have not seen in any other
+
+55
+00:01:40,590 --> 00:01:44,399
+app that I've looked at next up on my
+
+56
+00:01:42,390 --> 00:01:45,840
+list is an app called a habit hub which
+
+57
+00:01:44,399 --> 00:01:48,540
+gains the distinction of being the only
+
+58
+00:01:45,840 --> 00:01:50,250
+Android exclusive app to make this list
+
+59
+00:01:48,540 --> 00:01:51,780
+now a lot of the other apps I'm going to
+
+60
+00:01:50,250 --> 00:01:53,879
+talk about in a little bit have Android
+
+61
+00:01:51,780 --> 00:01:55,949
+versions but this is the only Android
+
+62
+00:01:53,879 --> 00:01:57,478
+exclusive so if you're an Android person
+
+63
+00:01:55,950 --> 00:01:58,709
+and you want to lord it over your iPhone
+
+64
+00:01:57,478 --> 00:02:00,687
+friends that you got an app that they
+
+65
+00:01:58,709 --> 00:02:02,007
+can't use well this is probably the one
+
+66
+00:02:00,688 --> 00:02:03,478
+that you're gonna want to pick habit hub
+
+67
+00:02:02,009 --> 00:02:04,590
+also has a really nice design it has a
+
+68
+00:02:03,478 --> 00:02:06,147
+couple of other features that I really
+
+69
+00:02:04,590 --> 00:02:08,489
+enjoy it as well including the ability
+
+70
+00:02:06,149 --> 00:02:09,689
+to have goals for your habit streaks so
+
+71
+00:02:08,489 --> 00:02:11,580
+you can do things like having a 30 day
+
+72
+00:02:09,689 --> 00:02:12,639
+challenge and the ability to mark a
+
+73
+00:02:11,580 --> 00:02:14,859
+habit as
+
+74
+00:02:12,639 --> 00:02:16,599
+instead of just failed so if you had a
+
+75
+00:02:14,860 --> 00:02:18,069
+business trip or you found yourself sick
+
+76
+00:02:16,599 --> 00:02:19,808
+for some reason you could mark something
+
+77
+00:02:18,068 --> 00:02:21,579
+as skipped you could add a note to it to
+
+78
+00:02:19,810 --> 00:02:23,109
+explain why you had to skip it and
+
+79
+00:02:21,580 --> 00:02:24,760
+you're gonna get a visual indication of
+
+80
+00:02:23,110 --> 00:02:27,009
+it being skipped rather than just failed
+
+81
+00:02:24,759 --> 00:02:29,379
+or not marked altogether that brings us
+
+82
+00:02:27,009 --> 00:02:31,449
+to number six on the list which is tick
+
+83
+00:02:29,379 --> 00:02:33,189
+tick and tick tick isn't really a
+
+84
+00:02:31,449 --> 00:02:34,239
+purpose-built habit tracker it's
+
+85
+00:02:33,189 --> 00:02:36,309
+actually a full-fledged
+
+86
+00:02:34,240 --> 00:02:37,570
+task management / to-do app that is very
+
+87
+00:02:36,310 --> 00:02:39,010
+similar to todoist
+
+88
+00:02:37,569 --> 00:02:40,749
+and actually talked about it my video on
+
+89
+00:02:39,009 --> 00:02:41,738
+the best task management app since 2019
+
+90
+00:02:40,750 --> 00:02:43,690
+which you'll find linked in description
+
+91
+00:02:41,739 --> 00:02:46,599
+down below if you haven't seen it that
+
+92
+00:02:43,689 --> 00:02:49,269
+but now they have actually integrated a
+
+93
+00:02:46,599 --> 00:02:50,978
+habit tracker into the app and for a
+
+94
+00:02:49,270 --> 00:02:52,930
+real long time I begin questions from
+
+95
+00:02:50,979 --> 00:02:54,758
+all kinds of people asking me Tom is
+
+96
+00:02:52,930 --> 00:02:56,979
+there a task management app out there
+
+97
+00:02:54,759 --> 00:02:58,388
+that also integrates a habit tracker and
+
+98
+00:02:56,979 --> 00:03:00,699
+for the longest time I answer that
+
+99
+00:02:58,389 --> 00:03:02,648
+question has been no or at least I don't
+
+100
+00:03:00,699 --> 00:03:04,748
+know of one but now tick tick has filled
+
+101
+00:03:02,650 --> 00:03:06,699
+that void so if you want to have your
+
+102
+00:03:04,750 --> 00:03:08,709
+task management and your habit tracking
+
+103
+00:03:06,699 --> 00:03:09,429
+living in one place in the same app on
+
+104
+00:03:08,709 --> 00:03:11,080
+the same screen
+
+105
+00:03:09,430 --> 00:03:12,579
+tick tick is gonna be what you probably
+
+106
+00:03:11,080 --> 00:03:14,410
+want to go with for both of those
+
+107
+00:03:12,580 --> 00:03:15,399
+purposes now if you are one of those
+
+108
+00:03:14,409 --> 00:03:17,319
+people who wants a little bit more
+
+109
+00:03:15,400 --> 00:03:18,670
+complexity and your habit tracking then
+
+110
+00:03:17,319 --> 00:03:22,149
+you might want to pay attention to
+
+111
+00:03:18,669 --> 00:03:23,827
+number 5 on my list which is b-minor and
+
+112
+00:03:22,150 --> 00:03:25,390
+yes I've talked about being minder many
+
+113
+00:03:23,829 --> 00:03:26,829
+many times in this channel it was most
+
+114
+00:03:25,389 --> 00:03:28,268
+recently profiled in my video on apps
+
+115
+00:03:26,829 --> 00:03:30,430
+that force you to work so I'm not gonna
+
+116
+00:03:28,269 --> 00:03:31,570
+talk too much about bee minder but in
+
+117
+00:03:30,430 --> 00:03:33,039
+case you haven't heard of it it is an
+
+118
+00:03:31,569 --> 00:03:35,649
+app that allows you to essentially put
+
+119
+00:03:33,039 --> 00:03:37,539
+money on the line to ensure that you do
+
+120
+00:03:35,650 --> 00:03:39,279
+your habits and in addition to that
+
+121
+00:03:37,539 --> 00:03:41,859
+financial incentive part of the app
+
+122
+00:03:39,280 --> 00:03:43,208
+there is just a lot of data and
+
+123
+00:03:41,860 --> 00:03:44,828
+beeminder you can look at all these
+
+124
+00:03:43,209 --> 00:03:46,450
+crazy charts and graphs you can see all
+
+125
+00:03:44,829 --> 00:03:48,760
+of your data points you can get really
+
+126
+00:03:46,449 --> 00:03:50,379
+really nerdy with this app and it also
+
+127
+00:03:48,759 --> 00:03:52,719
+holds the distinction of being the app
+
+128
+00:03:50,379 --> 00:03:54,487
+that can pull in data from the largest
+
+129
+00:03:52,719 --> 00:03:56,259
+amount of sources that I've ever seen
+
+130
+00:03:54,489 --> 00:03:58,268
+they can pull an Apple health data it
+
+131
+00:03:56,259 --> 00:04:00,098
+can pull on data from all kinds of other
+
+132
+00:03:58,269 --> 00:04:02,828
+quantified self apps and it can even
+
+133
+00:04:00,099 --> 00:04:04,929
+connect up to IFTTT which can basically
+
+134
+00:04:02,829 --> 00:04:06,280
+let you pull data from literally any
+
+135
+00:04:04,930 --> 00:04:07,930
+other service in the world that you can
+
+136
+00:04:06,280 --> 00:04:10,119
+probably think of through some weird
+
+137
+00:04:07,930 --> 00:04:11,650
+combination of home automation Python
+
+138
+00:04:10,120 --> 00:04:13,090
+scripts and whatever it is you
+
+139
+00:04:11,650 --> 00:04:14,949
+programming there it's like to build out
+
+140
+00:04:13,090 --> 00:04:15,969
+there you can probably use it to shove
+
+141
+00:04:14,949 --> 00:04:18,158
+data into beeminder
+
+142
+00:04:15,969 --> 00:04:20,018
+but let's say for a second that all that
+
+143
+00:04:18,160 --> 00:04:22,360
+data is not the top priority for you
+
+144
+00:04:20,019 --> 00:04:24,459
+because you are a person of culture you
+
+145
+00:04:22,360 --> 00:04:25,840
+are a person who prides and values
+
+146
+00:04:24,459 --> 00:04:27,909
+aesthetics over
+
+147
+00:04:25,839 --> 00:04:29,529
+everything else well if that is the case
+
+148
+00:04:27,910 --> 00:04:30,550
+and if you have an iPhone because the
+
+149
+00:04:29,529 --> 00:04:32,678
+one we're going to talk about here is an
+
+150
+00:04:30,550 --> 00:04:34,210
+iOS exclusive then you may want to look
+
+151
+00:04:32,680 --> 00:04:37,449
+at number four on the list which is
+
+152
+00:04:34,209 --> 00:04:39,189
+called today today is a beautiful app in
+
+153
+00:04:37,449 --> 00:04:41,290
+fact it might even be a little bit too
+
+154
+00:04:39,189 --> 00:04:42,459
+beautiful for my taste in fact the
+
+155
+00:04:41,290 --> 00:04:45,100
+reason that it's not a little bit higher
+
+156
+00:04:42,459 --> 00:04:46,447
+on this list is because I feel some of
+
+157
+00:04:45,100 --> 00:04:48,249
+the aesthetics get in the way of using
+
+158
+00:04:46,449 --> 00:04:50,620
+the app really quickly and efficiently
+
+159
+00:04:48,250 --> 00:04:52,269
+that being said it is a very capable
+
+160
+00:04:50,620 --> 00:04:54,160
+have a tracker under the hood in
+
+161
+00:04:52,269 --> 00:04:56,528
+addition to all the nice design and UI
+
+162
+00:04:54,160 --> 00:04:58,329
+and it even packs in some features for
+
+163
+00:04:56,529 --> 00:05:00,129
+free that other apps charging monthly
+
+164
+00:04:58,329 --> 00:05:02,108
+subscription fee for now of course you
+
+165
+00:05:00,129 --> 00:05:03,728
+can do all the basics you can add habits
+
+166
+00:05:02,110 --> 00:05:05,560
+you can check them off you can do
+
+167
+00:05:03,728 --> 00:05:08,409
+multiple check-ins per day but you can
+
+168
+00:05:05,560 --> 00:05:09,699
+also set specific covers for your habits
+
+169
+00:05:08,410 --> 00:05:11,168
+so you get that nice little splash
+
+170
+00:05:09,699 --> 00:05:12,788
+screen for each one and one thing that
+
+171
+00:05:11,168 --> 00:05:14,949
+I'd really like is that for each habit
+
+172
+00:05:12,790 --> 00:05:17,979
+you can add what are called custom cards
+
+173
+00:05:14,949 --> 00:05:19,989
+to the data area for the habit and well
+
+174
+00:05:17,978 --> 00:05:21,549
+it can't pull in your Apple health data
+
+175
+00:05:19,990 --> 00:05:23,139
+to actually hold your feet to the fire
+
+176
+00:05:21,550 --> 00:05:24,579
+like beeminder can so you can't do
+
+177
+00:05:23,139 --> 00:05:26,320
+something like having a walking goal and
+
+178
+00:05:24,579 --> 00:05:28,179
+then pulling in your steps data to check
+
+179
+00:05:26,319 --> 00:05:29,918
+it off or not check it off you can add
+
+180
+00:05:28,180 --> 00:05:31,870
+in Apple health data for some extra
+
+181
+00:05:29,918 --> 00:05:34,179
+context for your habits which is really
+
+182
+00:05:31,870 --> 00:05:35,680
+nice touch plus today is just pretty did
+
+183
+00:05:34,180 --> 00:05:37,570
+I mention that all right I will stop
+
+184
+00:05:35,680 --> 00:05:39,309
+gushing about today's design let's move
+
+185
+00:05:37,569 --> 00:05:41,408
+on to number three on list which is
+
+186
+00:05:39,310 --> 00:05:42,849
+coach dot to me and I didn't put it on
+
+187
+00:05:41,410 --> 00:05:44,530
+there because it rhymes though that is a
+
+188
+00:05:42,848 --> 00:05:46,268
+nice little coincidence so coach taught
+
+189
+00:05:44,529 --> 00:05:48,219
+me is actually the first habit tracker
+
+190
+00:05:46,269 --> 00:05:49,749
+that I ever used back when I was using
+
+191
+00:05:48,220 --> 00:05:52,119
+it was called lift notice since
+
+192
+00:05:49,750 --> 00:05:54,309
+rebranded to coach dot me and as you
+
+193
+00:05:52,120 --> 00:05:56,080
+might imagine there is now a coaching
+
+194
+00:05:54,310 --> 00:05:57,399
+component to the app and that is
+
+195
+00:05:56,079 --> 00:05:59,348
+actually what makes it pretty unique now
+
+196
+00:05:57,399 --> 00:06:01,298
+at its core coach taught me is a very
+
+197
+00:05:59,348 --> 00:06:02,618
+capable habit tracker you can add in
+
+198
+00:06:01,300 --> 00:06:04,179
+your habits you can check them off
+
+199
+00:06:02,620 --> 00:06:05,620
+there's nice high-five animations
+
+200
+00:06:04,180 --> 00:06:07,389
+sometimes but there's also a big
+
+201
+00:06:05,620 --> 00:06:09,580
+community element to the app as well
+
+202
+00:06:07,389 --> 00:06:11,168
+both in the form of coaching and in the
+
+203
+00:06:09,579 --> 00:06:13,119
+form of a simple community with
+
+204
+00:06:11,168 --> 00:06:15,219
+discussions so for any habit that you
+
+205
+00:06:13,120 --> 00:06:16,810
+add to your list if it is a common habit
+
+206
+00:06:15,220 --> 00:06:18,340
+there's probably to be questions and
+
+207
+00:06:16,810 --> 00:06:20,109
+discussion threads for those questions
+
+208
+00:06:18,339 --> 00:06:21,968
+from other users you can use it to get
+
+209
+00:06:20,110 --> 00:06:23,348
+tips and additional motivation if that
+
+210
+00:06:21,970 --> 00:06:25,030
+discussion area isn't enough for you you
+
+211
+00:06:23,348 --> 00:06:26,319
+can also go over to the coaching section
+
+212
+00:06:25,029 --> 00:06:28,749
+of the app which is where it gets its
+
+213
+00:06:26,319 --> 00:06:30,488
+namesake and for a lot less money than
+
+214
+00:06:28,750 --> 00:06:32,589
+I've seen in almost any other coaching
+
+215
+00:06:30,490 --> 00:06:34,389
+venue that I've come across online you
+
+216
+00:06:32,589 --> 00:06:36,339
+can get personalized check-ins with
+
+217
+00:06:34,389 --> 00:06:37,449
+coaches for basically any habit that
+
+218
+00:06:36,339 --> 00:06:39,098
+you're trying to build or goal that
+
+219
+00:06:37,449 --> 00:06:40,598
+you're trying to achieve now
+
+220
+00:06:39,100 --> 00:06:42,280
+if I had to guess I would say you
+
+221
+00:06:40,600 --> 00:06:43,990
+probably get a little less personalized
+
+222
+00:06:42,279 --> 00:06:45,939
+attention a little less time than you
+
+223
+00:06:43,990 --> 00:06:48,280
+get with an actual coach but a lot of
+
+224
+00:06:45,939 --> 00:06:49,659
+people don't need a ton of personalized
+
+225
+00:06:48,279 --> 00:06:52,149
+attention a lot of people don't need to
+
+226
+00:06:49,660 --> 00:06:53,709
+pay $60 for an hour of a coaches time
+
+227
+00:06:52,149 --> 00:06:55,178
+some people just need to be able to
+
+228
+00:06:53,709 --> 00:06:57,008
+check in with somebody a couple of times
+
+229
+00:06:55,180 --> 00:06:59,050
+a week and just have someone there to
+
+230
+00:06:57,009 --> 00:06:59,949
+keep them on track and that's the need
+
+231
+00:06:59,050 --> 00:07:01,750
+of this at Phil's
+
+232
+00:06:59,949 --> 00:07:04,449
+all right homestretch baby we are on to
+
+233
+00:07:01,750 --> 00:07:06,309
+number two on the list and it is what
+
+234
+00:07:04,449 --> 00:07:08,018
+has been my favorite tab at tracker
+
+235
+00:07:06,310 --> 00:07:10,659
+might have a tracker of choice for a
+
+236
+00:07:08,019 --> 00:07:13,419
+very long time it's called strides and
+
+237
+00:07:10,660 --> 00:07:15,549
+it is unfortunately an iOS exclusive
+
+238
+00:07:13,420 --> 00:07:17,020
+once again but hey the Android people
+
+239
+00:07:15,550 --> 00:07:19,329
+got habit hub so you can't complain too
+
+240
+00:07:17,019 --> 00:07:21,099
+much right so at least on the surface I
+
+241
+00:07:19,329 --> 00:07:23,289
+would say the strides is pretty similar
+
+242
+00:07:21,100 --> 00:07:25,390
+to high bidify both have really clean
+
+243
+00:07:23,290 --> 00:07:27,1000
+professional you eyes both are very fast
+
+244
+00:07:25,389 --> 00:07:29,799
+or snappy they are a joy to use
+
+245
+00:07:28,000 --> 00:07:31,509
+but we're have been if I is a little bit
+
+246
+00:07:29,800 --> 00:07:33,910
+more rigid in the types of goals that
+
+247
+00:07:31,509 --> 00:07:36,219
+you can set up and track strides is more
+
+248
+00:07:33,910 --> 00:07:37,809
+flexible it has some additional options
+
+249
+00:07:36,220 --> 00:07:39,309
+for the types of habits that you can set
+
+250
+00:07:37,810 --> 00:07:40,600
+up within it for one you can set up
+
+251
+00:07:39,310 --> 00:07:42,339
+street goals which are great for things
+
+252
+00:07:40,600 --> 00:07:44,530
+like 30-day challenges and you can also
+
+253
+00:07:42,339 --> 00:07:46,539
+set goals to be either yes or no did you
+
+254
+00:07:44,529 --> 00:07:48,428
+do them to do not or based on a certain
+
+255
+00:07:46,540 --> 00:07:50,439
+quantity of things so if you want to
+
+256
+00:07:48,430 --> 00:07:51,939
+take like 10,000 steps a day you could
+
+257
+00:07:50,439 --> 00:07:53,528
+actually type in that number if you
+
+258
+00:07:51,939 --> 00:07:55,599
+really wanted to but the feature that I
+
+259
+00:07:53,529 --> 00:07:56,828
+like the most about strides and this is
+
+260
+00:07:55,600 --> 00:07:58,510
+something that I have not seen in any
+
+261
+00:07:56,829 --> 00:08:00,819
+other habit tracker that I've tested is
+
+262
+00:07:58,509 --> 00:08:02,648
+the ability to track an average for a
+
+263
+00:08:00,819 --> 00:08:03,638
+specific habit so if you want to make
+
+264
+00:08:02,649 --> 00:08:05,738
+sure you're not playing too many hours
+
+265
+00:08:03,639 --> 00:08:06,969
+of video games each week or you want to
+
+266
+00:08:05,740 --> 00:08:08,320
+just track the number of times you go to
+
+267
+00:08:06,970 --> 00:08:10,809
+the gym which you do have a specific
+
+268
+00:08:08,319 --> 00:08:13,448
+goal for it this is a great feature and
+
+269
+00:08:10,810 --> 00:08:16,420
+I love it but not as much as I love the
+
+270
+00:08:13,449 --> 00:08:18,908
+number one app on this list which is of
+
+271
+00:08:16,420 --> 00:08:21,519
+course habiddig a-- in my humble opinion
+
+272
+00:08:18,910 --> 00:08:23,289
+habiddig agos beyond all other habit
+
+273
+00:08:21,519 --> 00:08:24,909
+trackers out there because instead of
+
+274
+00:08:23,290 --> 00:08:26,950
+just letting you track your habits it
+
+275
+00:08:24,910 --> 00:08:30,669
+lets you turn your life into a bonafide
+
+276
+00:08:26,949 --> 00:08:33,128
+video game medaka is basically an RPG
+
+277
+00:08:30,670 --> 00:08:35,380
+with habit tracking elements built in
+
+278
+00:08:33,129 --> 00:08:37,268
+and instead of just working on yourself
+
+279
+00:08:35,379 --> 00:08:39,548
+you're working on yourself while also
+
+280
+00:08:37,269 --> 00:08:41,438
+building up a character in the game that
+
+281
+00:08:39,549 --> 00:08:43,898
+can go on quests and party up a people
+
+282
+00:08:41,440 --> 00:08:45,370
+and get mounts and all kinds of gear and
+
+283
+00:08:43,899 --> 00:08:47,738
+all kinds of fun stuff now I will
+
+284
+00:08:45,370 --> 00:08:49,660
+readily admit that I am a nerd and
+
+285
+00:08:47,740 --> 00:08:53,499
+not everyone out there is a nerd maybe
+
+286
+00:08:49,659 --> 00:08:55,809
+you're not a nerd so habiddig a-- is not
+
+287
+00:08:53,500 --> 00:08:57,549
+for everyone there's a lot going on in
+
+288
+00:08:55,809 --> 00:08:59,049
+that game there's all kinds of stats and
+
+289
+00:08:57,549 --> 00:09:01,269
+buffs and all kinds of crazy stuff which
+
+290
+00:08:59,049 --> 00:09:02,739
+is why I made this list there's seven
+
+291
+00:09:01,269 --> 00:09:03,999
+other pics on the list that you could go
+
+292
+00:09:02,740 --> 00:09:06,249
+for if you want something a little bit
+
+293
+00:09:04,000 --> 00:09:08,200
+more simple but in my experience all of
+
+294
+00:09:06,250 --> 00:09:10,210
+the gamification elements that are built
+
+295
+00:09:08,200 --> 00:09:12,249
+in to have etiqa are really really
+
+296
+00:09:10,210 --> 00:09:14,650
+motivating if you get into the game then
+
+297
+00:09:12,250 --> 00:09:16,210
+you really don't want to fail on your
+
+298
+00:09:14,649 --> 00:09:17,979
+habits because you're trying to build up
+
+299
+00:09:16,210 --> 00:09:19,450
+some gold to get a new piece of gear or
+
+300
+00:09:17,980 --> 00:09:21,160
+you're trying to level up so you can
+
+301
+00:09:19,450 --> 00:09:23,980
+actually cast more powerful spells or
+
+302
+00:09:21,159 --> 00:09:25,119
+and I think this is the most genius part
+
+303
+00:09:23,980 --> 00:09:27,009
+of haveta kheh
+
+304
+00:09:25,120 --> 00:09:29,169
+you can actually party up with other
+
+305
+00:09:27,009 --> 00:09:30,969
+people real-life humans and you can go
+
+306
+00:09:29,169 --> 00:09:32,919
+on quests and fight bosses together and
+
+307
+00:09:30,970 --> 00:09:34,840
+when you are fighting a boss at the end
+
+308
+00:09:32,919 --> 00:09:37,598
+of each day that boss is going to attack
+
+309
+00:09:34,840 --> 00:09:40,149
+you and it will never damage you unless
+
+310
+00:09:37,600 --> 00:09:41,949
+somebody in your party fails to do their
+
+311
+00:09:40,149 --> 00:09:43,689
+habits or if they mark off a negative
+
+312
+00:09:41,950 --> 00:09:45,789
+habit like smoking a cigarette or eating
+
+313
+00:09:43,690 --> 00:09:47,650
+junk food if people don't stick to what
+
+314
+00:09:45,789 --> 00:09:49,869
+they're supposed to be doing everyone in
+
+315
+00:09:47,649 --> 00:09:51,668
+the group gets hurt and if you run out
+
+316
+00:09:49,870 --> 00:09:54,039
+of Health and die you actually lose a
+
+317
+00:09:51,669 --> 00:09:56,258
+piece of gear so there's this great
+
+318
+00:09:54,039 --> 00:09:57,909
+accountability element to have it occur
+
+319
+00:09:56,259 --> 00:10:00,189
+that a lot of other habit trackers just
+
+320
+00:09:57,909 --> 00:10:01,629
+don't have plus in contrast to a lot of
+
+321
+00:10:00,190 --> 00:10:03,279
+the other habit tracking apps out there
+
+322
+00:10:01,629 --> 00:10:05,888
+all the core habit tracking
+
+323
+00:10:03,279 --> 00:10:07,359
+functionality in hebediah is free if you
+
+324
+00:10:05,889 --> 00:10:09,069
+get really into the game you can buy
+
+325
+00:10:07,360 --> 00:10:10,480
+gems for certain purposes or you can
+
+326
+00:10:09,070 --> 00:10:12,579
+actually donate directly to the team if
+
+327
+00:10:10,480 --> 00:10:14,770
+you want but all of the habit tracking
+
+328
+00:10:12,580 --> 00:10:16,450
+features those don't cost anything to
+
+329
+00:10:14,769 --> 00:10:18,639
+use and this is in the meta I really
+
+330
+00:10:16,450 --> 00:10:19,780
+respect about have it occur that and the
+
+331
+00:10:18,639 --> 00:10:22,089
+fact that I can put a pair of steampunk
+
+332
+00:10:19,779 --> 00:10:24,248
+goggles at a top hat on my character now
+
+333
+00:10:22,090 --> 00:10:25,869
+no matter which habit tracker you do
+
+334
+00:10:24,250 --> 00:10:27,700
+choose to go with one habit that should
+
+335
+00:10:25,870 --> 00:10:29,470
+probably be on it it's taking some time
+
+336
+00:10:27,700 --> 00:10:31,180
+to do some independent learning each day
+
+337
+00:10:29,470 --> 00:10:33,309
+and that's something that you can easily
+
+338
+00:10:31,179 --> 00:10:35,198
+do with the daily challenges feature on
+
+339
+00:10:33,309 --> 00:10:36,969
+brilliant each day new challenges are
+
+340
+00:10:35,200 --> 00:10:38,499
+posted that can test and stretch your
+
+341
+00:10:36,970 --> 00:10:40,240
+problem-solving skills in areas like
+
+342
+00:10:38,500 --> 00:10:43,120
+calculus physics computer science
+
+343
+00:10:40,240 --> 00:10:44,560
+statistics astronomy and much more and
+
+344
+00:10:43,120 --> 00:10:46,030
+if a particular problem piques your
+
+345
+00:10:44,559 --> 00:10:47,708
+interest you'll also find dozens of
+
+346
+00:10:46,029 --> 00:10:48,969
+full-fledged in-depth courses in
+
+347
+00:10:47,710 --> 00:10:50,799
+brilliants course library that can
+
+348
+00:10:48,970 --> 00:10:52,360
+improve your knowledge even further each
+
+349
+00:10:50,799 --> 00:10:53,439
+course use the principle of active
+
+350
+00:10:52,360 --> 00:10:55,119
+learning to help you learn as
+
+351
+00:10:53,440 --> 00:10:56,589
+effectively as possible while keeping
+
+352
+00:10:55,120 --> 00:10:58,030
+your level of interest high at the same
+
+353
+00:10:56,590 --> 00:10:59,440
+time so if you want to start boosting
+
+354
+00:10:58,029 --> 00:11:00,598
+your problem-solving skills on a daily
+
+355
+00:10:59,440 --> 00:11:02,219
+basis which can help
+
+356
+00:11:00,600 --> 00:11:03,720
+prove your job prospects and even help
+
+357
+00:11:02,220 --> 00:11:05,699
+you become more creative then head over
+
+358
+00:11:03,720 --> 00:11:07,349
+to brilliant org slash Thomas Frank and
+
+359
+00:11:05,698 --> 00:11:08,729
+sign up for free free account gets you
+
+360
+00:11:07,350 --> 00:11:10,290
+access to new daily challenges every
+
+361
+00:11:08,730 --> 00:11:11,370
+single day and if you do decide to go
+
+362
+00:11:10,289 --> 00:11:12,809
+for their premium subscription you're
+
+363
+00:11:11,370 --> 00:11:14,370
+gonna get access to their entire daily
+
+364
+00:11:12,809 --> 00:11:16,228
+challenges archive with lots more
+
+365
+00:11:14,370 --> 00:11:18,209
+problems to sink your teeth into and all
+
+366
+00:11:16,230 --> 00:11:19,500
+their in-depth courses as well plus if
+
+367
+00:11:18,208 --> 00:11:20,757
+you're one of the first 200 people to
+
+368
+00:11:19,500 --> 00:11:22,138
+sign up using that link which you'll
+
+369
+00:11:20,759 --> 00:11:23,880
+find down the description below you're
+
+370
+00:11:22,139 --> 00:11:25,589
+also gonna get 20% off that annual
+
+371
+00:11:23,879 --> 00:11:26,939
+premium subscription huge thanks as
+
+372
+00:11:25,589 --> 00:11:28,350
+always goes out to brilliant for
+
+373
+00:11:26,940 --> 00:11:30,239
+sponsoring this video and being a big
+
+374
+00:11:28,350 --> 00:11:32,189
+supporter of my channel and thank you to
+
+375
+00:11:30,240 --> 00:11:33,509
+you as well for watching if you enjoyed
+
+376
+00:11:32,190 --> 00:11:34,859
+this video hit that like button to get
+
+377
+00:11:33,509 --> 00:11:36,239
+subscribed right there so you don't miss
+
+378
+00:11:34,860 --> 00:11:37,709
+out on future ones when they come out
+
+379
+00:11:36,240 --> 00:11:38,999
+you can also click right there to get a
+
+380
+00:11:37,708 --> 00:11:40,438
+free copy of my book on how to earn
+
+381
+00:11:39,000 --> 00:11:40,980
+better grades if you haven't done so
+
+382
+00:11:40,440 --> 00:11:42,600
+already
+
+383
+00:11:40,980 --> 00:11:44,160
+or if you are perhaps in the mood to
+
+384
+00:11:42,600 --> 00:11:45,389
+watch more videos here on YouTube you
+
+385
+00:11:44,159 --> 00:11:47,397
+can find one more video on this channel
+
+386
+00:11:45,389 --> 00:11:49,619
+right over here or listen to our latest
+
+387
+00:11:47,399 --> 00:11:50,790
+podcast episode right over here thanks
+
+388
+00:11:49,620 --> 00:11:54,019
+again for watching and I will see you as
+
+389
+00:11:50,789 --> 00:11:54,018
+always in the next one
+

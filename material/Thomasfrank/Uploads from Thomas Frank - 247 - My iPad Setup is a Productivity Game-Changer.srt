@@ -1,0 +1,1524 @@
+1
+00:00:00,000 --> 00:00:01,730
+- Thanks to Brilliant for sponsoring this video
+
+2
+00:00:01,730 --> 00:00:02,750
+and supporting my channel.
+
+3
+00:00:02,750 --> 00:00:03,583
+Hello.
+
+4
+00:00:03,583 --> 00:00:04,550
+So if you clicked on this video,
+
+5
+00:00:04,549 --> 00:00:06,589
+you are probably interested in this here
+
+6
+00:00:06,589 --> 00:00:08,908
+hunk of metal, glass, and silicon
+
+7
+00:00:08,910 --> 00:00:11,168
+which is a good thing because I have some thoughts
+
+8
+00:00:11,167 --> 00:00:13,340
+and some experiences that I wanna share with you.
+
+9
+00:00:13,340 --> 00:00:14,608
+For the past month or so,
+
+10
+00:00:14,609 --> 00:00:16,538
+I have been doing a lot of my creative work
+
+11
+00:00:16,539 --> 00:00:17,599
+on this iPad Pro
+
+12
+00:00:17,600 --> 00:00:20,490
+and in this video I am going to walk you through my setup
+
+13
+00:00:20,489 --> 00:00:22,759
+and my creative process that I use
+
+14
+00:00:22,760 --> 00:00:24,499
+while using this device.
+
+15
+00:00:24,500 --> 00:00:25,780
+I have to say I tried this experiment
+
+16
+00:00:25,780 --> 00:00:26,929
+once a couple of years ago
+
+17
+00:00:26,929 --> 00:00:28,598
+and that ended in failure.
+
+18
+00:00:28,600 --> 00:00:30,217
+The iPad running experience, the time left,
+
+19
+00:00:30,216 --> 00:00:32,865
+quite a bit to be desired.
+
+20
+00:00:32,865 --> 00:00:35,378
+But at the urging of my editor, Tony,
+
+21
+00:00:35,380 --> 00:00:36,920
+who does a lot of his creative writing
+
+22
+00:00:36,920 --> 00:00:38,680
+and creative work on an iPad Pro,
+
+23
+00:00:38,679 --> 00:00:40,098
+I decided to give it one more go
+
+24
+00:00:40,100 --> 00:00:42,080
+and I must say that now this may be
+
+25
+00:00:42,079 --> 00:00:44,248
+my favorite device for certain parts
+
+26
+00:00:44,250 --> 00:00:45,419
+of the creative process,
+
+27
+00:00:45,420 --> 00:00:46,857
+namely reading, research,
+
+28
+00:00:46,857 --> 00:00:49,646
+and initial drafting when writing scripts.
+
+29
+00:00:49,646 --> 00:00:51,939
+I still like doing the in depth revision
+
+30
+00:00:51,939 --> 00:00:54,189
+and editing and final drafting on my computer,
+
+31
+00:00:54,189 --> 00:00:56,668
+it feels a little bit more precise there,
+
+32
+00:00:56,668 --> 00:00:58,797
+but for initial stream of consciousness writing,
+
+33
+00:00:58,798 --> 00:01:01,375
+for getting a first draft down on the virtual page,
+
+34
+00:01:01,377 --> 00:01:03,320
+I really, really like this.
+
+35
+00:01:03,320 --> 00:01:04,800
+So, I am gonna organize this video
+
+36
+00:01:04,799 --> 00:01:06,228
+by each of the three stages.
+
+37
+00:01:06,230 --> 00:01:07,970
+Reading, research, and writing.
+
+38
+00:01:07,969 --> 00:01:09,079
+And for each of those stages,
+
+39
+00:01:09,079 --> 00:01:10,829
+I'm gonna show you the setup that I'm using,
+
+40
+00:01:10,829 --> 00:01:12,801
+along with one unique app for each of the stages
+
+41
+00:01:12,802 --> 00:01:14,164
+and how I use it
+
+42
+00:01:14,164 --> 00:01:16,780
+and maybe give you an overall kind of verdict
+
+43
+00:01:16,780 --> 00:01:18,350
+on whether or not this may be worth
+
+44
+00:01:18,349 --> 00:01:19,839
+your time and money.
+
+45
+00:01:19,840 --> 00:01:21,699
+So let's start with the reading stage.
+
+46
+00:01:21,698 --> 00:01:23,379
+Earlier this year I talked about
+
+47
+00:01:23,379 --> 00:01:24,921
+how I take notes from physical books
+
+48
+00:01:24,921 --> 00:01:27,235
+using those little colored flags to mark my spot
+
+49
+00:01:27,236 --> 00:01:30,180
+and by actually underlining and highlighting
+
+50
+00:01:30,180 --> 00:01:31,214
+parts of physical books.
+
+51
+00:01:31,215 --> 00:01:35,280
+This and specifically an app called Readwise
+
+52
+00:01:35,280 --> 00:01:38,210
+which is on iPad, iPhone,
+
+53
+00:01:38,209 --> 00:01:39,499
+and it's on browser extensions,
+
+54
+00:01:39,500 --> 00:01:40,420
+it's basically on everything,
+
+55
+00:01:40,420 --> 00:01:43,270
+has me now using Kindle once more
+
+56
+00:01:43,269 --> 00:01:44,904
+and there is a very good reason for that.
+
+57
+00:01:44,906 --> 00:01:47,477
+You can actually highlight passages in Kindle books
+
+58
+00:01:47,477 --> 00:01:49,281
+using the Apple pencil or using your thumb
+
+59
+00:01:49,281 --> 00:01:51,470
+if you don't wanna buy an Apple pencil
+
+60
+00:01:51,469 --> 00:01:53,039
+and in the past it's always gone
+
+61
+00:01:53,040 --> 00:01:55,290
+to your Kindle highlights for that particular book.
+
+62
+00:01:55,290 --> 00:01:57,399
+But Readwise actually syncs those highlights
+
+63
+00:01:57,400 --> 00:02:00,250
+from Kindle to a Readwise app
+
+64
+00:02:00,250 --> 00:02:01,820
+where you can look at your highlights every day,
+
+65
+00:02:01,819 --> 00:02:03,059
+you can do daily review,
+
+66
+00:02:03,060 --> 00:02:04,570
+you can even do spaced repetition
+
+67
+00:02:04,569 --> 00:02:06,079
+style memorization exercises,
+
+68
+00:02:06,079 --> 00:02:09,243
+but Readwise has integration with Notion
+
+69
+00:02:09,243 --> 00:02:11,504
+which means that now all of my Kindle highlights
+
+70
+00:02:11,504 --> 00:02:13,399
+go to a Notion database
+
+71
+00:02:13,401 --> 00:02:15,330
+and I can put my regular book notes
+
+72
+00:02:15,330 --> 00:02:16,519
+in there with my highlights
+
+73
+00:02:16,520 --> 00:02:19,149
+and I find that that is a great process
+
+74
+00:02:19,150 --> 00:02:21,009
+for doing research which I'll talk about a bit later.
+
+75
+00:02:21,008 --> 00:02:23,008
+First, a few words about the overall hardware
+
+76
+00:02:23,008 --> 00:02:25,209
+as it pertains to reading.
+
+77
+00:02:25,210 --> 00:02:27,050
+I went with the 11 inch Pro
+
+78
+00:02:27,050 --> 00:02:28,660
+which is quite a bit lighter
+
+79
+00:02:28,659 --> 00:02:30,989
+and quite a bit smaller than the 12.9 inch
+
+80
+00:02:30,990 --> 00:02:32,330
+which was the one I bought back when
+
+81
+00:02:32,330 --> 00:02:34,239
+I got the first generation iPad Pro
+
+82
+00:02:34,240 --> 00:02:36,159
+and I have to say the size difference
+
+83
+00:02:36,159 --> 00:02:37,350
+is actually really nice.
+
+84
+00:02:37,350 --> 00:02:39,391
+I have not missed the additional screen real estate
+
+85
+00:02:39,393 --> 00:02:41,877
+and the difference in size and the weight reduction
+
+86
+00:02:41,877 --> 00:02:44,009
+is a really, really nice thing while reading.
+
+87
+00:02:44,009 --> 00:02:46,469
+Anyway, onto step two of my creative process
+
+88
+00:02:46,471 --> 00:02:47,860
+which is research.
+
+89
+00:02:47,860 --> 00:02:49,947
+So in addition to reading a lot of books on the Kindle app,
+
+90
+00:02:49,947 --> 00:02:51,640
+reading a lot of physical books,
+
+91
+00:02:51,639 --> 00:02:53,797
+I also do a lot of article based research
+
+92
+00:02:53,799 --> 00:02:55,083
+for writing my videos.
+
+93
+00:02:55,084 --> 00:02:57,568
+I was digging into tons and tons of interviews
+
+94
+00:02:57,568 --> 00:02:59,338
+with people like William Gibson
+
+95
+00:02:59,340 --> 00:03:01,340
+who wrote "New Romancer," with Steve Jobs,
+
+96
+00:03:01,340 --> 00:03:04,469
+tons of people in the research for my last video
+
+97
+00:03:04,469 --> 00:03:06,553
+and there is a specific app on the iPad,
+
+98
+00:03:06,555 --> 00:03:07,809
+also on the iPhone,
+
+99
+00:03:07,810 --> 00:03:09,453
+that really, really helped with that process.
+
+100
+00:03:09,454 --> 00:03:12,630
+It's called Command and it is an alternative browser
+
+101
+00:03:12,629 --> 00:03:14,589
+to Safari that actually allows you
+
+102
+00:03:14,590 --> 00:03:17,179
+to highlight what's on the page.
+
+103
+00:03:17,180 --> 00:03:19,300
+Now there is a Readwise extension that works
+
+104
+00:03:19,300 --> 00:03:20,850
+with mobile Safari so if you want to
+
+105
+00:03:20,849 --> 00:03:23,069
+highlight a passage and sync it to Readwise
+
+106
+00:03:23,069 --> 00:03:24,689
+in mobile Safari you can do that,
+
+107
+00:03:24,689 --> 00:03:26,658
+but Command actually takes it a step further.
+
+108
+00:03:26,658 --> 00:03:29,628
+Number one, there is far less friction in the process.
+
+109
+00:03:29,628 --> 00:03:31,209
+With the Safari version,
+
+110
+00:03:31,210 --> 00:03:32,480
+you gotta highlight the text
+
+111
+00:03:32,479 --> 00:03:33,583
+and then you gotta go to the share menu,
+
+112
+00:03:33,585 --> 00:03:35,430
+you gotta hit the Readwise button,
+
+113
+00:03:35,430 --> 00:03:37,361
+there's a whole big process you have to go through.
+
+114
+00:03:37,361 --> 00:03:39,534
+With Command, you simply highlight
+
+115
+00:03:39,534 --> 00:03:41,338
+whatever it is you wanna highlight
+
+116
+00:03:41,340 --> 00:03:42,850
+and you hit highlight.
+
+117
+00:03:42,849 --> 00:03:44,589
+That will automatically sync it to Readwise
+
+118
+00:03:44,590 --> 00:03:46,039
+which again syncs it to Notion
+
+119
+00:03:46,039 --> 00:03:47,182
+if you have the integration set up.
+
+120
+00:03:47,182 --> 00:03:49,492
+So that means in Notion I have a centralized
+
+121
+00:03:49,492 --> 00:03:51,718
+database of all of my highlights,
+
+122
+00:03:51,719 --> 00:03:54,808
+all of my research from not only Kindle books,
+
+123
+00:03:54,810 --> 00:03:56,050
+not only physical books
+
+124
+00:03:56,050 --> 00:03:57,312
+because you can actually take pictures
+
+125
+00:03:57,312 --> 00:03:59,176
+of physical books and highlight that way in Readwise,
+
+126
+00:03:59,175 --> 00:04:01,473
+but also all the articles I read.
+
+127
+00:04:01,474 --> 00:04:03,319
+It gives me a centralized repository
+
+128
+00:04:03,319 --> 00:04:05,261
+for everything that I might wanna reference for a video
+
+129
+00:04:05,262 --> 00:04:07,560
+and then I can use the back link system
+
+130
+00:04:07,560 --> 00:04:09,648
+while doing my research in my initial drafting process
+
+131
+00:04:09,649 --> 00:04:13,230
+to create links to those research sources.
+
+132
+00:04:13,229 --> 00:04:14,219
+It is awesome.
+
+133
+00:04:14,219 --> 00:04:16,009
+And beyond just the Readwise integration,
+
+134
+00:04:16,009 --> 00:04:17,414
+there are a couple of other features of note.
+
+135
+00:04:17,415 --> 00:04:19,280
+One is tab groupings.
+
+136
+00:04:19,279 --> 00:04:21,779
+You can actually create different sets of open tabs
+
+137
+00:04:21,779 --> 00:04:23,851
+so you can group your tabs by different research projects.
+
+138
+00:04:23,853 --> 00:04:26,312
+That's very helpful for somebody like me
+
+139
+00:04:26,312 --> 00:04:28,092
+who often has a few different research projects
+
+140
+00:04:28,093 --> 00:04:29,093
+going all at once
+
+141
+00:04:29,095 --> 00:04:32,047
+and when you highlight a passage on a page
+
+142
+00:04:32,048 --> 00:04:33,875
+and then reload that page later,
+
+143
+00:04:33,875 --> 00:04:35,750
+it stays highlighted.
+
+144
+00:04:35,750 --> 00:04:36,870
+This actually wasn't something
+
+145
+00:04:36,870 --> 00:04:38,600
+that was originally in the browser's build,
+
+146
+00:04:38,600 --> 00:04:40,136
+but I asked the developer to implement it
+
+147
+00:04:40,137 --> 00:04:41,1000
+and they were really, really quick about it.
+
+148
+00:04:42,000 --> 00:04:45,035
+So now if I've got that database of Notion links
+
+149
+00:04:45,035 --> 00:04:46,702
+and I wanna open up the original article
+
+150
+00:04:46,702 --> 00:04:48,810
+to see a highlight in context,
+
+151
+00:04:48,810 --> 00:04:51,039
+I can go right to that highlight,
+
+152
+00:04:51,040 --> 00:04:52,249
+see it in yellow,
+
+153
+00:04:52,250 --> 00:04:53,730
+and then you know, get the context
+
+154
+00:04:53,730 --> 00:04:55,430
+from wherever it was in the article
+
+155
+00:04:55,430 --> 00:04:56,263
+or the interview.
+
+156
+00:04:56,262 --> 00:04:58,927
+That's really, really nice for good, deep research.
+
+157
+00:04:58,927 --> 00:05:00,469
+And that brings us to the final part
+
+158
+00:05:00,470 --> 00:05:01,986
+of the creative process that I do on this iPad
+
+159
+00:05:01,985 --> 00:05:04,280
+which is the initial drafting for all of my scripts,
+
+160
+00:05:04,281 --> 00:05:06,389
+along with any sort of initial stage writing.
+
+161
+00:05:06,389 --> 00:05:08,929
+For instance, I've been getting up every morning
+
+162
+00:05:08,930 --> 00:05:10,359
+and trying to write every day
+
+163
+00:05:10,360 --> 00:05:12,003
+because I find that when I have a daily writing process,
+
+164
+00:05:12,004 --> 00:05:14,116
+even if it's a stream of consciousness writing,
+
+165
+00:05:14,117 --> 00:05:16,270
+even if it's not stuff that I'm gonna use,
+
+166
+00:05:16,269 --> 00:05:17,859
+my writing gets more interesting.
+
+167
+00:05:17,860 --> 00:05:19,210
+I tend to use more stories,
+
+168
+00:05:19,209 --> 00:05:20,588
+I tend to use more analogies,
+
+169
+00:05:20,589 --> 00:05:21,718
+it just gets better,
+
+170
+00:05:21,720 --> 00:05:22,752
+so I wanna keep that habit up
+
+171
+00:05:22,752 --> 00:05:24,028
+and I've been doing that every day
+
+172
+00:05:24,028 --> 00:05:26,528
+in a little daily writing notebook in Notion.
+
+173
+00:05:26,529 --> 00:05:29,199
+And that is actually where I do all of my writing.
+
+174
+00:05:29,201 --> 00:05:30,864
+We've got a content ideas area
+
+175
+00:05:30,865 --> 00:05:33,030
+where whenever I have a video idea,
+
+176
+00:05:33,029 --> 00:05:33,959
+I'll write it down there,
+
+177
+00:05:33,959 --> 00:05:35,608
+I write down some initial notes
+
+178
+00:05:35,610 --> 00:05:37,362
+and then whenever we know we're gonna create a video,
+
+179
+00:05:37,362 --> 00:05:40,277
+I spawn a video project from a template we've created
+
+180
+00:05:40,278 --> 00:05:41,980
+which has a deep research area
+
+181
+00:05:41,980 --> 00:05:43,748
+and then a scripting area.
+
+182
+00:05:43,749 --> 00:05:45,654
+Now there's one little gripe that I have
+
+183
+00:05:45,653 --> 00:05:47,288
+about Notion on the iPad.
+
+184
+00:05:47,288 --> 00:05:49,409
+Well, at least one that I'll talk about here
+
+185
+00:05:49,410 --> 00:05:51,459
+and that is the fact that you cannot do
+
+186
+00:05:51,459 --> 00:05:54,159
+split screen of the exact same app
+
+187
+00:05:54,160 --> 00:05:55,559
+with Notion right now.
+
+188
+00:05:55,560 --> 00:05:57,680
+I believe that certain apps now have that capability
+
+189
+00:05:57,680 --> 00:05:59,400
+where you can put two instances of the
+
+190
+00:05:59,399 --> 00:06:00,749
+same app side by side,
+
+191
+00:06:00,750 --> 00:06:02,530
+but the dedicated Notion app
+
+192
+00:06:02,529 --> 00:06:03,940
+does not currently have that ability.
+
+193
+00:06:03,942 --> 00:06:06,361
+But there is a workaround for that.
+
+194
+00:06:06,360 --> 00:06:10,058
+Because Notion is essentially just a web app in a wrapper,
+
+195
+00:06:10,060 --> 00:06:11,630
+you can open up one instance of Notion
+
+196
+00:06:11,629 --> 00:06:12,609
+in the Notion app
+
+197
+00:06:12,610 --> 00:06:14,230
+and then open it up in Safari
+
+198
+00:06:14,230 --> 00:06:15,178
+and put it right next to it.
+
+199
+00:06:15,177 --> 00:06:17,031
+So I've done that for when I wanna do
+
+200
+00:06:17,031 --> 00:06:18,976
+some initial scripting, initial drafting,
+
+201
+00:06:18,976 --> 00:06:21,213
+but I wanna have a bunch of research
+
+202
+00:06:21,213 --> 00:06:23,238
+to the side as well
+
+203
+00:06:23,240 --> 00:06:25,522
+and I can independently scroll through the research
+
+204
+00:06:25,521 --> 00:06:27,065
+while also writing my draft.
+
+205
+00:06:27,067 --> 00:06:29,010
+I've experimented with having the research
+
+206
+00:06:29,009 --> 00:06:31,612
+next to the drafting area in one page of Notion
+
+207
+00:06:31,612 --> 00:06:34,157
+but it means that if I wanna scroll to see something
+
+208
+00:06:34,158 --> 00:06:36,523
+in the research I am losing my place
+
+209
+00:06:36,524 --> 00:06:37,590
+where I was writing.
+
+210
+00:06:37,589 --> 00:06:39,338
+So this hack is a little bit better
+
+211
+00:06:39,338 --> 00:06:41,169
+than doing it that way.
+
+212
+00:06:41,170 --> 00:06:42,920
+Now while we're talking about the writing process,
+
+213
+00:06:42,920 --> 00:06:44,369
+I gotta talk about the keyboard a little bit.
+
+214
+00:06:44,370 --> 00:06:47,090
+This is great, again, for resting in my lap
+
+215
+00:06:47,089 --> 00:06:48,069
+when I wanna read a book,
+
+216
+00:06:48,069 --> 00:06:49,839
+but how good is it for actually writing.
+
+217
+00:06:49,841 --> 00:06:52,289
+Well the first I'll say is that going with
+
+218
+00:06:52,290 --> 00:06:54,922
+the 11 inch version involves a bit of a compromise.
+
+219
+00:06:54,922 --> 00:06:57,691
+The full size 12.9 inch version of the iPad Pro
+
+220
+00:06:57,690 --> 00:07:00,799
+has a full size keyboard on the Magic Keyboard case.
+
+221
+00:07:00,800 --> 00:07:02,406
+This one does not.
+
+222
+00:07:02,406 --> 00:07:05,409
+They don't have a bunch of room here,
+
+223
+00:07:05,410 --> 00:07:06,928
+so they had to shrink some of the keys,
+
+224
+00:07:06,927 --> 00:07:08,205
+including the dash key here,
+
+225
+00:07:08,206 --> 00:07:10,262
+the shift keys are a little bit smaller,
+
+226
+00:07:10,264 --> 00:07:11,528
+the return keys are a bit smaller
+
+227
+00:07:11,528 --> 00:07:13,516
+and initially I thought this was going to be an issue.
+
+228
+00:07:13,516 --> 00:07:15,376
+My editor told me that he got used to it,
+
+229
+00:07:15,377 --> 00:07:17,686
+but my hands are kind of big
+
+230
+00:07:17,685 --> 00:07:18,715
+so I was a bit worried about it.
+
+231
+00:07:18,716 --> 00:07:20,524
+But actually after a couple of days,
+
+232
+00:07:20,524 --> 00:07:23,290
+I got used to this and I'm able to context switch
+
+233
+00:07:23,290 --> 00:07:25,098
+between this and my laptop
+
+234
+00:07:25,100 --> 00:07:27,810
+and my mechanical keyboard on my desktop pretty easily.
+
+235
+00:07:27,810 --> 00:07:29,384
+So that's not really a big deal.
+
+236
+00:07:29,384 --> 00:07:33,494
+The main thing that I see as a benefit with the iPad is
+
+237
+00:07:33,494 --> 00:07:36,110
+I don't have Slack on this.
+
+238
+00:07:36,110 --> 00:07:37,390
+I don't have email on this.
+
+239
+00:07:37,389 --> 00:07:38,838
+I don't have social media on this.
+
+240
+00:07:38,839 --> 00:07:41,638
+This is kind of a single context device.
+
+241
+00:07:41,639 --> 00:07:43,003
+I use it for learning,
+
+242
+00:07:43,004 --> 00:07:44,580
+I use it for research,
+
+243
+00:07:44,579 --> 00:07:46,449
+I use it for content creation.
+
+244
+00:07:46,449 --> 00:07:47,519
+That is it.
+
+245
+00:07:47,519 --> 00:07:51,690
+And I value having tools that keep me separate
+
+246
+00:07:51,692 --> 00:07:53,880
+from the bits of my work that are
+
+247
+00:07:53,879 --> 00:07:55,359
+a bit more tempting to get into
+
+248
+00:07:55,360 --> 00:07:56,809
+when I don't wanna be doing my writing
+
+249
+00:07:56,809 --> 00:07:58,622
+or when I don't wanna be doing deep research.
+
+250
+00:07:58,622 --> 00:08:00,069
+So that is quite valuable to me.
+
+251
+00:08:00,069 --> 00:08:01,736
+And like I said earlier,
+
+252
+00:08:01,737 --> 00:08:03,602
+when I tried this experiment a couple years ago,
+
+253
+00:08:03,603 --> 00:08:05,920
+the software was really not up to snuff,
+
+254
+00:08:05,920 --> 00:08:06,814
+the experience wasn't good.
+
+255
+00:08:06,814 --> 00:08:09,165
+Now I think they've rectified a lot of that.
+
+256
+00:08:09,165 --> 00:08:11,411
+The Magic Keyboard is a big improvement on its own,
+
+257
+00:08:11,413 --> 00:08:14,130
+but the addition of the touch pad here
+
+258
+00:08:14,129 --> 00:08:16,435
+and the touch pad drivers in iOS means that
+
+259
+00:08:16,437 --> 00:08:19,413
+this kind of operates almost like a laptop.
+
+260
+00:08:19,413 --> 00:08:20,945
+There are still certain compromises,
+
+261
+00:08:20,944 --> 00:08:23,195
+but for my purposes in content creation,
+
+262
+00:08:23,197 --> 00:08:24,963
+none of those compromises matter.
+
+263
+00:08:24,963 --> 00:08:27,378
+Beyond that, Notion has all of the same
+
+264
+00:08:27,379 --> 00:08:29,050
+keyboard shortcuts I'm used to.
+
+265
+00:08:29,050 --> 00:08:30,852
+I remember that being a huge frustration point
+
+266
+00:08:30,851 --> 00:08:32,738
+when I was trying this before.
+
+267
+00:08:32,740 --> 00:08:34,560
+A lot of the apps I would use on a desktop
+
+268
+00:08:34,559 --> 00:08:35,887
+either weren't on the iPad
+
+269
+00:08:35,889 --> 00:08:37,080
+or if they were,
+
+270
+00:08:37,080 --> 00:08:39,459
+the keyboard shortcuts were just not there half the time
+
+271
+00:08:39,460 --> 00:08:40,667
+or they were different
+
+272
+00:08:40,668 --> 00:08:42,840
+and almost always the experience was
+
+273
+00:08:42,840 --> 00:08:43,673
+a bit of a downgraded one
+
+274
+00:08:43,673 --> 00:08:44,729
+and like I said,
+
+275
+00:08:44,730 --> 00:08:45,990
+Notion still doesn't work quite as well
+
+276
+00:08:45,990 --> 00:08:47,262
+as it does on the desktop side.
+
+277
+00:08:47,263 --> 00:08:49,310
+You know, dragging blocks around
+
+278
+00:08:49,309 --> 00:08:50,142
+doesn't work quite as well,
+
+279
+00:08:50,143 --> 00:08:51,225
+you can't do multi column layouts.
+
+280
+00:08:51,225 --> 00:08:53,422
+But again, for just getting ideas out of my head
+
+281
+00:08:53,423 --> 00:08:56,139
+and for doing research, it's perfect
+
+282
+00:08:56,139 --> 00:08:58,469
+and that integration between Command
+
+283
+00:08:58,470 --> 00:09:00,780
+and Kindle on the research and reading side,
+
+284
+00:09:00,779 --> 00:09:03,167
+Readwise is sort of a glue between everything
+
+285
+00:09:03,168 --> 00:09:06,059
+and then Notion as my central database
+
+286
+00:09:06,059 --> 00:09:07,855
+for all my research and as where I write my scripts
+
+287
+00:09:07,855 --> 00:09:10,254
+is just awesome for me.
+
+288
+00:09:10,255 --> 00:09:11,255
+So final verdict.
+
+289
+00:09:11,255 --> 00:09:14,980
+Should you use an iPad Pro for your creative work?
+
+290
+00:09:14,980 --> 00:09:17,758
+Well I do think that with the pricing
+
+291
+00:09:17,759 --> 00:09:20,287
+on both the iPad Pro, the iPad Air even,
+
+292
+00:09:20,288 --> 00:09:22,567
+and then the edition of the Magic Case,
+
+293
+00:09:22,568 --> 00:09:26,028
+this thing gets near the price of a base laptop,
+
+294
+00:09:26,029 --> 00:09:27,107
+even a base MacBook Air,
+
+295
+00:09:27,109 --> 00:09:28,711
+so if you're trying to decide between
+
+296
+00:09:28,711 --> 00:09:30,469
+a computer and an iPad,
+
+297
+00:09:30,470 --> 00:09:32,200
+if you're on kind of limited budget,
+
+298
+00:09:32,200 --> 00:09:35,130
+I still think that a computer is a better investment,
+
+299
+00:09:35,129 --> 00:09:37,379
+a laptop or a desktop.
+
+300
+00:09:37,379 --> 00:09:38,808
+But if you have the means,
+
+301
+00:09:38,809 --> 00:09:40,149
+if you're looking into, you now,
+
+302
+00:09:40,149 --> 00:09:42,115
+using a tablet alongside a laptop
+
+303
+00:09:42,115 --> 00:09:43,979
+or maybe you're an artist
+
+304
+00:09:43,980 --> 00:09:45,409
+and you also do a lot of drawing,
+
+305
+00:09:45,409 --> 00:09:46,519
+you also get a lot of value out of,
+
+306
+00:09:46,519 --> 00:09:47,599
+say, the Apple pencil,
+
+307
+00:09:47,600 --> 00:09:49,466
+this is now a much better contender
+
+308
+00:09:49,466 --> 00:09:51,820
+for being a laptop replacement.
+
+309
+00:09:51,820 --> 00:09:53,576
+In the past I would have said absolutely no.
+
+310
+00:09:53,576 --> 00:09:55,247
+Now it's a bit of a toss up.
+
+311
+00:09:55,249 --> 00:09:56,978
+Either way, what I wanna leave you with is this.
+
+312
+00:09:56,977 --> 00:10:00,449
+Whether you're working on an iPad or a regular computer
+
+313
+00:10:00,450 --> 00:10:02,381
+or a sheet of notebook paper in a notebook,
+
+314
+00:10:02,381 --> 00:10:04,233
+set up your tools and processes
+
+315
+00:10:04,234 --> 00:10:06,330
+to enable you to do focused work
+
+316
+00:10:06,330 --> 00:10:08,620
+for long periods of time, to work deeply.
+
+317
+00:10:08,620 --> 00:10:10,970
+One of the problems with these all in one devices
+
+318
+00:10:10,970 --> 00:10:12,746
+is that everything is at our fingertips
+
+319
+00:10:12,745 --> 00:10:14,596
+which means that when we feel the slightest
+
+320
+00:10:14,596 --> 00:10:16,378
+bit of resistance towards what
+
+321
+00:10:16,379 --> 00:10:17,568
+we're supposed to be doing,
+
+322
+00:10:17,570 --> 00:10:19,856
+an alternative is just a click or a tap away.
+
+323
+00:10:19,856 --> 00:10:22,291
+So by building separation between tasks
+
+324
+00:10:22,293 --> 00:10:24,990
+in our devices, in our tools, in our workflows,
+
+325
+00:10:24,990 --> 00:10:26,840
+we better cultivate the ability
+
+326
+00:10:26,840 --> 00:10:29,849
+to focus deeply on one singular task
+
+327
+00:10:29,850 --> 00:10:31,180
+for a long period of time
+
+328
+00:10:31,179 --> 00:10:32,979
+and that is one of the number one qualities
+
+329
+00:10:32,980 --> 00:10:34,570
+that's gonna help you elevate your work
+
+330
+00:10:34,570 --> 00:10:36,185
+and stand out from the competition.
+
+331
+00:10:36,184 --> 00:10:37,688
+Another quality to help you do that,
+
+332
+00:10:37,690 --> 00:10:39,270
+by the way, is cultivating the ability
+
+333
+00:10:39,269 --> 00:10:40,728
+to solve tough problems,
+
+334
+00:10:40,730 --> 00:10:42,899
+to come up with creative, innovative solutions
+
+335
+00:10:42,899 --> 00:10:43,919
+for those problems
+
+336
+00:10:43,919 --> 00:10:45,548
+and if you wanna cultivate your ability to do that,
+
+337
+00:10:45,548 --> 00:10:47,519
+Brilliant is an excellent resource
+
+338
+00:10:47,519 --> 00:10:48,352
+that you should check out.
+
+339
+00:10:48,352 --> 00:10:49,469
+If you're interested in math,
+
+340
+00:10:49,470 --> 00:10:50,899
+science, and computer science,
+
+341
+00:10:50,899 --> 00:10:52,899
+Brilliant has a library of more than 60 courses
+
+342
+00:10:52,899 --> 00:10:54,966
+that can teach you them in an active way
+
+343
+00:10:54,966 --> 00:10:56,579
+and the team Brilliant knows that just
+
+344
+00:10:56,580 --> 00:10:58,332
+passively intaking information isn't the best way
+
+345
+00:10:58,332 --> 00:11:00,029
+to learn some things
+
+346
+00:11:00,029 --> 00:11:02,009
+which is why when you get into one of their courses,
+
+347
+00:11:02,009 --> 00:11:03,408
+like their new statistics course
+
+348
+00:11:03,409 --> 00:11:04,868
+or their Python programming course
+
+349
+00:11:04,870 --> 00:11:06,509
+or any of the courses in their
+
+350
+00:11:06,509 --> 00:11:08,206
+comprehensive math library,
+
+351
+00:11:08,206 --> 00:11:09,699
+you're gonna be immediately thrown
+
+352
+00:11:09,700 --> 00:11:12,539
+into challenging, bite sized, logically structured problems
+
+353
+00:11:12,539 --> 00:11:14,248
+that will frustrate you a little bit,
+
+354
+00:11:14,249 --> 00:11:16,930
+but that little but of frustration is a good thing
+
+355
+00:11:16,929 --> 00:11:18,689
+because it forces you to actively wrangle
+
+356
+00:11:18,690 --> 00:11:20,149
+with the concepts you've just learned,
+
+357
+00:11:20,149 --> 00:11:22,548
+use them, and retain them for longer.
+
+358
+00:11:22,549 --> 00:11:24,109
+So if you wanna give Brilliant a try,
+
+359
+00:11:24,110 --> 00:11:25,549
+if you want to start developing
+
+360
+00:11:25,549 --> 00:11:27,159
+your creative problem solving abilities,
+
+361
+00:11:27,159 --> 00:11:29,097
+you can head to the link in the description down below
+
+362
+00:11:29,097 --> 00:11:30,399
+and check it out.
+
+363
+00:11:30,399 --> 00:11:31,848
+And if you're one of the first 200 people
+
+364
+00:11:31,850 --> 00:11:33,771
+to use that link, you're even gonna get 20% off
+
+365
+00:11:33,772 --> 00:11:35,869
+their annual premium subscription.
+
+366
+00:11:35,870 --> 00:11:37,160
+Big thanks as always to Brilliant
+
+367
+00:11:37,159 --> 00:11:38,298
+for sponsoring this video
+
+368
+00:11:38,299 --> 00:11:39,249
+and supporting my channel
+
+369
+00:11:39,250 --> 00:11:41,190
+and thank you as well for watching.
+
+370
+00:11:41,190 --> 00:11:42,220
+If you enjoyed this video,
+
+371
+00:11:42,220 --> 00:11:43,240
+hit that like button to show the
+
+372
+00:11:43,240 --> 00:11:44,580
+YouTube algorithm what's up.
+
+373
+00:11:44,580 --> 00:11:45,809
+I'll have a subscribe button somewhere
+
+374
+00:11:45,809 --> 00:11:46,642
+in the corner here
+
+375
+00:11:46,643 --> 00:11:47,939
+and a couple more videos you can watch.
+
+376
+00:11:47,940 --> 00:11:49,470
+If you're still on a break,
+
+377
+00:11:49,470 --> 00:11:50,830
+not supposed to be doing something else,
+
+378
+00:11:50,830 --> 00:11:52,344
+just using YouTube as distraction time,
+
+379
+00:11:52,344 --> 00:11:54,1000
+distraction time, that's not a word.
+
+380
+00:11:55,000 --> 00:11:55,833
+But you know what I mean.
+
+381
+00:11:55,832 --> 00:11:58,151
+Anyway, I will see you in the next video.
+

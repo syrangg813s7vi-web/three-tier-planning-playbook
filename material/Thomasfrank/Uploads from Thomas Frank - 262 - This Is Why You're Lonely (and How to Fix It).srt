@@ -1,0 +1,980 @@
+1
+00:00:00,080 --> 00:00:03,439
+this video is sponsored by skillshare
+
+2
+00:00:02,240 --> 00:00:04,880
+this might be a kind of depressing
+
+3
+00:00:03,520 --> 00:00:07,439
+question for somebody to ask you over
+
+4
+00:00:04,879 --> 00:00:09,039
+the internet but are you lonely
+
+5
+00:00:07,440 --> 00:00:11,518
+well if the answer to that question is
+
+6
+00:00:09,039 --> 00:00:13,598
+yes fear not because ironically you are
+
+7
+00:00:11,519 --> 00:00:15,599
+not alone in fact according to the
+
+8
+00:00:13,599 --> 00:00:17,759
+healthcare company cigna's 2020
+
+9
+00:00:15,599 --> 00:00:20,640
+loneliness index approximately three out
+
+10
+00:00:17,760 --> 00:00:22,880
+of five people identify as lonely on a
+
+11
+00:00:20,640 --> 00:00:24,880
+regular basis now you might think this
+
+12
+00:00:22,879 --> 00:00:26,158
+is not a huge deal and why is a gigantic
+
+13
+00:00:24,879 --> 00:00:28,559
+healthcare company going out and doing
+
+14
+00:00:26,160 --> 00:00:30,959
+research on loneliness but did you know
+
+15
+00:00:28,559 --> 00:00:33,278
+that loneliness is associated with
+
+16
+00:00:30,960 --> 00:00:36,078
+depression and even premature mortality
+
+17
+00:00:33,280 --> 00:00:38,159
+not to mention simple unhappiness on a
+
+18
+00:00:36,079 --> 00:00:39,920
+regular daily basis and even more
+
+19
+00:00:38,159 --> 00:00:42,078
+troubling is the fact that this stat is
+
+20
+00:00:39,920 --> 00:00:44,078
+going up compared to their 2018 numbers
+
+21
+00:00:42,079 --> 00:00:45,760
+they found a seven percent increase in
+
+22
+00:00:44,079 --> 00:00:48,559
+overall loneliness which they attributed
+
+23
+00:00:45,759 --> 00:00:50,717
+to more technology usage overworking and
+
+24
+00:00:48,558 --> 00:00:52,718
+potentially the rise in remote work and
+
+25
+00:00:50,719 --> 00:00:54,320
+you might be thinking 2020 increase in
+
+26
+00:00:52,719 --> 00:00:55,920
+loneliness there is a very obvious
+
+27
+00:00:54,320 --> 00:00:57,679
+reason for that but you should know that
+
+28
+00:00:55,920 --> 00:01:00,960
+this study was released in january of
+
+29
+00:00:57,679 --> 00:01:03,438
+2020 so pandemic aside loneliness is
+
+30
+00:01:00,960 --> 00:01:04,879
+going up and yes we can blame technology
+
+31
+00:01:03,439 --> 00:01:06,399
+a little bit we can blame remote work
+
+32
+00:01:04,879 --> 00:01:07,1000
+especially you're not in the office with
+
+33
+00:01:06,400 --> 00:01:11,119
+your co-workers you're sequestered in
+
+34
+00:01:08,000 --> 00:01:13,040
+your house but these issues aside adults
+
+35
+00:01:11,118 --> 00:01:14,719
+often feel very lonely compared to when
+
+36
+00:01:13,040 --> 00:01:17,599
+they were in college or high school or
+
+37
+00:01:14,719 --> 00:01:19,679
+kids because they lose their communities
+
+38
+00:01:17,599 --> 00:01:21,279
+they lose daily interaction with a lot
+
+39
+00:01:19,680 --> 00:01:22,478
+of different people kurt vonnegut who is
+
+40
+00:01:21,280 --> 00:01:24,240
+one of the greatest science fiction
+
+41
+00:01:22,478 --> 00:01:25,679
+authors of all time talked about this in
+
+42
+00:01:24,239 --> 00:01:27,839
+a commencement speech at a graduation
+
+43
+00:01:25,680 --> 00:01:29,360
+ceremony once he said we are so lonely
+
+44
+00:01:27,840 --> 00:01:31,199
+because we don't have enough friends and
+
+45
+00:01:29,359 --> 00:01:33,519
+relatives human beings are supposed to
+
+46
+00:01:31,200 --> 00:01:35,759
+live in stable like-minded extended
+
+47
+00:01:33,519 --> 00:01:37,679
+families of 50 people or more in other
+
+48
+00:01:35,759 --> 00:01:39,040
+words what you have when you're a kid
+
+49
+00:01:37,680 --> 00:01:41,519
+what you have when you're in school when
+
+50
+00:01:39,040 --> 00:01:43,759
+you're in college but what you lose when
+
+51
+00:01:41,519 --> 00:01:45,118
+you leave college tell me how familiar
+
+52
+00:01:43,759 --> 00:01:47,040
+this sounds to you because it's pretty
+
+53
+00:01:45,118 --> 00:01:48,558
+darn familiar to me i had a ton of
+
+54
+00:01:47,040 --> 00:01:50,560
+friends in college and then we all
+
+55
+00:01:48,560 --> 00:01:52,240
+graduated we all went our separate ways
+
+56
+00:01:50,560 --> 00:01:54,159
+and we all got our own jobs and got our
+
+57
+00:01:52,239 --> 00:01:55,437
+own apartments and now you spend most of
+
+58
+00:01:54,159 --> 00:01:57,199
+your time hanging out with maybe your
+
+59
+00:01:55,438 --> 00:01:59,118
+significant other maybe one or two other
+
+60
+00:01:57,200 --> 00:02:00,799
+friends but that's it often those
+
+61
+00:01:59,118 --> 00:02:02,158
+friends are busy or they blow off plans
+
+62
+00:02:00,799 --> 00:02:04,078
+or they're not available and you find
+
+63
+00:02:02,159 --> 00:02:05,1000
+yourself wondering why don't i see
+
+64
+00:02:04,078 --> 00:02:07,199
+anybody anymore well this is the point
+
+65
+00:02:06,000 --> 00:02:09,439
+of the video where i tell you how to fix
+
+66
+00:02:07,200 --> 00:02:12,480
+this problem because there is a way to
+
+67
+00:02:09,439 --> 00:02:14,559
+fix it but the answer is uh maybe not
+
+68
+00:02:12,479 --> 00:02:16,398
+the most convenient one because to fix
+
+69
+00:02:14,560 --> 00:02:18,640
+this problem you have to become the
+
+70
+00:02:16,400 --> 00:02:20,400
+proactive person in every relationship
+
+71
+00:02:18,639 --> 00:02:22,877
+you have you have to be the person who
+
+72
+00:02:20,400 --> 00:02:24,800
+reaches out and makes plans because if
+
+73
+00:02:22,878 --> 00:02:26,719
+you don't do it no one else is going to
+
+74
+00:02:24,800 --> 00:02:28,639
+do it the reason we weren't lonely in
+
+75
+00:02:26,719 --> 00:02:31,278
+school or in college was because we were
+
+76
+00:02:28,639 --> 00:02:33,358
+forced into interactions with each other
+
+77
+00:02:31,280 --> 00:02:35,280
+it was not up to us to make plans it was
+
+78
+00:02:33,360 --> 00:02:37,199
+not up to us to overcome the friction
+
+79
+00:02:35,280 --> 00:02:38,879
+involved in getting together because we
+
+80
+00:02:37,199 --> 00:02:40,238
+were forced to get together but when you
+
+81
+00:02:38,878 --> 00:02:41,439
+go into the real world and you have your
+
+82
+00:02:40,239 --> 00:02:42,959
+job and you have so many
+
+83
+00:02:41,439 --> 00:02:45,039
+responsibilities and you're juggling all
+
+84
+00:02:42,959 --> 00:02:46,560
+these different aspects of your life and
+
+85
+00:02:45,039 --> 00:02:48,159
+especially if you live in the suburbs
+
+86
+00:02:46,560 --> 00:02:49,519
+where there's half an hour of traffic
+
+87
+00:02:48,159 --> 00:02:50,478
+you gotta fight through to get to do
+
+88
+00:02:49,519 --> 00:02:51,919
+anything
+
+89
+00:02:50,479 --> 00:02:54,318
+there's now a ton of friction and
+
+90
+00:02:51,919 --> 00:02:55,678
+there's nobody making you go hang out
+
+91
+00:02:54,318 --> 00:02:57,758
+with your friends so most people let
+
+92
+00:02:55,680 --> 00:03:00,640
+that friction beat them and then they
+
+93
+00:02:57,759 --> 00:03:02,558
+feel lonely and to fix that problem you
+
+94
+00:03:00,639 --> 00:03:04,719
+need to become the proactive one who
+
+95
+00:03:02,560 --> 00:03:06,959
+goes out makes plans and invites friends
+
+96
+00:03:04,719 --> 00:03:09,358
+to do them but there is a tactical way
+
+97
+00:03:06,959 --> 00:03:11,279
+to do this in a way that won't work
+
+98
+00:03:09,360 --> 00:03:13,518
+quite so often so when you are the
+
+99
+00:03:11,280 --> 00:03:15,039
+proactive person you often reach out and
+
+100
+00:03:13,519 --> 00:03:16,800
+you say hey you want to do something
+
+101
+00:03:15,039 --> 00:03:19,119
+this weekend hey you want to hang out on
+
+102
+00:03:16,800 --> 00:03:21,760
+friday and what you have done there is
+
+103
+00:03:19,120 --> 00:03:23,599
+extended the offer to hang out but you
+
+104
+00:03:21,759 --> 00:03:25,759
+have put a lot of mental work on the
+
+105
+00:03:23,598 --> 00:03:27,598
+other person again this does not seem
+
+106
+00:03:25,759 --> 00:03:29,038
+fair you're the one reaching out they
+
+107
+00:03:27,598 --> 00:03:30,399
+should be able to meet you halfway and
+
+108
+00:03:29,039 --> 00:03:32,158
+say yeah what do you want to do but
+
+109
+00:03:30,400 --> 00:03:34,640
+often they won't so instead the
+
+110
+00:03:32,158 --> 00:03:35,999
+tactically better way to be able to hang
+
+111
+00:03:34,639 --> 00:03:38,478
+out with your friends more often is to
+
+112
+00:03:36,000 --> 00:03:40,958
+make plans that are concrete specific
+
+113
+00:03:38,479 --> 00:03:43,118
+and crucially that are happening with or
+
+114
+00:03:40,959 --> 00:03:45,040
+without them so instead of saying hey do
+
+115
+00:03:43,120 --> 00:03:47,599
+you want to hang out on friday say hey
+
+116
+00:03:45,039 --> 00:03:49,439
+vinnie we are going to topgolf on friday
+
+117
+00:03:47,598 --> 00:03:50,877
+at 8pm we'd love to see you there they
+
+118
+00:03:49,439 --> 00:03:52,639
+now know it's happening with or without
+
+119
+00:03:50,878 --> 00:03:54,639
+them the only decision they have to make
+
+120
+00:03:52,639 --> 00:03:57,358
+is yes i'm going or no i'm not gonna go
+
+121
+00:03:54,639 --> 00:04:00,079
+so no mental work for them number two it
+
+122
+00:03:57,360 --> 00:04:02,959
+introduces a bit of healthy fomo the
+
+123
+00:04:00,080 --> 00:04:04,480
+fear of missing out into the equation
+
+124
+00:04:02,959 --> 00:04:06,080
+sometimes people need a little bit of a
+
+125
+00:04:04,479 --> 00:04:07,679
+push to go and do something active and
+
+126
+00:04:06,080 --> 00:04:08,959
+once they're there they will often be
+
+127
+00:04:07,680 --> 00:04:10,159
+like yeah i'm glad that i came out i'm
+
+128
+00:04:08,959 --> 00:04:11,680
+really glad that i did this but when
+
+129
+00:04:10,158 --> 00:04:13,038
+they're sitting on their couch at home
+
+130
+00:04:11,680 --> 00:04:14,640
+playing video games and they got to put
+
+131
+00:04:13,039 --> 00:04:16,478
+their shoes on they got to go find their
+
+132
+00:04:14,639 --> 00:04:17,758
+car keys there is friction there and
+
+133
+00:04:16,478 --> 00:04:19,357
+they'll often be like i don't know if i
+
+134
+00:04:17,759 --> 00:04:21,518
+want to do it a little bit of healthy
+
+135
+00:04:19,358 --> 00:04:22,719
+fomo can get them over that hump and
+
+136
+00:04:21,519 --> 00:04:25,280
+actually get them to come out and do
+
+137
+00:04:22,720 --> 00:04:27,359
+something with you so be proactive be
+
+138
+00:04:25,279 --> 00:04:29,038
+the planner but also be tactically smart
+
+139
+00:04:27,360 --> 00:04:31,040
+about it to present people with an
+
+140
+00:04:29,040 --> 00:04:33,520
+option that they can simply say yes to
+
+141
+00:04:31,040 --> 00:04:35,040
+and all the thinking has been taken away
+
+142
+00:04:33,519 --> 00:04:36,638
+from them i want to give you one more
+
+143
+00:04:35,040 --> 00:04:38,319
+bonus tip before i end this video which
+
+144
+00:04:36,639 --> 00:04:39,840
+will also help you to curb this
+
+145
+00:04:38,319 --> 00:04:41,758
+loneliness and have better interactions
+
+146
+00:04:39,839 --> 00:04:44,319
+and more interactions with your friends
+
+147
+00:04:41,759 --> 00:04:46,239
+and that's to have a system that tracks
+
+148
+00:04:44,319 --> 00:04:47,999
+the last time you talk to each person in
+
+149
+00:04:46,240 --> 00:04:49,440
+your life who you care about this is a
+
+150
+00:04:48,000 --> 00:04:50,799
+tip that came from my good friend martin
+
+151
+00:04:49,439 --> 00:04:52,079
+who actually has a system where he
+
+152
+00:04:50,800 --> 00:04:53,840
+tracks the last time he talked to
+
+153
+00:04:52,079 --> 00:04:55,918
+somebody and in using this he tells me
+
+154
+00:04:53,839 --> 00:04:57,678
+that in the last month alone he has had
+
+155
+00:04:55,918 --> 00:04:59,838
+interactions with 40 different people in
+
+156
+00:04:57,680 --> 00:05:01,840
+his life these are sometimes very small
+
+157
+00:04:59,839 --> 00:05:03,678
+interactions just texting something dumb
+
+158
+00:05:01,839 --> 00:05:06,239
+but sometimes they're also actual
+
+159
+00:05:03,680 --> 00:05:08,479
+in-person nights out real actual hanging
+
+160
+00:05:06,240 --> 00:05:10,560
+out so if you have a system where you
+
+161
+00:05:08,478 --> 00:05:12,398
+can see oh i haven't talked to somebody
+
+162
+00:05:10,560 --> 00:05:13,520
+in like three months i should text them
+
+163
+00:05:12,399 --> 00:05:15,278
+you're going to have more frequent
+
+164
+00:05:13,519 --> 00:05:17,438
+interactions with people and you're
+
+165
+00:05:15,279 --> 00:05:19,279
+going to maintain your circle of friends
+
+166
+00:05:17,439 --> 00:05:22,078
+more effectively does it sound a little
+
+167
+00:05:19,279 --> 00:05:23,918
+bit robotic yes but if it gets results
+
+168
+00:05:22,079 --> 00:05:25,757
+if it improves the quality of not only
+
+169
+00:05:23,918 --> 00:05:27,838
+your life but the lives of the people
+
+170
+00:05:25,759 --> 00:05:29,600
+around you then it's worth using a
+
+171
+00:05:27,839 --> 00:05:31,037
+little bit of a robotic system i think
+
+172
+00:05:29,600 --> 00:05:32,479
+before we wrap this video up i do want
+
+173
+00:05:31,038 --> 00:05:33,758
+to talk about one thing we mentioned
+
+174
+00:05:32,478 --> 00:05:36,159
+earlier on in the video which is that
+
+175
+00:05:33,759 --> 00:05:37,759
+people often feel like they're too busy
+
+176
+00:05:36,160 --> 00:05:39,360
+to hang out with their friends to say
+
+177
+00:05:37,759 --> 00:05:40,560
+yes when you reach out to them they
+
+178
+00:05:39,360 --> 00:05:43,038
+often feel like they're just so
+
+179
+00:05:40,560 --> 00:05:44,960
+overworked and so overwhelmed you might
+
+180
+00:05:43,038 --> 00:05:46,319
+feel like that as well so if you want to
+
+181
+00:05:44,959 --> 00:05:47,838
+have more interactions and better
+
+182
+00:05:46,319 --> 00:05:49,678
+interactions with your friends then one
+
+183
+00:05:47,839 --> 00:05:51,278
+thing you're going to have to do is get
+
+184
+00:05:49,680 --> 00:05:52,559
+better at time management and that is
+
+185
+00:05:51,279 --> 00:05:54,158
+something you can learn how to do in my
+
+186
+00:05:52,560 --> 00:05:55,839
+class over on skillshare which is all
+
+187
+00:05:54,160 --> 00:05:57,360
+about building a productivity system
+
+188
+00:05:55,839 --> 00:05:59,037
+this is the combination of your to-do
+
+189
+00:05:57,360 --> 00:06:00,638
+list your calendar your note-taking
+
+190
+00:05:59,038 --> 00:06:01,917
+system all the systems in your life to
+
+191
+00:06:00,639 --> 00:06:03,599
+help you create an external source of
+
+192
+00:06:01,918 --> 00:06:05,038
+truth which takes a lot of cognitive
+
+193
+00:06:03,600 --> 00:06:06,399
+strain off of your brain when it comes
+
+194
+00:06:05,038 --> 00:06:08,719
+to planning and remembering what you
+
+195
+00:06:06,399 --> 00:06:10,477
+have to do and ensures that nothing ever
+
+196
+00:06:08,720 --> 00:06:12,159
+slips through the cracks because while
+
+197
+00:06:10,478 --> 00:06:14,239
+your brain might forget an event your
+
+198
+00:06:12,160 --> 00:06:15,999
+calendar will not so when you learn how
+
+199
+00:06:14,240 --> 00:06:17,519
+to fully put together and maintain a
+
+200
+00:06:16,000 --> 00:06:19,439
+productivity system you are going to be
+
+201
+00:06:17,519 --> 00:06:21,197
+more efficient with your time and hence
+
+202
+00:06:19,439 --> 00:06:23,038
+have more time to hang out with your
+
+203
+00:06:21,199 --> 00:06:24,638
+friends and because this class is on
+
+204
+00:06:23,038 --> 00:06:25,839
+skillshare you can actually take it for
+
+205
+00:06:24,639 --> 00:06:27,440
+free right now if you're one of the
+
+206
+00:06:25,839 --> 00:06:29,519
+first 1000 people to sign up for
+
+207
+00:06:27,439 --> 00:06:31,038
+skillshare and link down below in my
+
+208
+00:06:29,519 --> 00:06:32,958
+description that is because skillshare
+
+209
+00:06:31,038 --> 00:06:34,719
+is currently offering a one month free
+
+210
+00:06:32,959 --> 00:06:36,637
+trial which gets you unlimited access to
+
+211
+00:06:34,720 --> 00:06:38,559
+the platform during that trial period
+
+212
+00:06:36,639 --> 00:06:40,079
+and skillshare has thousands of classes
+
+213
+00:06:38,560 --> 00:06:42,318
+that you can use to boost your skills in
+
+214
+00:06:40,079 --> 00:06:44,399
+animation and graphic design in
+
+215
+00:06:42,319 --> 00:06:46,239
+marketing in business storytelling and
+
+216
+00:06:44,399 --> 00:06:47,918
+even productivity both myself and my
+
+217
+00:06:46,240 --> 00:06:49,759
+friend ali abdull have several
+
+218
+00:06:47,918 --> 00:06:51,438
+productivity classes on the platform so
+
+219
+00:06:49,759 --> 00:06:52,880
+once you finish taking mine you may want
+
+220
+00:06:51,439 --> 00:06:55,278
+to expand your knowledge by taking some
+
+221
+00:06:52,879 --> 00:06:56,559
+of the other ones as well so if you want
+
+222
+00:06:55,279 --> 00:06:58,718
+to get started learning boost your
+
+223
+00:06:56,560 --> 00:06:59,839
+skills today and uh you know get some
+
+224
+00:06:58,720 --> 00:07:01,199
+more time to hang out with your friends
+
+225
+00:06:59,839 --> 00:07:02,879
+by becoming more efficient with your
+
+226
+00:07:01,199 --> 00:07:04,319
+time management sign up for skillshare
+
+227
+00:07:02,879 --> 00:07:05,678
+use the link down below be one of the
+
+228
+00:07:04,319 --> 00:07:07,680
+first 1 000 people and you're going to
+
+229
+00:07:05,680 --> 00:07:09,119
+get that free one month trial hopefully
+
+230
+00:07:07,680 --> 00:07:11,039
+you found this video helpful a bit more
+
+231
+00:07:09,120 --> 00:07:12,559
+of a conceptual video this week but i do
+
+232
+00:07:11,038 --> 00:07:14,078
+think that the more interactions the
+
+233
+00:07:12,560 --> 00:07:15,439
+better interactions we can have with our
+
+234
+00:07:14,079 --> 00:07:17,198
+friends the better our lives are going
+
+235
+00:07:15,439 --> 00:07:19,757
+to be and the better the lives of the
+
+236
+00:07:17,199 --> 00:07:21,038
+people around us are going to be as well
+
+237
+00:07:19,759 --> 00:07:22,560
+so hopefully you enjoyed this video
+
+238
+00:07:21,038 --> 00:07:24,477
+likes and comments definitely help the
+
+239
+00:07:22,560 --> 00:07:25,919
+youtube algorithm out so
+
+240
+00:07:24,478 --> 00:07:27,279
+comment and like if you want to do that
+
+241
+00:07:25,918 --> 00:07:28,878
+and i'll have a couple of more videos on
+
+242
+00:07:27,279 --> 00:07:30,477
+screen right here if you want to watch
+
+243
+00:07:28,879 --> 00:07:32,079
+more on this channel as always thanks
+
+244
+00:07:30,478 --> 00:07:35,279
+for watching and i'll see you in the
+
+245
+00:07:32,079 --> 00:07:35,279
+next video
+

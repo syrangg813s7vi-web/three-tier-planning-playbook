@@ -1,0 +1,2036 @@
+1
+00:00:00,030 --> 00:00:05,788
+if your desktop looks like this then you
+
+2
+00:00:02,819 --> 00:00:04,469
+and I need to have a chat and well even
+
+3
+00:00:05,819 --> 00:00:09,120
+if not you're gonna want to stick around
+
+4
+00:00:07,290 --> 00:00:11,099
+for this video because remember what I
+
+5
+00:00:09,119 --> 00:00:12,659
+said my paper file organization video is
+
+6
+00:00:11,099 --> 00:00:14,880
+the most exciting video you were ever
+
+7
+00:00:12,660 --> 00:00:16,410
+going to watch well that is a thing of
+
+8
+00:00:14,880 --> 00:00:18,359
+the past because everyone knows that
+
+9
+00:00:16,410 --> 00:00:21,358
+everything gets cooler when it makes a
+
+10
+00:00:18,359 --> 00:00:23,009
+transition from analog to digital so
+
+11
+00:00:21,359 --> 00:00:24,810
+buckle your seat belts once again
+
+12
+00:00:23,010 --> 00:00:27,359
+because this week we are talking about
+
+13
+00:00:24,809 --> 00:00:30,959
+how to organize and systematize the
+
+14
+00:00:27,359 --> 00:00:32,730
+files within your computer so organizing
+
+15
+00:00:30,960 --> 00:00:35,009
+your computer files is simultaneously
+
+16
+00:00:32,729 --> 00:00:37,557
+easier and harder than organizing your
+
+17
+00:00:35,009 --> 00:00:39,388
+paper real-world files it's easier
+
+18
+00:00:37,558 --> 00:00:41,127
+because computer files don't weigh
+
+19
+00:00:39,390 --> 00:00:43,260
+anything don't take up any physical
+
+20
+00:00:41,128 --> 00:00:45,269
+space so they can't really create a mess
+
+21
+00:00:43,259 --> 00:00:47,669
+on your desk or on your living space but
+
+22
+00:00:45,270 --> 00:00:49,079
+it's harder number one because well we
+
+23
+00:00:47,670 --> 00:00:50,640
+were never taught how to organize
+
+24
+00:00:49,079 --> 00:00:52,019
+computer files I don't know about you
+
+25
+00:00:50,640 --> 00:00:53,789
+but I remember being in elementary
+
+26
+00:00:52,020 --> 00:00:55,620
+school middle school and having teachers
+
+27
+00:00:53,789 --> 00:00:57,269
+tell me to put things in you know
+
+28
+00:00:55,619 --> 00:00:59,127
+separate folders to have a trapper
+
+29
+00:00:57,270 --> 00:01:01,169
+keeper all that kind of stuff but when
+
+30
+00:00:59,128 --> 00:01:02,939
+it came to my computer files no one was
+
+31
+00:01:01,170 --> 00:01:04,739
+ever around to teach me how to organize
+
+32
+00:01:02,939 --> 00:01:06,568
+my folder structure where I should save
+
+33
+00:01:04,739 --> 00:01:09,719
+things all that kind of good stuff and
+
+34
+00:01:06,569 --> 00:01:11,849
+secondly we create much more on the
+
+35
+00:01:09,719 --> 00:01:13,138
+computer than we do in the real world
+
+36
+00:01:11,849 --> 00:01:16,349
+these days we have so many different
+
+37
+00:01:13,140 --> 00:01:18,508
+documents pictures music files so it can
+
+38
+00:01:16,349 --> 00:01:20,999
+easily get out of hand much quicker than
+
+39
+00:01:18,509 --> 00:01:23,400
+a can in the real world and for that
+
+40
+00:01:21,000 --> 00:01:25,950
+reason I think it is crucial to create a
+
+41
+00:01:23,400 --> 00:01:28,199
+usable logical structure from the get-go
+
+42
+00:01:25,950 --> 00:01:29,549
+with your computer files this is much
+
+43
+00:01:28,200 --> 00:01:31,619
+more important that it isn't paper files
+
+44
+00:01:29,549 --> 00:01:33,150
+because well in the real world there
+
+45
+00:01:31,618 --> 00:01:34,558
+just isn't a whole lot to have to
+
+46
+00:01:33,150 --> 00:01:37,078
+reorganize if you realize that you've
+
+47
+00:01:34,560 --> 00:01:38,670
+made a mess but if your computer is a
+
+48
+00:01:37,078 --> 00:01:41,339
+mess you might have hundreds of files
+
+49
+00:01:38,670 --> 00:01:43,380
+sitting on your desktop so step one is
+
+50
+00:01:41,340 --> 00:01:44,728
+to create an organizational structure of
+
+51
+00:01:43,379 --> 00:01:46,769
+folders that makes it easy to find
+
+52
+00:01:44,728 --> 00:01:48,029
+anything you're looking for quickly
+
+53
+00:01:46,769 --> 00:01:50,068
+there's a couple different rules here
+
+54
+00:01:48,030 --> 00:01:51,960
+number one every single file in your
+
+55
+00:01:50,069 --> 00:01:54,298
+system should be within a folder that
+
+56
+00:01:51,959 --> 00:01:55,617
+represents it well a specific folder
+
+57
+00:01:54,299 --> 00:01:57,179
+nothing should be sitting out on the
+
+58
+00:01:55,618 --> 00:01:58,977
+desktop and nothing should be sitting in
+
+59
+00:01:57,180 --> 00:02:00,269
+random folders like documents or
+
+60
+00:01:58,978 --> 00:02:02,368
+downloads everything should be in
+
+61
+00:02:00,269 --> 00:02:04,618
+something that makes sense but number
+
+62
+00:02:02,368 --> 00:02:06,268
+two you want to have a structure that
+
+63
+00:02:04,618 --> 00:02:08,578
+makes it easy to find those folders
+
+64
+00:02:06,269 --> 00:02:11,339
+themselves now you could just have one
+
+65
+00:02:08,580 --> 00:02:12,999
+long list of folders on one particular
+
+66
+00:02:11,340 --> 00:02:14,050
+level of your system but
+
+67
+00:02:13,000 --> 00:02:16,629
+that's gonna make things pretty
+
+68
+00:02:14,050 --> 00:02:17,800
+cumbersome pretty quick so instead you
+
+69
+00:02:16,629 --> 00:02:19,959
+want to follow in the steps of that
+
+70
+00:02:17,800 --> 00:02:23,080
+great philosopher-king exhibit and start
+
+71
+00:02:19,960 --> 00:02:25,330
+putting folders inside of folders I call
+
+72
+00:02:23,080 --> 00:02:27,610
+this a tree structure if you think of a
+
+73
+00:02:25,330 --> 00:02:29,440
+tree at the bottom you have the trunk
+
+74
+00:02:27,610 --> 00:02:31,540
+and then that trunk eventually branches
+
+75
+00:02:29,439 --> 00:02:33,369
+off into main branches which in turn
+
+76
+00:02:31,539 --> 00:02:35,318
+branch into smaller branches and that
+
+77
+00:02:33,370 --> 00:02:37,839
+splitting process keeps going on and on
+
+78
+00:02:35,319 --> 00:02:39,849
+until you reach the leaves and actually
+
+79
+00:02:37,840 --> 00:02:41,110
+if you look closely at a leaf you'll see
+
+80
+00:02:39,849 --> 00:02:43,148
+that the branching process even
+
+81
+00:02:41,110 --> 00:02:44,920
+continues with vane splitting off from
+
+82
+00:02:43,150 --> 00:02:46,029
+the midrib but you didn't think you're
+
+83
+00:02:44,919 --> 00:02:47,499
+gonna learn some tree anatomy in this
+
+84
+00:02:46,030 --> 00:02:49,208
+video huh and if you look elsewhere
+
+85
+00:02:47,500 --> 00:02:51,700
+you'll find this structure replicated
+
+86
+00:02:49,209 --> 00:02:53,949
+both in nature and in man-made systems
+
+87
+00:02:51,699 --> 00:02:55,389
+take your body's circulatory system for
+
+88
+00:02:53,949 --> 00:02:57,518
+example all the blood goes through
+
+89
+00:02:55,389 --> 00:02:58,958
+arteries from the heart but from there
+
+90
+00:02:57,520 --> 00:03:00,1000
+it splits off into smaller and smaller
+
+91
+00:02:58,959 --> 00:03:02,680
+blood vessels until it finally reaches
+
+92
+00:03:01,000 --> 00:03:04,299
+the smallest then the capillaries and
+
+93
+00:03:02,680 --> 00:03:07,059
+gets delivered to the exact right place
+
+94
+00:03:04,300 --> 00:03:08,859
+in the body and Road systems are very
+
+95
+00:03:07,060 --> 00:03:10,930
+similar any two points in a city
+
+96
+00:03:08,860 --> 00:03:13,300
+separated by a lot of distance are going
+
+97
+00:03:10,930 --> 00:03:16,029
+to be best reached by first making your
+
+98
+00:03:13,300 --> 00:03:18,250
+way to a highway or freeway or main road
+
+99
+00:03:16,030 --> 00:03:20,199
+and then branching off into smaller and
+
+100
+00:03:18,250 --> 00:03:22,509
+smaller residential Road and just as the
+
+101
+00:03:20,199 --> 00:03:24,129
+branching paths of trees blood vessels
+
+102
+00:03:22,509 --> 00:03:25,957
+and road systems provide the most
+
+103
+00:03:24,129 --> 00:03:28,059
+efficient way of moving resources around
+
+104
+00:03:25,959 --> 00:03:30,369
+a tree structure provides the most
+
+105
+00:03:28,060 --> 00:03:32,140
+efficient and usable way of organizing
+
+106
+00:03:30,370 --> 00:03:33,729
+your files so the first thing you're
+
+107
+00:03:32,139 --> 00:03:35,768
+going to want to do is to create this
+
+108
+00:03:33,729 --> 00:03:38,198
+tree structure which starts with what's
+
+109
+00:03:35,769 --> 00:03:40,299
+called the root essentially the trunk of
+
+110
+00:03:38,199 --> 00:03:41,259
+the tree and in my file system which I'm
+
+111
+00:03:40,299 --> 00:03:43,420
+gonna show you for the rest of this
+
+112
+00:03:41,259 --> 00:03:45,308
+video as an example the root is called
+
+113
+00:03:43,419 --> 00:03:47,229
+Google Drive and the reason for this is
+
+114
+00:03:45,310 --> 00:03:48,819
+that I use Google Drive which actually
+
+115
+00:03:47,229 --> 00:03:51,669
+just recently changed its name to Google
+
+116
+00:03:48,819 --> 00:03:53,529
+one to sync all my files up to the cloud
+
+117
+00:03:51,669 --> 00:03:55,539
+and between all my different computers
+
+118
+00:03:53,530 --> 00:03:57,909
+but we're gonna talk about that a little
+
+119
+00:03:55,539 --> 00:03:59,827
+bit later within the route I think it
+
+120
+00:03:57,909 --> 00:04:02,319
+makes the most sense to organize your
+
+121
+00:03:59,829 --> 00:04:04,809
+main files by kind of the main
+
+122
+00:04:02,319 --> 00:04:07,208
+categories of your life or as I like to
+
+123
+00:04:04,810 --> 00:04:09,459
+call them life buckets so the buckets of
+
+124
+00:04:07,209 --> 00:04:12,100
+my life include college college info
+
+125
+00:04:09,459 --> 00:04:13,869
+geek learning for learning projects my
+
+126
+00:04:12,099 --> 00:04:15,668
+life which is all my personal files like
+
+127
+00:04:13,870 --> 00:04:17,680
+taxes and you know apartment files
+
+128
+00:04:15,669 --> 00:04:19,178
+things like that now I do want to note
+
+129
+00:04:17,680 --> 00:04:20,858
+that this is not the only way of
+
+130
+00:04:19,180 --> 00:04:22,120
+organizing your file tree and that is
+
+131
+00:04:20,858 --> 00:04:24,219
+something that could be repeated for
+
+132
+00:04:22,120 --> 00:04:25,220
+every single level of the file tree in
+
+133
+00:04:24,220 --> 00:04:27,229
+fact if you go look at
+
+134
+00:04:25,220 --> 00:04:29,150
+date a curator file tree project on
+
+135
+00:04:27,230 --> 00:04:31,489
+github you will see that the top level
+
+136
+00:04:29,149 --> 00:04:33,799
+of their suggested file tree actually
+
+137
+00:04:31,490 --> 00:04:36,579
+has folders split up by media type audio
+
+138
+00:04:33,800 --> 00:04:38,840
+files documents literature video etc
+
+139
+00:04:36,579 --> 00:04:41,449
+personally I like to keep anything that
+
+140
+00:04:38,839 --> 00:04:43,428
+isn't a document in a specific media
+
+141
+00:04:41,449 --> 00:04:45,169
+folder within my file system and that
+
+142
+00:04:43,430 --> 00:04:48,229
+brings me to kind of the main point here
+
+143
+00:04:45,170 --> 00:04:49,880
+your file system should be expandable it
+
+144
+00:04:48,230 --> 00:04:52,940
+should be flexible it should maintain
+
+145
+00:04:49,879 --> 00:04:54,648
+its logic when it does expand but most
+
+146
+00:04:52,939 --> 00:04:58,189
+of all it should represent the way that
+
+147
+00:04:54,649 --> 00:04:59,719
+your brain organizes files assuming you
+
+148
+00:04:58,189 --> 00:05:01,729
+are the only person who's going to be
+
+149
+00:04:59,720 --> 00:05:02,869
+using this folder because I know a lot
+
+150
+00:05:01,730 --> 00:05:04,460
+of you guys are gonna go into the
+
+151
+00:05:02,870 --> 00:05:06,229
+professional world start working in
+
+152
+00:05:04,459 --> 00:05:08,389
+companies and start using shared
+
+153
+00:05:06,230 --> 00:05:09,980
+directories so with your own file system
+
+154
+00:05:08,389 --> 00:05:11,779
+you can kind of query your brain a
+
+155
+00:05:09,980 --> 00:05:13,129
+little bit more often but with shared
+
+156
+00:05:11,779 --> 00:05:16,128
+directories you're probably gonna want
+
+157
+00:05:13,129 --> 00:05:17,869
+to adhere to some agreed-upon rules and
+
+158
+00:05:16,129 --> 00:05:20,569
+conventions so I want to go over just a
+
+159
+00:05:17,870 --> 00:05:22,580
+couple here first one is organizing by
+
+160
+00:05:20,569 --> 00:05:24,408
+category which is exactly what I'm doing
+
+161
+00:05:22,579 --> 00:05:25,969
+in that main folder of my file tree and
+
+162
+00:05:24,410 --> 00:05:28,309
+it's the structure that I adhere to for
+
+163
+00:05:25,970 --> 00:05:30,019
+most subfolders as well and to give an
+
+164
+00:05:28,310 --> 00:05:31,850
+example let's go into my college info
+
+165
+00:05:30,019 --> 00:05:34,009
+geek folder this is where basically any
+
+166
+00:05:31,850 --> 00:05:37,130
+file related to my business goes whether
+
+167
+00:05:34,009 --> 00:05:39,079
+it's LLC paperwork or the thumbnail for
+
+168
+00:05:37,129 --> 00:05:40,728
+this video so once we drill into that
+
+169
+00:05:39,079 --> 00:05:43,579
+folder we're gonna see subfolders like
+
+170
+00:05:40,728 --> 00:05:45,978
+business content courses projects
+
+171
+00:05:43,579 --> 00:05:47,389
+speaking and tools and within the
+
+172
+00:05:45,978 --> 00:05:49,009
+content folder to go a little bit deeper
+
+173
+00:05:47,389 --> 00:05:51,917
+we're gonna see other folders like
+
+174
+00:05:49,009 --> 00:05:54,648
+articles email lists graphics podcast
+
+175
+00:05:51,918 --> 00:05:56,539
+and videos and with this structure it is
+
+176
+00:05:54,649 --> 00:05:58,818
+easy to find pretty much anything that I
+
+177
+00:05:56,540 --> 00:06:00,109
+need really really quickly and just to
+
+178
+00:05:58,819 --> 00:06:01,727
+give you an example I'm gonna throw the
+
+179
+00:06:00,110 --> 00:06:04,040
+path of a random file onto the screen
+
+180
+00:06:01,728 --> 00:06:05,899
+right here so you can see the logical
+
+181
+00:06:04,040 --> 00:06:07,700
+sequence of steps that I would take to
+
+182
+00:06:05,899 --> 00:06:09,139
+get to it and again it's very easy to
+
+183
+00:06:07,699 --> 00:06:09,888
+find this file and pretty much anything
+
+184
+00:06:09,139 --> 00:06:12,079
+else
+
+185
+00:06:09,889 --> 00:06:14,179
+that being said organizing by category
+
+186
+00:06:12,079 --> 00:06:15,769
+isn't the only way you can organize your
+
+187
+00:06:14,180 --> 00:06:17,478
+files and you're gonna get into certain
+
+188
+00:06:15,769 --> 00:06:19,459
+subfolders where it makes sense to adopt
+
+189
+00:06:17,478 --> 00:06:21,529
+a different structure such as organizing
+
+190
+00:06:19,459 --> 00:06:23,269
+by date and I find this particular
+
+191
+00:06:21,529 --> 00:06:24,828
+structure to be very useful when the
+
+192
+00:06:23,269 --> 00:06:26,778
+files that I'm trying to organize would
+
+193
+00:06:24,829 --> 00:06:28,429
+fill so many different category based
+
+194
+00:06:26,779 --> 00:06:31,099
+folders that would end up with a huge
+
+195
+00:06:28,430 --> 00:06:33,348
+long list and a great example is my
+
+196
+00:06:31,100 --> 00:06:35,930
+college classes during my college career
+
+197
+00:06:33,348 --> 00:06:37,998
+I took over 40 different classes and
+
+198
+00:06:35,930 --> 00:06:38,550
+while I could just shove every single
+
+199
+00:06:38,000 --> 00:06:40,649
+class full
+
+200
+00:06:38,550 --> 00:06:42,059
+into my college folder that would be
+
+201
+00:06:40,649 --> 00:06:43,649
+kind of messy I'd be looking at a list
+
+202
+00:06:42,060 --> 00:06:45,359
+of 40 different folders every time I
+
+203
+00:06:43,649 --> 00:06:47,637
+needed to go save or open a file and
+
+204
+00:06:45,360 --> 00:06:49,409
+most importantly during every single
+
+205
+00:06:47,639 --> 00:06:51,179
+semester I would go into that College
+
+206
+00:06:49,408 --> 00:06:52,948
+folder and I would see a bunch of very
+
+207
+00:06:51,180 --> 00:06:55,139
+irrelevant folders from previous
+
+208
+00:06:52,949 --> 00:06:57,300
+semesters so instead of just organizing
+
+209
+00:06:55,139 --> 00:06:59,369
+by category I instead created another
+
+210
+00:06:57,300 --> 00:07:01,139
+level of organization by splitting
+
+211
+00:06:59,370 --> 00:07:03,599
+things up by year so I've got freshman
+
+212
+00:07:01,139 --> 00:07:05,369
+sophomore junior and senior if we go in
+
+213
+00:07:03,598 --> 00:07:07,078
+to say sophomore we're gonna see all the
+
+214
+00:07:05,370 --> 00:07:09,180
+classes I took during my sophomore year
+
+215
+00:07:07,079 --> 00:07:11,458
+then once we drill into a class based
+
+216
+00:07:09,180 --> 00:07:12,959
+folder such as English 313 we're gonna
+
+217
+00:07:11,459 --> 00:07:15,959
+see all the files that had to do with
+
+218
+00:07:12,959 --> 00:07:18,657
+that class but also project specific
+
+219
+00:07:15,959 --> 00:07:20,249
+folders as well so if you have a project
+
+220
+00:07:18,658 --> 00:07:21,779
+with lots of different files I think it
+
+221
+00:07:20,250 --> 00:07:24,120
+absolutely makes sense to group those
+
+222
+00:07:21,779 --> 00:07:25,408
+files into their own folder but anything
+
+223
+00:07:24,120 --> 00:07:27,060
+that's kind of like an individual
+
+224
+00:07:25,408 --> 00:07:28,649
+handout for the class just keep that in
+
+225
+00:07:27,060 --> 00:07:30,330
+the class folder and you'll be able to
+
+226
+00:07:28,649 --> 00:07:32,519
+easily find it as long as you name it
+
+227
+00:07:30,329 --> 00:07:34,529
+intelligently and speaking of naming
+
+228
+00:07:32,519 --> 00:07:36,717
+your files that is actually step two in
+
+229
+00:07:34,529 --> 00:07:38,279
+this process which is honestly an
+
+230
+00:07:36,718 --> 00:07:39,899
+ongoing process because you're always
+
+231
+00:07:38,279 --> 00:07:41,818
+gonna be naming files but I do want to
+
+232
+00:07:39,899 --> 00:07:43,798
+talk a little bit about how you should
+
+233
+00:07:41,819 --> 00:07:45,149
+name your files and we don't have to
+
+234
+00:07:43,800 --> 00:07:46,740
+talk a lot here because the main
+
+235
+00:07:45,149 --> 00:07:49,498
+principle is that your files should be
+
+236
+00:07:46,740 --> 00:07:51,299
+named relatively specifically you should
+
+237
+00:07:49,500 --> 00:07:53,490
+be able to know at a glance what it
+
+238
+00:07:51,300 --> 00:07:56,309
+means within the context of a cloak
+
+239
+00:07:53,490 --> 00:07:57,658
+ation in your file tree and I make this
+
+240
+00:07:56,310 --> 00:07:59,1000
+point because there are a lot of other
+
+241
+00:07:57,658 --> 00:08:02,489
+productivity gurus and organizational
+
+242
+00:08:00,000 --> 00:08:04,769
+gurus out there who have these overly
+
+243
+00:08:02,490 --> 00:08:06,598
+complex file naming conventions they're
+
+244
+00:08:04,769 --> 00:08:08,188
+putting the date in their file name
+
+245
+00:08:06,598 --> 00:08:10,739
+they're putting like every bit of
+
+246
+00:08:08,189 --> 00:08:12,868
+context they can and honestly I think
+
+247
+00:08:10,740 --> 00:08:14,369
+this is a waste of time because as long
+
+248
+00:08:12,870 --> 00:08:16,050
+as you were being vigilant about where
+
+249
+00:08:14,370 --> 00:08:18,389
+you're saving your files in your file
+
+250
+00:08:16,050 --> 00:08:20,370
+system then each file really only needs
+
+251
+00:08:18,389 --> 00:08:22,380
+a little bit of specificity for you to
+
+252
+00:08:20,370 --> 00:08:24,149
+know at a glance what it is
+
+253
+00:08:22,379 --> 00:08:27,388
+so obviously don't name your homework
+
+254
+00:08:24,149 --> 00:08:29,399
+just homework docx or paper doc X give
+
+255
+00:08:27,389 --> 00:08:31,408
+it a name that at least jogs your memory
+
+256
+00:08:29,399 --> 00:08:33,538
+as to what it should be but don't worry
+
+257
+00:08:31,408 --> 00:08:35,967
+about being overly specific item and
+
+258
+00:08:33,538 --> 00:08:37,558
+that brings us to step 3 in the process
+
+259
+00:08:35,969 --> 00:08:39,989
+which I referenced earlier in the video
+
+260
+00:08:37,559 --> 00:08:42,658
+I think that you should absolutely use a
+
+261
+00:08:39,990 --> 00:08:45,299
+cloud sync app like Google 1 slash
+
+262
+00:08:42,658 --> 00:08:46,827
+Google Drive as the root of your file
+
+263
+00:08:45,299 --> 00:08:49,019
+tree so if you don't know in a cloud
+
+264
+00:08:46,828 --> 00:08:51,699
+sync app is basically it's an app like
+
+265
+00:08:49,019 --> 00:08:53,438
+Dropbox Google 1 Microsoft onedrive
+
+266
+00:08:51,700 --> 00:08:55,390
+cloud drive there are some other ones
+
+267
+00:08:53,440 --> 00:08:57,100
+out there as well they basically sit on
+
+268
+00:08:55,389 --> 00:09:00,068
+your computer and they upload anything
+
+269
+00:08:57,100 --> 00:09:01,659
+within the sync folder to the cloud and
+
+270
+00:09:00,070 --> 00:09:03,1000
+then sync it to any other computers that
+
+271
+00:09:01,659 --> 00:09:05,319
+you have as well and using an app like
+
+272
+00:09:04,000 --> 00:09:07,419
+this gives you several different
+
+273
+00:09:05,320 --> 00:09:09,610
+benefits number one all of your files
+
+274
+00:09:07,419 --> 00:09:12,159
+are kept up-to-date across your entire
+
+275
+00:09:09,610 --> 00:09:14,260
+system so if you make a change to a
+
+276
+00:09:12,159 --> 00:09:15,849
+Photoshop document or a word document on
+
+277
+00:09:14,259 --> 00:09:17,529
+one computer that change will be
+
+278
+00:09:15,850 --> 00:09:19,350
+dutifully synced up to the cloud and to
+
+279
+00:09:17,529 --> 00:09:21,698
+any other computer that you have
+
+280
+00:09:19,350 --> 00:09:23,710
+secondly you have access to your files
+
+281
+00:09:21,700 --> 00:09:26,469
+wherever you are you've got access on
+
+282
+00:09:23,710 --> 00:09:27,580
+your laptop you got access on your phone
+
+283
+00:09:26,470 --> 00:09:30,460
+I'm actually reading the script for this
+
+284
+00:09:27,580 --> 00:09:32,410
+video off of this phone right now even
+
+285
+00:09:30,460 --> 00:09:34,390
+have access on any computer in the world
+
+286
+00:09:32,409 --> 00:09:35,799
+as long as you can log into your Google
+
+287
+00:09:34,389 --> 00:09:37,869
+or your Dropbox account and download
+
+288
+00:09:35,799 --> 00:09:40,808
+those files so that brings us to a
+
+289
+00:09:37,870 --> 00:09:43,570
+question which cloud sync app should you
+
+290
+00:09:40,809 --> 00:09:45,398
+use which one is the best well I'm gonna
+
+291
+00:09:43,570 --> 00:09:47,230
+go ahead and recommend Google one for
+
+292
+00:09:45,399 --> 00:09:48,608
+most people now there are a lot of
+
+293
+00:09:47,230 --> 00:09:51,819
+different competitors out there again
+
+294
+00:09:48,610 --> 00:09:54,310
+Microsoft onedrive box sync Dropbox
+
+295
+00:09:51,820 --> 00:09:55,959
+iCloud Drive but I think Google one
+
+296
+00:09:54,309 --> 00:09:58,658
+makes the most sense number one because
+
+297
+00:09:55,960 --> 00:10:00,460
+they give you 15 gigabytes of free space
+
+298
+00:09:58,659 --> 00:10:02,018
+which is much more than any other
+
+299
+00:10:00,460 --> 00:10:04,270
+competitor and I think that unless
+
+300
+00:10:02,019 --> 00:10:06,249
+you're a content creator or photographer
+
+301
+00:10:04,269 --> 00:10:08,139
+or graphic designer you're gonna take a
+
+302
+00:10:06,250 --> 00:10:09,879
+long time to fill up that 15 gigabytes
+
+303
+00:10:08,139 --> 00:10:10,869
+of free space so that just keeps you
+
+304
+00:10:09,879 --> 00:10:13,718
+from having to spend a whole lot of
+
+305
+00:10:10,870 --> 00:10:15,459
+money right upfront secondly if you do
+
+306
+00:10:13,720 --> 00:10:17,530
+need more space with a competitor like
+
+307
+00:10:15,460 --> 00:10:19,629
+Dropbox you have to immediately go up
+
+308
+00:10:17,529 --> 00:10:21,819
+there to terabyte plan for 10 bucks a
+
+309
+00:10:19,629 --> 00:10:22,959
+month whereas with Google One or Google
+
+310
+00:10:21,820 --> 00:10:24,790
+Drive or whatever you want to call it
+
+311
+00:10:22,960 --> 00:10:26,589
+it's just two dollars a month for a
+
+312
+00:10:24,789 --> 00:10:28,148
+hundred gigabytes and again I really
+
+313
+00:10:26,590 --> 00:10:30,790
+don't think most people need a whole lot
+
+314
+00:10:28,149 --> 00:10:33,009
+more than 100 gigabytes but what you do
+
+315
+00:10:30,789 --> 00:10:34,539
+need regardless of who you are even if
+
+316
+00:10:33,009 --> 00:10:36,009
+you don't need a ton of extra space is
+
+317
+00:10:34,539 --> 00:10:39,098
+to make sure that your files are
+
+318
+00:10:36,009 --> 00:10:40,989
+adequately backed up and secured now if
+
+319
+00:10:39,100 --> 00:10:43,090
+you are using a cloud sync app like
+
+320
+00:10:40,990 --> 00:10:45,579
+Google one then you do have some measure
+
+321
+00:10:43,090 --> 00:10:47,830
+of protection for at least hard drive
+
+322
+00:10:45,580 --> 00:10:49,990
+failure on one computer right so if I
+
+323
+00:10:47,830 --> 00:10:52,209
+have all my files just on this one
+
+324
+00:10:49,990 --> 00:10:53,470
+computer just on their hard drive not
+
+325
+00:10:52,210 --> 00:10:56,469
+synced Google One or anything like that
+
+326
+00:10:53,470 --> 00:10:57,700
+and this goes down the toilet well this
+
+327
+00:10:56,470 --> 00:10:59,079
+probably won't fit down the toilet but
+
+328
+00:10:57,700 --> 00:11:01,839
+someone tries to force it down with
+
+329
+00:10:59,080 --> 00:11:03,790
+toilet right or someone steals it or low
+
+330
+00:11:01,840 --> 00:11:05,080
+key comes out of a portal and cast a
+
+331
+00:11:03,789 --> 00:11:07,899
+spell on it that gives it legs and
+
+332
+00:11:05,080 --> 00:11:09,969
+away from me right I would lose all the
+
+333
+00:11:07,899 --> 00:11:11,589
+files because they're only on this hard
+
+334
+00:11:09,970 --> 00:11:13,539
+drive but if they're synced to the cloud
+
+335
+00:11:11,590 --> 00:11:14,799
+then all I lose when this thing runs
+
+336
+00:11:13,539 --> 00:11:17,708
+away from me and goes to frightened
+
+337
+00:11:14,799 --> 00:11:20,258
+children is the hardware itself and this
+
+338
+00:11:17,710 --> 00:11:22,870
+computer can be replaced with money but
+
+339
+00:11:20,259 --> 00:11:25,388
+all those files they cannot be replaced
+
+340
+00:11:22,870 --> 00:11:27,070
+so at least with a cloud sync app you
+
+341
+00:11:25,389 --> 00:11:29,168
+have some measure protection against
+
+342
+00:11:27,070 --> 00:11:31,180
+hardware failure but we don't have
+
+343
+00:11:29,169 --> 00:11:34,149
+protection against is people who are
+
+344
+00:11:31,179 --> 00:11:35,829
+malicious right if someone goes in and
+
+345
+00:11:34,149 --> 00:11:37,869
+like hacks your Google account and
+
+346
+00:11:35,830 --> 00:11:39,280
+deletes all those files then you have a
+
+347
+00:11:37,870 --> 00:11:40,959
+whole lot of protection against that now
+
+348
+00:11:39,279 --> 00:11:42,969
+with Google 1 and a lot of cloud sync
+
+349
+00:11:40,960 --> 00:11:45,219
+apps you can go back in time and restore
+
+350
+00:11:42,970 --> 00:11:46,690
+files out of the trash but you usually
+
+351
+00:11:45,220 --> 00:11:48,670
+have like a 30-day time limit on that
+
+352
+00:11:46,690 --> 00:11:50,529
+but again somebody could go in there and
+
+353
+00:11:48,669 --> 00:11:52,599
+empty the trash or you could
+
+354
+00:11:50,529 --> 00:11:54,249
+accidentally change a file and not
+
+355
+00:11:52,600 --> 00:11:56,080
+realize it until a month down the road
+
+356
+00:11:54,250 --> 00:11:57,669
+and realize oh wow I needed the old
+
+357
+00:11:56,080 --> 00:11:59,589
+version that file and now it's gone
+
+358
+00:11:57,669 --> 00:12:01,629
+forever so I think you should have a
+
+359
+00:11:59,590 --> 00:12:03,609
+backup strategy that extends beyond
+
+360
+00:12:01,629 --> 00:12:05,319
+cloud sync and there are a couple of
+
+361
+00:12:03,610 --> 00:12:06,790
+different options so the option that I
+
+362
+00:12:05,320 --> 00:12:08,710
+use personally and the one that I
+
+363
+00:12:06,789 --> 00:12:11,499
+recommend for most people is to use a
+
+364
+00:12:08,710 --> 00:12:13,389
+separate cloud backup app like Backblaze
+
+365
+00:12:11,500 --> 00:12:14,740
+or CrashPlan and I mean these back
+
+366
+00:12:13,389 --> 00:12:17,049
+layers here because the one that I use
+
+367
+00:12:14,740 --> 00:12:18,579
+but for about five dollars a month or 60
+
+368
+00:12:17,049 --> 00:12:19,959
+bucks a year they will backup an
+
+369
+00:12:18,580 --> 00:12:22,240
+unlimited amount of data on your
+
+370
+00:12:19,960 --> 00:12:23,859
+computer across any hard drive connected
+
+371
+00:12:22,240 --> 00:12:25,510
+to it with the exception of any like
+
+372
+00:12:23,860 --> 00:12:28,029
+network attached storage but the other
+
+373
+00:12:25,509 --> 00:12:30,249
+thing is that provides some measure of
+
+374
+00:12:28,029 --> 00:12:32,319
+redundancy if something gets into your
+
+375
+00:12:30,250 --> 00:12:33,850
+Google Drive and messes with it or
+
+376
+00:12:32,320 --> 00:12:36,159
+someone deletes all those files they are
+
+377
+00:12:33,850 --> 00:12:37,810
+also backed up in Backblaze and for me I
+
+378
+00:12:36,159 --> 00:12:40,119
+want to have my data in multiple
+
+379
+00:12:37,809 --> 00:12:41,948
+different places this is kind of a pain
+
+380
+00:12:40,120 --> 00:12:43,780
+in the butt to do but if there ever
+
+381
+00:12:41,950 --> 00:12:45,579
+comes a time where one of those you know
+
+382
+00:12:43,779 --> 00:12:47,019
+one of those data silos goes down you're
+
+383
+00:12:45,580 --> 00:12:49,149
+gonna be very happy you took the
+
+384
+00:12:47,019 --> 00:12:50,949
+precaution and had a backup now the
+
+385
+00:12:49,149 --> 00:12:52,988
+other option which i think is a little
+
+386
+00:12:50,950 --> 00:12:54,729
+less robust and good cloud backup but
+
+387
+00:12:52,990 --> 00:12:56,860
+it's still useful is to just get your
+
+388
+00:12:54,730 --> 00:12:59,079
+hands on a small external hard drive
+
+389
+00:12:56,860 --> 00:13:00,610
+plug it in once a month and copy your
+
+390
+00:12:59,080 --> 00:13:01,780
+data over to that hard drive and then
+
+391
+00:13:00,610 --> 00:13:03,460
+just keep it um plugged from your
+
+392
+00:13:01,779 --> 00:13:05,259
+computer keep it stored somewhere that's
+
+393
+00:13:03,460 --> 00:13:06,669
+secret and safe and then actually
+
+394
+00:13:05,259 --> 00:13:09,249
+remember to plug it back in once a month
+
+395
+00:13:06,669 --> 00:13:11,499
+and make that backup and that brings us
+
+396
+00:13:09,250 --> 00:13:13,509
+to the final step in this process which
+
+397
+00:13:11,500 --> 00:13:16,089
+is to make use of shortcuts to more
+
+398
+00:13:13,509 --> 00:13:17,728
+quickly access the most used folders and
+
+399
+00:13:16,090 --> 00:13:19,199
+files in your
+
+400
+00:13:17,730 --> 00:13:20,1000
+because here's the thing when you have
+
+401
+00:13:19,200 --> 00:13:22,470
+this beautifully organized tree
+
+402
+00:13:21,000 --> 00:13:24,899
+structure sometimes you're gonna have
+
+403
+00:13:22,470 --> 00:13:27,809
+files that are six seven eight levels
+
+404
+00:13:24,899 --> 00:13:29,488
+deep from the root and if you need
+
+405
+00:13:27,809 --> 00:13:30,568
+access those files a lot you're going to
+
+406
+00:13:29,490 --> 00:13:32,249
+be clicking through eight different
+
+407
+00:13:30,570 --> 00:13:34,500
+levels of folders and then is not very
+
+408
+00:13:32,250 --> 00:13:37,110
+efficient but luckily computers allow
+
+409
+00:13:34,500 --> 00:13:38,969
+you to create shortcuts or aliases these
+
+410
+00:13:37,110 --> 00:13:41,669
+are kind of interchangeable terms to
+
+411
+00:13:38,970 --> 00:13:43,559
+access those files quickly but even more
+
+412
+00:13:41,669 --> 00:13:45,989
+efficient than shortcuts in my opinion
+
+413
+00:13:43,559 --> 00:13:48,089
+is the quick access and favorites areas
+
+414
+00:13:45,990 --> 00:13:49,829
+of the finder and Explorer on both Mac
+
+415
+00:13:48,090 --> 00:13:51,690
+and Windows so on Windows it's called
+
+416
+00:13:49,830 --> 00:13:53,760
+quick access you can easily pin any
+
+417
+00:13:51,690 --> 00:13:55,680
+folder or file to it on the sidebar and
+
+418
+00:13:53,759 --> 00:13:57,058
+in Mac OS it's called favorites and it
+
+419
+00:13:55,679 --> 00:13:59,489
+gives you the exact same functionality
+
+420
+00:13:57,059 --> 00:14:01,228
+so if you see my Explorer here you'll
+
+421
+00:13:59,490 --> 00:14:03,389
+see that I have pinned many different
+
+422
+00:14:01,230 --> 00:14:05,369
+folders that I access on a regular basis
+
+423
+00:14:03,389 --> 00:14:07,109
+some are permanently there but you're
+
+424
+00:14:05,370 --> 00:14:08,999
+also gonna see folders related to the
+
+425
+00:14:07,110 --> 00:14:10,739
+individual video that I'm working on any
+
+426
+00:14:09,000 --> 00:14:13,139
+given time so right now you're gonna see
+
+427
+00:14:10,740 --> 00:14:14,280
+172 computer file organization since
+
+428
+00:14:13,139 --> 00:14:16,168
+that's the video that I'm currently
+
+429
+00:14:14,279 --> 00:14:17,969
+working on so start using quick access
+
+430
+00:14:16,169 --> 00:14:19,169
+start using favorites start creating
+
+431
+00:14:17,970 --> 00:14:21,269
+shortcuts and you're gonna find yourself
+
+432
+00:14:19,169 --> 00:14:22,979
+navigating your file tree much more
+
+433
+00:14:21,269 --> 00:14:25,528
+quickly and then as long as you maintain
+
+434
+00:14:22,980 --> 00:14:27,029
+the integrity of that file tree as long
+
+435
+00:14:25,529 --> 00:14:28,618
+as you maintain vigilance when saving
+
+436
+00:14:27,029 --> 00:14:30,598
+new files and creating new folders
+
+437
+00:14:28,620 --> 00:14:32,280
+you're never going to lose another file
+
+438
+00:14:30,600 --> 00:14:34,920
+again and you're gonna be so much better
+
+439
+00:14:32,279 --> 00:14:36,538
+organized of course the best way to stay
+
+440
+00:14:34,919 --> 00:14:38,789
+organized is to be very deliberate about
+
+441
+00:14:36,539 --> 00:14:40,318
+the projects that you take on about the
+
+442
+00:14:38,789 --> 00:14:42,329
+files that you create in the first place
+
+443
+00:14:40,320 --> 00:14:44,099
+about the content that you consume this
+
+444
+00:14:42,330 --> 00:14:46,229
+is called being an essentialist and
+
+445
+00:14:44,100 --> 00:14:48,420
+involves being very in tune with your
+
+446
+00:14:46,230 --> 00:14:49,950
+priorities and your values in life and
+
+447
+00:14:48,419 --> 00:14:52,048
+if you want to get better at doing this
+
+448
+00:14:49,950 --> 00:14:53,940
+I have a book recommendation for you
+
+449
+00:14:52,049 --> 00:14:55,558
+essentialism the disciplined pursuit of
+
+450
+00:14:53,940 --> 00:14:57,630
+less by Greg McEwan is one of my
+
+451
+00:14:55,559 --> 00:14:59,338
+absolute favorite self-improvement books
+
+452
+00:14:57,629 --> 00:15:01,468
+it's one of the most useful that I have
+
+453
+00:14:59,340 --> 00:15:03,030
+found in my personal experience and if
+
+454
+00:15:01,470 --> 00:15:05,070
+you want to actually listen to that book
+
+455
+00:15:03,029 --> 00:15:07,559
+for free you can do so by going over to
+
+456
+00:15:05,070 --> 00:15:10,409
+audible.com slash Thomas or by texting
+
+457
+00:15:07,559 --> 00:15:12,118
+Thomas to 500 500 on your phone doing
+
+458
+00:15:10,409 --> 00:15:13,708
+that will get you a free 30-day trial of
+
+459
+00:15:12,120 --> 00:15:15,479
+audible service which comes with a free
+
+460
+00:15:13,710 --> 00:15:17,129
+audiobook download which can be anything
+
+461
+00:15:15,480 --> 00:15:19,140
+you want but of course I'm going to
+
+462
+00:15:17,129 --> 00:15:20,879
+recommend essentialism but it also comes
+
+463
+00:15:19,139 --> 00:15:22,949
+with two audible originals you cannot
+
+464
+00:15:20,879 --> 00:15:24,989
+get anywhere else along with tons of
+
+465
+00:15:22,950 --> 00:15:26,640
+audio workout fitness yoga and
+
+466
+00:15:24,990 --> 00:15:28,380
+meditation programs and of course
+
+467
+00:15:26,639 --> 00:15:29,699
+audible is the best place on the
+
+468
+00:15:28,379 --> 00:15:30,838
+internet to get your hands on audiobooks
+
+469
+00:15:29,700 --> 00:15:33,390
+they have an on
+
+470
+00:15:30,840 --> 00:15:35,399
+library with all the bestsellers lots of
+
+471
+00:15:33,389 --> 00:15:37,829
+obscure stuff and things from basically
+
+472
+00:15:35,399 --> 00:15:39,418
+any genre that you could want and they
+
+473
+00:15:37,830 --> 00:15:41,550
+also have an excellently designed app
+
+474
+00:15:39,419 --> 00:15:43,349
+with a lot of great features including a
+
+475
+00:15:41,549 --> 00:15:45,209
+sleep timer for using it at night the
+
+476
+00:15:43,350 --> 00:15:46,709
+ability to add notes at specific time
+
+477
+00:15:45,210 --> 00:15:48,029
+stamps within your book and easy
+
+478
+00:15:46,710 --> 00:15:49,469
+controls for jumping forwards or
+
+479
+00:15:48,029 --> 00:15:50,879
+backwards just in case you want to fast
+
+480
+00:15:49,470 --> 00:15:52,499
+forward or if you didn't catch something
+
+481
+00:15:50,879 --> 00:15:54,749
+you can easily go back and listen to it
+
+482
+00:15:52,500 --> 00:15:56,730
+again so once again if you want to get a
+
+483
+00:15:54,750 --> 00:15:58,200
+free trial of audible service for 30
+
+484
+00:15:56,730 --> 00:16:00,210
+days that comes with a free audiobook
+
+485
+00:15:58,200 --> 00:16:02,130
+download to audible originals that you
+
+486
+00:16:00,210 --> 00:16:04,170
+cannot get anywhere else and all those
+
+487
+00:16:02,129 --> 00:16:05,968
+audio workout meditation programs go
+
+488
+00:16:04,169 --> 00:16:08,669
+over to audible.com slash Thomas and
+
+489
+00:16:05,970 --> 00:16:11,250
+sign up or text Thomas to 500 500 on
+
+490
+00:16:08,669 --> 00:16:13,048
+your phone big thanks as always goes out
+
+491
+00:16:11,250 --> 00:16:14,549
+to audible for sponsoring this video and
+
+492
+00:16:13,049 --> 00:16:17,279
+being a big supporter of my channel and
+
+493
+00:16:14,549 --> 00:16:18,688
+thank you as well for watching hopefully
+
+494
+00:16:17,279 --> 00:16:20,279
+you found this video helpful hopefully
+
+495
+00:16:18,690 --> 00:16:22,080
+it was a great complement to that paper
+
+496
+00:16:20,279 --> 00:16:23,939
+organization video which I'm going to
+
+497
+00:16:22,080 --> 00:16:25,200
+put right here in case you didn't see it
+
+498
+00:16:23,940 --> 00:16:26,819
+and of course you can always subscribe
+
+499
+00:16:25,200 --> 00:16:27,900
+right there if you haven't done so
+
+500
+00:16:26,820 --> 00:16:29,849
+already and you want to get
+
+501
+00:16:27,899 --> 00:16:31,229
+notifications of new videos click right
+
+502
+00:16:29,850 --> 00:16:33,180
+there to get a free copy of my book on
+
+503
+00:16:31,230 --> 00:16:34,799
+how to earn better grades or if you
+
+504
+00:16:33,179 --> 00:16:36,208
+haven't seen my latest collaboration
+
+505
+00:16:34,799 --> 00:16:38,249
+video with my friend Matt to give Bella
+
+506
+00:16:36,210 --> 00:16:40,020
+I'm gonna have that linked right here so
+
+507
+00:16:38,250 --> 00:16:41,220
+definitely check that out thanks again
+
+508
+00:16:40,019 --> 00:16:43,909
+for watching and I will see you in the
+
+509
+00:16:41,220 --> 00:16:43,910
+next video
+

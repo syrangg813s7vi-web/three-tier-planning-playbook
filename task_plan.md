@@ -34,7 +34,7 @@
 - [ ] Final polish
 
 ## Decisions Log
-- 2026-02-28: Start new project `thomasfrank-book` in `/root/clawd/workspace/`.
+- 2026-02-28: Start new project `thomasfrank-book` in `/root/clawd/github/active/` (aligned with feelgood).
 
 ## Risks / Watchouts
 - Archive may contain copyrighted content; we will transform and summarize rather than copy verbatim where necessary.

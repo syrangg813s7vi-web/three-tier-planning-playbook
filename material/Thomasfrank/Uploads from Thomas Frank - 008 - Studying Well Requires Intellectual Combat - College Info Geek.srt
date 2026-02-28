@@ -1,0 +1,908 @@
+1
+00:00:00,359 --> 00:00:03,241
+hey what's up everybody I'm Tom from
+
+2
+00:00:01,719 --> 00:00:04,001
+college infog geek.com and today I want
+
+3
+00:00:03,600 --> 00:00:07,519
+to talk about a study tip that I
+
+4
+00:00:05,719 --> 00:00:09,799
+recently learned when I interviewed
+
+5
+00:00:07,519 --> 00:00:11,358
+somebody for my podcast and the guy
+
+6
+00:00:09,800 --> 00:00:12,1000
+interviewed is named Cal Newport and if
+
+7
+00:00:11,359 --> 00:00:15,039
+you haven't heard of him he's written a
+
+8
+00:00:13,000 --> 00:00:16,439
+lot of different books for students that
+
+9
+00:00:15,039 --> 00:00:18,038
+help them be better in college and
+
+10
+00:00:16,440 --> 00:00:19,359
+there's something he told me that really
+
+11
+00:00:18,039 --> 00:00:20,640
+really stuck with me in the interview
+
+12
+00:00:19,359 --> 00:00:23,519
+that I want to share with you so what
+
+13
+00:00:20,640 --> 00:00:25,800
+Cal told me is creating things of value
+
+14
+00:00:23,518 --> 00:00:27,758
+requires that you go to intellectual
+
+15
+00:00:25,800 --> 00:00:29,199
+combat and this is something that I
+
+16
+00:00:27,760 --> 00:00:31,038
+think I intrinsically knew and you might
+
+17
+00:00:29,199 --> 00:00:33,239
+know yourself but it's good to have it
+
+18
+00:00:31,039 --> 00:00:34,800
+reiterated because when you want to
+
+19
+00:00:33,238 --> 00:00:36,439
+create something when you want to learn
+
+20
+00:00:34,799 --> 00:00:38,359
+something or do something that's
+
+21
+00:00:36,439 --> 00:00:39,798
+difficult you really have to reach and
+
+22
+00:00:38,359 --> 00:00:41,718
+dive deep and give it the time it
+
+23
+00:00:39,799 --> 00:00:44,077
+deserves and I think that we don't give
+
+24
+00:00:41,719 --> 00:00:46,039
+this concept enough respect in today's
+
+25
+00:00:44,079 --> 00:00:47,959
+world I'm guilty of it myself because I
+
+26
+00:00:46,039 --> 00:00:49,398
+run this blog and I run this podcast and
+
+27
+00:00:47,960 --> 00:00:51,480
+this YouTube channel and I want to share
+
+28
+00:00:49,399 --> 00:00:52,1000
+tools and techniques to make you more
+
+29
+00:00:51,479 --> 00:00:54,758
+efficient but I think when we're
+
+30
+00:00:53,000 --> 00:00:56,359
+focusing on these time management and
+
+31
+00:00:54,759 --> 00:00:58,439
+task management tools and we're focusing
+
+32
+00:00:56,359 --> 00:01:00,639
+on study tactics like space repetition
+
+33
+00:00:58,439 --> 00:01:02,839
+method of Loi all this kind of stuff we
+
+34
+00:01:00,640 --> 00:01:05,119
+don't give creative work and we don't
+
+35
+00:01:02,840 --> 00:01:08,118
+give learning the respect they deserve
+
+36
+00:01:05,118 --> 00:01:10,438
+they really require concentrated
+
+37
+00:01:08,118 --> 00:01:11,558
+difficult effort learning is reaching
+
+38
+00:01:10,438 --> 00:01:13,679
+and this is something we need to
+
+39
+00:01:11,560 --> 00:01:15,840
+intrinsically know and understand when
+
+40
+00:01:13,680 --> 00:01:17,119
+we build our schedules so recently I
+
+41
+00:01:15,840 --> 00:01:18,840
+experimented with a productivity
+
+42
+00:01:17,118 --> 00:01:20,879
+technique called time boxing and
+
+43
+00:01:18,840 --> 00:01:23,1000
+basically what time boxing is is you
+
+44
+00:01:20,879 --> 00:01:26,478
+create a minute uh minute not my minute
+
+45
+00:01:24,000 --> 00:01:28,240
+but uh hour by hour schedule of your
+
+46
+00:01:26,478 --> 00:01:30,319
+entire week or maybe day or whatever
+
+47
+00:01:28,239 --> 00:01:32,397
+time period you choose but you basically
+
+48
+00:01:30,319 --> 00:01:35,198
+plan ahead what you're going to do hour
+
+49
+00:01:32,399 --> 00:01:36,919
+by hour so I took a Sunday to plan all
+
+50
+00:01:35,200 --> 00:01:38,519
+the content I wanted to create all the
+
+51
+00:01:36,920 --> 00:01:40,158
+video shooting I wanted to do editing I
+
+52
+00:01:38,519 --> 00:01:42,757
+wanted to do blog posts I wanted to
+
+53
+00:01:40,159 --> 00:01:44,960
+write things I wanted to read Etc and I
+
+54
+00:01:42,759 --> 00:01:46,719
+actually went hour by hour and said okay
+
+55
+00:01:44,959 --> 00:01:48,717
+Monday morning I'm going to write 500
+
+56
+00:01:46,718 --> 00:01:50,039
+words for this post I'm going to work on
+
+57
+00:01:48,718 --> 00:01:51,999
+uh then I'm going to start working on a
+
+58
+00:01:50,040 --> 00:01:55,639
+video I've got an interview to do this
+
+59
+00:01:52,000 --> 00:01:57,639
+is all scheduled out and my intent was
+
+60
+00:01:55,640 --> 00:01:59,880
+that I would be externalizing some of
+
+61
+00:01:57,640 --> 00:02:01,200
+the motivation to do all this work and
+
+62
+00:01:59,879 --> 00:02:02,599
+and I was hoping that I would be more
+
+63
+00:02:01,200 --> 00:02:04,799
+productive because I would have this
+
+64
+00:02:02,599 --> 00:02:06,438
+preset schedule that was driving me
+
+65
+00:02:04,799 --> 00:02:08,840
+forward instead of me having to make a
+
+66
+00:02:06,438 --> 00:02:10,559
+decision every time I finish a task now
+
+67
+00:02:08,840 --> 00:02:12,598
+I knew going into the time boxing
+
+68
+00:02:10,560 --> 00:02:14,760
+experiment that this first week was
+
+69
+00:02:12,598 --> 00:02:17,078
+going to be inaccurate because there's
+
+70
+00:02:14,759 --> 00:02:18,877
+this thing called the fudge ratio and a
+
+71
+00:02:17,080 --> 00:02:20,560
+fudge ratio is the difference between
+
+72
+00:02:18,878 --> 00:02:22,358
+your mind's estimate of how long it's
+
+73
+00:02:20,560 --> 00:02:24,318
+going to take to do a task and the
+
+74
+00:02:22,360 --> 00:02:26,480
+actual amount of time it does take and
+
+75
+00:02:24,318 --> 00:02:28,198
+the problem with human brains is we
+
+76
+00:02:26,479 --> 00:02:30,958
+can't differentiate between best case
+
+77
+00:02:28,199 --> 00:02:32,399
+scenario and the average case scenario
+
+78
+00:02:30,959 --> 00:02:34,760
+so when we estimate the time it's going
+
+79
+00:02:32,400 --> 00:02:36,279
+to take to do something we think of the
+
+80
+00:02:34,759 --> 00:02:37,638
+average case like I think on average
+
+81
+00:02:36,280 --> 00:02:39,480
+it's going to take me 15 minutes to get
+
+82
+00:02:37,639 --> 00:02:41,158
+to work but our our minds are actually
+
+83
+00:02:39,479 --> 00:02:42,639
+generating a best case scenario because
+
+84
+00:02:41,158 --> 00:02:44,597
+we don't think of things that can go
+
+85
+00:02:42,639 --> 00:02:46,799
+wrong and things do go wrong in the real
+
+86
+00:02:44,598 --> 00:02:48,878
+world and we can't really think about
+
+87
+00:02:46,800 --> 00:02:51,878
+these things that happened beforehand so
+
+88
+00:02:48,878 --> 00:02:54,038
+hence the fudge ratio the time it takes
+
+89
+00:02:51,878 --> 00:02:56,278
+beyond your initial estimate it's also
+
+90
+00:02:54,039 --> 00:02:57,878
+called Hoffer's law so Douglas Hoffer
+
+91
+00:02:56,280 --> 00:02:59,598
+the author of a book on my shelf godell
+
+92
+00:02:57,878 --> 00:03:02,439
+ebach and a couple of other books said
+
+93
+00:02:59,598 --> 00:03:03,798
+that hofstetter's law is um you know
+
+94
+00:03:02,439 --> 00:03:05,718
+take your time estimate for something
+
+95
+00:03:03,799 --> 00:03:07,158
+and double it even if you're taking into
+
+96
+00:03:05,719 --> 00:03:09,517
+account hoffet law already so it's kind
+
+97
+00:03:07,158 --> 00:03:12,558
+of recursive and a torous but it does
+
+98
+00:03:09,519 --> 00:03:14,318
+have a good point that you need to um
+
+99
+00:03:12,560 --> 00:03:15,798
+take your initial estimates and give it
+
+100
+00:03:14,318 --> 00:03:17,198
+a fudge ratio so it's probably going to
+
+101
+00:03:15,799 --> 00:03:18,799
+taking a little bit longer I tried to
+
+102
+00:03:17,199 --> 00:03:20,279
+implement a fudge ratio into my time
+
+103
+00:03:18,799 --> 00:03:22,319
+boxing experiment but I knew I wouldn't
+
+104
+00:03:20,280 --> 00:03:24,159
+be perfect and as I went through as you
+
+105
+00:03:22,318 --> 00:03:25,999
+can see here on the screen there are a
+
+106
+00:03:24,158 --> 00:03:28,518
+lot of boxes later on in the week that
+
+107
+00:03:26,000 --> 00:03:30,559
+weren't checked off and there's a Common
+
+108
+00:03:28,519 --> 00:03:33,640
+Thread between those boxes the common
+
+109
+00:03:30,560 --> 00:03:35,920
+thread being these tasks were creative
+
+110
+00:03:33,639 --> 00:03:37,797
+thought intensive tasks and I didn't
+
+111
+00:03:35,919 --> 00:03:39,639
+give them enough time for two reasons
+
+112
+00:03:37,799 --> 00:03:41,319
+the first one and the base reason is I
+
+113
+00:03:39,639 --> 00:03:43,359
+just didn't schedule enough time I
+
+114
+00:03:41,318 --> 00:03:45,359
+didn't give these tasks the respect they
+
+115
+00:03:43,360 --> 00:03:47,640
+deserved as somebody who's been writing
+
+116
+00:03:45,360 --> 00:03:48,959
+for about 4 and a half years now I sort
+
+117
+00:03:47,639 --> 00:03:50,877
+of assume that I'm going to be able to
+
+118
+00:03:48,959 --> 00:03:52,519
+create something really really good in a
+
+119
+00:03:50,878 --> 00:03:54,199
+short amount of time but when I'm
+
+120
+00:03:52,519 --> 00:03:55,760
+wrangling Concepts that I don't know a
+
+121
+00:03:54,199 --> 00:03:58,437
+whole lot about and when I need to do
+
+122
+00:03:55,759 --> 00:04:00,077
+research and learn it does take longer
+
+123
+00:03:58,438 --> 00:04:01,478
+and the other thing is I really
+
+124
+00:04:00,079 --> 00:04:04,079
+sandwiched these creative thought
+
+125
+00:04:01,479 --> 00:04:05,318
+intensive tasks between other things and
+
+126
+00:04:04,079 --> 00:04:06,799
+the other things weren't always
+
+127
+00:04:05,318 --> 00:04:08,597
+perfectly efficient I might not have
+
+128
+00:04:06,799 --> 00:04:10,480
+gotten something done the exact time
+
+129
+00:04:08,598 --> 00:04:11,798
+that I scheduled it so it sort of uh
+
+130
+00:04:10,479 --> 00:04:13,918
+eats into the time that I've already
+
+131
+00:04:11,799 --> 00:04:15,759
+scheduled for the creative task and as a
+
+132
+00:04:13,919 --> 00:04:16,918
+result my brain goes I don't have time
+
+133
+00:04:15,759 --> 00:04:18,598
+to think about you know I don't have
+
+134
+00:04:16,918 --> 00:04:20,398
+time to really dive into this creative
+
+135
+00:04:18,600 --> 00:04:21,840
+task I'm just not going to work on it
+
+136
+00:04:20,399 --> 00:04:23,318
+and this is something that I learned
+
+137
+00:04:21,839 --> 00:04:25,477
+during the time boxing experiment so if
+
+138
+00:04:23,319 --> 00:04:27,359
+I do this again I know going forward
+
+139
+00:04:25,478 --> 00:04:29,279
+that I have to respect the creative
+
+140
+00:04:27,360 --> 00:04:31,400
+tasks I have to give them the time that
+
+141
+00:04:29,279 --> 00:04:33,158
+they deserve deserve so here is the best
+
+142
+00:04:31,399 --> 00:04:35,719
+way that you can Implement my experience
+
+143
+00:04:33,160 --> 00:04:38,400
+into your own life number one think of
+
+144
+00:04:35,720 --> 00:04:40,199
+your tasks in context there's two
+
+145
+00:04:38,399 --> 00:04:42,679
+different contexts that I see for task
+
+146
+00:04:40,199 --> 00:04:44,840
+management one is high thought intensity
+
+147
+00:04:42,680 --> 00:04:46,758
+tasks tasks that really require you to
+
+148
+00:04:44,839 --> 00:04:48,519
+think buckle down and reach and these
+
+149
+00:04:46,759 --> 00:04:51,239
+tasks require a lot of time and
+
+150
+00:04:48,519 --> 00:04:53,318
+dedicated effort uninterrupted work time
+
+151
+00:04:51,240 --> 00:04:55,280
+there's also low intensity tasks things
+
+152
+00:04:53,319 --> 00:04:57,399
+like doing your laundry going to eat
+
+153
+00:04:55,279 --> 00:04:59,719
+with friends going to class there's just
+
+154
+00:04:57,399 --> 00:05:01,879
+things that don't require as much mental
+
+155
+00:04:59,720 --> 00:05:04,319
+reaching and the best thing that you can
+
+156
+00:05:01,879 --> 00:05:06,757
+do to really set yourself up for Success
+
+157
+00:05:04,319 --> 00:05:09,439
+on the high-intensity tasks is batch the
+
+158
+00:05:06,759 --> 00:05:11,400
+low intensity tasks so plan your week
+
+159
+00:05:09,439 --> 00:05:13,958
+ahead in advance maybe take Sunday to do
+
+160
+00:05:11,399 --> 00:05:15,399
+a whole week of planning if you can and
+
+161
+00:05:13,959 --> 00:05:17,478
+think about what are all these low
+
+162
+00:05:15,399 --> 00:05:20,278
+intensity tasks that I need to get done
+
+163
+00:05:17,478 --> 00:05:22,998
+and how can I squeeze them into as few
+
+164
+00:05:20,279 --> 00:05:25,838
+sections or segments of work as possible
+
+165
+00:05:23,000 --> 00:05:27,759
+doing this lets you have open time for
+
+166
+00:05:25,839 --> 00:05:29,718
+the high-intensity tasks time that you
+
+167
+00:05:27,759 --> 00:05:31,440
+need to really dive in and work hard
+
+168
+00:05:29,720 --> 00:05:33,880
+hard the other thing you can do is to do
+
+169
+00:05:31,439 --> 00:05:36,879
+regular self- evaluations to see what
+
+170
+00:05:33,879 --> 00:05:39,917
+times of the day you are best primed to
+
+171
+00:05:36,879 --> 00:05:41,839
+do high intensity tasks so maybe you are
+
+172
+00:05:39,918 --> 00:05:43,519
+a really good morning writer or somebody
+
+173
+00:05:41,839 --> 00:05:44,879
+who can study well in the early morning
+
+174
+00:05:43,519 --> 00:05:46,159
+maybe it's early afternoon for you or
+
+175
+00:05:44,879 --> 00:05:47,959
+maybe you're a night out and you found
+
+176
+00:05:46,160 --> 00:05:51,038
+that like wow it's midnight to 1:00 a.m.
+
+177
+00:05:47,959 --> 00:05:53,239
+and this is like my on fire time but be
+
+178
+00:05:51,038 --> 00:05:54,917
+deliberate in paying attention to those
+
+179
+00:05:53,240 --> 00:05:56,759
+times because when you do that you can
+
+180
+00:05:54,918 --> 00:05:58,239
+intelligently schedule your classes your
+
+181
+00:05:56,759 --> 00:06:00,080
+social life and your work schedule
+
+182
+00:05:58,240 --> 00:06:01,960
+around that to leave un interrupted
+
+183
+00:06:00,079 --> 00:06:03,317
+blocks of time at those optimal time of
+
+184
+00:06:01,959 --> 00:06:05,197
+the day and if you notice the awkward
+
+185
+00:06:03,319 --> 00:06:07,239
+jump cut there well I kind of forgot the
+
+186
+00:06:05,199 --> 00:06:09,079
+exact linage but it works right so those
+
+187
+00:06:07,240 --> 00:06:10,720
+are the main ideas in this video number
+
+188
+00:06:09,079 --> 00:06:13,399
+one creating things of value and
+
+189
+00:06:10,720 --> 00:06:16,160
+learning difficult material both require
+
+190
+00:06:13,399 --> 00:06:18,597
+going to intellectual combat as Cal says
+
+191
+00:06:16,160 --> 00:06:20,959
+you have to respect the task you have to
+
+192
+00:06:18,598 --> 00:06:22,758
+give it the time it deserves and don't
+
+193
+00:06:20,959 --> 00:06:24,478
+allow yourself to be interrupted during
+
+194
+00:06:22,759 --> 00:06:26,479
+that work time the other two ideas are
+
+195
+00:06:24,478 --> 00:06:28,519
+supporting this main idea number one
+
+196
+00:06:26,478 --> 00:06:30,678
+look at your tasks in term of context
+
+197
+00:06:28,519 --> 00:06:32,879
+and try to batch the low intensity ones
+
+198
+00:06:30,680 --> 00:06:34,400
+and secondly try to evaluate what the
+
+199
+00:06:32,879 --> 00:06:36,318
+best times of the day are for you to
+
+200
+00:06:34,399 --> 00:06:37,758
+work by deliberately implementing these
+
+201
+00:06:36,319 --> 00:06:39,160
+ideas into your life you're going to be
+
+202
+00:06:37,759 --> 00:06:41,840
+a lot more efficient in your studying
+
+203
+00:06:39,160 --> 00:06:41,840
+and get a lot more
+
+204
+00:06:42,720 --> 00:06:46,478
+done hey thanks for watching my video If
+
+205
+00:06:45,079 --> 00:06:47,757
+you enjoyed it then you can support me
+
+206
+00:06:46,478 --> 00:06:49,038
+by giving it a like on YouTube or
+
+207
+00:06:47,759 --> 00:06:50,479
+sharing it with a friend if you want to
+
+208
+00:06:49,038 --> 00:06:51,839
+get more videos just like this every
+
+209
+00:06:50,478 --> 00:06:53,358
+single week on being a better college
+
+210
+00:06:51,839 --> 00:06:55,318
+student then click the Subscribe button
+
+211
+00:06:53,360 --> 00:06:56,520
+right there if you missed the last video
+
+212
+00:06:55,319 --> 00:06:57,919
+a clip of it is playing right below
+
+213
+00:06:56,519 --> 00:06:59,239
+there and you can click that to watch it
+
+214
+00:06:57,918 --> 00:07:00,438
+also you can get a summary in links to
+
+215
+00:06:59,240 --> 00:07:02,159
+anything I mentioned in the video by
+
+216
+00:07:00,439 --> 00:07:03,478
+going to the companion blog post which
+
+217
+00:07:02,160 --> 00:07:05,120
+you can find by clicking on the orange
+
+218
+00:07:03,478 --> 00:07:06,398
+logo right there lastly if you want to
+
+219
+00:07:05,120 --> 00:07:07,720
+get a free chapter of my book that it
+
+220
+00:07:06,399 --> 00:07:09,079
+comes out then you can click that book
+
+221
+00:07:07,720 --> 00:07:10,519
+and subscribe to the College of
+
+222
+00:07:09,079 --> 00:07:12,279
+newsletter you'll also get notified when
+
+223
+00:07:10,519 --> 00:07:13,878
+new podcast episodes and blog posts come
+
+224
+00:07:12,279 --> 00:07:15,118
+out every week lastly if you have ideas
+
+225
+00:07:13,879 --> 00:07:16,680
+for new videos or you just want to
+
+226
+00:07:15,120 --> 00:07:21,280
+connect with me you can do so on Twitter
+
+227
+00:07:16,680 --> 00:07:21,279
+or leave a comment on this video thanks
+

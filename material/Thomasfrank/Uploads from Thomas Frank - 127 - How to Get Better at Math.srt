@@ -1,0 +1,1308 @@
+1
+00:00:00,030 --> 00:00:02,908
+if I asked you to think of a really
+
+2
+00:00:01,078 --> 00:00:03,871
+tough problem what is the first thing
+
+3
+00:00:02,939 --> 00:00:03,629
+that comes to mind oh if you're anything
+
+4
+00:00:04,950 --> 00:00:08,760
+like me you probably thought of some big
+
+5
+00:00:06,569 --> 00:00:10,019
+complex math equation right for most
+
+6
+00:00:08,759 --> 00:00:11,758
+people math seems like one of the most
+
+7
+00:00:10,019 --> 00:00:13,860
+difficult subjects out there it's
+
+8
+00:00:11,759 --> 00:00:15,388
+abstract it's complex and unfortunately
+
+9
+00:00:13,859 --> 00:00:17,037
+for those reasons a lot of people adopt
+
+10
+00:00:15,388 --> 00:00:19,198
+the belief that they're just not math
+
+11
+00:00:17,039 --> 00:00:21,359
+people which is patently untrue because
+
+12
+00:00:19,199 --> 00:00:23,099
+math is a skill that can be learned just
+
+13
+00:00:21,359 --> 00:00:24,569
+like any other but since you clicked on
+
+14
+00:00:23,100 --> 00:00:25,890
+this video hopefully you are not one of
+
+15
+00:00:24,570 --> 00:00:27,480
+those people hopefully we have at least
+
+16
+00:00:25,890 --> 00:00:29,160
+some degree of belief that you can
+
+17
+00:00:27,480 --> 00:00:31,410
+become better at math and you have the
+
+18
+00:00:29,160 --> 00:00:33,870
+motivation to do so and if you do the
+
+19
+00:00:31,410 --> 00:00:36,059
+obvious question is how do you get
+
+20
+00:00:33,869 --> 00:00:37,558
+better at math well fortunately this is
+
+21
+00:00:36,058 --> 00:00:39,627
+one of those questions that has a pretty
+
+22
+00:00:37,558 --> 00:00:41,968
+simple answer you want to get better at
+
+23
+00:00:39,628 --> 00:00:43,738
+math you have to do lots and lots of
+
+24
+00:00:41,969 --> 00:00:45,899
+math and the tougher the problems are
+
+25
+00:00:43,738 --> 00:00:47,549
+the better because tough problems will
+
+26
+00:00:45,899 --> 00:00:49,468
+stretch your understanding and lead you
+
+27
+00:00:47,549 --> 00:00:50,819
+to new breakthroughs but in the course
+
+28
+00:00:49,469 --> 00:00:52,230
+of studying math and working through
+
+29
+00:00:50,820 --> 00:00:53,578
+these tough problems you are eventually
+
+30
+00:00:52,229 --> 00:00:55,169
+going to come to problems that just
+
+31
+00:00:53,579 --> 00:00:56,760
+stumped you that you could completely
+
+32
+00:00:55,170 --> 00:00:58,170
+stuck on and when you get to these
+
+33
+00:00:56,759 --> 00:01:00,029
+points it's important to know how to
+
+34
+00:00:58,170 --> 00:01:01,770
+eventually solve these problems because
+
+35
+00:01:00,030 --> 00:01:04,350
+these are the ones that are really going
+
+36
+00:01:01,770 --> 00:01:05,819
+to stretch and build your skill set so
+
+37
+00:01:04,349 --> 00:01:07,408
+that is what I want to focus on in this
+
+38
+00:01:05,819 --> 00:01:08,789
+video I want to give you some practical
+
+39
+00:01:07,409 --> 00:01:10,679
+techniques for working through and
+
+40
+00:01:08,790 --> 00:01:13,169
+eventually solving those problems that
+
+41
+00:01:10,680 --> 00:01:14,369
+seem insurmountable at first to start I
+
+42
+00:01:13,170 --> 00:01:16,049
+want to focus on a piece of advice that
+
+43
+00:01:14,368 --> 00:01:18,808
+the Hungarian mathematician George Poe a
+
+44
+00:01:16,049 --> 00:01:20,610
+shared is a 1945 book how to solved it
+
+45
+00:01:18,810 --> 00:01:22,319
+goes if you can't solve a problem then
+
+46
+00:01:20,609 --> 00:01:25,589
+there is an easier problem that you can
+
+47
+00:01:22,319 --> 00:01:27,628
+solve find it this is in my opinion the
+
+48
+00:01:25,590 --> 00:01:29,250
+most important technique to understand
+
+49
+00:01:27,629 --> 00:01:30,838
+and put into practice when you're trying
+
+50
+00:01:29,250 --> 00:01:33,809
+to solve tough math problems because
+
+51
+00:01:30,840 --> 00:01:35,880
+math builds upon itself more complex
+
+52
+00:01:33,810 --> 00:01:37,530
+concepts are built upon simpler concepts
+
+53
+00:01:35,879 --> 00:01:39,088
+and if you don't have a strong grasp on
+
+54
+00:01:37,530 --> 00:01:40,949
+the fundamental principles then a more
+
+55
+00:01:39,090 --> 00:01:42,868
+complex problem is going to likely
+
+56
+00:01:40,950 --> 00:01:44,789
+stumped you so if you come across a
+
+57
+00:01:42,868 --> 00:01:46,618
+problem that you can't solve first
+
+58
+00:01:44,790 --> 00:01:48,929
+identify the components or the
+
+59
+00:01:46,618 --> 00:01:51,058
+operations that it wants you to carry
+
+60
+00:01:48,930 --> 00:01:52,590
+out a lot of times complex problems will
+
+61
+00:01:51,060 --> 00:01:54,329
+have multiple now what you can do in
+
+62
+00:01:52,590 --> 00:01:56,908
+this case is split the problem into
+
+63
+00:01:54,328 --> 00:01:59,699
+multiple problems that isolate just one
+
+64
+00:01:56,909 --> 00:02:01,139
+of those components or operations I want
+
+65
+00:01:59,700 --> 00:02:02,999
+to show you this concept in action so
+
+66
+00:02:01,140 --> 00:02:04,320
+let's work through a quick example now I
+
+67
+00:02:03,000 --> 00:02:05,908
+did have one example picked out that
+
+68
+00:02:04,319 --> 00:02:07,738
+would be pretty easy but it ended up
+
+69
+00:02:05,909 --> 00:02:09,090
+being a little bit too easy so let's do
+
+70
+00:02:07,739 --> 00:02:10,727
+something a little bit more complicated
+
+71
+00:02:09,090 --> 00:02:12,080
+so this is a sum
+
+72
+00:02:10,729 --> 00:02:13,849
+problem which uses the Greek symbol
+
+73
+00:02:12,080 --> 00:02:15,709
+Sigma and it essentially says that we're
+
+74
+00:02:13,848 --> 00:02:17,689
+going to add up a series of expressions
+
+75
+00:02:15,709 --> 00:02:20,598
+that use a variable starting at 1 and
+
+76
+00:02:17,689 --> 00:02:22,817
+ending at 4 but if you notice this
+
+77
+00:02:20,598 --> 00:02:24,529
+summation problem also has a fractional
+
+78
+00:02:22,818 --> 00:02:25,789
+exponent in it now maybe some of you
+
+79
+00:02:24,530 --> 00:02:27,500
+math was out there I could do this kind
+
+80
+00:02:25,789 --> 00:02:29,237
+of a problem in your sleep but it's also
+
+81
+00:02:27,500 --> 00:02:31,669
+possibly the case that you don't have a
+
+82
+00:02:29,239 --> 00:02:33,500
+really firm grasp on either summation or
+
+83
+00:02:31,669 --> 00:02:34,939
+fractional exponents so when you're
+
+84
+00:02:33,500 --> 00:02:37,220
+working a problem that combines the two
+
+85
+00:02:34,939 --> 00:02:38,659
+of them you might get stuck so assuming
+
+86
+00:02:37,219 --> 00:02:40,399
+that's the case let's break this problem
+
+87
+00:02:38,659 --> 00:02:42,317
+into two simpler problems that each
+
+88
+00:02:40,400 --> 00:02:44,419
+focus on just one of the underlying
+
+89
+00:02:42,318 --> 00:02:45,979
+concepts first let's create a simpler
+
+90
+00:02:44,419 --> 00:02:47,268
+summation problem that just gets rid of
+
+91
+00:02:45,979 --> 00:02:49,369
+that fractional exponent all together
+
+92
+00:02:47,269 --> 00:02:51,499
+now all we have to do is evaluate that
+
+93
+00:02:49,370 --> 00:02:53,120
+expression for x and then add up the
+
+94
+00:02:51,500 --> 00:02:55,790
+answers which gets us to a final answer
+
+95
+00:02:53,120 --> 00:02:57,259
+of 66 and now let's move on to the
+
+96
+00:02:55,789 --> 00:02:58,759
+fractional exponent now I'm gonna go
+
+97
+00:02:57,259 --> 00:03:00,439
+pretty quick here because this is not a
+
+98
+00:02:58,759 --> 00:03:02,419
+lesson on fractional exponents but
+
+99
+00:03:00,439 --> 00:03:04,517
+essentially you can rewrite this as 4 to
+
+100
+00:03:02,419 --> 00:03:06,378
+the power of 3 times the power of 1/2
+
+101
+00:03:04,519 --> 00:03:08,390
+and then you can rewrite that again to
+
+102
+00:03:06,378 --> 00:03:10,098
+the square root of 4 to the power of 3
+
+103
+00:03:08,389 --> 00:03:12,469
+and once you evaluate that you get an
+
+104
+00:03:10,098 --> 00:03:14,237
+answer of 8 now the whole point of
+
+105
+00:03:12,469 --> 00:03:16,279
+working these simpler single concept
+
+106
+00:03:14,239 --> 00:03:17,989
+problems is to master the underlying
+
+107
+00:03:16,280 --> 00:03:19,730
+concept or operation that you're working
+
+108
+00:03:17,989 --> 00:03:21,049
+on here so if you solve a few and you
+
+109
+00:03:19,729 --> 00:03:23,298
+still don't feel really confident on
+
+110
+00:03:21,049 --> 00:03:25,880
+that concept keep working it until you
+
+111
+00:03:23,299 --> 00:03:27,380
+do remember mastery means not being able
+
+112
+00:03:25,879 --> 00:03:28,999
+to get it wrong not just getting it
+
+113
+00:03:27,379 --> 00:03:30,318
+right once anyway once you've mastered
+
+114
+00:03:29,000 --> 00:03:32,000
+those underlying components in an
+
+115
+00:03:30,318 --> 00:03:33,528
+isolated setting now you can come back
+
+116
+00:03:32,000 --> 00:03:34,970
+to the more complicated problem that
+
+117
+00:03:33,530 --> 00:03:36,500
+combines them at this point you should
+
+118
+00:03:34,969 --> 00:03:37,909
+be able to work those isolated concepts
+
+119
+00:03:36,500 --> 00:03:39,138
+in your sleep which means that all of
+
+120
+00:03:37,909 --> 00:03:41,417
+your mental processing power can go
+
+121
+00:03:39,139 --> 00:03:43,339
+towards the new and novel problem of how
+
+122
+00:03:41,419 --> 00:03:44,810
+they work in tandem now there is one
+
+123
+00:03:43,340 --> 00:03:46,250
+additional way of simplifying tough
+
+124
+00:03:44,810 --> 00:03:47,510
+problems that I want to talk about and
+
+125
+00:03:46,250 --> 00:03:48,919
+you might have already guessed it if you
+
+126
+00:03:47,509 --> 00:03:51,499
+paid really close attention to the
+
+127
+00:03:48,919 --> 00:03:53,209
+examples I didn't use really complex
+
+128
+00:03:51,500 --> 00:03:54,709
+numbers I didn't use long numbers I
+
+129
+00:03:53,209 --> 00:03:56,810
+didn't use decimal points I didn't use
+
+130
+00:03:54,709 --> 00:03:58,579
+big fractions and I stuck to a low limit
+
+131
+00:03:56,810 --> 00:04:00,290
+on my summation problem really complex
+
+132
+00:03:58,579 --> 00:04:01,878
+big numbers with lots of decimal points
+
+133
+00:04:00,289 --> 00:04:03,858
+can distract your attention away from
+
+134
+00:04:01,878 --> 00:04:05,898
+the concepts and the operations that
+
+135
+00:04:03,859 --> 00:04:07,430
+you're supposed to be practicing so if
+
+136
+00:04:05,900 --> 00:04:09,500
+you're stuck on a tough problem that has
+
+137
+00:04:07,430 --> 00:04:11,239
+these kinds of numbers go work a similar
+
+138
+00:04:09,500 --> 00:04:13,160
+problem with really small whole numbers
+
+139
+00:04:11,239 --> 00:04:15,708
+that are easy to add or operate in your
+
+140
+00:04:13,159 --> 00:04:18,018
+head that way you can really zero in on
+
+141
+00:04:15,709 --> 00:04:19,728
+the actual concepts of course sometimes
+
+142
+00:04:18,019 --> 00:04:21,079
+you have to shake even understanding of
+
+143
+00:04:19,728 --> 00:04:22,449
+the concepts and operations themselves
+
+144
+00:04:21,079 --> 00:04:23,979
+food actually
+
+145
+00:04:22,449 --> 00:04:25,989
+work with them and solve that problem
+
+146
+00:04:23,980 --> 00:04:27,609
+and in that case it's time to go do some
+
+147
+00:04:25,990 --> 00:04:28,990
+learning go dig into your book look
+
+148
+00:04:27,610 --> 00:04:30,429
+through your notes or find example
+
+149
+00:04:28,990 --> 00:04:32,619
+problems online you can follow along
+
+150
+00:04:30,430 --> 00:04:34,269
+with step by step so you can see how
+
+151
+00:04:32,620 --> 00:04:36,550
+people are getting to the solutions
+
+152
+00:04:34,269 --> 00:04:37,719
+using these concepts and if you need to
+
+153
+00:04:36,550 --> 00:04:39,699
+you can actually get a step-by-step
+
+154
+00:04:37,720 --> 00:04:41,320
+solution to the exact problem you're
+
+155
+00:04:39,699 --> 00:04:42,848
+working on as well there are several
+
+156
+00:04:41,319 --> 00:04:44,259
+tools out there that you can use to do
+
+157
+00:04:42,850 --> 00:04:46,059
+this but the two that I want to focus on
+
+158
+00:04:44,259 --> 00:04:48,098
+in this video which are the best ones
+
+159
+00:04:46,060 --> 00:04:50,350
+I've been able to find our Wolfram Alpha
+
+160
+00:04:48,100 --> 00:04:51,729
+and Simba lab both of these websites
+
+161
+00:04:50,350 --> 00:04:53,979
+will allow you to type in an equation
+
+162
+00:04:51,730 --> 00:04:56,170
+and get an answer and also give up and
+
+163
+00:04:53,980 --> 00:04:57,970
+symbolize that you can follow along with
+
+164
+00:04:56,170 --> 00:04:59,799
+the difference between the two is that
+
+165
+00:04:57,970 --> 00:05:02,170
+Wolfram Alpha while being much more
+
+166
+00:04:59,800 --> 00:05:04,240
+powerful and capable does require you to
+
+167
+00:05:02,170 --> 00:05:06,219
+be part of their paid plan if you want
+
+168
+00:05:04,240 --> 00:05:07,599
+to get those step-by-step solutions by
+
+169
+00:05:06,220 --> 00:05:09,190
+contrast well I found that typing in
+
+170
+00:05:07,600 --> 00:05:10,840
+equations into simple AB was a little
+
+171
+00:05:09,189 --> 00:05:12,729
+bit slower and less intuitive than it is
+
+172
+00:05:10,839 --> 00:05:15,098
+with Wolfram Alpha they're step-by-step
+
+173
+00:05:12,730 --> 00:05:16,390
+solutions are free regardless of the
+
+174
+00:05:15,100 --> 00:05:18,040
+tool that you choose to use here the
+
+175
+00:05:16,389 --> 00:05:19,929
+underlying point is that sometimes it
+
+176
+00:05:18,040 --> 00:05:21,730
+can be useful to see a step-by-step
+
+177
+00:05:19,930 --> 00:05:23,979
+solution for a problem you're stuck on
+
+178
+00:05:21,730 --> 00:05:26,109
+but there are two very important caveats
+
+179
+00:05:23,980 --> 00:05:27,460
+here first and foremost before you go
+
+180
+00:05:26,110 --> 00:05:30,190
+running off to find a solution ask
+
+181
+00:05:27,459 --> 00:05:32,018
+yourself honestly have I pushed my brain
+
+182
+00:05:30,189 --> 00:05:33,818
+to limit trying to solve this problem
+
+183
+00:05:32,019 --> 00:05:35,528
+first expending the mental effort
+
+184
+00:05:33,819 --> 00:05:37,269
+required to solve the problem yourself
+
+185
+00:05:35,529 --> 00:05:38,109
+is going to stretch your capabilities
+
+186
+00:05:37,269 --> 00:05:39,759
+it's gonna make you a better
+
+187
+00:05:38,110 --> 00:05:41,949
+mathematician in a way that just looking
+
+188
+00:05:39,759 --> 00:05:43,749
+through solutions won't now if you do
+
+189
+00:05:41,949 --> 00:05:45,549
+need to look up a solution that's fine
+
+190
+00:05:43,750 --> 00:05:47,259
+look it up follow the steps and make
+
+191
+00:05:45,550 --> 00:05:49,329
+sure you understand how the answer was
+
+192
+00:05:47,259 --> 00:05:51,699
+arrived at but once you've done that
+
+193
+00:05:49,329 --> 00:05:53,529
+challenge yourself to go back and rework
+
+194
+00:05:51,699 --> 00:05:55,509
+the problem without looking at that
+
+195
+00:05:53,529 --> 00:05:57,069
+reference it is really important to say
+
+196
+00:05:55,509 --> 00:05:58,569
+vigilant about this because if you want
+
+197
+00:05:57,069 --> 00:06:00,368
+to get better at math the whole point is
+
+198
+00:05:58,569 --> 00:06:01,809
+to master the concepts that you're
+
+199
+00:06:00,370 --> 00:06:03,490
+working with the danger that comes with
+
+200
+00:06:01,810 --> 00:06:05,319
+looking up solutions is that with math
+
+201
+00:06:03,490 --> 00:06:07,389
+it's really easy to follow along with a
+
+202
+00:06:05,319 --> 00:06:09,189
+step-by-step solution and comprehend
+
+203
+00:06:07,389 --> 00:06:10,869
+what's going on but that is very
+
+204
+00:06:09,189 --> 00:06:13,149
+different than being able to do it on
+
+205
+00:06:10,870 --> 00:06:14,350
+your own and that brings me to my final
+
+206
+00:06:13,149 --> 00:06:16,209
+tip for you and this is especially
+
+207
+00:06:14,350 --> 00:06:18,220
+important for anybody in a math class
+
+208
+00:06:16,209 --> 00:06:20,228
+working through assigned homework
+
+209
+00:06:18,220 --> 00:06:22,030
+don't rush when you work through math
+
+210
+00:06:20,230 --> 00:06:23,410
+problems I know it's really tempting to
+
+211
+00:06:22,029 --> 00:06:24,908
+try to work through homework as fast as
+
+212
+00:06:23,410 --> 00:06:26,740
+you can and heck I even made a video
+
+213
+00:06:24,910 --> 00:06:28,360
+about it pretty recently but with math
+
+214
+00:06:26,740 --> 00:06:30,970
+and science and any sort of really
+
+215
+00:06:28,360 --> 00:06:33,190
+complex subject especially rushing is
+
+216
+00:06:30,970 --> 00:06:35,449
+only going to hurt you down the road
+
+217
+00:06:33,189 --> 00:06:37,068
+because when you rush you don't matter
+
+218
+00:06:35,449 --> 00:06:38,598
+for the concepts you just brute force
+
+219
+00:06:37,069 --> 00:06:40,098
+your way to answers or you look things
+
+220
+00:06:38,598 --> 00:06:41,209
+up or you otherwise kind of Chiti face
+
+221
+00:06:40,098 --> 00:06:42,859
+your way to a completed homework
+
+222
+00:06:41,209 --> 00:06:44,269
+assignment and later on when you're
+
+223
+00:06:42,860 --> 00:06:45,408
+sitting in a testing room or you have to
+
+224
+00:06:44,269 --> 00:06:47,088
+apply what you've learned in the real
+
+225
+00:06:45,408 --> 00:06:49,459
+world you are gonna get a harsh lesson
+
+226
+00:06:47,088 --> 00:06:51,318
+about exactly what it is you don't know
+
+227
+00:06:49,459 --> 00:06:52,579
+so let's recap here if you want to get
+
+228
+00:06:51,319 --> 00:06:53,900
+better at math and you want to improve
+
+229
+00:06:52,579 --> 00:06:56,657
+your ability to solve those really tough
+
+230
+00:06:53,899 --> 00:06:58,637
+problems first identify the combination
+
+231
+00:06:56,658 --> 00:07:00,917
+of concepts or operations being used in
+
+232
+00:06:58,639 --> 00:07:02,569
+a problem and then isolate them work
+
+233
+00:07:00,918 --> 00:07:04,937
+simpler problems that use just one and
+
+234
+00:07:02,569 --> 00:07:06,319
+then master each concept you can also
+
+235
+00:07:04,939 --> 00:07:07,909
+simplify the problem by leaving the
+
+236
+00:07:06,319 --> 00:07:09,680
+combination of concepts intact but
+
+237
+00:07:07,908 --> 00:07:11,028
+swapping in smaller easier to handle
+
+238
+00:07:09,680 --> 00:07:12,769
+numbers if you need help with the
+
+239
+00:07:11,028 --> 00:07:14,387
+concepts themselves go to your book or
+
+240
+00:07:12,769 --> 00:07:16,007
+an explainer article online look up
+
+241
+00:07:14,389 --> 00:07:17,719
+sample problems or use a tool like
+
+242
+00:07:16,009 --> 00:07:19,699
+Wolfram Alpha or symbol AB to get
+
+243
+00:07:17,718 --> 00:07:21,887
+step-by-step solutions to the problem
+
+244
+00:07:19,699 --> 00:07:23,389
+you're working on and finally don't rush
+
+245
+00:07:21,889 --> 00:07:24,800
+through your homework assignments make
+
+246
+00:07:23,389 --> 00:07:26,839
+sure you're focusing intently on
+
+247
+00:07:24,800 --> 00:07:28,699
+mastering the concepts not just
+
+248
+00:07:26,838 --> 00:07:30,137
+finishing hopefully these tips will give
+
+249
+00:07:28,699 --> 00:07:31,879
+you the confidence to tackle some really
+
+250
+00:07:30,139 --> 00:07:34,038
+tough math problems and to expand your
+
+251
+00:07:31,879 --> 00:07:35,088
+math skill set and on that note I want
+
+252
+00:07:34,038 --> 00:07:36,978
+to leave you with a quote from the great
+
+253
+00:07:35,088 --> 00:07:38,387
+physicist Richard Feynman who said I
+
+254
+00:07:36,978 --> 00:07:40,038
+don't believe in the idea that there are
+
+255
+00:07:38,389 --> 00:07:41,719
+a few peculiar people capable of
+
+256
+00:07:40,038 --> 00:07:43,877
+understanding math and the rest of the
+
+257
+00:07:41,718 --> 00:07:46,097
+world is normal math is a human
+
+258
+00:07:43,879 --> 00:07:48,199
+discovery and it's no more complicated
+
+259
+00:07:46,098 --> 00:07:50,298
+than humans can understand the bottom
+
+260
+00:07:48,199 --> 00:07:52,159
+line is this ultimately your ability to
+
+261
+00:07:50,300 --> 00:07:53,598
+get good at math and anything else for
+
+262
+00:07:52,158 --> 00:07:55,578
+that matter starts with having the
+
+263
+00:07:53,598 --> 00:07:56,957
+confidence to approach it and as you
+
+264
+00:07:55,579 --> 00:07:58,519
+solve problems and make mental
+
+265
+00:07:56,959 --> 00:08:00,409
+breakthroughs your confidence is going
+
+266
+00:07:58,519 --> 00:08:02,627
+to naturally increase it becomes a
+
+267
+00:08:00,408 --> 00:08:03,437
+self-sustaining cycle if you're
+
+268
+00:08:02,629 --> 00:08:05,359
+interested in starting the cycle
+
+269
+00:08:03,439 --> 00:08:07,008
+learning now a great place to begin your
+
+270
+00:08:05,360 --> 00:08:08,810
+journey is at brilliant a learning
+
+271
+00:08:07,009 --> 00:08:10,038
+platform uses hands-on problem-solving
+
+272
+00:08:08,810 --> 00:08:12,139
+as a basis to help you learn math
+
+273
+00:08:10,038 --> 00:08:13,728
+science and computer science really
+
+274
+00:08:12,139 --> 00:08:14,958
+effectively I'm actually taking their
+
+275
+00:08:13,728 --> 00:08:16,489
+computer science fundamentals course
+
+276
+00:08:14,959 --> 00:08:17,959
+right now and as I was going to the
+
+277
+00:08:16,490 --> 00:08:19,519
+first section of algorithms the quiz
+
+278
+00:08:17,959 --> 00:08:20,870
+questions they gave me forced me to
+
+279
+00:08:19,519 --> 00:08:22,638
+learn new math I had never learned
+
+280
+00:08:20,870 --> 00:08:24,528
+before I had to dig into wiki's and
+
+281
+00:08:22,639 --> 00:08:25,788
+example problems and eventually I had to
+
+282
+00:08:24,528 --> 00:08:27,678
+get out a sheet a notebook paper and
+
+283
+00:08:25,788 --> 00:08:29,268
+literally draw out algorithms step by
+
+284
+00:08:27,680 --> 00:08:31,159
+step so I can understand what was going
+
+285
+00:08:29,269 --> 00:08:32,749
+on this process provided me with a much
+
+286
+00:08:31,158 --> 00:08:34,009
+more intense and effective learning
+
+287
+00:08:32,750 --> 00:08:35,569
+experience than I got sitting through
+
+288
+00:08:34,009 --> 00:08:37,218
+most of my college lectures and these
+
+289
+00:08:35,568 --> 00:08:39,137
+types of challenges that really force
+
+290
+00:08:37,219 --> 00:08:40,310
+you to dig in form the foundation for
+
+291
+00:08:39,139 --> 00:08:43,130
+all of their courses which include
+
+292
+00:08:40,309 --> 00:08:44,818
+probability logic calculus astronomy
+
+293
+00:08:43,129 --> 00:08:46,109
+computer memory and more
+
+294
+00:08:44,820 --> 00:08:47,639
+in addition to the structured courses
+
+295
+00:08:46,110 --> 00:08:48,810
+brilliant also has weekly challenges
+
+296
+00:08:47,639 --> 00:08:50,339
+that you can use to improve your skills
+
+297
+00:08:48,809 --> 00:08:51,529
+as a community where you can talk with
+
+298
+00:08:50,340 --> 00:08:53,790
+other learners and it has a
+
+299
+00:08:51,529 --> 00:08:55,819
+fantastically detailed and helpful wiki
+
+300
+00:08:53,789 --> 00:08:57,779
+with lots of explanations and examples
+
+301
+00:08:55,820 --> 00:08:59,070
+so if you want to get really on a try
+
+302
+00:08:57,779 --> 00:09:00,569
+click the link in the description down
+
+303
+00:08:59,070 --> 00:09:02,159
+below and sign up for free to start
+
+304
+00:09:00,570 --> 00:09:03,779
+learning and as a bonus if you're among
+
+305
+00:09:02,159 --> 00:09:05,909
+the first 200 people to sign up you'll
+
+306
+00:09:03,779 --> 00:09:07,379
+also get 20% off of your annual premium
+
+307
+00:09:05,909 --> 00:09:08,728
+subscription I want to give a huge
+
+308
+00:09:07,379 --> 00:09:09,809
+thanks to brilliant for sponsoring this
+
+309
+00:09:08,730 --> 00:09:11,910
+video and helping to support this
+
+310
+00:09:09,809 --> 00:09:13,858
+channel and as always guys thank you so
+
+311
+00:09:11,909 --> 00:09:15,149
+much for watching if you found this
+
+312
+00:09:13,860 --> 00:09:16,560
+video helpful you can give it a like to
+
+313
+00:09:15,149 --> 00:09:17,789
+support this channel and maybe consider
+
+314
+00:09:16,559 --> 00:09:19,529
+sharing it with a friend who could
+
+315
+00:09:17,789 --> 00:09:21,088
+benefit from it as well otherwise you
+
+316
+00:09:19,529 --> 00:09:22,408
+can subscribe right there and maybe hit
+
+317
+00:09:21,090 --> 00:09:24,060
+that Bell icon if you want to be the
+
+318
+00:09:22,409 --> 00:09:25,828
+first to know when new videos drop or
+
+319
+00:09:24,059 --> 00:09:27,199
+click right there to get a free copy of
+
+320
+00:09:25,830 --> 00:09:28,770
+my book on how to earn better grades
+
+321
+00:09:27,200 --> 00:09:30,570
+alternatively you can click right there
+
+322
+00:09:28,769 --> 00:09:32,398
+listen to our latest podcast episode on
+
+323
+00:09:30,570 --> 00:09:33,690
+how to crush job interviews or if
+
+324
+00:09:32,399 --> 00:09:35,189
+nothing else you can click right there
+
+325
+00:09:33,690 --> 00:09:37,440
+to get one more video on this channel
+
+326
+00:09:35,190 --> 00:09:41,090
+right now thanks for watching and I will
+
+327
+00:09:37,440 --> 00:09:41,089
+see you in the next video
+

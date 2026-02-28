@@ -1,0 +1,588 @@
+1
+00:00:00,120 --> 00:00:03,680
+hey what's up guys so today I am really
+
+2
+00:00:02,200 --> 00:00:03,000
+excited to finally announce the launch
+
+3
+00:00:03,799 --> 00:00:07,198
+of something that I have been wanting to
+
+4
+00:00:05,200 --> 00:00:09,280
+build for years I kept it up in my head
+
+5
+00:00:07,200 --> 00:00:10,999
+as an idea for a long time but finally
+
+6
+00:00:09,279 --> 00:00:12,959
+last week I got around to building it
+
+7
+00:00:11,000 --> 00:00:15,120
+and there is now an official Community
+
+8
+00:00:12,960 --> 00:00:17,198
+for college infogeek and I decided to
+
+9
+00:00:15,119 --> 00:00:19,197
+set up as a subreddit on reddit.com and
+
+10
+00:00:17,199 --> 00:00:21,038
+I'll kind of explain the choice of that
+
+11
+00:00:19,199 --> 00:00:22,800
+platform in a minute but first I kind of
+
+12
+00:00:21,039 --> 00:00:24,840
+want to tell you kind of My overall idea
+
+13
+00:00:22,800 --> 00:00:26,320
+for what I hope this community can be
+
+14
+00:00:24,839 --> 00:00:28,678
+and if you want to check it out the URL
+
+15
+00:00:26,320 --> 00:00:30,999
+is college infog geek.com commmunity you
+
+16
+00:00:28,678 --> 00:00:33,118
+can check it out right there and um
+
+17
+00:00:31,000 --> 00:00:34,960
+essentially what I want to make this is
+
+18
+00:00:33,119 --> 00:00:36,877
+like the premier place for us to have
+
+19
+00:00:34,960 --> 00:00:38,920
+discussions for questions to be answered
+
+20
+00:00:36,878 --> 00:00:40,959
+for discussion to be had around videos
+
+21
+00:00:38,920 --> 00:00:42,399
+because YouTube comments while they're
+
+22
+00:00:40,960 --> 00:00:44,480
+cool and it's always great to get
+
+23
+00:00:42,399 --> 00:00:46,359
+feedback on them on the videos I make
+
+24
+00:00:44,479 --> 00:00:48,479
+YouTube comments and blog comments uh
+
+25
+00:00:46,359 --> 00:00:50,479
+likewise are are just set up for
+
+26
+00:00:48,479 --> 00:00:52,759
+reactions for the video maker like you
+
+27
+00:00:50,479 --> 00:00:54,679
+watch a video and then you can react to
+
+28
+00:00:52,759 --> 00:00:56,358
+it you can respond to it and then people
+
+29
+00:00:54,679 --> 00:00:58,319
+can reply to your comments that's true
+
+30
+00:00:56,359 --> 00:01:00,480
+but these systems are not set up to
+
+31
+00:00:58,320 --> 00:01:02,038
+promote good discussion between multiple
+
+32
+00:01:00,479 --> 00:01:05,238
+people in the audience between like me
+
+33
+00:01:02,039 --> 00:01:07,439
+and multiple people at once and um
+
+34
+00:01:05,239 --> 00:01:09,040
+likewise my email is only set up for me
+
+35
+00:01:07,438 --> 00:01:10,958
+to be able to correspond with one person
+
+36
+00:01:09,040 --> 00:01:12,879
+at a time and if I answer a question on
+
+37
+00:01:10,959 --> 00:01:14,679
+my email then only one person gets to
+
+38
+00:01:12,879 --> 00:01:16,198
+see that answer so I've always wanted to
+
+39
+00:01:14,680 --> 00:01:18,119
+set up like some sort of discussion
+
+40
+00:01:16,200 --> 00:01:19,680
+forum where we can all help each other
+
+41
+00:01:18,118 --> 00:01:21,719
+out and where all those answers can be
+
+42
+00:01:19,680 --> 00:01:24,199
+visible and where good discussion can be
+
+43
+00:01:21,719 --> 00:01:26,358
+promoted I chose Reddit because I've
+
+44
+00:01:24,200 --> 00:01:27,639
+been on Reddit for four years and I've
+
+45
+00:01:26,359 --> 00:01:28,999
+gotten a lot of value out of the site
+
+46
+00:01:27,640 --> 00:01:30,919
+there's certainly like certain areas of
+
+47
+00:01:29,000 --> 00:01:33,040
+the site with trolls sarcastic people
+
+48
+00:01:30,920 --> 00:01:34,679
+but in my experience the smaller
+
+49
+00:01:33,040 --> 00:01:36,200
+interest based subreddits where people
+
+50
+00:01:34,680 --> 00:01:37,920
+are trying to learn new skills or just
+
+51
+00:01:36,200 --> 00:01:39,720
+get better at things in general those
+
+52
+00:01:37,920 --> 00:01:40,920
+are always overflowing with positivity
+
+53
+00:01:39,719 --> 00:01:42,959
+and people just trying to help each
+
+54
+00:01:40,920 --> 00:01:44,799
+other out and um that's what I'm kind of
+
+55
+00:01:42,959 --> 00:01:46,238
+hoping this community will be and I
+
+56
+00:01:44,799 --> 00:01:47,1000
+actually wanted to test it out before I
+
+57
+00:01:46,239 --> 00:01:49,839
+went live and told everyone about it so
+
+58
+00:01:48,000 --> 00:01:51,798
+I set it up last Tuesday I think is when
+
+59
+00:01:49,840 --> 00:01:53,279
+I went live and I kind of just told like
+
+60
+00:01:51,799 --> 00:01:55,040
+a little small percentage of the people
+
+61
+00:01:53,280 --> 00:01:56,399
+who are subscribed to the newsletter so
+
+62
+00:01:55,040 --> 00:01:58,039
+we've been having discussions in there
+
+63
+00:01:56,399 --> 00:02:00,439
+for the past week and it's going great
+
+64
+00:01:58,039 --> 00:02:02,680
+and I would love for you to join in and
+
+65
+00:02:00,438 --> 00:02:04,758
+help this subreddit grow to become like
+
+66
+00:02:02,680 --> 00:02:06,840
+the premier place for discussions to
+
+67
+00:02:04,759 --> 00:02:08,360
+happen around my videos uh that's kind
+
+68
+00:02:06,840 --> 00:02:09,639
+of like the first purpose of this
+
+69
+00:02:08,360 --> 00:02:11,440
+community I'm going to be making a
+
+70
+00:02:09,639 --> 00:02:13,159
+discussion thread for every new video
+
+71
+00:02:11,439 --> 00:02:15,358
+going forward and you'll find it linked
+
+72
+00:02:13,159 --> 00:02:16,877
+in the description for those videos and
+
+73
+00:02:15,360 --> 00:02:19,080
+I'm kind of hoping that most of the good
+
+74
+00:02:16,878 --> 00:02:20,798
+discussion on new videos can go over
+
+75
+00:02:19,080 --> 00:02:22,318
+there where people can upvote the best
+
+76
+00:02:20,800 --> 00:02:24,958
+comments and where replies are much
+
+77
+00:02:22,318 --> 00:02:26,478
+easier for me to see um I will say it's
+
+78
+00:02:24,959 --> 00:02:28,519
+like it's pretty hard for me to see
+
+79
+00:02:26,479 --> 00:02:29,878
+replies to comments on YouTube I can see
+
+80
+00:02:28,519 --> 00:02:31,800
+the new ones but it's really hard for me
+
+81
+00:02:29,878 --> 00:02:33,798
+see like replies and on Reddit that's
+
+82
+00:02:31,800 --> 00:02:35,079
+really really easy for me to see so
+
+83
+00:02:33,800 --> 00:02:36,360
+discussion for videos is going to be
+
+84
+00:02:35,080 --> 00:02:38,519
+there I'm also going to try to be
+
+85
+00:02:36,360 --> 00:02:40,598
+answering most questions from you guys
+
+86
+00:02:38,519 --> 00:02:42,599
+over on the community rather than email
+
+87
+00:02:40,598 --> 00:02:44,359
+because like I said with email only one
+
+88
+00:02:42,598 --> 00:02:46,158
+person can benefit from that answer and
+
+89
+00:02:44,360 --> 00:02:47,799
+to be honest it's really hard for me to
+
+90
+00:02:46,158 --> 00:02:49,919
+answer questions in the first place like
+
+91
+00:02:47,800 --> 00:02:51,199
+I can answer a few but all of them just
+
+92
+00:02:49,919 --> 00:02:52,878
+kind of gets overwhelming with the rest
+
+93
+00:02:51,199 --> 00:02:55,279
+of the work I have to do but with the
+
+94
+00:02:52,878 --> 00:02:57,559
+community I'll be able to answer just as
+
+95
+00:02:55,280 --> 00:02:59,239
+many as I was via email but also there's
+
+96
+00:02:57,560 --> 00:03:00,919
+so many of you guys out there who
+
+97
+00:02:59,239 --> 00:03:02,480
+already have have lots of answers and
+
+98
+00:03:00,919 --> 00:03:04,718
+knowledge and experience that I don't
+
+99
+00:03:02,479 --> 00:03:06,119
+have so if you've got a question there's
+
+100
+00:03:04,719 --> 00:03:07,839
+likely going to be somebody else who can
+
+101
+00:03:06,120 --> 00:03:09,720
+provide an answer and you can go to see
+
+102
+00:03:07,840 --> 00:03:11,158
+the threads right now in the community
+
+103
+00:03:09,719 --> 00:03:13,517
+I'm pretty sure every thread there right
+
+104
+00:03:11,158 --> 00:03:16,079
+now has an answer from someone even if
+
+105
+00:03:13,519 --> 00:03:18,360
+it's not me so ask your questions there
+
+106
+00:03:16,080 --> 00:03:19,798
+also if you have uh tips of your own or
+
+107
+00:03:18,360 --> 00:03:20,1000
+experiences that you want to post about
+
+108
+00:03:19,799 --> 00:03:22,519
+they can definitely benefit other
+
+109
+00:03:21,000 --> 00:03:23,640
+students and if you got topics that
+
+110
+00:03:22,519 --> 00:03:25,479
+you'd like to see me cover on the
+
+111
+00:03:23,639 --> 00:03:26,359
+channel in the future or maybe guests
+
+112
+00:03:25,479 --> 00:03:28,479
+that would be good on the college
+
+113
+00:03:26,360 --> 00:03:30,480
+infogeek podcast I'm going to be making
+
+114
+00:03:28,479 --> 00:03:31,878
+a official topic request thread that'll
+
+115
+00:03:30,479 --> 00:03:33,719
+be at the top of the community every
+
+116
+00:03:31,878 --> 00:03:35,039
+single month so if you put your requests
+
+117
+00:03:33,719 --> 00:03:36,839
+there it'll be like a nice place to
+
+118
+00:03:35,039 --> 00:03:38,158
+consolidate them and I can kind of see
+
+119
+00:03:36,840 --> 00:03:40,279
+which ones people are up booting and
+
+120
+00:03:38,158 --> 00:03:41,638
+which ones I should make next also this
+
+121
+00:03:40,280 --> 00:03:43,319
+is kind of a way to hand a little bit of
+
+122
+00:03:41,639 --> 00:03:44,797
+the control of this project to you guys
+
+123
+00:03:43,318 --> 00:03:46,318
+because I'm really open to your ideas
+
+124
+00:03:44,799 --> 00:03:48,679
+and I want to hear like how we can make
+
+125
+00:03:46,318 --> 00:03:50,638
+this uh College info geek as a project
+
+126
+00:03:48,680 --> 00:03:52,760
+overall better for students all over the
+
+127
+00:03:50,639 --> 00:03:53,957
+world so uh if you have ideas there's
+
+128
+00:03:52,759 --> 00:03:55,919
+going to be an official discussion
+
+129
+00:03:53,959 --> 00:03:57,159
+thread for this launch video I'll have
+
+130
+00:03:55,919 --> 00:03:58,919
+it linked down in the description below
+
+131
+00:03:57,158 --> 00:04:00,158
+and I would love to hear your ideas for
+
+132
+00:03:58,919 --> 00:04:02,198
+what we can do in the Community to make
+
+133
+00:04:00,158 --> 00:04:03,719
+it better maybe we can have like monthly
+
+134
+00:04:02,199 --> 00:04:05,279
+discussion threads on certain topics
+
+135
+00:04:03,719 --> 00:04:06,877
+where you guys can submit your ideas or
+
+136
+00:04:05,280 --> 00:04:08,920
+your best tips or maybe favorite apps
+
+137
+00:04:06,878 --> 00:04:10,358
+and tools things like that and uh
+
+138
+00:04:08,919 --> 00:04:12,237
+otherwise yeah just let me know what you
+
+139
+00:04:10,360 --> 00:04:14,199
+think and I would absolutely love to see
+
+140
+00:04:12,239 --> 00:04:15,598
+you in the community you can subscribe
+
+141
+00:04:14,199 --> 00:04:17,758
+using Reddit it's really easy to create
+
+142
+00:04:15,598 --> 00:04:18,998
+an account and uh there's also apps for
+
+143
+00:04:17,759 --> 00:04:20,719
+pretty much every smartphone that can
+
+144
+00:04:19,000 --> 00:04:22,198
+make it really easy to browse on the go
+
+145
+00:04:20,720 --> 00:04:25,160
+so I'll see you over in the community
+
+146
+00:04:22,199 --> 00:04:28,160
+and as always thank you so much for
+
+147
+00:04:25,160 --> 00:04:28,160
+watching
+

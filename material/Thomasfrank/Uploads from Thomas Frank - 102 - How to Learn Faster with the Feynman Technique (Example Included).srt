@@ -1,0 +1,756 @@
+1
+00:00:00,040 --> 00:00:02,480
+there's this pretty well-known quote
+
+2
+00:00:01,199 --> 00:00:03,120
+that gets thrown around a lot and it's
+
+3
+00:00:02,520 --> 00:00:03,919
+often attributed to Albert Einstein and
+
+4
+00:00:04,318 --> 00:00:08,399
+it goes if you can't explain it simply
+
+5
+00:00:06,440 --> 00:00:09,839
+then you don't understand it well enough
+
+6
+00:00:08,400 --> 00:00:11,598
+now whether or not Einstein was the
+
+7
+00:00:09,839 --> 00:00:13,319
+person who actually said this let's be
+
+8
+00:00:11,599 --> 00:00:15,160
+real he probably wasn't it's still
+
+9
+00:00:13,320 --> 00:00:17,520
+really insightful and reversing it
+
+10
+00:00:15,160 --> 00:00:19,079
+reveals a pretty powerful piece of study
+
+11
+00:00:17,519 --> 00:00:21,679
+advice if you want to understand
+
+12
+00:00:19,079 --> 00:00:23,159
+something well explain it now this idea
+
+13
+00:00:21,679 --> 00:00:25,319
+is something I touched on briefly back
+
+14
+00:00:23,160 --> 00:00:27,438
+in my video summary of the study L study
+
+15
+00:00:25,320 --> 00:00:28,800
+smart lecture by Dr Marty lbell because
+
+16
+00:00:27,439 --> 00:00:30,399
+in that lecture he talked about one of
+
+17
+00:00:28,800 --> 00:00:32,360
+the most effective study techniques
+
+18
+00:00:30,399 --> 00:00:34,318
+being to teach what you're learning to
+
+19
+00:00:32,359 --> 00:00:36,118
+someone else so in this video I want to
+
+20
+00:00:34,320 --> 00:00:38,398
+dig deeper into that idea and share with
+
+21
+00:00:36,119 --> 00:00:40,038
+you a step-by-step process for doing
+
+22
+00:00:38,399 --> 00:00:41,680
+this which has been called the Fineman
+
+23
+00:00:40,039 --> 00:00:43,479
+technique now this technique is named
+
+24
+00:00:41,679 --> 00:00:45,999
+after the physicist Richard Fineman who
+
+25
+00:00:43,479 --> 00:00:48,557
+was in his own right a great scientist
+
+26
+00:00:46,000 --> 00:00:50,000
+in fact back in 1965 he won a Nobel
+
+27
+00:00:48,558 --> 00:00:51,839
+Prize for his work in Quantum
+
+28
+00:00:50,000 --> 00:00:53,198
+electrodynamics which is something I had
+
+29
+00:00:51,840 --> 00:00:55,440
+to practice saying a couple of different
+
+30
+00:00:53,198 --> 00:00:57,198
+times and he contributed to science in a
+
+31
+00:00:55,439 --> 00:00:58,838
+number of different ways including the
+
+32
+00:00:57,198 --> 00:01:00,678
+development of what are called findan
+
+33
+00:00:58,840 --> 00:01:02,840
+diagrams which are are basically
+
+34
+00:01:00,679 --> 00:01:05,759
+graphical representations of the math
+
+35
+00:01:02,840 --> 00:01:07,280
+behind how subatomic particles work but
+
+36
+00:01:05,760 --> 00:01:09,280
+in addition to being a great scientist
+
+37
+00:01:07,280 --> 00:01:11,240
+he was also a great teacher and a great
+
+38
+00:01:09,280 --> 00:01:13,400
+explainer and in fact one of his
+
+39
+00:01:11,239 --> 00:01:15,118
+nicknames was the great explainer
+
+40
+00:01:13,400 --> 00:01:17,560
+because he was able to boil down
+
+41
+00:01:15,118 --> 00:01:19,118
+incredibly complex Concepts and put them
+
+42
+00:01:17,560 --> 00:01:20,919
+in simple language that other people
+
+43
+00:01:19,118 --> 00:01:22,719
+could understand and that's why he's one
+
+44
+00:01:20,920 --> 00:01:25,200
+of those great scientists who is also
+
+45
+00:01:22,719 --> 00:01:26,999
+known as a very good teacher and in fact
+
+46
+00:01:25,200 --> 00:01:28,639
+even in his own learning feeman was
+
+47
+00:01:27,000 --> 00:01:30,399
+famous for tirelessly working through
+
+48
+00:01:28,640 --> 00:01:33,479
+equations until the concept he was
+
+49
+00:01:30,400 --> 00:01:35,159
+wrangling with was intuitively easy to
+
+50
+00:01:33,478 --> 00:01:36,839
+understand in his mind so that's why
+
+51
+00:01:35,159 --> 00:01:38,599
+this technique is named after him but
+
+52
+00:01:36,840 --> 00:01:40,040
+you don't have to be a physicist or you
+
+53
+00:01:38,599 --> 00:01:41,839
+don't have to be working on math or
+
+54
+00:01:40,040 --> 00:01:44,439
+science problems to use this technique
+
+55
+00:01:41,840 --> 00:01:45,1000
+because explaining a concept Works to
+
+56
+00:01:44,438 --> 00:01:48,678
+improve your understanding of that
+
+57
+00:01:46,000 --> 00:01:50,759
+Concept in basically any area be it
+
+58
+00:01:48,680 --> 00:01:52,718
+history or be it math or be it web
+
+59
+00:01:50,759 --> 00:01:54,719
+development doesn't matter and it also
+
+60
+00:01:52,718 --> 00:01:56,279
+works for multiple different purposes if
+
+61
+00:01:54,718 --> 00:01:58,238
+you're shaky on a concept and you want
+
+62
+00:01:56,280 --> 00:01:59,920
+to quickly improve your understanding
+
+63
+00:01:58,239 --> 00:02:01,798
+you can use it but if you already have
+
+64
+00:01:59,920 --> 00:02:03,640
+have a pretty confident grasp of a
+
+65
+00:02:01,799 --> 00:02:06,119
+subject and say you've got a test coming
+
+66
+00:02:03,640 --> 00:02:07,320
+up soon you can also use it to test your
+
+67
+00:02:06,118 --> 00:02:09,518
+understanding and challenge your
+
+68
+00:02:07,319 --> 00:02:11,037
+assumptions as fan himself said the
+
+69
+00:02:09,520 --> 00:02:13,640
+first principle is that you must not
+
+70
+00:02:11,038 --> 00:02:15,438
+fool yourself and you are the easiest
+
+71
+00:02:13,639 --> 00:02:17,438
+person to fool the ultimate way to
+
+72
+00:02:15,439 --> 00:02:19,119
+ensure that you actually understand all
+
+73
+00:02:17,439 --> 00:02:21,759
+the little nitty-gritty details of a
+
+74
+00:02:19,120 --> 00:02:23,400
+concept in your head is to explain it to
+
+75
+00:02:21,759 --> 00:02:25,678
+someone else or to at least pretend
+
+76
+00:02:23,400 --> 00:02:27,959
+you're doing so and that is the Crux of
+
+77
+00:02:25,680 --> 00:02:29,439
+the fan technique so let's get into it
+
+78
+00:02:27,959 --> 00:02:31,280
+it's a process of four steps in the
+
+79
+00:02:29,439 --> 00:02:32,919
+first step is to Simply get out a piece
+
+80
+00:02:31,280 --> 00:02:34,840
+of paper and write the name of the
+
+81
+00:02:32,919 --> 00:02:36,159
+technique down at the top and in the
+
+82
+00:02:34,840 --> 00:02:37,800
+example I filmed here we're going to use
+
+83
+00:02:36,159 --> 00:02:39,238
+the Pythagorean theorem because it is
+
+84
+00:02:37,800 --> 00:02:40,440
+simple and it won't get in the way of
+
+85
+00:02:39,239 --> 00:02:42,360
+the actual steps we're going to go
+
+86
+00:02:40,439 --> 00:02:44,399
+through step two is to explain the
+
+87
+00:02:42,360 --> 00:02:46,400
+concept and to do it in simple plain
+
+88
+00:02:44,400 --> 00:02:47,679
+English or French or really whatever
+
+89
+00:02:46,400 --> 00:02:49,120
+language you happen to speak but the
+
+90
+00:02:47,680 --> 00:02:50,599
+idea here is to do it in a way that's
+
+91
+00:02:49,120 --> 00:02:52,840
+easy to understand as if you were
+
+92
+00:02:50,598 --> 00:02:54,798
+teaching someone else and don't just
+
+93
+00:02:52,840 --> 00:02:56,719
+settle with defining the concept either
+
+94
+00:02:54,800 --> 00:02:58,679
+also work through examples and make sure
+
+95
+00:02:56,719 --> 00:03:00,439
+that you're able to use the concept in
+
+96
+00:02:58,680 --> 00:03:01,920
+practice as well for for step three
+
+97
+00:03:00,439 --> 00:03:03,919
+identify any of the areas that you're
+
+98
+00:03:01,919 --> 00:03:05,718
+shaky on after your explanation or
+
+99
+00:03:03,919 --> 00:03:07,479
+identify areas that you got stuck on
+
+100
+00:03:05,719 --> 00:03:09,199
+which halted your explanation and go
+
+101
+00:03:07,479 --> 00:03:11,039
+back to the source material or go back
+
+102
+00:03:09,199 --> 00:03:12,679
+to your notes or work through examples
+
+103
+00:03:11,039 --> 00:03:15,237
+until your understanding of these sub
+
+104
+00:03:12,680 --> 00:03:17,319
+areas is just as solid as all the other
+
+105
+00:03:15,239 --> 00:03:19,040
+areas and finally step four is to look
+
+106
+00:03:17,318 --> 00:03:20,758
+at your explanation and try to identify
+
+107
+00:03:19,039 --> 00:03:22,838
+any areas where you've resorted to using
+
+108
+00:03:20,759 --> 00:03:24,359
+technical terms or convoluted language
+
+109
+00:03:22,840 --> 00:03:26,319
+and then challenge yourself to break
+
+110
+00:03:24,360 --> 00:03:28,840
+down those terms and explain them in
+
+111
+00:03:26,318 --> 00:03:31,119
+simplified easy to understand words
+
+112
+00:03:28,840 --> 00:03:32,840
+remember the key here is Simplicity the
+
+113
+00:03:31,120 --> 00:03:34,360
+act of explaining a topic as if you were
+
+114
+00:03:32,840 --> 00:03:35,1000
+teaching it to somebody who didn't have
+
+115
+00:03:34,360 --> 00:03:38,400
+the same base assumptions and base
+
+116
+00:03:36,000 --> 00:03:40,400
+knowledge that you have is the ultimate
+
+117
+00:03:38,400 --> 00:03:42,319
+test of your own knowledge in that
+
+118
+00:03:40,400 --> 00:03:44,040
+subject and that's pretty much it that's
+
+119
+00:03:42,318 --> 00:03:45,518
+all there is to the fan technique Now
+
+120
+00:03:44,039 --> 00:03:47,438
+using this technique is incredibly
+
+121
+00:03:45,519 --> 00:03:50,039
+helpful because it number one helps you
+
+122
+00:03:47,438 --> 00:03:52,157
+to quickly overview the concept and see
+
+123
+00:03:50,039 --> 00:03:54,039
+where your knowledge is solid but number
+
+124
+00:03:52,158 --> 00:03:55,437
+two it helps you to instantly pinpoint
+
+125
+00:03:54,039 --> 00:03:57,598
+the areas where you're shaky and where
+
+126
+00:03:55,438 --> 00:03:59,758
+you need to do extra work and that makes
+
+127
+00:03:57,598 --> 00:04:01,598
+this technique a great first step in in
+
+128
+00:03:59,759 --> 00:04:03,279
+reviewing a concept because it's very
+
+129
+00:04:01,598 --> 00:04:04,877
+efficient and it helps you waste less
+
+130
+00:04:03,280 --> 00:04:06,400
+time I did want to give you guys one
+
+131
+00:04:04,878 --> 00:04:08,237
+extra suggestion though and it relates
+
+132
+00:04:06,400 --> 00:04:10,400
+to how you frame your mind going into
+
+133
+00:04:08,239 --> 00:04:12,199
+step four instead of just thinking how
+
+134
+00:04:10,400 --> 00:04:14,438
+can I make this simple how can I put it
+
+135
+00:04:12,199 --> 00:04:17,357
+in plain English also think how would I
+
+136
+00:04:14,438 --> 00:04:18,957
+explain this to a kid why well besides
+
+137
+00:04:17,358 --> 00:04:21,039
+asking questions like can I have another
+
+138
+00:04:18,959 --> 00:04:24,080
+Oreo or can I go watch Dragon Ball Z a
+
+139
+00:04:21,040 --> 00:04:25,400
+kid's going to ask why why does that
+
+140
+00:04:24,079 --> 00:04:27,438
+work and that's going to help to
+
+141
+00:04:25,399 --> 00:04:28,959
+challenge your assumptions for instance
+
+142
+00:04:27,439 --> 00:04:31,719
+going back to our Pythagorean theorem
+
+143
+00:04:28,959 --> 00:04:33,959
+example maybe you know the formula but a
+
+144
+00:04:31,720 --> 00:04:35,960
+kid would ask you why does that formula
+
+145
+00:04:33,959 --> 00:04:38,678
+work why does the Pythagorean theorem
+
+146
+00:04:35,959 --> 00:04:40,678
+hold as a rule for all right triangles
+
+147
+00:04:38,680 --> 00:04:42,400
+and yeah maybe you understand that
+
+148
+00:04:40,680 --> 00:04:44,800
+intuitively maybe you can bust out the
+
+149
+00:04:42,399 --> 00:04:46,399
+proof by rearrangement but maybe you
+
+150
+00:04:44,800 --> 00:04:48,119
+can't maybe you've always just looked at
+
+151
+00:04:46,399 --> 00:04:49,439
+the formula and taken in at face value
+
+152
+00:04:48,120 --> 00:04:51,160
+in which case you have some more
+
+153
+00:04:49,439 --> 00:04:52,757
+learning to do now speaking of the
+
+154
+00:04:51,160 --> 00:04:54,360
+Pythagorean theorem maybe that was a bit
+
+155
+00:04:52,759 --> 00:04:55,638
+too simple of an example for you and
+
+156
+00:04:54,360 --> 00:04:57,600
+you'd like to see this technique appli
+
+157
+00:04:55,639 --> 00:04:59,440
+to something more complex or something
+
+158
+00:04:57,600 --> 00:05:00,680
+that has nothing to do with math at all
+
+159
+00:04:59,439 --> 00:05:02,318
+if if that's you in the companion
+
+160
+00:05:00,680 --> 00:05:03,918
+article for this video I've included a
+
+161
+00:05:02,319 --> 00:05:05,918
+couple of different examples one going
+
+162
+00:05:03,918 --> 00:05:07,878
+through base rule which is a concept in
+
+163
+00:05:05,918 --> 00:05:09,999
+probability Theory and statistics and
+
+164
+00:05:07,879 --> 00:05:11,678
+one going over the CSS Box model which
+
+165
+00:05:10,000 --> 00:05:13,359
+is related to web development and not
+
+166
+00:05:11,680 --> 00:05:14,680
+related to math at all that you can
+
+167
+00:05:13,360 --> 00:05:15,960
+check out so if you want to see those
+
+168
+00:05:14,680 --> 00:05:17,400
+you can click the card on screen right
+
+169
+00:05:15,959 --> 00:05:18,197
+now to get over to the article or you
+
+170
+00:05:17,399 --> 00:05:19,798
+can find the link down in the
+
+171
+00:05:18,199 --> 00:05:21,279
+description below beyond that if you
+
+172
+00:05:19,800 --> 00:05:22,679
+enjoyed this video and found it helpful
+
+173
+00:05:21,279 --> 00:05:24,359
+definitely give it a like to support
+
+174
+00:05:22,680 --> 00:05:26,119
+this Channel and if you have additional
+
+175
+00:05:24,360 --> 00:05:27,600
+tips or ways that you use this technique
+
+176
+00:05:26,120 --> 00:05:29,600
+personally I would love to hear from you
+
+177
+00:05:27,600 --> 00:05:30,800
+down in the comments below additionally
+
+178
+00:05:29,600 --> 00:05:31,999
+if you're not subscribed to this channel
+
+179
+00:05:30,800 --> 00:05:33,679
+yet and you want to get new tips on how
+
+180
+00:05:32,000 --> 00:05:35,240
+to be a more productive student you can
+
+181
+00:05:33,680 --> 00:05:36,639
+click right there to subscribe and you
+
+182
+00:05:35,240 --> 00:05:38,519
+can also click right there if you want
+
+183
+00:05:36,639 --> 00:05:40,199
+to get a free copy of my book on how to
+
+184
+00:05:38,519 --> 00:05:41,878
+earn better grades otherwise you can
+
+185
+00:05:40,199 --> 00:05:42,1000
+click right around there to find another
+
+186
+00:05:41,879 --> 00:05:44,439
+video which you'll probably find
+
+187
+00:05:43,000 --> 00:05:46,279
+interesting thanks for watching and I
+
+188
+00:05:44,439 --> 00:05:49,278
+will see you in the next
+
+189
+00:05:46,279 --> 00:05:49,279
+one
+

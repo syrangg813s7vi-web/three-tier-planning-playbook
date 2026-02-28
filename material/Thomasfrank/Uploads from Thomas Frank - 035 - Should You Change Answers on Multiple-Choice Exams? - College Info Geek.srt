@@ -1,0 +1,516 @@
+1
+00:00:00,120 --> 00:00:02,839
+let's get right to it so you're taking a
+
+2
+00:00:01,599 --> 00:00:02,680
+test you're looking at a question you've
+
+3
+00:00:02,960 --> 00:00:03,160
+already written an answer for and you're
+
+4
+00:00:04,278 --> 00:00:07,838
+not quite sure about that answer should
+
+5
+00:00:06,120 --> 00:00:09,879
+you change that answer conventional
+
+6
+00:00:07,839 --> 00:00:11,880
+wisdom says no but I'm going to spoil it
+
+7
+00:00:09,880 --> 00:00:13,1000
+right up front for you yes in most cases
+
+8
+00:00:11,880 --> 00:00:15,239
+you should change your answers many many
+
+9
+00:00:14,000 --> 00:00:16,960
+Studies have been conducted on this
+
+10
+00:00:15,240 --> 00:00:18,800
+question over the past 70 years and the
+
+11
+00:00:16,960 --> 00:00:21,160
+data from those studies is clear most
+
+12
+00:00:18,800 --> 00:00:22,438
+answer changes are from wrong to right
+
+13
+00:00:21,160 --> 00:00:24,119
+that means students who actually do
+
+14
+00:00:22,439 --> 00:00:26,198
+change their answers on tests tend to
+
+15
+00:00:24,118 --> 00:00:27,998
+score better and get better grades this
+
+16
+00:00:26,199 --> 00:00:29,320
+documented fact goes completely against
+
+17
+00:00:28,000 --> 00:00:31,319
+the advice that test takers have been
+
+18
+00:00:29,320 --> 00:00:32,1000
+given for years we're often told to go
+
+19
+00:00:31,320 --> 00:00:34,679
+with our gut you know stay with your
+
+20
+00:00:33,000 --> 00:00:35,879
+instincts go with your first answer cuz
+
+21
+00:00:34,679 --> 00:00:37,679
+if you want to change it you're probably
+
+22
+00:00:35,878 --> 00:00:39,919
+just worriedly second guessing yourself
+
+23
+00:00:37,679 --> 00:00:41,199
+teachers parents and even SAT prep
+
+24
+00:00:39,920 --> 00:00:42,558
+guides have been giving out this advice
+
+25
+00:00:41,200 --> 00:00:44,160
+for years and here's the most
+
+26
+00:00:42,558 --> 00:00:46,279
+interesting part of this and also the
+
+27
+00:00:44,159 --> 00:00:47,759
+most sad even though I'm giving you this
+
+28
+00:00:46,280 --> 00:00:49,920
+data even though I'm telling you and
+
+29
+00:00:47,759 --> 00:00:51,479
+showing you and even if you believe it
+
+30
+00:00:49,920 --> 00:00:53,238
+you're not likely to start changing your
+
+31
+00:00:51,479 --> 00:00:54,599
+answers you're actually likely to keep
+
+32
+00:00:53,238 --> 00:00:56,278
+sticking with your initial answer in
+
+33
+00:00:54,600 --> 00:00:58,358
+future tests so we're really trying to
+
+34
+00:00:56,280 --> 00:00:59,960
+explain two things here number one why
+
+35
+00:00:58,359 --> 00:01:01,559
+people tend to stick with their original
+
+36
+00:00:59,960 --> 00:01:03,480
+answers in the first place and number
+
+37
+00:01:01,558 --> 00:01:05,399
+two why even when presented with the
+
+38
+00:01:03,479 --> 00:01:07,199
+data to show they should change them
+
+39
+00:01:05,400 --> 00:01:08,439
+they tend to not do it now out of all
+
+40
+00:01:07,200 --> 00:01:09,920
+the research that's been done on this
+
+41
+00:01:08,438 --> 00:01:11,478
+topic specifically and all the
+
+42
+00:01:09,920 --> 00:01:13,479
+information out there on cognitive
+
+43
+00:01:11,478 --> 00:01:15,398
+biases the brain bugs that form the
+
+44
+00:01:13,478 --> 00:01:16,998
+underlying foundation of the problem the
+
+45
+00:01:15,400 --> 00:01:18,679
+most succinct answer that I found was in
+
+46
+00:01:17,000 --> 00:01:20,560
+a book called Why We Make Mistakes by
+
+47
+00:01:18,680 --> 00:01:22,119
+Joseph T henan I'm going through this
+
+48
+00:01:20,560 --> 00:01:23,600
+book right now and so far it's a
+
+49
+00:01:22,118 --> 00:01:25,198
+fascinating overview of many of the
+
+50
+00:01:23,599 --> 00:01:26,918
+mistakes we make in our everyday lives
+
+51
+00:01:25,200 --> 00:01:28,200
+and the cognitive biases that cause them
+
+52
+00:01:26,920 --> 00:01:29,920
+for the specific mistake of sticking
+
+53
+00:01:28,200 --> 00:01:31,880
+with your first answers on tests though
+
+54
+00:01:29,920 --> 00:01:33,759
+Palin identifies two underlying causes
+
+55
+00:01:31,879 --> 00:01:35,718
+of the problem number one the power of
+
+56
+00:01:33,759 --> 00:01:37,799
+First Impressions and number two the
+
+57
+00:01:35,719 --> 00:01:39,158
+fear of regret first impressions are so
+
+58
+00:01:37,799 --> 00:01:40,1000
+powerful because our brains can look at
+
+59
+00:01:39,159 --> 00:01:42,920
+a situation and make a snap decision on
+
+60
+00:01:41,000 --> 00:01:44,399
+it very quickly in addition we also tend
+
+61
+00:01:42,920 --> 00:01:46,158
+to take limited information and then
+
+62
+00:01:44,399 --> 00:01:47,1000
+fill in the gaps with conclusions of our
+
+63
+00:01:46,159 --> 00:01:49,759
+own this phenomenon is explained pretty
+
+64
+00:01:48,000 --> 00:01:51,439
+well in Daniel Conan's book Thinking
+
+65
+00:01:49,759 --> 00:01:53,439
+Fast and Slow where he outlines the
+
+66
+00:01:51,438 --> 00:01:55,318
+differences between the brain system one
+
+67
+00:01:53,438 --> 00:01:57,038
+and system two system one being the one
+
+68
+00:01:55,319 --> 00:01:58,879
+that makes the snap decisions the big
+
+69
+00:01:57,039 --> 00:02:00,478
+player here though is the fear of regret
+
+70
+00:01:58,879 --> 00:02:02,478
+and specifically people tend to regret
+
+71
+00:02:00,478 --> 00:02:03,518
+mistakes that come about through action
+
+72
+00:02:02,478 --> 00:02:05,078
+rather than those that come about
+
+73
+00:02:03,519 --> 00:02:06,318
+through inaction essentially if
+
+74
+00:02:05,078 --> 00:02:07,558
+something's going to go wrong we would
+
+75
+00:02:06,319 --> 00:02:09,279
+prefer that it happened because we
+
+76
+00:02:07,560 --> 00:02:10,999
+didn't do something rather than because
+
+77
+00:02:09,280 --> 00:02:12,719
+we did something these feelings of
+
+78
+00:02:11,000 --> 00:02:14,519
+Greater regret from actions actually
+
+79
+00:02:12,719 --> 00:02:15,957
+cause a memory bias and in studies done
+
+80
+00:02:14,519 --> 00:02:17,680
+on this topic students tend to
+
+81
+00:02:15,959 --> 00:02:19,720
+overestimate the amount of times they've
+
+82
+00:02:17,680 --> 00:02:21,640
+changed answers from right to wrong and
+
+83
+00:02:19,719 --> 00:02:22,957
+underestimate the opposite it's this
+
+84
+00:02:21,639 --> 00:02:24,359
+memory bias that leads people to
+
+85
+00:02:22,959 --> 00:02:25,919
+continue sticking with their original
+
+86
+00:02:24,360 --> 00:02:27,400
+answers even when they're presented with
+
+87
+00:02:25,919 --> 00:02:29,318
+the facts that show that changing them
+
+88
+00:02:27,400 --> 00:02:30,799
+is probably a better course of action so
+
+89
+00:02:29,318 --> 00:02:31,798
+if there was any real advice here is
+
+90
+00:02:30,800 --> 00:02:33,040
+that if you feel like you should change
+
+91
+00:02:31,800 --> 00:02:34,480
+an answer in a test and you feel
+
+92
+00:02:33,039 --> 00:02:36,079
+justified in doing so you should
+
+93
+00:02:34,479 --> 00:02:37,598
+probably do it additionally if you're
+
+94
+00:02:36,080 --> 00:02:39,280
+feeling resistance towards changing that
+
+95
+00:02:37,598 --> 00:02:41,118
+answer realize that it's probably caused
+
+96
+00:02:39,280 --> 00:02:42,440
+by your own cognitive biases now this
+
+97
+00:02:41,120 --> 00:02:43,800
+doesn't mean that you'll always be right
+
+98
+00:02:42,439 --> 00:02:45,878
+when you change your answer on a test
+
+99
+00:02:43,800 --> 00:02:47,400
+but statistically most of the time you
+
+100
+00:02:45,878 --> 00:02:48,838
+will be so that's it for this video
+
+101
+00:02:47,400 --> 00:02:50,519
+hopefully you find these tips useful on
+
+102
+00:02:48,840 --> 00:02:51,1000
+your next exam and next week's video
+
+103
+00:02:50,519 --> 00:02:53,640
+will be the start of my accelerated
+
+104
+00:02:52,000 --> 00:02:55,480
+Japanese challenge review which will
+
+105
+00:02:53,639 --> 00:02:57,518
+actually be coming to you from Japan so
+
+106
+00:02:55,479 --> 00:02:59,479
+look forward to
+
+107
+00:02:57,519 --> 00:03:00,800
+that hey guys thanks so much for
+
+108
+00:02:59,479 --> 00:03:02,358
+watching my my video on whether or not
+
+109
+00:03:00,800 --> 00:03:04,079
+you should change your test answers if
+
+110
+00:03:02,360 --> 00:03:05,480
+you want new videos every single week on
+
+111
+00:03:04,080 --> 00:03:07,200
+being a more effective student then
+
+112
+00:03:05,479 --> 00:03:08,999
+click the big red subscribe button right
+
+113
+00:03:07,199 --> 00:03:10,638
+there you can also get a copy of my book
+
+114
+00:03:09,000 --> 00:03:11,798
+on earning better grades for free and if
+
+115
+00:03:10,639 --> 00:03:13,238
+you want one just click the picture and
+
+116
+00:03:11,799 --> 00:03:14,679
+I'll will send you one if you want to
+
+117
+00:03:13,239 --> 00:03:15,959
+get links to the book I mentioned or any
+
+118
+00:03:14,680 --> 00:03:17,239
+of the other research I did for this
+
+119
+00:03:15,959 --> 00:03:18,839
+video then head over to the companion
+
+120
+00:03:17,239 --> 00:03:20,598
+blog post by clicking the orange logo
+
+121
+00:03:18,840 --> 00:03:21,1000
+right there if you missed last week's
+
+122
+00:03:20,598 --> 00:03:23,638
+video it's over how to avoid making
+
+123
+00:03:22,000 --> 00:03:25,318
+stupid mistakes on your exams so if you
+
+124
+00:03:23,639 --> 00:03:26,639
+haven't seen it definitely check it out
+
+125
+00:03:25,318 --> 00:03:28,398
+and if you'd like to connect or suggest
+
+126
+00:03:26,639 --> 00:03:29,918
+ideas for new videos I'm on Twitter at
+
+127
+00:03:28,400 --> 00:03:33,119
+tomf Frankle or you can leave a comment
+
+128
+00:03:29,919 --> 00:03:36,258
+on this video thanks for watching
+
+129
+00:03:33,120 --> 00:03:36,258
+[Music]
+

@@ -1,0 +1,700 @@
+1
+00:00:00,280 --> 00:00:04,360
+hey what's up everybody I'm Thomas from
+
+2
+00:00:02,240 --> 00:00:04,118
+college infogeek and today we are not
+
+3
+00:00:04,639 --> 00:00:08,717
+going to be talking about probability
+
+4
+00:00:06,359 --> 00:00:10,799
+Theory we will be talking about reading
+
+5
+00:00:08,718 --> 00:00:12,798
+assignments so the question of the day
+
+6
+00:00:10,800 --> 00:00:14,440
+is should you do all of your assigned
+
+7
+00:00:12,798 --> 00:00:15,717
+reading and there are a lot of different
+
+8
+00:00:14,439 --> 00:00:17,358
+answers you'll find out there some
+
+9
+00:00:15,718 --> 00:00:18,999
+people will say no it's useless some
+
+10
+00:00:17,359 --> 00:00:20,399
+people will say yes obviously you should
+
+11
+00:00:19,000 --> 00:00:22,080
+do all your reading it's the stuff
+
+12
+00:00:20,399 --> 00:00:23,678
+you're supposed to be learning and you
+
+13
+00:00:22,079 --> 00:00:25,878
+are stuck in the middle trying to figure
+
+14
+00:00:23,679 --> 00:00:27,239
+out which one of these answers is right
+
+15
+00:00:25,879 --> 00:00:28,879
+so hopefully in this video I can give
+
+16
+00:00:27,239 --> 00:00:31,078
+you a little bit of guidance to make
+
+17
+00:00:28,879 --> 00:00:33,758
+that decision for yourself based on your
+
+18
+00:00:31,079 --> 00:00:35,199
+own set of specific circumstances so
+
+19
+00:00:33,759 --> 00:00:36,839
+here's the thing about reading reading
+
+20
+00:00:35,200 --> 00:00:38,479
+assignments help you learn the material
+
+21
+00:00:36,840 --> 00:00:39,1000
+that your professor wants you to learn
+
+22
+00:00:38,479 --> 00:00:42,237
+obviously however when you're in college
+
+23
+00:00:40,000 --> 00:00:44,000
+your time is very limited and your class
+
+24
+00:00:42,238 --> 00:00:45,839
+work and reading are not the only things
+
+25
+00:00:44,000 --> 00:00:47,640
+that you should be doing with that time
+
+26
+00:00:45,840 --> 00:00:48,840
+you've also got part-time jobs building
+
+27
+00:00:47,640 --> 00:00:51,120
+relationships with other people
+
+28
+00:00:48,840 --> 00:00:52,320
+networking extracurriculars all this
+
+29
+00:00:51,119 --> 00:00:54,238
+kind of stuff and you can't really
+
+30
+00:00:52,320 --> 00:00:56,398
+afford to sync all of your time into
+
+31
+00:00:54,238 --> 00:00:58,518
+reading and studying and specifically
+
+32
+00:00:56,399 --> 00:01:00,079
+only learning activities so here is my
+
+33
+00:00:58,518 --> 00:01:02,438
+initial tip for figuring out how much of
+
+34
+00:01:00,079 --> 00:01:04,838
+your reading to actually do triage your
+
+35
+00:01:02,439 --> 00:01:06,519
+assignments now triage is originally a
+
+36
+00:01:04,838 --> 00:01:08,599
+medical term and it's used by doctors
+
+37
+00:01:06,519 --> 00:01:09,999
+and field Medics and Wars to assess the
+
+38
+00:01:08,599 --> 00:01:11,998
+number of patients they have at any
+
+39
+00:01:10,000 --> 00:01:14,639
+given time and figure out which one they
+
+40
+00:01:12,000 --> 00:01:16,360
+should focus on first however triage is
+
+41
+00:01:14,640 --> 00:01:17,959
+applicable to many different fields and
+
+42
+00:01:16,359 --> 00:01:19,758
+you can use it when gauging your reading
+
+43
+00:01:17,959 --> 00:01:22,518
+material because it's really just
+
+44
+00:01:19,759 --> 00:01:24,119
+prioritization with an emphasis on doing
+
+45
+00:01:22,519 --> 00:01:25,958
+the most important things first and
+
+46
+00:01:24,118 --> 00:01:27,158
+possibly having to let certain things go
+
+47
+00:01:25,959 --> 00:01:29,157
+so the thing about reading assignments
+
+48
+00:01:27,159 --> 00:01:30,840
+is that not all of them are required for
+
+49
+00:01:29,159 --> 00:01:32,920
+you to get a good grade in a certain
+
+50
+00:01:30,840 --> 00:01:34,840
+class for one a lot of the reading
+
+51
+00:01:32,920 --> 00:01:36,239
+material will be covered in class on
+
+52
+00:01:34,840 --> 00:01:37,719
+lecture slides and you can learn it
+
+53
+00:01:36,239 --> 00:01:38,879
+while you're sitting in class during the
+
+54
+00:01:37,719 --> 00:01:40,839
+time you've already dedicated to
+
+55
+00:01:38,879 --> 00:01:42,198
+learning by paying for classes and for
+
+56
+00:01:40,840 --> 00:01:43,279
+other classes there's just a lot of the
+
+57
+00:01:42,200 --> 00:01:45,200
+reading material that will never be
+
+58
+00:01:43,280 --> 00:01:46,719
+covered on tests so you don't need to
+
+59
+00:01:45,200 --> 00:01:48,320
+learn it in order to get the grade now
+
+60
+00:01:46,718 --> 00:01:50,039
+unfortunately not every class is like
+
+61
+00:01:48,319 --> 00:01:52,198
+this and a lot of classes do require the
+
+62
+00:01:50,040 --> 00:01:53,520
+reading material so the tip here is to
+
+63
+00:01:52,200 --> 00:01:55,840
+gauge your classes throughout the
+
+64
+00:01:53,519 --> 00:01:57,438
+semester learn which classes require a
+
+65
+00:01:55,840 --> 00:01:59,118
+lot of reading and which classes you can
+
+66
+00:01:57,438 --> 00:02:00,518
+safely skip a lot of the material for
+
+67
+00:01:59,118 --> 00:02:02,118
+and when I say skip sking it's not just
+
+68
+00:02:00,519 --> 00:02:03,958
+a binary choice between skipping and
+
+69
+00:02:02,118 --> 00:02:05,437
+reading there's actually a spectrum of
+
+70
+00:02:03,959 --> 00:02:07,478
+focus that you can apply to your
+
+71
+00:02:05,438 --> 00:02:08,999
+assigned readings and for Simplicity
+
+72
+00:02:07,478 --> 00:02:12,758
+sake we can break this spectrum down
+
+73
+00:02:09,000 --> 00:02:14,280
+into three specific choices skip skim or
+
+74
+00:02:12,759 --> 00:02:15,799
+read when I took my marketing class
+
+75
+00:02:14,280 --> 00:02:17,319
+during my junior year I started the
+
+76
+00:02:15,800 --> 00:02:18,1000
+semester off by reading every single
+
+77
+00:02:17,318 --> 00:02:20,079
+assignment however I quickly realized
+
+78
+00:02:19,000 --> 00:02:21,879
+that I could just go to the back of
+
+79
+00:02:20,080 --> 00:02:23,599
+every chapter note down the vocabulary
+
+80
+00:02:21,878 --> 00:02:25,039
+and study that and do just fine on the
+
+81
+00:02:23,598 --> 00:02:26,359
+tests so that's what I did for the rest
+
+82
+00:02:25,039 --> 00:02:27,878
+of the semester and I got a great grade
+
+83
+00:02:26,360 --> 00:02:29,239
+in the class so if that's what you can
+
+84
+00:02:27,878 --> 00:02:30,798
+do for a specific class it's going to
+
+85
+00:02:29,239 --> 00:02:32,319
+save you a lot of time in other classes
+
+86
+00:02:30,800 --> 00:02:33,518
+just skimming the material alone isn't
+
+87
+00:02:32,318 --> 00:02:35,398
+going to cut it so you're going to have
+
+88
+00:02:33,519 --> 00:02:37,519
+to find time to dedicate close reading
+
+89
+00:02:35,400 --> 00:02:39,640
+to that material but the key here is to
+
+90
+00:02:37,519 --> 00:02:41,039
+remain mindful when you're in class
+
+91
+00:02:39,639 --> 00:02:42,639
+gauge the amount of effort you need to
+
+92
+00:02:41,039 --> 00:02:44,317
+put into the class and the readings as
+
+93
+00:02:42,639 --> 00:02:45,918
+the semester goes along and adjust your
+
+94
+00:02:44,318 --> 00:02:48,478
+effort accordingly another thing that
+
+95
+00:02:45,919 --> 00:02:50,399
+you can focus on is the type of readings
+
+96
+00:02:48,479 --> 00:02:52,318
+that are assigned so each of your
+
+97
+00:02:50,400 --> 00:02:53,799
+classes will most likely have a primary
+
+98
+00:02:52,318 --> 00:02:55,559
+reading source and this is usually going
+
+99
+00:02:53,800 --> 00:02:57,040
+to be the assigned textbook primary
+
+100
+00:02:55,560 --> 00:02:58,439
+reading sources should be a high
+
+101
+00:02:57,039 --> 00:02:59,838
+priority item for you and you should do
+
+102
+00:02:58,439 --> 00:03:01,479
+most of your reading assignments in them
+
+103
+00:02:59,840 --> 00:03:03,719
+those however a lot of classes have
+
+104
+00:03:01,479 --> 00:03:05,517
+secondary reading sources maybe articles
+
+105
+00:03:03,719 --> 00:03:07,359
+that the professor finds interesting or
+
+106
+00:03:05,519 --> 00:03:09,599
+historical documents things like that
+
+107
+00:03:07,360 --> 00:03:11,959
+and a lot of times these readings are
+
+108
+00:03:09,598 --> 00:03:12,998
+not actually that important so if you
+
+109
+00:03:11,959 --> 00:03:14,959
+find that you don't have time to do
+
+110
+00:03:13,000 --> 00:03:16,919
+reading beyond the primary sources you
+
+111
+00:03:14,959 --> 00:03:18,599
+can usually safely skip these however
+
+112
+00:03:16,919 --> 00:03:20,237
+you decide to prioritize those readings
+
+113
+00:03:18,598 --> 00:03:22,517
+the one thing I will say is to always
+
+114
+00:03:20,239 --> 00:03:23,879
+have that material available in class if
+
+115
+00:03:22,519 --> 00:03:25,080
+you're able to dig into your primary
+
+116
+00:03:23,878 --> 00:03:26,278
+sources while you're learning from the
+
+117
+00:03:25,080 --> 00:03:28,318
+lecture slides then you're going to be
+
+118
+00:03:26,280 --> 00:03:30,199
+able to solidify Concepts in your mind a
+
+119
+00:03:28,318 --> 00:03:31,438
+lot better also the professor might want
+
+120
+00:03:30,199 --> 00:03:32,759
+you to look in the textbook every once
+
+121
+00:03:31,438 --> 00:03:33,999
+in a while so just make sure you have it
+
+122
+00:03:32,759 --> 00:03:36,038
+with you and the last thing I want to
+
+123
+00:03:34,000 --> 00:03:38,400
+cover in this video is the idea of your
+
+124
+00:03:36,039 --> 00:03:40,079
+time so reading assignments are so
+
+125
+00:03:38,400 --> 00:03:42,120
+numerous that they often get the excuse
+
+126
+00:03:40,080 --> 00:03:44,519
+of I don't have time to do all of these
+
+127
+00:03:42,120 --> 00:03:46,318
+and often that's valid but I want you to
+
+128
+00:03:44,519 --> 00:03:47,438
+think about it specifically I want you
+
+129
+00:03:46,318 --> 00:03:49,798
+to make sure that you're not
+
+130
+00:03:47,438 --> 00:03:51,598
+interpreting a lack of efficiency as a
+
+131
+00:03:49,799 --> 00:03:52,640
+lack of time if you're just trying to
+
+132
+00:03:51,598 --> 00:03:54,078
+read straight through all of your
+
+133
+00:03:52,639 --> 00:03:55,478
+reading assignments then you might not
+
+134
+00:03:54,079 --> 00:03:57,360
+be tackling them in the most efficient
+
+135
+00:03:55,479 --> 00:03:58,559
+way and that may be the true problem
+
+136
+00:03:57,360 --> 00:04:00,239
+when you think that you don't have time
+
+137
+00:03:58,560 --> 00:04:01,439
+to get them done next week's video is
+
+138
+00:04:00,239 --> 00:04:02,959
+going to be all about strategies and
+
+139
+00:04:01,438 --> 00:04:04,838
+techniques you can use to do your
+
+140
+00:04:02,959 --> 00:04:06,039
+assigned readings more efficiently so if
+
+141
+00:04:04,840 --> 00:04:07,719
+you want to get that make sure you
+
+142
+00:04:06,039 --> 00:04:09,679
+subscribe to this channel but for this
+
+143
+00:04:07,719 --> 00:04:12,438
+video The Main Idea here is to be
+
+144
+00:04:09,680 --> 00:04:14,439
+mindful of each class's required
+
+145
+00:04:12,438 --> 00:04:16,439
+readings as you go through the semester
+
+146
+00:04:14,438 --> 00:04:18,197
+try to decide which ones require your
+
+147
+00:04:16,439 --> 00:04:19,757
+attention more than others and then
+
+148
+00:04:18,199 --> 00:04:22,040
+adjust your investment of time for each
+
+149
+00:04:19,759 --> 00:04:22,040
+one
+
+150
+00:04:23,040 --> 00:04:26,399
+accordingly hey thanks for watching my
+
+151
+00:04:24,918 --> 00:04:27,638
+video If you enjoyed it then you can
+
+152
+00:04:26,399 --> 00:04:29,119
+support me by giving it a like on
+
+153
+00:04:27,639 --> 00:04:30,400
+YouTube or sharing it with a friend if
+
+154
+00:04:29,120 --> 00:04:31,879
+you want to get more videos just like
+
+155
+00:04:30,399 --> 00:04:33,359
+this every single week on being a better
+
+156
+00:04:31,879 --> 00:04:35,158
+college student then click the Subscribe
+
+157
+00:04:33,360 --> 00:04:36,600
+button right there if you missed the
+
+158
+00:04:35,160 --> 00:04:37,680
+last video a clip of it is playing right
+
+159
+00:04:36,600 --> 00:04:39,240
+below there and you can click that to
+
+160
+00:04:37,680 --> 00:04:40,360
+watch it also you can get a summary and
+
+161
+00:04:39,240 --> 00:04:41,999
+links to anything I mentioned in the
+
+162
+00:04:40,360 --> 00:04:43,400
+video by going to the companion blog
+
+163
+00:04:42,000 --> 00:04:45,160
+post which you can find by clicking on
+
+164
+00:04:43,399 --> 00:04:46,318
+the orange logo right there lastly if
+
+165
+00:04:45,160 --> 00:04:47,360
+you want to get a free chapter of my
+
+166
+00:04:46,319 --> 00:04:48,758
+book when it comes out then you can
+
+167
+00:04:47,360 --> 00:04:50,279
+click that book and subscribe to the
+
+168
+00:04:48,759 --> 00:04:51,880
+college infop newsletter you'll also get
+
+169
+00:04:50,279 --> 00:04:53,638
+notified when new podcast episodes and
+
+170
+00:04:51,879 --> 00:04:55,119
+blog posts come out every week lastly if
+
+171
+00:04:53,639 --> 00:04:56,320
+you have ideas for new videos or you
+
+172
+00:04:55,120 --> 00:04:58,039
+just want to connect with me you can do
+
+173
+00:04:56,319 --> 00:05:00,238
+so on Twitter or leave a comment on this
+
+174
+00:04:58,038 --> 00:05:02,478
+video thanks
+
+175
+00:05:00,240 --> 00:05:02,478
+you
+

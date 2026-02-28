@@ -1,0 +1,2236 @@
+1
+00:00:00,000 --> 00:00:01,899
+- Thanks to Brilliant for sponsoring this video,
+
+2
+00:00:01,899 --> 00:00:03,379
+and supporting my channel.
+
+3
+00:00:03,379 --> 00:00:04,598
+So last week I did a video
+
+4
+00:00:04,599 --> 00:00:06,439
+summarizing three of the biggest ideas
+
+5
+00:00:06,440 --> 00:00:07,986
+in this book right here.
+
+6
+00:00:07,987 --> 00:00:10,370
+"Atomic Habits" by James Clear.
+
+7
+00:00:10,369 --> 00:00:13,079
+And that's the only Dr. Seuss's calamity in this video
+
+8
+00:00:13,080 --> 00:00:14,620
+but I just couldn't help it.
+
+9
+00:00:14,619 --> 00:00:15,808
+But like I said, in that video,
+
+10
+00:00:15,810 --> 00:00:17,899
+this is one of the better self development books
+
+11
+00:00:17,899 --> 00:00:18,732
+that I've ever read,
+
+12
+00:00:18,733 --> 00:00:19,690
+and when it comes to building habits,
+
+13
+00:00:19,690 --> 00:00:22,149
+I think this is the best habit building book
+
+14
+00:00:22,149 --> 00:00:23,089
+that I've ever read.
+
+15
+00:00:23,089 --> 00:00:25,388
+But while those three big ideas we discussed in that video
+
+16
+00:00:25,390 --> 00:00:27,769
+do kind of encapsulate the strategic component
+
+17
+00:00:27,769 --> 00:00:28,602
+of building habits,
+
+18
+00:00:28,603 --> 00:00:30,310
+they aren't the entire picture
+
+19
+00:00:30,309 --> 00:00:32,369
+because as anybody who's ever studied business
+
+20
+00:00:32,369 --> 00:00:34,438
+will tell you to run a successful business,
+
+21
+00:00:34,439 --> 00:00:37,968
+you need two things, strategy and tactics.
+
+22
+00:00:37,969 --> 00:00:41,308
+Strategy being the foundational sort of birds eye view,
+
+23
+00:00:41,310 --> 00:00:44,060
+huge ideas that really form the foundation
+
+24
+00:00:44,060 --> 00:00:45,219
+of everything you're trying to do.
+
+25
+00:00:45,219 --> 00:00:47,808
+And tactics being the more in the trenches plans
+
+26
+00:00:47,810 --> 00:00:49,850
+that allow you to carry out the strategy
+
+27
+00:00:49,850 --> 00:00:51,029
+on a day to day basis,
+
+28
+00:00:51,030 --> 00:00:53,159
+in addition to dealing with whatever crap
+
+29
+00:00:53,159 --> 00:00:55,058
+life happens to throw your way.
+
+30
+00:00:55,060 --> 00:00:57,550
+And while running a business and building habits
+
+31
+00:00:57,549 --> 00:01:00,359
+in your everyday life, aren't completely identical goals,
+
+32
+00:01:00,359 --> 00:01:02,278
+they do have one key component
+
+33
+00:01:02,280 --> 00:01:04,260
+in which they are very, very alike,
+
+34
+00:01:04,260 --> 00:01:07,320
+which is that you need both strategy and tactics.
+
+35
+00:01:07,319 --> 00:01:08,409
+And luckily "Atomic Habits"
+
+36
+00:01:08,409 --> 00:01:10,618
+also deals with this more tactical question.
+
+37
+00:01:10,620 --> 00:01:12,509
+In fact clear lays are four different rules
+
+38
+00:01:12,510 --> 00:01:14,480
+for making habits stick over the longterm
+
+39
+00:01:14,480 --> 00:01:16,779
+and making sure that you stick with them even when life
+
+40
+00:01:16,780 --> 00:01:18,560
+inevitably gets in your way.
+
+41
+00:01:18,560 --> 00:01:19,610
+So in today's video,
+
+42
+00:01:19,609 --> 00:01:21,329
+we are gonna summarize those four rules,
+
+43
+00:01:21,329 --> 00:01:23,208
+I'm gonna give you my thoughts on each of them.
+
+44
+00:01:23,209 --> 00:01:24,939
+So let's get started with rule number one,
+
+45
+00:01:24,939 --> 00:01:26,699
+which is to make it obvious.
+
+46
+00:01:26,700 --> 00:01:28,010
+Any habit that you're trying to build,
+
+47
+00:01:28,010 --> 00:01:30,070
+shouldn't come with question marks on it.
+
+48
+00:01:30,069 --> 00:01:31,059
+Where am I gonna do it?
+
+49
+00:01:31,060 --> 00:01:31,893
+How do I do it?
+
+50
+00:01:31,893 --> 00:01:32,726
+When do I do it?
+
+51
+00:01:32,725 --> 00:01:34,099
+If you're asking these questions,
+
+52
+00:01:34,099 --> 00:01:36,248
+you're already getting off on the wrong foot.
+
+53
+00:01:36,250 --> 00:01:37,790
+One of my favorite quotes from this book
+
+54
+00:01:37,790 --> 00:01:40,129
+is actually one of my favorite quotes in general
+
+55
+00:01:40,129 --> 00:01:42,926
+which is that, "You do not rise to the level of your goals,
+
+56
+00:01:42,927 --> 00:01:45,720
+"You fall to the level of your systems."
+
+57
+00:01:45,719 --> 00:01:48,828
+And if your system hasn't defined a clear picture
+
+58
+00:01:48,829 --> 00:01:50,738
+of what a habit is supposed to be,
+
+59
+00:01:50,739 --> 00:01:53,118
+then you're not really gonna know what to do.
+
+60
+00:01:53,120 --> 00:01:56,539
+For instance, I will eat more vegetables is unclear.
+
+61
+00:01:56,540 --> 00:01:58,189
+How do you know on any given day
+
+62
+00:01:58,189 --> 00:02:00,858
+that you've actually completed that goal?
+
+63
+00:02:00,859 --> 00:02:03,269
+Is a single baby carrot enough?
+
+64
+00:02:03,269 --> 00:02:05,759
+Well, if you've set your system in an unclear way
+
+65
+00:02:05,760 --> 00:02:07,909
+or if you set the bare minimum so low,
+
+66
+00:02:07,909 --> 00:02:10,098
+then on many days you're gonna find yourself
+
+67
+00:02:10,099 --> 00:02:11,699
+falling to that bare minimum,
+
+68
+00:02:11,699 --> 00:02:14,819
+eating a baby carrot and saying, "Hey, I ate vegetables."
+
+69
+00:02:14,819 --> 00:02:16,759
+And that's the thing, on really busy days,
+
+70
+00:02:16,759 --> 00:02:18,968
+or days when you're feeling just really, really tired
+
+71
+00:02:18,969 --> 00:02:19,949
+or unmotivated,
+
+72
+00:02:19,949 --> 00:02:22,339
+you can bet that you are going to just fall
+
+73
+00:02:22,340 --> 00:02:25,549
+to the bare minimum requirement that your system has set.
+
+74
+00:02:25,550 --> 00:02:28,469
+And over time, this can lead to self sabotage
+
+75
+00:02:28,469 --> 00:02:30,649
+because while you are technically fulfilling
+
+76
+00:02:30,650 --> 00:02:32,400
+your requirements of the system,
+
+77
+00:02:32,400 --> 00:02:34,600
+the results you get through that habit,
+
+78
+00:02:34,599 --> 00:02:37,089
+through that practice are so infinitesimally small
+
+79
+00:02:37,090 --> 00:02:39,820
+that you don't see real progress over time.
+
+80
+00:02:39,819 --> 00:02:41,679
+You're basically just kind of stalled out.
+
+81
+00:02:41,680 --> 00:02:44,630
+But you can easily fix this by making the goal obvious
+
+82
+00:02:44,629 --> 00:02:46,389
+by setting some specific requirements
+
+83
+00:02:46,389 --> 00:02:48,549
+that give you a very clear bare minimum,
+
+84
+00:02:48,550 --> 00:02:50,350
+that's actually gonna get you results.
+
+85
+00:02:50,349 --> 00:02:52,049
+So going back to our vegetables goal,
+
+86
+00:02:52,050 --> 00:02:54,460
+instead of saying, "I will eat more vegetables,"
+
+87
+00:02:54,460 --> 00:02:56,119
+just again, very unclear,
+
+88
+00:02:56,120 --> 00:02:57,047
+maybe say something like,
+
+89
+00:02:57,046 --> 00:02:59,416
+"I will eat one full serving of vegetables
+
+90
+00:02:59,417 --> 00:03:02,486
+"every day at lunch, except for on Sundays
+
+91
+00:03:02,486 --> 00:03:04,288
+"and fries don't count."
+
+92
+00:03:04,289 --> 00:03:05,829
+I don't know who thinks fries are a vegetable
+
+93
+00:03:05,830 --> 00:03:07,950
+but hey, we gotta be specific here, right?
+
+94
+00:03:07,949 --> 00:03:10,449
+But you can see it's very clear minimum requirement
+
+95
+00:03:10,449 --> 00:03:13,149
+makes it a lot harder to cheat yourself in the long term.
+
+96
+00:03:13,150 --> 00:03:14,779
+And it also makes it a lot more obvious
+
+97
+00:03:14,780 --> 00:03:17,360
+what you're supposed to be doing on a day to day basis.
+
+98
+00:03:17,360 --> 00:03:19,150
+And if you wanna make this even more obvious,
+
+99
+00:03:19,150 --> 00:03:21,370
+then it's a good idea to have a written record
+
+100
+00:03:21,370 --> 00:03:23,259
+of your past accomplishments,
+
+101
+00:03:23,259 --> 00:03:26,669
+of your past compliance with the habit that you're set out.
+
+102
+00:03:26,669 --> 00:03:28,548
+In other words, track your habits.
+
+103
+00:03:28,550 --> 00:03:31,320
+We, human beings have a very fallible memory.
+
+104
+00:03:31,319 --> 00:03:33,359
+Sometimes it's hard to remember what we did yesterday
+
+105
+00:03:33,360 --> 00:03:34,850
+let alone two weeks ago.
+
+106
+00:03:34,849 --> 00:03:37,889
+So if you have an actual concrete record of what you've done
+
+107
+00:03:37,889 --> 00:03:40,859
+you'll often find it motivating and you'll find it more easy
+
+108
+00:03:40,860 --> 00:03:43,199
+to keep doing this in the future.
+
+109
+00:03:43,199 --> 00:03:44,388
+Now when it comes to tracking your habits,
+
+110
+00:03:44,389 --> 00:03:46,288
+there are a ton of different methods out there.
+
+111
+00:03:46,289 --> 00:03:47,668
+If you're a fan of pen and paper,
+
+112
+00:03:47,669 --> 00:03:49,209
+I did a video earlier this year
+
+113
+00:03:49,210 --> 00:03:51,129
+about something called the Martin System,
+
+114
+00:03:51,129 --> 00:03:52,429
+which my friend Martin created,
+
+115
+00:03:52,430 --> 00:03:53,780
+and a lot of people seem to like,
+
+116
+00:03:53,780 --> 00:03:56,349
+so I'll have a link in description for that video,
+
+117
+00:03:56,349 --> 00:03:59,119
+but there are also tons of habit tracking apps out there,
+
+118
+00:03:59,120 --> 00:04:00,460
+Habitica being my favorite one,
+
+119
+00:04:00,460 --> 00:04:03,120
+because it brings in lots of video game design elements
+
+120
+00:04:03,120 --> 00:04:04,130
+and video games designers
+
+121
+00:04:04,129 --> 00:04:06,588
+have had probably about 40 years this point
+
+122
+00:04:06,590 --> 00:04:08,320
+to study psychology and figure out
+
+123
+00:04:08,319 --> 00:04:11,049
+what motivates players to keep playing their games.
+
+124
+00:04:11,050 --> 00:04:12,489
+So you can take those insights,
+
+125
+00:04:12,490 --> 00:04:13,960
+put them into a habit tracking app,
+
+126
+00:04:13,960 --> 00:04:15,869
+And at least in my experience,
+
+127
+00:04:15,870 --> 00:04:18,709
+it makes it a lot more motivating to use.
+
+128
+00:04:18,709 --> 00:04:20,569
+Of course you could also just mark things off
+
+129
+00:04:20,569 --> 00:04:21,469
+on the calendar,
+
+130
+00:04:21,470 --> 00:04:23,119
+mark each day as you do the habit,
+
+131
+00:04:23,120 --> 00:04:25,129
+which Jerry Seinfeld is very famous
+
+132
+00:04:25,129 --> 00:04:26,959
+for having done with writing jokes,
+
+133
+00:04:26,959 --> 00:04:29,568
+and that's why this is often called the Seinfeld Effect.
+
+134
+00:04:29,569 --> 00:04:32,229
+But whatever you do, calendar, app, Martin System,
+
+135
+00:04:32,230 --> 00:04:33,063
+whatever it is,
+
+136
+00:04:33,062 --> 00:04:34,469
+simply tracking your habits
+
+137
+00:04:34,470 --> 00:04:37,039
+is going to make it more obvious every single day
+
+138
+00:04:37,040 --> 00:04:38,370
+what you're supposed to be doing,
+
+139
+00:04:38,370 --> 00:04:39,430
+because you have a record.
+
+140
+00:04:39,430 --> 00:04:41,720
+Now, this isn't always going to be enough.
+
+141
+00:04:41,720 --> 00:04:43,010
+Just making a habit obvious
+
+142
+00:04:43,009 --> 00:04:45,189
+isn't going to ensure that you're going to do it.
+
+143
+00:04:45,189 --> 00:04:47,679
+So let's talk about the second rule on Claire's list
+
+144
+00:04:47,680 --> 00:04:49,970
+which is to make it attractive.
+
+145
+00:04:49,970 --> 00:04:51,810
+The idea here is to pair the habit
+
+146
+00:04:51,810 --> 00:04:54,520
+that you're trying to build, which is often difficult,
+
+147
+00:04:54,519 --> 00:04:57,699
+requires self-discipline, requires motivation and willpower
+
+148
+00:04:57,699 --> 00:04:59,436
+with something that you already like to do.
+
+149
+00:04:59,437 --> 00:05:00,969
+And this can be especially important
+
+150
+00:05:00,970 --> 00:05:02,680
+in the early stages of this habits
+
+151
+00:05:02,680 --> 00:05:05,990
+where again, it's taking mostly willpower for you to do it
+
+152
+00:05:05,990 --> 00:05:09,429
+because it hasn't yet worn a well-worn neural pathway
+
+153
+00:05:09,430 --> 00:05:11,319
+that makes it an automatic behavior.
+
+154
+00:05:11,319 --> 00:05:12,786
+Or I guess in definition, a habit.
+
+155
+00:05:12,786 --> 00:05:13,888
+Giving an example,
+
+156
+00:05:13,889 --> 00:05:15,889
+my friend Martin wrote this script for this video,
+
+157
+00:05:15,889 --> 00:05:18,929
+and like me he doesn't necessarily like writing
+
+158
+00:05:18,930 --> 00:05:21,749
+especially when it's nonfiction productivity scripts.
+
+159
+00:05:21,750 --> 00:05:24,080
+But there are two settings in which he can make himself
+
+160
+00:05:24,079 --> 00:05:26,349
+get into the writing habit and get started
+
+161
+00:05:26,350 --> 00:05:28,120
+by tweaking his environment
+
+162
+00:05:28,120 --> 00:05:29,830
+to make it a little bit more enjoyable.
+
+163
+00:05:29,829 --> 00:05:32,099
+The first one is at home, he'll clean off his desk,
+
+164
+00:05:32,100 --> 00:05:34,600
+he'll make a fresh cup of tea, since he's a tea drinker,
+
+165
+00:05:34,600 --> 00:05:35,630
+and he'll light a candle.
+
+166
+00:05:35,629 --> 00:05:38,698
+So he's making his home environment a bit more attractive
+
+167
+00:05:38,699 --> 00:05:39,739
+as a writing space.
+
+168
+00:05:39,740 --> 00:05:41,949
+Alternatively, sometimes he actually goes out in his car
+
+169
+00:05:41,949 --> 00:05:43,419
+and we'll park somewhere in nature
+
+170
+00:05:43,420 --> 00:05:44,609
+where he can look at trees
+
+171
+00:05:44,610 --> 00:05:46,460
+and writes a script on his iPad.
+
+172
+00:05:46,459 --> 00:05:48,729
+Personally at a knock at the allure of riding in my car,
+
+173
+00:05:48,730 --> 00:05:50,580
+I think it'll would be very uncomfortable,
+
+174
+00:05:50,579 --> 00:05:53,269
+but hey, whatever works for him works for him,
+
+175
+00:05:53,269 --> 00:05:55,498
+and whatever works for you will work for you.
+
+176
+00:05:55,500 --> 00:05:57,070
+So try to tweak your environment
+
+177
+00:05:57,069 --> 00:05:58,759
+in a way that makes it more enjoyable
+
+178
+00:05:58,759 --> 00:06:00,379
+to get into this habit.
+
+179
+00:06:00,379 --> 00:06:02,778
+You could also create what I like to call Jedi Councils,
+
+180
+00:06:02,779 --> 00:06:05,669
+which is just my nerdy term for a mastermind group.
+
+181
+00:06:05,670 --> 00:06:07,260
+I don't really like the term mastermind group
+
+182
+00:06:07,259 --> 00:06:09,089
+'cause a lot of those fake gurus love to use it.
+
+183
+00:06:09,089 --> 00:06:11,098
+So I'm gonna go at Jedi Council,
+
+184
+00:06:11,100 --> 00:06:11,933
+but essentially,
+
+185
+00:06:11,932 --> 00:06:14,468
+a Jedi Council is just a group of like-minded people
+
+186
+00:06:14,470 --> 00:06:16,359
+who have similar levels of ambition,
+
+187
+00:06:16,360 --> 00:06:19,489
+who agreed to get on a call every week or every two weeks
+
+188
+00:06:19,490 --> 00:06:20,760
+and support each other.
+
+189
+00:06:20,759 --> 00:06:22,999
+I was on the same Jedi Council call
+
+190
+00:06:23,000 --> 00:06:25,609
+with the same four people for about four years.
+
+191
+00:06:25,610 --> 00:06:27,420
+And every couple of weeks we'd get on a call,
+
+192
+00:06:27,420 --> 00:06:28,710
+and we talk about what we had done
+
+193
+00:06:28,709 --> 00:06:30,049
+over the past couple of weeks.
+
+194
+00:06:30,050 --> 00:06:31,860
+Every week, somebody would be in the hot seat,
+
+195
+00:06:31,860 --> 00:06:33,410
+they would kind of do a deep dive
+
+196
+00:06:33,410 --> 00:06:34,910
+on the struggles they were having,
+
+197
+00:06:34,910 --> 00:06:36,270
+what they were trying to do in their business
+
+198
+00:06:36,269 --> 00:06:37,102
+or in their goals.
+
+199
+00:06:37,103 --> 00:06:38,930
+We'd all just sort of provide support
+
+200
+00:06:38,930 --> 00:06:41,439
+and encouragement and accountability.
+
+201
+00:06:41,439 --> 00:06:42,896
+At the end of that call, everyone would say,
+
+202
+00:06:42,896 --> 00:06:45,355
+"Here's what I'm going to do in the next two weeks,
+
+203
+00:06:45,357 --> 00:06:47,090
+"keep me accountable."
+
+204
+00:06:47,089 --> 00:06:48,939
+One thing I've noticed with friends,
+
+205
+00:06:48,939 --> 00:06:51,539
+is that often friends are too close to you,
+
+206
+00:06:51,540 --> 00:06:54,830
+they like it too much to really hold your feet to the fire
+
+207
+00:06:54,829 --> 00:06:55,662
+with a goal.
+
+208
+00:06:55,663 --> 00:06:56,780
+Maybe some friends will actually do it,
+
+209
+00:06:56,779 --> 00:06:59,558
+but a lot of friends will sort of forgive you
+
+210
+00:06:59,560 --> 00:07:00,830
+when you fall off the horse,
+
+211
+00:07:00,829 --> 00:07:02,399
+which is not always what you need.
+
+212
+00:07:02,399 --> 00:07:05,678
+Sometimes you need to somebody who's kind of at arms length,
+
+213
+00:07:05,680 --> 00:07:07,319
+who cares about you,
+
+214
+00:07:07,319 --> 00:07:09,368
+but they care about you in a way
+
+215
+00:07:09,370 --> 00:07:11,780
+in which they're going to really hold your feet to the fire
+
+216
+00:07:11,779 --> 00:07:12,612
+and ask you,
+
+217
+00:07:12,612 --> 00:07:15,688
+"Why did you not do what you said you were gonna do?"
+
+218
+00:07:15,689 --> 00:07:17,869
+You know, they're not gonna take it can excuses from you.
+
+219
+00:07:17,870 --> 00:07:20,660
+So it can be very, very helpful to form a group like this.
+
+220
+00:07:20,660 --> 00:07:22,380
+The accountability these people provide you
+
+221
+00:07:22,379 --> 00:07:25,109
+might not always be enough to help you hurdle
+
+222
+00:07:25,110 --> 00:07:27,039
+the difficulties involved
+
+223
+00:07:27,040 --> 00:07:28,840
+in sticking with your habit longterm,
+
+224
+00:07:28,839 --> 00:07:31,059
+which is why sometimes you need to look for a way
+
+225
+00:07:31,060 --> 00:07:33,100
+to reduce that difficulty.
+
+226
+00:07:33,100 --> 00:07:34,820
+In other words, make it easy.
+
+227
+00:07:34,819 --> 00:07:36,109
+The main thing we're looking to do here
+
+228
+00:07:36,110 --> 00:07:38,520
+is to remove as much friction as possible
+
+229
+00:07:38,519 --> 00:07:41,119
+from whatever positive habit that you're trying to build.
+
+230
+00:07:41,120 --> 00:07:43,860
+So for an example, let's talk about guitar for a second.
+
+231
+00:07:43,860 --> 00:07:46,299
+It took me all of two seconds to go and grab this guitar
+
+232
+00:07:46,300 --> 00:07:47,529
+off the stand over there.
+
+233
+00:07:47,529 --> 00:07:49,168
+Now, when I bought this guitar,
+
+234
+00:07:49,170 --> 00:07:50,849
+when I bought my first guitar in Colorado,
+
+235
+00:07:50,850 --> 00:07:52,450
+they always tell me the same thing.
+
+236
+00:07:52,449 --> 00:07:54,808
+You live in Colorado, which is a very dry environment.
+
+237
+00:07:54,810 --> 00:07:56,489
+So you need to buy a case
+
+238
+00:07:56,490 --> 00:07:58,129
+and you need to keep the guitar in the case
+
+239
+00:07:58,129 --> 00:07:59,429
+as much as possible,
+
+240
+00:07:59,430 --> 00:08:01,530
+and you also need to buy this humidification device
+
+241
+00:08:01,529 --> 00:08:04,078
+which you have to fill with distilled water every two days,
+
+242
+00:08:04,079 --> 00:08:06,179
+Otherwise guitar is gonna crack over time
+
+243
+00:08:06,180 --> 00:08:07,409
+and become worthless.
+
+244
+00:08:07,410 --> 00:08:09,709
+And I understand what they're saying and they're not wrong,
+
+245
+00:08:09,709 --> 00:08:11,219
+but here's the thing,
+
+246
+00:08:11,220 --> 00:08:14,900
+I did that at first diligently when I bought my first guitar
+
+247
+00:08:14,899 --> 00:08:15,799
+here in Colorado,
+
+248
+00:08:15,800 --> 00:08:18,150
+and as a result, I almost never played it,
+
+249
+00:08:18,149 --> 00:08:19,409
+because it was locked in the case,
+
+250
+00:08:19,410 --> 00:08:21,869
+it would take me, you know, probably 20, 25 seconds
+
+251
+00:08:21,870 --> 00:08:24,899
+to go get the case, unlock it, take the stupid humidifier
+
+252
+00:08:24,899 --> 00:08:25,749
+out of the strings,
+
+253
+00:08:25,750 --> 00:08:28,069
+and then get myself ready to play.
+
+254
+00:08:28,069 --> 00:08:29,355
+So now I've said, "You know what?
+
+255
+00:08:29,357 --> 00:08:31,297
+"I don't care if my guitars crack over time,
+
+256
+00:08:31,297 --> 00:08:34,076
+"I will buy a new guitar 40 years down the line,
+
+257
+00:08:34,076 --> 00:08:35,939
+"when my old one has worn itself out."
+
+258
+00:08:35,940 --> 00:08:37,319
+Because in exchange,
+
+259
+00:08:37,320 --> 00:08:40,730
+by keeping my guitars out all over the house on stands,
+
+260
+00:08:40,730 --> 00:08:42,369
+just ready to play, ready to pick up
+
+261
+00:08:42,370 --> 00:08:46,850
+whenever I have a whim to play, I play much more often.
+
+262
+00:08:46,850 --> 00:08:50,720
+And as a result, I've seen my skill grows so much faster.
+
+263
+00:08:50,720 --> 00:08:51,980
+And the funny thing is,
+
+264
+00:08:51,980 --> 00:08:54,759
+I don't even have to make it obvious for this goal.
+
+265
+00:08:54,759 --> 00:08:56,688
+I don't have to say, I will practice guitar
+
+266
+00:08:56,690 --> 00:08:59,949
+and do these scale patterns every single day for 20 minutes.
+
+267
+00:08:59,950 --> 00:09:01,240
+It's just easy.
+
+268
+00:09:01,240 --> 00:09:02,619
+I love to play guitar.
+
+269
+00:09:02,620 --> 00:09:03,980
+It is something that takes work,
+
+270
+00:09:03,980 --> 00:09:05,800
+but because the guitar is right there
+
+271
+00:09:05,799 --> 00:09:08,359
+whether I'm upstairs, whether I'm down here in the studio,
+
+272
+00:09:08,360 --> 00:09:09,680
+whenever I have a spare moment,
+
+273
+00:09:09,679 --> 00:09:10,769
+I'll often pick it up,
+
+274
+00:09:10,769 --> 00:09:12,249
+and about half the time I pick it up,
+
+275
+00:09:12,250 --> 00:09:13,870
+I'll end up making something up
+
+276
+00:09:13,870 --> 00:09:15,590
+that I really like and wanna record.
+
+277
+00:09:15,590 --> 00:09:17,130
+So, make it easy.
+
+278
+00:09:17,129 --> 00:09:20,448
+Remove the friction involved in getting into whatever habit
+
+279
+00:09:20,450 --> 00:09:21,560
+that you want to do.
+
+280
+00:09:21,559 --> 00:09:22,788
+Another way to make a habit easy,
+
+281
+00:09:22,789 --> 00:09:24,579
+is to Start with baby steps,
+
+282
+00:09:24,580 --> 00:09:26,360
+or in other words, to set the bare minimum
+
+283
+00:09:26,360 --> 00:09:28,699
+at least at first, at a level that you know
+
+284
+00:09:28,700 --> 00:09:30,410
+you could accomplish every single day.
+
+285
+00:09:30,409 --> 00:09:33,299
+Even if something weird and unexpected comes up
+
+286
+00:09:33,299 --> 00:09:34,309
+and interrupts your day,
+
+287
+00:09:34,309 --> 00:09:35,948
+even if life gets in your way.
+
+288
+00:09:35,950 --> 00:09:36,910
+So for example,
+
+289
+00:09:36,909 --> 00:09:38,038
+and Martin put this in the script,
+
+290
+00:09:38,039 --> 00:09:39,218
+I think to annoy me,
+
+291
+00:09:39,220 --> 00:09:40,669
+but if you're trying to meditate,
+
+292
+00:09:40,669 --> 00:09:41,789
+which I don't like to do,
+
+293
+00:09:41,789 --> 00:09:44,779
+and you set your goal and immediately at 10 minutes per day,
+
+294
+00:09:44,779 --> 00:09:47,348
+you might find that your mind is not used
+
+295
+00:09:47,350 --> 00:09:49,040
+to 10 minutes of meditation.
+
+296
+00:09:49,039 --> 00:09:51,228
+My mind isn't even used for 30 seconds of meditation.
+
+297
+00:09:51,230 --> 00:09:52,470
+It's just not for me.
+
+298
+00:09:52,470 --> 00:09:54,619
+But if you're trying to get into a meditation habit,
+
+299
+00:09:54,620 --> 00:09:57,950
+it might be more useful to set a two minute goal to start.
+
+300
+00:09:57,950 --> 00:10:00,690
+Two minutes is something you can absolutely do,
+
+301
+00:10:00,690 --> 00:10:01,620
+every single day.
+
+302
+00:10:01,620 --> 00:10:02,880
+You probably meditate for two minutes
+
+303
+00:10:02,879 --> 00:10:04,508
+while waiting in line at the grocery store.
+
+304
+00:10:04,509 --> 00:10:05,619
+And if you can get your mind
+
+305
+00:10:05,620 --> 00:10:07,959
+used to the feeling of stillness for two minutes,
+
+306
+00:10:07,960 --> 00:10:10,980
+you'll be able to slowly work yourself up to three minutes,
+
+307
+00:10:10,980 --> 00:10:13,109
+five minutes, 10 minutes, half an hour,
+
+308
+00:10:13,110 --> 00:10:15,569
+whatever people who meditate like to do.
+
+309
+00:10:15,570 --> 00:10:17,799
+I also find this works for writing.
+
+310
+00:10:17,799 --> 00:10:18,815
+When I was writing my book
+
+311
+00:10:18,817 --> 00:10:20,290
+"10 Steps To Earning Awesome Grades."
+
+312
+00:10:20,289 --> 00:10:23,148
+I set my bare minimum goal at 500 words per day,
+
+313
+00:10:23,149 --> 00:10:25,068
+because I knew if I had to,
+
+314
+00:10:25,070 --> 00:10:27,170
+I could write 500 words sitting on the toilet.
+
+315
+00:10:27,169 --> 00:10:28,519
+They might not be very good,
+
+316
+00:10:28,519 --> 00:10:30,019
+but I could do it.
+
+317
+00:10:30,019 --> 00:10:32,759
+And in some days I find myself pushing past
+
+318
+00:10:32,759 --> 00:10:34,329
+that 500 word minimum goal.
+
+319
+00:10:34,330 --> 00:10:36,370
+Some days I would write 3000 words,
+
+320
+00:10:36,370 --> 00:10:39,749
+but I knew if I set my goal at 3000 words per day,
+
+321
+00:10:39,750 --> 00:10:42,310
+on a lot of days, I was going to fail.
+
+322
+00:10:42,309 --> 00:10:44,728
+So set a baby steps goal,
+
+323
+00:10:44,730 --> 00:10:46,939
+and don't worry about what your results are right now
+
+324
+00:10:46,940 --> 00:10:49,160
+if you're only sticking to the bare minimum,
+
+325
+00:10:49,159 --> 00:10:50,265
+as Claire writes in the book,
+
+326
+00:10:50,267 --> 00:10:51,537
+"You should be far more concerned
+
+327
+00:10:51,537 --> 00:10:53,127
+"with your current trajectory,
+
+328
+00:10:53,126 --> 00:10:55,556
+"the direction of which you're going extrapolated
+
+329
+00:10:55,557 --> 00:10:57,847
+"based on the points of data you already have,
+
+330
+00:10:57,846 --> 00:10:59,429
+"than with your current results."
+
+331
+00:10:59,429 --> 00:11:02,259
+In other words, ask yourself, "Where am I headed?"
+
+332
+00:11:02,259 --> 00:11:03,609
+with the steps that you've been making,
+
+333
+00:11:03,610 --> 00:11:05,670
+with the incremental bumps you've been making,
+
+334
+00:11:05,669 --> 00:11:07,389
+where are you gonna be in the future?
+
+335
+00:11:07,389 --> 00:11:08,949
+Well, if you like how the future looks,
+
+336
+00:11:08,950 --> 00:11:10,800
+then don't worry about where you are right now,
+
+337
+00:11:10,799 --> 00:11:12,299
+because where you are right now
+
+338
+00:11:12,299 --> 00:11:14,249
+represents your training ground.
+
+339
+00:11:14,250 --> 00:11:15,929
+It's kind of like this episode of "Dragon Ball"
+
+340
+00:11:15,929 --> 00:11:17,098
+I used to watch when I was a kid,
+
+341
+00:11:17,100 --> 00:11:18,269
+where Goku had to run around
+
+342
+00:11:18,269 --> 00:11:20,539
+with this giant a hundred pound turtle shell on his back
+
+343
+00:11:20,539 --> 00:11:22,259
+and he could run very, very slowly
+
+344
+00:11:22,259 --> 00:11:23,189
+and could barely jump,
+
+345
+00:11:23,190 --> 00:11:24,480
+but the moment he takes it off,
+
+346
+00:11:24,480 --> 00:11:26,119
+he could jump like a hundred feet in the air.
+
+347
+00:11:26,120 --> 00:11:27,620
+I thought that was real in fifth grade,
+
+348
+00:11:27,620 --> 00:11:29,519
+and I thought I'd be able to jump a hundred feet in the air,
+
+349
+00:11:29,519 --> 00:11:30,819
+If I put a turtle shell in my back,
+
+350
+00:11:30,820 --> 00:11:33,570
+or like carried weights around, that's fake.
+
+351
+00:11:33,570 --> 00:11:36,090
+But the idea is there, isn't?
+
+352
+00:11:36,090 --> 00:11:37,790
+So let's move onto the fourth rule in the book,
+
+353
+00:11:37,789 --> 00:11:39,688
+which is to make it satisfying.
+
+354
+00:11:39,690 --> 00:11:41,870
+So part of what makes building a habit so difficult
+
+355
+00:11:41,870 --> 00:11:43,099
+to something that the human brain
+
+356
+00:11:43,100 --> 00:11:46,260
+kind of hasn't wired itself to fully accept yet.
+
+357
+00:11:46,259 --> 00:11:48,678
+And that's the concept of delayed gratification.
+
+358
+00:11:48,679 --> 00:11:51,239
+This is when you forego a present reward,
+
+359
+00:11:51,240 --> 00:11:52,389
+a short term reward,
+
+360
+00:11:52,389 --> 00:11:56,148
+in order to get a future and hopefully better reward.
+
+361
+00:11:56,149 --> 00:11:57,879
+And this comes up a lot in modern day life,
+
+362
+00:11:57,879 --> 00:12:00,209
+because we love to make big plans.
+
+363
+00:12:00,210 --> 00:12:02,810
+Plans that right now might cost a lot of effort,
+
+364
+00:12:02,809 --> 00:12:03,968
+money and time,
+
+365
+00:12:03,970 --> 00:12:05,810
+but that potentially won't pay off
+
+366
+00:12:05,809 --> 00:12:08,009
+for a very, very long time.
+
+367
+00:12:08,009 --> 00:12:09,908
+And I say this happens more often now,
+
+368
+00:12:09,909 --> 00:12:12,009
+because in the modern day a lot of us
+
+369
+00:12:12,009 --> 00:12:14,638
+can reliably count on that future existing.
+
+370
+00:12:14,639 --> 00:12:16,009
+So we go to school,
+
+371
+00:12:16,009 --> 00:12:18,129
+or we start that scrappy business in our garage,
+
+372
+00:12:18,129 --> 00:12:19,869
+or we save up for that PS5,
+
+373
+00:12:19,870 --> 00:12:21,630
+but for most of human history,
+
+374
+00:12:21,629 --> 00:12:22,889
+we were hunter gatherers
+
+375
+00:12:22,889 --> 00:12:24,889
+who had to rely on what we can get right now.
+
+376
+00:12:24,889 --> 00:12:28,029
+And while PS5s are very hard to catch,
+
+377
+00:12:28,029 --> 00:12:31,058
+so as the saying goes, one PS5 in the hand,
+
+378
+00:12:31,059 --> 00:12:33,329
+is worth two PS5s in the book.
+
+379
+00:12:33,330 --> 00:12:34,163
+In other words,
+
+380
+00:12:34,163 --> 00:12:36,500
+if you don't know that your next meal is coming,
+
+381
+00:12:36,500 --> 00:12:39,609
+then you learn to prioritize what you can get right now
+
+382
+00:12:39,610 --> 00:12:42,949
+over future potential, maybe rewards.
+
+383
+00:12:42,950 --> 00:12:45,499
+Loss aversion becomes a very, very useful
+
+384
+00:12:45,500 --> 00:12:46,850
+survival mechanism,
+
+385
+00:12:46,850 --> 00:12:49,309
+when the potential consequence is starvation.
+
+386
+00:12:49,309 --> 00:12:51,628
+And we've never fully escaped this mindset.
+
+387
+00:12:51,629 --> 00:12:55,808
+This deep seeded brain wiring takes a long time to change.
+
+388
+00:12:55,809 --> 00:12:58,849
+Our external environment has changed relatively rapidly.
+
+389
+00:12:58,850 --> 00:13:00,289
+Seems like it's been thousands of years,
+
+390
+00:13:00,289 --> 00:13:02,168
+but in terms of brain wiring,
+
+391
+00:13:02,169 --> 00:13:03,879
+well, that's pretty done quick
+
+392
+00:13:03,879 --> 00:13:06,329
+and the brain just hasn't had time to catch up.
+
+393
+00:13:06,330 --> 00:13:07,707
+As Claire points out in the book,
+
+394
+00:13:07,706 --> 00:13:09,085
+"Because of how we are wired,
+
+395
+00:13:09,086 --> 00:13:10,826
+"most people will spend all day
+
+396
+00:13:10,826 --> 00:13:13,289
+"chasing quick hits of satisfaction."
+
+397
+00:13:13,289 --> 00:13:15,418
+And you can see how this might be a little bit productive
+
+398
+00:13:15,419 --> 00:13:16,669
+for building strong habits.
+
+399
+00:13:16,669 --> 00:13:19,119
+Since a lot of habits aren't immediately satisfying
+
+400
+00:13:19,120 --> 00:13:21,220
+and take a bit of discipline to get you
+
+401
+00:13:21,220 --> 00:13:23,269
+toward their eventual goal.
+
+402
+00:13:23,269 --> 00:13:25,929
+So what we need is some metaphorical way
+
+403
+00:13:25,929 --> 00:13:28,109
+of getting all three PS5s.
+
+404
+00:13:28,110 --> 00:13:29,509
+We need something that motivates you
+
+405
+00:13:29,509 --> 00:13:31,418
+to stick with the habit longterm,
+
+406
+00:13:31,419 --> 00:13:34,698
+but that gives you something satisfying in the moment.
+
+407
+00:13:34,700 --> 00:13:35,533
+In other words,
+
+408
+00:13:35,533 --> 00:13:37,620
+we wanna bundle some sort of short term reward
+
+409
+00:13:37,620 --> 00:13:41,160
+with the longterm rewards gained through the habit.
+
+410
+00:13:41,159 --> 00:13:43,379
+Now there are really bad ways to set this up,
+
+411
+00:13:43,379 --> 00:13:45,258
+for example, if you are a runner
+
+412
+00:13:45,259 --> 00:13:47,109
+and you're trying to go on a run every single day,
+
+413
+00:13:47,110 --> 00:13:49,630
+maybe giving yourself an unhealthy snack as a reward,
+
+414
+00:13:49,629 --> 00:13:51,018
+isn't the best idea.
+
+415
+00:13:51,019 --> 00:13:53,548
+For one, eating as little as three Oreos
+
+416
+00:13:53,549 --> 00:13:55,499
+could actually counteract the calories burned
+
+417
+00:13:55,500 --> 00:13:56,679
+in an eight minute mile,
+
+418
+00:13:56,679 --> 00:13:58,708
+and well, not everyone's gonna care about that.
+
+419
+00:13:58,710 --> 00:14:00,169
+That is something worth considering,
+
+420
+00:14:00,169 --> 00:14:01,318
+but number two,
+
+421
+00:14:01,320 --> 00:14:04,079
+you could actually end up building a bad habit
+
+422
+00:14:04,080 --> 00:14:07,080
+through rewarding yourself for sticking to a good one.
+
+423
+00:14:07,080 --> 00:14:09,629
+And that's just not really a good thing to be doing.
+
+424
+00:14:09,629 --> 00:14:13,579
+So instead, find a way to give yourself a short term reward
+
+425
+00:14:13,580 --> 00:14:15,709
+that is helpful in and of itself.
+
+426
+00:14:15,710 --> 00:14:17,460
+For example, if you go for that run,
+
+427
+00:14:17,460 --> 00:14:19,280
+maybe reward yourself by coming back
+
+428
+00:14:19,279 --> 00:14:20,629
+and listening to an audio book,
+
+429
+00:14:20,629 --> 00:14:22,538
+or spending the time when you're cooling down,
+
+430
+00:14:22,539 --> 00:14:23,758
+reading a fiction book.
+
+431
+00:14:23,759 --> 00:14:25,749
+That way you also get to reading time in,
+
+432
+00:14:25,750 --> 00:14:28,660
+but you're also rewarding yourself for going for that run.
+
+433
+00:14:28,659 --> 00:14:30,229
+Another potential short term reward here
+
+434
+00:14:30,230 --> 00:14:33,029
+might be just the simple and sweet dopamine release
+
+435
+00:14:33,029 --> 00:14:35,038
+of checking off a check box.
+
+436
+00:14:35,039 --> 00:14:37,239
+Personally, I love writing out my daily plan
+
+437
+00:14:37,240 --> 00:14:38,073
+on my whiteboard,
+
+438
+00:14:38,072 --> 00:14:40,389
+so I can check off those check boxes as I go.
+
+439
+00:14:40,389 --> 00:14:42,759
+And I briefly mentioned habit tracking systems earlier,
+
+440
+00:14:42,759 --> 00:14:45,339
+but another great benefit of marking down your progress
+
+441
+00:14:45,340 --> 00:14:47,590
+is simply having a record of your success
+
+442
+00:14:47,590 --> 00:14:50,869
+and deriving satisfaction from being able to look back
+
+443
+00:14:50,870 --> 00:14:52,079
+on that record.
+
+444
+00:14:52,080 --> 00:14:54,390
+In any case, finding these short term rewards
+
+445
+00:14:54,389 --> 00:14:56,099
+or being creative and coming up with your own,
+
+446
+00:14:56,100 --> 00:14:58,640
+can be especially valuable in the beginning,
+
+447
+00:14:58,639 --> 00:15:00,699
+because like I said in the last video,
+
+448
+00:15:00,700 --> 00:15:03,650
+the compounding effect of their skill building journey
+
+449
+00:15:03,649 --> 00:15:06,059
+really hasn't started to show its power yet.
+
+450
+00:15:06,059 --> 00:15:08,429
+In the beginning, your daily 1% improvements
+
+451
+00:15:08,429 --> 00:15:10,768
+still might not add up to all that much,
+
+452
+00:15:10,769 --> 00:15:12,529
+and you might be feeling a little bit discouraged
+
+453
+00:15:12,529 --> 00:15:13,499
+about your results.
+
+454
+00:15:13,500 --> 00:15:15,540
+So if you can pair that with a reward,
+
+455
+00:15:15,539 --> 00:15:17,069
+at least until the compounding effect
+
+456
+00:15:17,070 --> 00:15:18,310
+has really started to show,
+
+457
+00:15:18,309 --> 00:15:19,629
+you're gonna be able to stick it out
+
+458
+00:15:19,629 --> 00:15:21,629
+through that initial difficult period.
+
+459
+00:15:21,629 --> 00:15:23,278
+Additionally, it just feels good to see
+
+460
+00:15:23,279 --> 00:15:25,859
+a long unbroken streak of successes,
+
+461
+00:15:25,860 --> 00:15:27,690
+but if you do end up failing,
+
+462
+00:15:27,690 --> 00:15:28,960
+like I said in the last video,
+
+463
+00:15:28,960 --> 00:15:31,620
+and I feel compelled to reiterate here,
+
+464
+00:15:31,620 --> 00:15:33,440
+don't beat yourself up about it.
+
+465
+00:15:33,440 --> 00:15:36,460
+Avoid what Claire calls, the second mistake.
+
+466
+00:15:36,460 --> 00:15:39,440
+The secondary data point that causes a failure
+
+467
+00:15:39,440 --> 00:15:42,930
+to transform from an outlier, an anomaly
+
+468
+00:15:42,929 --> 00:15:46,839
+to something that indicates a trajectory towards failure.
+
+469
+00:15:46,840 --> 00:15:48,700
+If you can avoid making that second mistake,
+
+470
+00:15:48,700 --> 00:15:50,849
+if you can avoid starting that trajectory,
+
+471
+00:15:50,850 --> 00:15:53,359
+then a mistake is just that, it's a mistake.
+
+472
+00:15:53,360 --> 00:15:54,237
+It remains in the past,
+
+473
+00:15:54,236 --> 00:15:56,458
+and it doesn't really hurt you all that much.
+
+474
+00:15:56,460 --> 00:15:58,280
+So typically summarize this summary,
+
+475
+00:15:58,279 --> 00:15:59,879
+for whatever habit you're trying to build,
+
+476
+00:15:59,879 --> 00:16:01,379
+consider these four rules,
+
+477
+00:16:01,379 --> 00:16:02,359
+make it easy
+
+478
+00:16:02,360 --> 00:16:03,390
+make it obvious,
+
+479
+00:16:03,389 --> 00:16:04,598
+make it attractive
+
+480
+00:16:04,600 --> 00:16:06,180
+and make it satisfying.
+
+481
+00:16:06,179 --> 00:16:07,689
+Implement just one of these rules
+
+482
+00:16:07,690 --> 00:16:08,889
+into any habit you're building,
+
+483
+00:16:08,889 --> 00:16:10,669
+and I think you're gonna have a much easier time
+
+484
+00:16:10,669 --> 00:16:12,979
+sticking to it over the long term.
+
+485
+00:16:12,980 --> 00:16:14,350
+And if you think about these four rules
+
+486
+00:16:14,350 --> 00:16:15,380
+a little bit more broadly,
+
+487
+00:16:15,379 --> 00:16:16,949
+you can probably see that they actually apply
+
+488
+00:16:16,950 --> 00:16:18,920
+to more than just personal habit building.
+
+489
+00:16:18,919 --> 00:16:21,528
+And that they're used in a lot of the products and tools
+
+490
+00:16:21,529 --> 00:16:23,549
+that you use every single day.
+
+491
+00:16:23,549 --> 00:16:25,369
+For instance, if you're somebody who wants to get better
+
+492
+00:16:25,370 --> 00:16:27,669
+at math or science or computer science,
+
+493
+00:16:27,669 --> 00:16:30,419
+a tool like Brilliant, might be a lot more easy to use
+
+494
+00:16:30,419 --> 00:16:32,389
+on a day to day basis and to stick to,
+
+495
+00:16:32,389 --> 00:16:33,778
+because the people who build Brilliant
+
+496
+00:16:33,779 --> 00:16:36,339
+understand these habit building rules.
+
+497
+00:16:36,340 --> 00:16:38,480
+Which is why when you get into one of their courses,
+
+498
+00:16:38,480 --> 00:16:41,669
+instead of having a very long piece of text to read,
+
+499
+00:16:41,669 --> 00:16:42,979
+you're almost immediately thrown
+
+500
+00:16:42,980 --> 00:16:45,549
+into some sort of bite sized interactive problem
+
+501
+00:16:45,549 --> 00:16:47,319
+that gets you results right away.
+
+502
+00:16:47,320 --> 00:16:49,180
+And because you're getting active immediately,
+
+503
+00:16:49,179 --> 00:16:50,378
+and you're getting the satisfaction
+
+504
+00:16:50,379 --> 00:16:52,548
+of using the material to solve a problem,
+
+505
+00:16:52,549 --> 00:16:53,839
+like in the algorithms course,
+
+506
+00:16:53,840 --> 00:16:55,780
+where you learn to drag different blocks around
+
+507
+00:16:55,779 --> 00:16:58,218
+to make a correctly formatted algorithm,
+
+508
+00:16:58,220 --> 00:17:01,710
+you gain the satisfaction required to push through.
+
+509
+00:17:01,710 --> 00:17:03,919
+They're using that satisfaction principle right away.
+
+510
+00:17:03,919 --> 00:17:06,329
+They're using that attractive principle right away.
+
+511
+00:17:06,329 --> 00:17:07,728
+Of course, there are a lot of other reasons
+
+512
+00:17:07,730 --> 00:17:09,739
+to use Brilliant, besides these rules here.
+
+513
+00:17:09,740 --> 00:17:12,400
+For instance, they have more than 60 in depth courses
+
+514
+00:17:12,400 --> 00:17:14,880
+in their library, including a full math suite.
+
+515
+00:17:14,880 --> 00:17:16,630
+That starts from the basics of number theory,
+
+516
+00:17:16,630 --> 00:17:19,440
+and it goes all the way up to calculus and probability,
+
+517
+00:17:19,440 --> 00:17:21,390
+math for quantitative trading and finance,
+
+518
+00:17:21,390 --> 00:17:23,829
+along with science courses like gravitational physics,
+
+519
+00:17:23,829 --> 00:17:25,099
+and computer science courses
+
+520
+00:17:25,099 --> 00:17:26,799
+like their Python programming course
+
+521
+00:17:26,799 --> 00:17:29,638
+and the Algorithms course that I mentioned earlier.
+
+522
+00:17:29,640 --> 00:17:31,289
+And if you're one of the first 200 people
+
+523
+00:17:31,289 --> 00:17:33,969
+to go over to brilliant.org/ThomasFrank and sign up,
+
+524
+00:17:33,970 --> 00:17:36,119
+you're gonna get 20% off your annual
+
+525
+00:17:36,119 --> 00:17:37,479
+premium Brilliant subscription.
+
+526
+00:17:37,480 --> 00:17:39,030
+So check them out and as always,
+
+527
+00:17:39,029 --> 00:17:40,418
+thank you so much for watching.
+
+528
+00:17:40,420 --> 00:17:41,730
+Hopefully you found something helpful
+
+529
+00:17:41,730 --> 00:17:43,020
+and actionable in this video.
+
+530
+00:17:43,019 --> 00:17:45,798
+Again, I highly recommend reading this book in its entirety.
+
+531
+00:17:45,799 --> 00:17:47,569
+It is one of the better self development books
+
+532
+00:17:47,569 --> 00:17:48,402
+that I've read.
+
+533
+00:17:48,403 --> 00:17:50,700
+So, highly recommend this on link in description
+
+534
+00:17:50,700 --> 00:17:51,839
+down below.
+
+535
+00:17:51,839 --> 00:17:53,738
+And as always, if you did like this video
+
+536
+00:17:53,740 --> 00:17:55,520
+hitting that light bulb is a great way
+
+537
+00:17:55,519 --> 00:17:57,568
+to tell the YouTube algorithm to push this channel
+
+538
+00:17:57,569 --> 00:17:58,539
+out to more people.
+
+539
+00:17:58,539 --> 00:18:00,458
+So, thank you if you do that,
+
+540
+00:18:00,460 --> 00:18:01,570
+and if you haven't already hit
+
+541
+00:18:01,569 --> 00:18:03,039
+that subscribe button right there,
+
+542
+00:18:03,039 --> 00:18:04,909
+because next month I've got a couple of great videos
+
+543
+00:18:04,910 --> 00:18:07,410
+coming out specifically on some personal finance topics.
+
+544
+00:18:07,410 --> 00:18:08,300
+A lot of you've been asking me
+
+545
+00:18:08,299 --> 00:18:09,958
+about investing in credit cards.
+
+546
+00:18:09,960 --> 00:18:12,200
+So I'm working on videos for both of those topics.
+
+547
+00:18:12,200 --> 00:18:13,240
+So hit that subscribe button
+
+548
+00:18:13,240 --> 00:18:15,200
+and make sure you don't miss out on those.
+
+549
+00:18:15,200 --> 00:18:16,930
+Additionally, I'm gonna have a couple of more videos
+
+550
+00:18:16,930 --> 00:18:18,099
+in a playlist right here,
+
+551
+00:18:18,099 --> 00:18:20,469
+all about habits and self discipline, so check that out.
+
+552
+00:18:20,470 --> 00:18:22,099
+Or you can check out my music channel
+
+553
+00:18:22,099 --> 00:18:23,998
+if you are interested in the whole guitar segment,
+
+554
+00:18:24,000 --> 00:18:25,330
+I'll put a link right there.
+
+555
+00:18:25,329 --> 00:18:26,249
+And beyond that,
+
+556
+00:18:26,250 --> 00:18:27,510
+if you don't wanna do any of this,
+
+557
+00:18:27,509 --> 00:18:28,342
+then I don't know,
+
+558
+00:18:28,343 --> 00:18:29,859
+go skateboard in an empty pool or something,
+
+559
+00:18:29,859 --> 00:18:31,931
+because as always, I'm not your dad.
+

@@ -1,0 +1,1628 @@
+1
+00:00:00,160 --> 00:00:03,120
+thanks to hover for sponsoring this
+
+2
+00:00:01,520 --> 00:00:03,439
+video and supporting my channel
+
+3
+00:00:03,279 --> 00:00:06,959
+two weeks ago apple released the
+
+4
+00:00:04,960 --> 00:00:08,319
+long-awaited ios 14.
+
+5
+00:00:06,960 --> 00:00:10,080
+and while it's got lots of new bells and
+
+6
+00:00:08,320 --> 00:00:11,518
+whistles we could talk about today we're
+
+7
+00:00:10,080 --> 00:00:14,080
+going to explore what i think is
+
+8
+00:00:11,519 --> 00:00:14,719
+hands down the most useful productivity
+
+9
+00:00:14,080 --> 00:00:17,199
+feature
+
+10
+00:00:14,718 --> 00:00:18,238
+it has so ios 14 came out of beta just
+
+11
+00:00:17,199 --> 00:00:19,840
+about a week or two ago
+
+12
+00:00:18,239 --> 00:00:22,399
+and i think most people would say the
+
+13
+00:00:19,839 --> 00:00:23,919
+most exciting feature in ios 14 is the
+
+14
+00:00:22,399 --> 00:00:25,597
+ability to put widgets
+
+15
+00:00:23,920 --> 00:00:27,198
+on your home screen and to customize
+
+16
+00:00:25,599 --> 00:00:28,880
+them i know my android user friends have
+
+17
+00:00:27,199 --> 00:00:30,079
+had this ability for years and i'm sure
+
+18
+00:00:28,879 --> 00:00:31,999
+there's going to be some in the comments
+
+19
+00:00:30,079 --> 00:00:33,599
+rubbing my nose in it but personally
+
+20
+00:00:32,000 --> 00:00:36,238
+as somebody who's been using an iphone
+
+21
+00:00:33,600 --> 00:00:37,840
+since i think 2011 or 2012
+
+22
+00:00:36,238 --> 00:00:39,919
+this has been something that i have been
+
+23
+00:00:37,840 --> 00:00:42,718
+wanting for a really really long time
+
+24
+00:00:39,920 --> 00:00:44,078
+but as cool as this feature is as a
+
+25
+00:00:42,719 --> 00:00:45,759
+whole it wasn't really exciting enough
+
+26
+00:00:44,079 --> 00:00:48,960
+for me to make a full video on it
+
+27
+00:00:45,759 --> 00:00:49,598
+until i found out about the shortcuts
+
+28
+00:00:48,960 --> 00:00:51,759
+widget
+
+29
+00:00:49,600 --> 00:00:53,199
+so shortcuts is an app that apple bought
+
+30
+00:00:51,759 --> 00:00:55,198
+from a third-party developer a few years
+
+31
+00:00:53,198 --> 00:00:56,959
+ago and integrated into ios and it
+
+32
+00:00:55,198 --> 00:00:58,077
+essentially lets you create custom
+
+33
+00:00:56,960 --> 00:01:00,079
+shortcuts to do
+
+34
+00:00:58,079 --> 00:01:01,358
+a whole ton of different things and
+
+35
+00:01:00,079 --> 00:01:02,800
+personally i'd never really played
+
+36
+00:01:01,359 --> 00:01:03,600
+around with the shortcuts app very much
+
+37
+00:01:02,799 --> 00:01:05,678
+until i saw
+
+38
+00:01:03,600 --> 00:01:07,359
+in that list of widget options but after
+
+39
+00:01:05,680 --> 00:01:08,959
+playing with it over the weekend after
+
+40
+00:01:07,359 --> 00:01:10,638
+learning what it could do after learning
+
+41
+00:01:08,959 --> 00:01:12,318
+that i can actually create scripts and
+
+42
+00:01:10,640 --> 00:01:13,999
+do lots of really cool custom stuff
+
+43
+00:01:12,319 --> 00:01:15,039
+i started getting that same mental rush
+
+44
+00:01:14,000 --> 00:01:17,040
+that i get when i pull off a
+
+45
+00:01:15,040 --> 00:01:17,758
+particularly complex magic the gathering
+
+46
+00:01:17,040 --> 00:01:20,479
+combo
+
+47
+00:01:17,759 --> 00:01:21,360
+i live for stuff like that and for stuff
+
+48
+00:01:20,478 --> 00:01:22,797
+like this so
+
+49
+00:01:21,359 --> 00:01:24,478
+this is the home screen setup that i'm
+
+50
+00:01:22,799 --> 00:01:27,680
+rocking right now like i said i've got
+
+51
+00:01:24,478 --> 00:01:28,559
+my screen time widget and my exercise
+
+52
+00:01:27,680 --> 00:01:30,400
+widget right here
+
+53
+00:01:28,560 --> 00:01:32,399
+but the real cool stuff lives here in
+
+54
+00:01:30,400 --> 00:01:34,078
+the shortcuts widget on the home page
+
+55
+00:01:32,400 --> 00:01:35,520
+so first i've got a button for notion
+
+56
+00:01:34,078 --> 00:01:37,038
+and this was actually my
+
+57
+00:01:35,519 --> 00:01:38,559
+inspiration for making this because
+
+58
+00:01:37,040 --> 00:01:39,520
+notion doesn't currently have a widget
+
+59
+00:01:38,560 --> 00:01:41,439
+which i would love
+
+60
+00:01:39,519 --> 00:01:42,719
+to see them make but for now i can click
+
+61
+00:01:41,438 --> 00:01:44,639
+this button and i have several different
+
+62
+00:01:42,719 --> 00:01:46,158
+choices i can go to my inbox which i
+
+63
+00:01:44,640 --> 00:01:46,720
+talked about in my notion note taking
+
+64
+00:01:46,159 --> 00:01:48,320
+video
+
+65
+00:01:46,719 --> 00:01:50,239
+this is my quick capture area where i
+
+66
+00:01:48,319 --> 00:01:50,718
+can easily create a new note very very
+
+67
+00:01:50,239 --> 00:01:53,998
+quickly
+
+68
+00:01:50,719 --> 00:01:55,679
+or i can go to the full notebook area if
+
+69
+00:01:54,000 --> 00:01:57,040
+i want to get into a specific notebook
+
+70
+00:01:55,680 --> 00:02:00,239
+like content or music
+
+71
+00:01:57,040 --> 00:02:02,559
+or i can go to my workspace here
+
+72
+00:02:00,239 --> 00:02:04,319
+so this is a custom workspace for myself
+
+73
+00:02:02,560 --> 00:02:04,798
+that i've been developing i can go down
+
+74
+00:02:04,319 --> 00:02:06,477
+here
+
+75
+00:02:04,799 --> 00:02:08,640
+and i can see all the different projects
+
+76
+00:02:06,478 --> 00:02:10,397
+i have in progress across my business
+
+77
+00:02:08,639 --> 00:02:11,679
+all the videos i'm working on the
+
+78
+00:02:10,399 --> 00:02:13,680
+newsletters i need to write i can go
+
+79
+00:02:11,680 --> 00:02:15,840
+down here and see my editorial calendar
+
+80
+00:02:13,680 --> 00:02:17,519
+and i'm actually working on a course all
+
+81
+00:02:15,840 --> 00:02:19,040
+about how teams and creators can use
+
+82
+00:02:17,520 --> 00:02:20,640
+notions so if you are interested in
+
+83
+00:02:19,039 --> 00:02:21,999
+getting updates about that and maybe
+
+84
+00:02:20,639 --> 00:02:23,518
+even getting into a beta version
+
+85
+00:02:22,000 --> 00:02:24,720
+that'll go live before the full price
+
+86
+00:02:23,520 --> 00:02:25,919
+version i'll have a link in the
+
+87
+00:02:24,719 --> 00:02:28,078
+description down below where you can
+
+88
+00:02:25,919 --> 00:02:30,957
+sign up for an email list to get updates
+
+89
+00:02:28,080 --> 00:02:32,560
+but secondly we have a spotify playlist
+
+90
+00:02:30,959 --> 00:02:34,080
+thing so often when i go to the gym i
+
+91
+00:02:32,560 --> 00:02:34,720
+want to easily launch my workout
+
+92
+00:02:34,080 --> 00:02:36,560
+playlist
+
+93
+00:02:34,719 --> 00:02:38,318
+i can do that from here and it'll
+
+94
+00:02:36,560 --> 00:02:39,999
+instantly launch it which is pretty cool
+
+95
+00:02:38,318 --> 00:02:41,119
+i've got a slack dm button here so i've
+
+96
+00:02:40,000 --> 00:02:42,959
+got several people across
+
+97
+00:02:41,120 --> 00:02:45,120
+different slack workspaces who i dm on a
+
+98
+00:02:42,959 --> 00:02:46,878
+daily basis and it's kind of a pain to
+
+99
+00:02:45,120 --> 00:02:49,440
+switch workspaces in the slack app
+
+100
+00:02:46,878 --> 00:02:50,317
+so using deep slack url linking i can
+
+101
+00:02:49,439 --> 00:02:53,198
+open up say
+
+102
+00:02:50,318 --> 00:02:55,518
+a dm with tony basically instantly
+
+103
+00:02:53,199 --> 00:02:57,359
+lastly i've got record now which just
+
+104
+00:02:55,519 --> 00:03:00,640
+opens up the voice recorder app
+
+105
+00:02:57,360 --> 00:03:01,760
+and starts recording immediately
+
+106
+00:03:00,639 --> 00:03:03,518
+so what i want to do for the rest of
+
+107
+00:03:01,759 --> 00:03:04,799
+this video is show you how to set this
+
+108
+00:03:03,519 --> 00:03:06,720
+up and hopefully this is going to serve
+
+109
+00:03:04,800 --> 00:03:08,559
+as both the tutorial for the shortcuts
+
+110
+00:03:06,719 --> 00:03:09,038
+app and also how to set up widgets in
+
+111
+00:03:08,560 --> 00:03:10,640
+general
+
+112
+00:03:09,039 --> 00:03:12,798
+so to start this out let's get a widget
+
+113
+00:03:10,639 --> 00:03:13,679
+onto the home screen you can hold down
+
+114
+00:03:12,800 --> 00:03:15,280
+here
+
+115
+00:03:13,680 --> 00:03:16,640
+until you get this whole edit interface
+
+116
+00:03:15,280 --> 00:03:18,559
+here and i'm just going to swipe over to
+
+117
+00:03:16,639 --> 00:03:20,317
+a brand new home screen hit this plus
+
+118
+00:03:18,560 --> 00:03:22,399
+button and start searching for widgets
+
+119
+00:03:20,318 --> 00:03:23,919
+you got a ton of different choices here
+
+120
+00:03:22,400 --> 00:03:24,959
+but the shortcuts one is going to be
+
+121
+00:03:23,919 --> 00:03:26,639
+near the bottom
+
+122
+00:03:24,959 --> 00:03:27,999
+so we'll grab that and i'm just going to
+
+123
+00:03:26,639 --> 00:03:30,398
+go with one of these
+
+124
+00:03:28,000 --> 00:03:31,839
+four grid boxes here you can do a really
+
+125
+00:03:30,400 --> 00:03:32,319
+big one if you want you can do a single
+
+126
+00:03:31,840 --> 00:03:34,239
+one
+
+127
+00:03:32,318 --> 00:03:35,439
+i like this one so we'll go with that
+
+128
+00:03:34,239 --> 00:03:36,799
+and right now it's just going to show
+
+129
+00:03:35,439 --> 00:03:38,798
+the top four shortcuts
+
+130
+00:03:36,799 --> 00:03:40,238
+in my entire shortcuts app so what we
+
+131
+00:03:38,799 --> 00:03:41,920
+really want to do is create a custom
+
+132
+00:03:40,239 --> 00:03:43,279
+folder where we can choose which
+
+133
+00:03:41,919 --> 00:03:45,278
+shortcuts are shown
+
+134
+00:03:43,280 --> 00:03:47,039
+in this widget so to do that first we're
+
+135
+00:03:45,280 --> 00:03:49,598
+gonna go to the shortcuts app itself
+
+136
+00:03:47,039 --> 00:03:50,719
+and create a folder back here i'll just
+
+137
+00:03:49,598 --> 00:03:52,957
+create one called
+
+138
+00:03:50,719 --> 00:03:54,478
+demo for this purpose and as soon as i
+
+139
+00:03:52,959 --> 00:03:56,399
+add it i can come back to this widget
+
+140
+00:03:54,479 --> 00:03:59,118
+we've created i can hold it for a second
+
+141
+00:03:56,400 --> 00:04:00,080
+hit edit widget and then choose this
+
+142
+00:03:59,120 --> 00:04:01,760
+demo folder
+
+143
+00:04:00,080 --> 00:04:02,959
+so right now it is going to be empty
+
+144
+00:04:01,759 --> 00:04:03,999
+which means that we need to start
+
+145
+00:04:02,959 --> 00:04:05,680
+populating it with
+
+146
+00:04:04,000 --> 00:04:07,200
+shortcuts so let's go back to that
+
+147
+00:04:05,680 --> 00:04:09,280
+shortcuts app and
+
+148
+00:04:07,199 --> 00:04:10,399
+i'm going to create a very very simple
+
+149
+00:04:09,280 --> 00:04:12,480
+one to start us
+
+150
+00:04:10,400 --> 00:04:14,239
+out let's do that that voice memos one
+
+151
+00:04:12,479 --> 00:04:16,318
+since it's kind of a built-in feature
+
+152
+00:04:14,239 --> 00:04:18,639
+so if you hit plus here we can hit add
+
+153
+00:04:16,319 --> 00:04:20,238
+an action and you got a whole
+
+154
+00:04:18,639 --> 00:04:21,918
+bunch of different choices here you can
+
+155
+00:04:20,238 --> 00:04:23,519
+call people you can text people
+
+156
+00:04:21,918 --> 00:04:24,958
+you can get into scripting right now
+
+157
+00:04:23,519 --> 00:04:27,999
+let's just go to apps
+
+158
+00:04:24,959 --> 00:04:29,039
+and find that voice memos app right here
+
+159
+00:04:28,000 --> 00:04:30,879
+you got a couple of different choices
+
+160
+00:04:29,040 --> 00:04:31,758
+listen to my most recent one or record a
+
+161
+00:04:30,879 --> 00:04:33,039
+new voice memo
+
+162
+00:04:31,759 --> 00:04:35,279
+this is the one we want to pick for
+
+163
+00:04:33,040 --> 00:04:38,559
+quick capture i don't want a
+
+164
+00:04:35,279 --> 00:04:40,158
+show when run confirmation here and then
+
+165
+00:04:38,560 --> 00:04:42,160
+i want to give it a name so let's just
+
+166
+00:04:40,160 --> 00:04:44,160
+call it uh record
+
+167
+00:04:42,160 --> 00:04:45,439
+we can come in here and i'll just choose
+
+168
+00:04:44,160 --> 00:04:48,639
+a i don't know this
+
+169
+00:04:45,439 --> 00:04:50,238
+baby wearing a bow because why not
+
+170
+00:04:48,639 --> 00:04:52,400
+uh oh and one thing i do want to mention
+
+171
+00:04:50,240 --> 00:04:54,079
+here so i talked about this whole
+
+172
+00:04:52,399 --> 00:04:55,359
+shortcuts process on my twitter in fact
+
+173
+00:04:54,079 --> 00:04:57,039
+if you want to follow me over at
+
+174
+00:04:55,360 --> 00:04:58,880
+tomfrankly you might be able to see
+
+175
+00:04:57,040 --> 00:05:00,399
+stuff like this before it gets on this
+
+176
+00:04:58,879 --> 00:05:01,599
+youtube channel which takes a lot more
+
+177
+00:05:00,399 --> 00:05:03,439
+production time
+
+178
+00:05:01,600 --> 00:05:04,879
+but if you add this to your home screen
+
+179
+00:05:03,439 --> 00:05:06,399
+now let's go ahead and do it right now
+
+180
+00:05:04,879 --> 00:05:07,359
+we'll call it new shortcut i don't
+
+181
+00:05:06,399 --> 00:05:08,239
+really care what i call it because i
+
+182
+00:05:07,360 --> 00:05:09,600
+don't really want it
+
+183
+00:05:08,240 --> 00:05:11,759
+i'm going to add it to my home screen
+
+184
+00:05:09,600 --> 00:05:15,279
+and then i'll hit done as well
+
+185
+00:05:11,759 --> 00:05:17,520
+so now it exists in our widget here
+
+186
+00:05:15,279 --> 00:05:19,679
+and if i tap it it's going to
+
+187
+00:05:17,519 --> 00:05:20,958
+immediately start recording my voice
+
+188
+00:05:19,680 --> 00:05:23,280
+which is great that's that's the
+
+189
+00:05:20,959 --> 00:05:26,079
+behavior we want if we use
+
+190
+00:05:23,279 --> 00:05:27,918
+the little home screen shortcut here it
+
+191
+00:05:26,079 --> 00:05:29,438
+works but when i tap it it's going to
+
+192
+00:05:27,918 --> 00:05:31,918
+pass through the shortcuts app
+
+193
+00:05:29,439 --> 00:05:33,519
+first which is just kind of annoying i
+
+194
+00:05:31,918 --> 00:05:34,878
+know it's not really that big of a deal
+
+195
+00:05:33,519 --> 00:05:35,918
+you get into it and starts recording
+
+196
+00:05:34,879 --> 00:05:37,999
+immediately but
+
+197
+00:05:35,918 --> 00:05:39,599
+it's just sort of inelegant so if
+
+198
+00:05:38,000 --> 00:05:40,319
+anybody at the apple design team is
+
+199
+00:05:39,600 --> 00:05:42,240
+watching this
+
+200
+00:05:40,319 --> 00:05:44,637
+i would love for this add to home screen
+
+201
+00:05:42,240 --> 00:05:46,720
+feature to function just like the widget
+
+202
+00:05:44,639 --> 00:05:48,079
+just do a no app passthrough just go
+
+203
+00:05:46,720 --> 00:05:49,599
+right to the app that we want
+
+204
+00:05:48,079 --> 00:05:51,358
+so this one was easy let's create
+
+205
+00:05:49,600 --> 00:05:54,800
+something a bit more complicated
+
+206
+00:05:51,360 --> 00:05:55,520
+how about opening a notion page like my
+
+207
+00:05:54,800 --> 00:05:57,759
+inbox
+
+208
+00:05:55,519 --> 00:05:59,519
+right here the cool thing about notion
+
+209
+00:05:57,759 --> 00:06:02,400
+is you can grab the link to basically
+
+210
+00:05:59,519 --> 00:06:03,918
+any page that you want so if we go here
+
+211
+00:06:02,399 --> 00:06:05,758
+to the three dot menu which you can also
+
+212
+00:06:03,918 --> 00:06:06,958
+do on the desktop and hit copy link
+
+213
+00:06:05,759 --> 00:06:07,759
+that's going to copy the link to your
+
+214
+00:06:06,959 --> 00:06:09,757
+clipboard
+
+215
+00:06:07,759 --> 00:06:12,079
+and if we head back to shortcuts what we
+
+216
+00:06:09,759 --> 00:06:14,959
+can do is create a shortcut
+
+217
+00:06:12,079 --> 00:06:15,599
+adding an action in the web category
+
+218
+00:06:14,959 --> 00:06:18,838
+called
+
+219
+00:06:15,600 --> 00:06:19,1000
+open urls and if we paste that url right
+
+220
+00:06:18,839 --> 00:06:22,399
+here
+
+221
+00:06:20,000 --> 00:06:23,520
+it's going to open this page and we're
+
+222
+00:06:22,399 --> 00:06:26,958
+just going to call that
+
+223
+00:06:23,519 --> 00:06:28,637
+inbox again i will give it a glyph
+
+224
+00:06:26,959 --> 00:06:30,318
+this one will be a play button i don't
+
+225
+00:06:28,639 --> 00:06:33,119
+know why we'll let it be read
+
+226
+00:06:30,319 --> 00:06:35,120
+and now it's going to be in our demo
+
+227
+00:06:33,120 --> 00:06:36,800
+widget here so if i click this
+
+228
+00:06:35,120 --> 00:06:38,479
+and there's our inbox and this process
+
+229
+00:06:36,800 --> 00:06:40,159
+is not unique to notion if you have an
+
+230
+00:06:38,478 --> 00:06:42,079
+app that lets you copy a url and that
+
+231
+00:06:40,160 --> 00:06:43,840
+will launch the app using that url you
+
+232
+00:06:42,079 --> 00:06:45,279
+can build a shortcut for it so let's go
+
+233
+00:06:43,839 --> 00:06:45,839
+ahead and do it with a spotify playlist
+
+234
+00:06:45,279 --> 00:06:47,519
+real quick
+
+235
+00:06:45,839 --> 00:06:48,799
+i've got my workout playlist here maybe
+
+236
+00:06:47,519 --> 00:06:50,638
+i want to link to something different
+
+237
+00:06:48,800 --> 00:06:52,960
+maybe i want to link to
+
+238
+00:06:50,639 --> 00:06:53,759
+my sunday study playlist so let's find
+
+239
+00:06:52,959 --> 00:06:56,718
+that
+
+240
+00:06:53,759 --> 00:06:57,679
+here it is copy the link to it which is
+
+241
+00:06:56,720 --> 00:07:00,960
+just going to be done through
+
+242
+00:06:57,680 --> 00:07:03,199
+share and copy link and we can go right
+
+243
+00:07:00,959 --> 00:07:07,678
+back to shortcuts
+
+244
+00:07:03,199 --> 00:07:11,519
+go like that go to web go to open urls
+
+245
+00:07:07,680 --> 00:07:14,638
+paste that url in boom
+
+246
+00:07:11,519 --> 00:07:16,719
+hit done hit done and
+
+247
+00:07:14,639 --> 00:07:17,679
+boom now we have a launcher for our
+
+248
+00:07:16,720 --> 00:07:19,440
+study playlist
+
+249
+00:07:17,680 --> 00:07:20,880
+but of course what i showed you at the
+
+250
+00:07:19,439 --> 00:07:22,318
+beginning of this video is a little bit
+
+251
+00:07:20,879 --> 00:07:23,197
+more complicated than what we've just
+
+252
+00:07:22,319 --> 00:07:25,680
+built because
+
+253
+00:07:23,199 --> 00:07:26,239
+on my true widget over here when i tap
+
+254
+00:07:25,680 --> 00:07:28,400
+these
+
+255
+00:07:26,240 --> 00:07:29,519
+i get a menu so i can choose several
+
+256
+00:07:28,399 --> 00:07:30,718
+different places to go
+
+257
+00:07:29,519 --> 00:07:32,559
+so now i want to show you how to
+
+258
+00:07:30,720 --> 00:07:34,319
+construct that and to do it
+
+259
+00:07:32,560 --> 00:07:35,599
+we're going to get a little bit into the
+
+260
+00:07:34,319 --> 00:07:37,1000
+scripting side of
+
+261
+00:07:35,598 --> 00:07:39,359
+shortcuts now this can get really really
+
+262
+00:07:38,000 --> 00:07:41,839
+complicated to the point
+
+263
+00:07:39,360 --> 00:07:42,400
+where people used to share shortcuts
+
+264
+00:07:41,839 --> 00:07:44,399
+that would be
+
+265
+00:07:42,399 --> 00:07:45,999
+full of like actual malware and apple
+
+266
+00:07:44,399 --> 00:07:47,278
+had to clamp down and people sharing
+
+267
+00:07:46,000 --> 00:07:49,120
+shortcuts and you actually have to go
+
+268
+00:07:47,279 --> 00:07:50,477
+into your settings and disable that
+
+269
+00:07:49,120 --> 00:07:52,080
+protection if you want to download
+
+270
+00:07:50,478 --> 00:07:53,839
+shortcuts from other people
+
+271
+00:07:52,079 --> 00:07:55,838
+we are not going to get that crazy here
+
+272
+00:07:53,839 --> 00:07:58,638
+we're just going to use a simple menu
+
+273
+00:07:55,839 --> 00:07:59,037
+to give you some choices so let's take
+
+274
+00:07:58,639 --> 00:08:01,280
+this
+
+275
+00:07:59,038 --> 00:08:02,638
+uh inbox one right here which i realize
+
+276
+00:08:01,279 --> 00:08:05,198
+i just misspelled
+
+277
+00:08:02,639 --> 00:08:07,039
+and we'll open the details of it and
+
+278
+00:08:05,199 --> 00:08:09,119
+instead of just doing this
+
+279
+00:08:07,038 --> 00:08:10,159
+we'll go ahead and cancel that out and
+
+280
+00:08:09,120 --> 00:08:12,479
+add an action
+
+281
+00:08:10,160 --> 00:08:14,318
+from the scripting menu so you've got a
+
+282
+00:08:12,478 --> 00:08:16,317
+ton of different options here as you can
+
+283
+00:08:14,319 --> 00:08:18,080
+see you've got if and repeat and all
+
+284
+00:08:16,319 --> 00:08:19,758
+kinds of weird programming stuff
+
+285
+00:08:18,079 --> 00:08:21,518
+but the first one is what we're after
+
+286
+00:08:19,759 --> 00:08:22,479
+choose from menu this is just going to
+
+287
+00:08:21,519 --> 00:08:24,719
+give you a menu
+
+288
+00:08:22,478 --> 00:08:26,559
+like you saw in my example and since
+
+289
+00:08:24,720 --> 00:08:27,519
+we're creating a notion launcher let's
+
+290
+00:08:26,560 --> 00:08:31,359
+go ahead and make
+
+291
+00:08:27,519 --> 00:08:32,158
+one for inbox and one for notes
+
+292
+00:08:31,360 --> 00:08:33,679
+so that's going to give you two
+
+293
+00:08:32,158 --> 00:08:35,917
+different choices here and now you've
+
+294
+00:08:33,679 --> 00:08:36,319
+got inbox and notes as little blocks
+
+295
+00:08:35,918 --> 00:08:38,478
+here
+
+296
+00:08:36,320 --> 00:08:41,119
+if you hit the plus button you can then
+
+297
+00:08:38,479 --> 00:08:44,398
+go to our trusty little web category
+
+298
+00:08:41,120 --> 00:08:44,800
+and hit open urls and then by dragging
+
+299
+00:08:44,399 --> 00:08:46,959
+it
+
+300
+00:08:44,799 --> 00:08:48,558
+you can nest it underneath each of these
+
+301
+00:08:46,958 --> 00:08:49,438
+choices so we're going to get two of
+
+302
+00:08:48,559 --> 00:08:51,438
+these blocks
+
+303
+00:08:49,440 --> 00:08:53,199
+nest them like that and then just go and
+
+304
+00:08:51,440 --> 00:08:55,279
+grab our urls like we did before
+
+305
+00:08:53,200 --> 00:08:57,518
+first we'll do inbox and we'll copy that
+
+306
+00:08:55,278 --> 00:08:59,999
+link
+
+307
+00:08:57,519 --> 00:09:01,120
+and then we'll go over to our general
+
+308
+00:09:00,000 --> 00:09:03,359
+notes home
+
+309
+00:09:01,120 --> 00:09:04,320
+and copy that link as well so now just
+
+310
+00:09:03,360 --> 00:09:06,480
+to review
+
+311
+00:09:04,320 --> 00:09:08,560
+we've got a scripting tool that opens a
+
+312
+00:09:06,480 --> 00:09:10,480
+menu giving us the choice of inbox or
+
+313
+00:09:08,559 --> 00:09:11,837
+notes i can add more items if i wanted
+
+314
+00:09:10,480 --> 00:09:14,880
+to i can move these around
+
+315
+00:09:11,839 --> 00:09:17,440
+if i want to and then i've got a block
+
+316
+00:09:14,879 --> 00:09:17,999
+that will open a url based on the choice
+
+317
+00:09:17,440 --> 00:09:19,839
+i make
+
+318
+00:09:18,000 --> 00:09:21,439
+so each one has its own unique url we'll
+
+319
+00:09:19,839 --> 00:09:23,040
+hit done there and i'll leave it
+
+320
+00:09:21,440 --> 00:09:24,959
+misspelled because i don't care
+
+321
+00:09:23,039 --> 00:09:26,798
+now if we go over to our launcher if i
+
+322
+00:09:24,958 --> 00:09:29,358
+hit this i'm going to have those choices
+
+323
+00:09:26,799 --> 00:09:29,999
+hitting notes will open up my notebook
+
+324
+00:09:29,360 --> 00:09:32,159
+and
+
+325
+00:09:30,000 --> 00:09:33,120
+hitting inbox will open up my trusty
+
+326
+00:09:32,159 --> 00:09:35,438
+handy dandy
+
+327
+00:09:33,120 --> 00:09:37,120
+inbox now one final tip i want to share
+
+328
+00:09:35,440 --> 00:09:38,799
+with you here is that you don't actually
+
+329
+00:09:37,120 --> 00:09:39,439
+need to have all the shortcuts you want
+
+330
+00:09:38,799 --> 00:09:41,517
+to use
+
+331
+00:09:39,440 --> 00:09:42,879
+in a shortcut widget because you can say
+
+332
+00:09:41,519 --> 00:09:46,320
+the name of the shortcut
+
+333
+00:09:42,879 --> 00:09:48,798
+to siri like so dm tony
+
+334
+00:09:46,320 --> 00:09:49,1000
+and boom there is my dm with tony so you
+
+335
+00:09:48,799 --> 00:09:51,439
+can use this trick to easily
+
+336
+00:09:50,000 --> 00:09:53,120
+launch shortcuts that don't even exist
+
+337
+00:09:51,440 --> 00:09:54,239
+in this widget just make sure that you
+
+338
+00:09:53,120 --> 00:09:55,039
+name them something that's easy to
+
+339
+00:09:54,240 --> 00:09:57,200
+remember and
+
+340
+00:09:55,039 --> 00:09:58,798
+easy to say and speaking of things that
+
+341
+00:09:57,200 --> 00:10:00,479
+are easy to say if you want an article
+
+342
+00:09:58,799 --> 00:10:01,678
+version of this video with some
+
+343
+00:10:00,480 --> 00:10:02,799
+references for the shortcuts that we
+
+344
+00:10:01,679 --> 00:10:04,719
+just built you can go over to
+
+345
+00:10:02,799 --> 00:10:06,319
+thomasjfrank thomasjfrank.com
+
+346
+00:10:04,720 --> 00:10:08,079
+shortcuts which should hopefully be easy
+
+347
+00:10:06,320 --> 00:10:09,679
+to remember not least of which because i
+
+348
+00:10:08,078 --> 00:10:12,238
+have a fairly easy to remember
+
+349
+00:10:09,679 --> 00:10:13,759
+domain name for my personal website and
+
+350
+00:10:12,240 --> 00:10:14,880
+not only does that make the reference
+
+351
+00:10:13,759 --> 00:10:16,638
+easy for you to get to
+
+352
+00:10:14,879 --> 00:10:17,999
+but ever since i built this website back
+
+353
+00:10:16,639 --> 00:10:19,998
+in college it's made it easy for
+
+354
+00:10:18,000 --> 00:10:21,120
+job recruiters and other people to find
+
+355
+00:10:20,000 --> 00:10:23,600
+my portfolio
+
+356
+00:10:21,120 --> 00:10:25,120
+and to contact me which is why if you
+
+357
+00:10:23,600 --> 00:10:26,800
+don't currently have your own domain
+
+358
+00:10:25,120 --> 00:10:28,640
+name for your portfolio website
+
+359
+00:10:26,799 --> 00:10:30,319
+you should go over to hover and get it
+
+360
+00:10:28,639 --> 00:10:31,679
+for yourself however has hundreds of
+
+361
+00:10:30,320 --> 00:10:34,078
+different extensions to choose from
+
+362
+00:10:31,679 --> 00:10:35,759
+ranging from your.coms and mes which are
+
+363
+00:10:34,078 --> 00:10:37,679
+great for portfolio websites but they
+
+364
+00:10:35,759 --> 00:10:40,398
+also have lots of more fun ones like
+
+365
+00:10:37,679 --> 00:10:42,159
+lol or even dot blog and once you have
+
+366
+00:10:40,399 --> 00:10:43,600
+your domain name they also have a couple
+
+367
+00:10:42,159 --> 00:10:45,438
+of really cool features that can help
+
+368
+00:10:43,600 --> 00:10:47,120
+make that domain even more useful
+
+369
+00:10:45,440 --> 00:10:48,560
+number one they've got an email feature
+
+370
+00:10:47,120 --> 00:10:50,320
+so you can create a very professional
+
+371
+00:10:48,559 --> 00:10:52,398
+looking email address for yourself like
+
+372
+00:10:50,320 --> 00:10:54,239
+thomas at collegeinfogeek.com a little
+
+373
+00:10:52,399 --> 00:10:55,200
+bit more professional than a gmail or a
+
+374
+00:10:54,240 --> 00:10:56,880
+yahoo or a
+
+375
+00:10:55,200 --> 00:10:58,320
+hotmail and they also have a connect
+
+376
+00:10:56,879 --> 00:11:00,318
+feature which lets you easily hook your
+
+377
+00:10:58,320 --> 00:11:01,599
+domain up to website builders and even
+
+378
+00:11:00,320 --> 00:11:03,1000
+online store builders
+
+379
+00:11:01,600 --> 00:11:05,1000
+so once again if you want to get 10 off
+
+380
+00:11:04,000 --> 00:11:07,600
+of your domain name purchase and
+
+381
+00:11:06,000 --> 00:11:09,120
+make sure that you get your domain name
+
+382
+00:11:07,600 --> 00:11:10,560
+before somebody else takes it
+
+383
+00:11:09,120 --> 00:11:12,720
+and steals the rug right out from under
+
+384
+00:11:10,559 --> 00:11:15,438
+your feet go over to hover.com
+
+385
+00:11:12,720 --> 00:11:16,880
+thomasfrank and grab that domain also if
+
+386
+00:11:15,440 --> 00:11:18,078
+you enjoyed the video hitting that like
+
+387
+00:11:16,879 --> 00:11:20,077
+button is a great way to tell the
+
+388
+00:11:18,078 --> 00:11:21,598
+youtube algorithm that this video isn't
+
+389
+00:11:20,078 --> 00:11:23,038
+complete and utter garbage and maybe it
+
+390
+00:11:21,600 --> 00:11:25,920
+should show it to somebody else
+
+391
+00:11:23,039 --> 00:11:27,119
+once in a while wouldn't that be cool
+
+392
+00:11:25,919 --> 00:11:28,639
+you can subscribe right there if you
+
+393
+00:11:27,120 --> 00:11:30,079
+haven't done so already definitely hit
+
+394
+00:11:28,639 --> 00:11:31,679
+that subscribe button so you don't miss
+
+395
+00:11:30,078 --> 00:11:32,957
+future videos we have coming out
+
+396
+00:11:31,679 --> 00:11:35,038
+last but not least i'm gonna have a
+
+397
+00:11:32,958 --> 00:11:36,878
+playlist of other videos here on tech
+
+398
+00:11:35,039 --> 00:11:38,239
+videos i've done so if you want to learn
+
+399
+00:11:36,879 --> 00:11:39,599
+how to set up your home screen
+
+400
+00:11:38,240 --> 00:11:41,279
+or make your phone a little bit less
+
+401
+00:11:39,600 --> 00:11:42,959
+distracting check those out
+
+402
+00:11:41,278 --> 00:11:44,398
+or check out my music channel right here
+
+403
+00:11:42,958 --> 00:11:46,719
+or don't do any of this
+
+404
+00:11:44,399 --> 00:11:47,439
+and go buy a cooler llama statue than i
+
+405
+00:11:46,720 --> 00:11:48,958
+have right here
+
+406
+00:11:47,440 --> 00:11:51,999
+because as always i can't tell you what
+
+407
+00:11:48,958 --> 00:11:51,998
+to do i'm not your dad
+
