@@ -1,0 +1,11 @@
+[book]
+title = "把效率变成系统：学习、专注与习惯的12周实操指南"
+author = "基于 Thomas Frank 的内容整理"
+description = "面向学生与知识工作者的实用型效率与学习方法书。把学习、工作、健康、数字生活整合成一个可持续的系统。"
+language = "zh"
+
+[build]
+build-dir = "docs"
+
+[output.html]
+smart-punctuation = true
